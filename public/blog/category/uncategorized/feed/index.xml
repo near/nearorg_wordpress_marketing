@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized Archives &#8211; NEAR Protocol</title>
+	<atom:link href="/blog/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/category/uncategorized/</link>
+	<description></description>
+	<lastBuildDate>Thu, 20 Jul 2023 15:12:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<title>Uncategorized Archives &#8211; NEAR Protocol</title>
+	<link>/blog/category/uncategorized/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</title>
+		<link>/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 20 Jul 2023 17:00:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[ETHCC]]></category>
+		<category><![CDATA[Partnerships]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<guid isPermaLink="false">/?p=20742</guid>
+
+					<description><![CDATA[<p>Missed out on NEAR’s rendezvous at ETHCC 2023 in Paris? No need to worry. In this roundup, all NEAR enthusiasts …</p>
+<p>The post <a href="/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/">NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Missed out on NEAR’s rendezvous at ETHCC 2023 in Paris? No need to worry. In this roundup, all NEAR enthusiasts can catch up on the enlightening presentations by BOS, Web3, and blockchain experts. You’re in the perfect place to delve into notable announcements made during the conference, from <a href="/blog/near-foundation-signs-up-to-the-ethereum-climate-platform/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">NEAR signing up to the Ethereum Climate Platform</a> to an epic new <a href="/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">interactive Polygon zkEVM app dashboard</a>.</p>
+
+
+
+<p>ICYMI, it’s time to dive into all the key speeches, events, and announcements that unfolded in the City of Lights over this past weekend.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-interactive-polygon-zkevm-app-dashboard-launches-on-the-bos">Interactive Polygon zkEVM app dashboard launches on the BOS</h2>
+
+
+
+<p>In the most significant partnership announcement of ETHCC, an <a href="/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">interactive Polygon zkEVM app dashboard</a> has launched on the Blockchain Operating System (BOS). This integration will not only increase accessibility and discoverability for zkEVM developers and users on the open web but also vastly improve user experience. </p>
+
+
+
+<p>The collaboration is set to accelerate the creation of dApps that will onboard billions of users into the open web. The new <a href="https://bos.quickswap.exchange/">Polygon zkEVM dashboard </a>now combines the benefits of zero-knowledge technology with the power of the BOS to unlock <a href="https://www.youtube.com/watch?v=jVu4Hc1CLao">even more seamless onboarding</a> to the open web. </p>
+
+
+
+<p>The dashboard brings a new suite of zero knowledge development capabilities to zkEVM developers and lets them build apps that can reach more users from day one. It’s a groundbreaking partnership that brings together the NEAR and Polygon ecosystems, two of the most innovative names in Ethereum and blockchain scalability.</p>
+
+
+
+<h2 class="wp-block-heading">NEAR makes waves with sustainability commitment</h2>
+
+
+
+<p>NEAR Foundation made a significant stride in its commitment to Web3 sustainability. As part of its ongoing efforts, NEAR signed up to the Ethereum Climate Platform, demonstrating its resolve towards minimizing the environmental impact of Web3 development. This move aligns with NEAR’s ethos and commitment to sustainable and scalable blockchain solutions.</p>
+
+
+
+<h2 class="wp-block-heading">Marieke storms the BOS-tille at “Funding the Commons”</h2>
+
+
+
+<p>Adding to the list of notable NEAR occurrences during ETHCC, NEAR Foundation CEO, Marieke Flament, was a keynote speaker at the “Funding the Commons” event held at Sorbonne Université on July 15. Marike’s message was one of bringing more ethics and equity to the entire blockchain and Web3 ecosystem.</p>
+
+
+
+<p>In her speech, titled &#8220;The Open Web is NEAR: How the BOS, NDC, and DAOs are creating a Decentralized Web,” Marieke explored how NEAR Foundation serves the ecosystem by building public goods like the BOS, DevHub, NDC, DAOs, and more.&nbsp;</p>
+
+
+
+<p>“Funding the Commons” is an event designed to complement the Ethereum Community Conference, promoting connection amongst participants, and fostering new collaborations and projects. The event organizers also planned a dinner on July 15 at Le Procope Paris, where Marieke was among the most notable invited guests.</p>
+
+
+
+<h2 class="wp-block-heading">Unpacking Insights: notable talks and events at ETH CC</h2>
+
+
+
+<p>Near @ ETHCC wasn&#8217;t just a gathering of blockchain enthusiasts, but a hotbed of innovative discussions. Illia Polosukhin, co-founder of NEAR, and Nadir Dabit&#8217;s conversation around decentralized social networks piqued particular interest. They hinted at a shift in how we&#8217;ll connect and share information in the future and the potential role of decentralized social on the BOS.</p>
+
+
+
+<p>Matt Stephenson, head of crypto economics at crypto investment firm, Pantera Capital, took the audience on a thrilling Day Two journey through the intricacies of behavioral game theory. He showcased how game theory could be leveraged in this space, offering a unique lens to examine, understand, and potentially predict blockchain trends.</p>
+
+
+
+<p>Near @ ETHCC didn&#8217;t skimp on forward-looking conversations either. A panel featuring Max Mersch of Fabric Ventures, Maggie Love from SheFi, and Bilal El Alamy of PyratzLabs posed a pertinent question: &#8220;What’s the Next Big Use Case Being Built in the Bear Market?&#8221; Each speaker provided valuable insight about both challenges and opportunities posed by bear markets.</p>
+
+
+
+<h2 class="wp-block-heading">Ecosystem Updates</h2>
+
+
+
+<p>Despite the focus on the Near @ ETHCC side event itself, the NEAR ecosystem saw significant developments and milestones during the past few days.</p>
+
+
+
+<ul>
+<li><strong>The NEAR Digital Collective’s I-AM-HUMAN</strong> movement has crossed 2,000 members in the NEAR ecosystem. The initiative allows users to vote, elect candidates for office, and shape the future of NEAR. You can sign up <a href="https://i-am-human.app/?transactionHashes=Djm4ohdiWxNETWz3xZA8BUreQFbQm63rJh67SAHkMc48">here</a>.</li>
+
+
+
+<li><strong>MintbaseSearch</strong> has gone live on NEAR mainnet along with its own ChatGPT plugin. Mintbase now enables users to ask anything about NFTs on the NEAR Protocol. More details <a href="https://twitter.com/mintbase/status/1679487855473872897?s">here</a>.</li>
+
+
+
+<li><strong>Opolis</strong> has raised $6.6M in a bridge fundraising round with support from NEAR Foundation, Polygon Ventures, and Draper Capital. Read more details about the full announcement <a href="https://twitter.com/opolis/status/1679477404824137732?s">here</a>.</li>
+
+
+
+<li><strong>Black Snow: Battle For Earth,</strong> launched its demo version, offering an exciting free-to-play-and-earn experience that aims to enhance the NEAR ecosystem by boosting user count and transactions. Check out the demo<a href="https://linktr.ee/battleforearth"> here</a></li>
+</ul>
+
+
+
+<p>C&#8217;est la vie in Paris as ETHCC 2023 wraps up. As we reflect on these dynamic days, it&#8217;s clear that the future of NEAR and the BOS is exciting and full of potential. From environmental commitments to bold collaborations and fascinating talks, NEAR’s Parisian journey was full of engagement, enlightenment, and enthusiasm for everyone involved.</p>
+<p>The post <a href="/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/">NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</title>
+		<link>/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2023 22:00:00 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Richmond Night Market]]></category>
+		<category><![CDATA[the littles]]></category>
+		<category><![CDATA[TheFunPass™]]></category>
+		<guid isPermaLink="false">/?p=20721</guid>
+
+					<description><![CDATA[<p>Everyone’s a winner playing carnival games thanks to TheFunPass™, a groundbreaking leap in Web3 that will redefine loyalty rewards and …</p>
+<p>The post <a href="/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/">TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Everyone’s a winner playing carnival games thanks to TheFunPass™, a groundbreaking leap in Web3 that will redefine loyalty rewards and transform the way we engage and connect with events and experiences. From the popular Web3 project, <a href="https://twitter.com/thelittlesnft">the littles</a>, this innovative Web3 rewards app on the NEAR blockchain offers a solution that will transform the event landscape, that benefits event-goers but also empowers event operators.&nbsp;</p>
+
+
+
+<p>It’s all about bridging the gap between the physical and digital worlds, as TheFunPass™ creates a seamless and immersive experience for users while driving value for businesses.&nbsp;</p>
+
+
+
+<p>TheFunPass™ presents a brand-new model of interaction that empowers users, business operators, and The Littles holders alike. The Littles&#8217; TheFunPass™ rewards app will debut at the <a href="https://richmondnightmarket.com/">Richmond Night Market</a>, rethinking the entire carnival experience by connecting people through interactive missions, rewards, and personalized engagement.&nbsp;</p>
+
+
+
+<p>Now every carnival-goer can win prizes, food, and once-in-a-lifetime trips — even if their skeeball doesn&#8217;t land in the bullseye — breathing new life into the classic carnival games.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-thefunpass-is-the-best-way-to-win-at-carnival-games">TheFunPass™ is the best way to win at carnival games</h2>
+
+
+
+<p>Wil Lee and Cass Chan created the Web3 children&#8217;s media company, the littles, in 2021 offering a creative blend of animation, gaming, and real-world activations. The Littles is even joining up with TIME Studios to produce a children&#8217;s animation series. TheFunPass™, their latest endeavor, showcases their commitment to pushing the boundaries of interactive entertainment. Meanwhile, Lee is also the CEO and creator of <a href="https://wun2free.com/">Wun2Free Entertainment</a>, a Company that has been producing events for over 10 years and hires over one hundred people each season, with TheFunPass™ as their latest endeavor.&nbsp;</p>
+
+
+
+<p>TheFunPass™ is a rewards application that utilizes Web3 technology to enhance the way people emotionally engage with events. The application will debut at the Richmond Night Market in British Columbia, the largest night market in North America. TheFunPass™ engages user participation through missions, allowing them to earn digital and physical rewards unlocking exclusive benefits, digital collectibles, and unforgettable experiences.&nbsp;</p>
+
+
+
+<p>TheFunPass™ not only engages event attendees but also presents a game-changing opportunity for businesses and operators. The app will also enable event operators and businesses to create customized missions and campaigns driving attendee participation and extending engagement before, during, and after the event. It’s a win-win scenario, where attendees enjoy immersive experiences and rewards, while businesses drive revenue growth and forge stronger connections with their audience.</p>
+
+
+
+<p>TheFunPass™ is a new and innovative way to experience the Richmond Night Market, which boasts over 500 food stalls, 100 retail shops, and an average attendance of over 1 million visitors per season. TheFunPass™ can reach tens of thousands of carnival-goers and engage them in unprecedented ways. The partnership between The Littles and NEAR will change the way people emotionally engage with events.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh3.googleusercontent.com/ikDDZjTcq4B0ly67FB04f5iJIKPUAMgMY0z3X9lLpRoSOMSMYjKRvwnj0KwtxY7psY2kX4s4NlnGubHpruOaL3Mg0UyTcQBEPyKguqlFbCh_nWjwuDkygS3923ZnHVPX8-pDkirRLC7f11m4zunIMds" alt=""/></figure>
+
+
+
+<h2 class="wp-block-heading" id="h-the-littles-and-thefunpass-are-a-near-perfect-match">The Littles and TheFunPass™ are a NEAR perfect match</h2>
+
+
+
+<p>TheFunPass™, powered by NEAR, revolutionizes the traditional carnival experience, offering dynamic gameplay with location-based missions and rewarding social engagements. The app&#8217;s integration of digital and physical missions enables users to accrue reward points beyond the physical space confines, effectively turning the standard carnival participation model on its head thanks to the development support of LaunchBadge, a leading software development team trusted by the littles and NEAR.&nbsp;</p>
+
+
+
+<p>“800 users for a soft launch has reaffirmed our decision to support The Fun Pass and the team’s vision to reimagine how we experience the night market with blockchain technology,” said Dillon Freeman, Blockchain Success Manager on NEAR Foundation’s BD team. “The team has been executing at a high level and we’re excited to see what they deliver in the coming months.”</p>
+
+
+
+<p>Beyond the in-person carnival fun, TheFunPass™ also facilitates year-round engagement with unique missions and reward opportunities, making the carnival-style fun available wherever and whenever. This innovative blend of phygital experiences is a game changer, enabling events to expand their reach and engage audiences more effectively.</p>
+
+
+
+<p>The mechanics of TheFunPass™ are simple: Play Games, Collect STARs, Win Rewards! Attendees participate in carnival games, scan QR codes or tap to gather STARs on TheFunPass™, and subsequently exchange these STARs for various rewards, regardless of their game outcomes. The participation model offers a tangible sense of achievement, transforming the carnival experience.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh4.googleusercontent.com/Dr821I_ExrNyMhVoIS4997Wvl76mndMByYryCr9s9_W4dDzEO36oYxaZyYA9167teJ-NfnX8mQDpLEun7WJlB1DTskrya_oYVXahGZO-Ug_zvSn_xMJnbhRnHUkgBpZcyUQD3Uo-Ckb8RVNBioVZ9H0" alt=""/></figure>
+
+
+
+<p>TheFunPass™ ensures an exciting and ongoing engagement with its mission-based gameplay and reward system. After the carnival, users can continue to engage in digital missions, games, and rewards, offering an immersive experience that extends beyond its physical boundaries.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh3.googleusercontent.com/a6T5EcN5ubBdg3x6DCd2AsenY-P7fYBtJWxbYb_5NWsVwQdnfQRp2c99WwAKONBqBKfn0ffGyt8y6Z4V1g4iAf5Hc3e0gyi1VYh1uyd1EkW-21PqDPZC2GKLwtL2CJrVnPA8UJlDJwBUMnN-5iE_2Ys" alt=""/></figure>
+
+
+
+<p>Debuting at Richmond Night Market, the partnership between The Littles and NEAR, with the development expertise from Launchbadge, showcases a unique use case of Web3 technology. By using TheFunPass™, every visitor stands a chance to win prizes, while also partaking in a unique Web3 event experience, thereby redefining event participation.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-empowering-all-stakeholders-in-the-events-industry">Empowering all stakeholders in the events industry&nbsp;</h2>
+
+
+
+<p>TheFunPass™ empowers The Littles holders by integrating them into its growth through a unique referral program, reflecting the app&#8217;s commitment to decentralization and community empowerment. This groundbreaking approach enables Littles holders to earn commissions by referring businesses and operators to the app&#8217;s expanding network.</p>
+
+
+
+<p>Beyond rewarding users, TheFunPass™ is an invaluable tool for businesses and operators. It enhances customer engagement, fosters loyalty, and promotes revenue growth. Additionally, the app provides businesses with valuable consumer behavior insights, enabling them to customize their offerings and establish meaningful connections with their audience.</p>
+
+
+
+<p>The Littles are poised to lead the web3 industry into the future with the launch of TheFunPass™, powered by NEAR. By introducing gamification and immersive experiences to events, concerts, and festivals worldwide, TheFunPass™ aims to revolutionize the event experience, heralding a new frontier of interaction for fans.</p>
+
+
+
+<p>TheFunPass™ presents a unique convergence of loyalty rewards, immersive experiences, and Web3 technology. As we step into the future of truly phygital experiences, every event-goer can look forward to a redefined, gamified, and winning event experience like never before.</p>
+<p>The post <a href="/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/">TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Get to Know the BOS: FastAuth for Easy, Web2 Style Onboarding and Account Recovery</title>
+		<link>/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 30 May 2023 12:53:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Blockchain Operating System]]></category>
+		<category><![CDATA[BOS]]></category>
+		<category><![CDATA[FastAuth]]></category>
+		<guid isPermaLink="false">/?p=20543</guid>
+
+					<description><![CDATA[<p>With the recent launch of the NEAR Blockchain Operating system (BOS) on near.org, came one of the first and most …</p>
+<p>The post <a href="/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/">Get to Know the BOS: FastAuth for Easy, Web2 Style Onboarding and Account Recovery</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>With the recent launch of the NEAR Blockchain Operating system (BOS) on <a href="http://near.org/">near.org</a>, came one of the first and most powerful features — FastAuth.&nbsp;</p>
+
+
+
+<p>With FastAuth, BOS users get a better than Web2-style onboarding experience, allowing them to easily create an account for any app on the BOS without a new password or the need to buy any crypto. And perhaps most powerfully for developers, FastAuth is both the easiest and fastest way to get people to try their new components and apps, yet another reason why developers will want to build on the BOS. This helps dramatically lower the threshold for adoption and opens the door to bringing billions of Web2 users into the Web3 space.</p>
+
+
+
+<p>To get up to speed on FastAuth, here is a FastAuth primer with some product demo videos.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-easy-onboarding-and-email-recovery-with-fastauth">Easy onboarding and email recovery with FastAuth</h2>
+
+
+
+<p>FastAuth gives users the power to quickly and easily create a single account that can be used for any website or app that integrates with the Blockchain Operating System (BOS). This feature makes FastAuth an ideal tool for developers building components on NEAR.&nbsp;</p>
+
+
+
+<p>With a Web2-style onboarding experience that puts the user experience front and center, users can create a free account using biometrics, phone prompts, and an email address. This means that users can quickly interact with an app but also easily re-authenticate to the app using the same or different devices.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Create a Web3 Account in Seconds with Fast Auth" width="500" height="281" src="https://www.youtube.com/embed/gN5XlpXz9gE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Since most users are accustomed to centralized authentication methods like “Sign in with Google”, Web3 account management using seed phrases and wallets have, until now, created a significant barrier to entry for many people. By combining FastAuth with decentralized email recovery, users no longer need to remember seed phrases or install third party wallet applications. Users can recover their accounts through a “Single Sign-on” (SSO) process with the email they used at registration.&nbsp;</p>
+
+
+
+<p>Account recovery is also decentralized and does not give custodial access to full access keys to any single custodian. It is accomplished through a process called “multi-party computation”. This finally paves a way for mass adoption with an easy, secure, and decentralized account recovery system.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Account Recovery with NEAR&#039;s Fast Auth" width="500" height="281" src="https://www.youtube.com/embed/pH-xLAZWQNo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><br>With FastAuth, one of the most challenging parts in onboarding users to Web3 no longer exists. Now, users can set up a BOS account quicker than creating a Gmail, Facebook, Tiktok, or Instagram account. And developers can deliver their Web3 components, apps, and experiences more seamlessly than ever.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-no-third-party-applications-required">No third-party applications required</h2>
+
+
+
+<p>FastAuth also removes the need to download any third-party applications. Everything just works seamlessly right from the browser on your desktop or mobile device.</p>
+
+
+
+<p>By creating an easy, user-centric experience, FastAuth makes the open web accessible to everyone right from the get-go and opens the door to mainstream adoption. Anyone developing components on the BOS can leverage this user-friendly experience to quickly and intuitively get their apps in front of users.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-create-an-account-without-crypto">Create an account without crypto</h2>
+
+
+
+<p>BOS FastAuth has another great trick up its sleeve. Until now, getting started in&nbsp; Web3 and interacting with apps meant acquiring crypto first.&nbsp;</p>
+
+
+
+<p>With FastAuth, new users can get started right away without having to buy or be gifted crypto. This is a game changer for developers, enterprises, and end-users alike. Through FastAuth’s use of NEAR’s Meta Transactions and Zero Balance Accounts, users can register an account free of charge. Developers can also use this to their advantage as Meta Transactions paired with relayers, which allow them to sponsor initial interactions for new users without needing to purchase $NEAR.&nbsp;</p>
+
+
+
+<p>This streamlined onboarding experience allows <strong>developers</strong> to significantly increase conversion rates for people trying their components and apps for the first time. FastAuth also expands an app and website’s audience by making it more accessible to mainstream users.&nbsp;</p>
+
+
+
+<p>FastAuth creates an easy way for <strong>enterprises</strong> to integrate Web3 and crypto technology into their business. With just a few lines of code, they can onboard existing users into powerful new community and commerce experiences that are accessible, highly secure , and decentralized.&nbsp;</p>
+
+
+
+<p><strong>End users</strong> can also get started using Web3 apps and experiences in an easy, accessible way. Setting up a secure&nbsp; fully user-owned&nbsp; account now only takes seconds.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-what-s-next-for-fastauth">What’s next for FastAuth&nbsp;</h2>
+
+
+
+<p>While FastAuth is already enabling fast and simple onboarding of mainstream users as well as streamlining component-building for developers on the BOS, a number of other features and upgrades are already in the works:&nbsp;</p>
+
+
+
+<ul>
+<li>The ability to extend relayers and FastAuth to additional gateways beyond near.org</li>
+
+
+
+<li>Further MPC decentralization</li>
+
+
+
+<li>Multi-chain compatibility&nbsp;</li>
+
+
+
+<li>Two-factor authentication</li>
+</ul>
+
+
+
+<p>Stay tuned to <a href="http://near.org/">near.org</a> for new FastAuth features and upgrades, as they are rolled out.&nbsp;</p>
+<p>The post <a href="/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/">Get to Know the BOS: FastAuth for Easy, Web2 Style Onboarding and Account Recovery</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Refining NEAR Foundation’s Grant Approach</title>
+		<link>/blog/refining-near-foundations-grant-approach/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 03 Jan 2023 15:05:22 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Grants]]></category>
+		<guid isPermaLink="false">/?p=19669</guid>
+
+					<description><![CDATA[<p>A few weeks ago, as part of a series of blogs on the state of funding, NEAR Foundation announced it …</p>
+<p>The post <a href="/blog/refining-near-foundations-grant-approach/">Refining NEAR Foundation’s Grant Approach</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><br>A few weeks ago, as part of a series of blogs on the state of funding, NEAR Foundation announced it would be examining its evolving <a href="/blog/evolving-near-foundations-funding-strategy/">funding strategy</a>. This is in line with the Foundation’s&nbsp; goal of providing a clear and concise update to continue to foster transparent communication.&nbsp;</p>
+
+
+
+<p>At this time, NEAR Foundation is actively working towards a more decentralized model of capital allocation that will initially involve the <a href="/about/network/working-groups/">DeveloperDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/marketing/marketingdao/91">MarketingDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/creatives/creatives-dao/61">CreativesDAO</a>, with an additional DAO that will begin formation in Q1 of 2023. This will impact the ecosystem in the following ways:</p>
+
+
+
+<ol>
+<li>Effective immediately, <strong>NEAR Foundation will cease allocating capital directly from our inbound start-up grants program</strong>, with the exception of our current events grants, which will be handed over to the MarketingDAO when they are set up to manage them.  Request events funding by following the steps <a href="https://docs.google.com/document/d/1-0kw-kV1iDa-3h6bMA9MEdmdJal8w5yiLH56K9hfKBE/edit?usp=sharing">outlined here</a>.</li>
+
+
+
+<li>In January and February, we will be working directly with community members to outline a clear application process for funding via the DAOs. Processing time is expected to take 6-8 weeks. If you are interested in helping us form the new DAO with a focus on start-up projects, please submit your interest using this <a href="https://forms.gle/SZf1fqJpBKFPWbf9A">contact form</a>.</li>
+
+
+
+<li>Any&nbsp; projects that have already received a portion of their funding and are working towards their agreed milestones will <strong>continue to be supported through the remaining milestones</strong>.</li>
+
+
+
+<li>Any application that is not already in the approval stage will not receive funding. However, we will do our best to redirect you to appropriate, alternative funding sources.</li>
+</ol>
+
+
+
+<p>NEAR Foundation’s goal is to empower the ecosystem to make decisions that support&nbsp; the strategic approach that will drive NEAR&nbsp; to the next phase of its roadmap, with a look ahead at new areas of product and development, as outlined in the <a href="/blog/near-strategic-update-and-outlook-for-2023/">NEAR Strategic Update and Outlook for 2023</a>. We will continue to be as transparent as possible about the new funding strategy as it rolls out. The Foundation will communicate as often, and as frequently, as possible. We encourage the community to continue providing meaningful feedback so we can iterate more quickly as we unite to build the NEAR Ecosystem together.</p>
+<p>The post <a href="/blog/refining-near-foundations-grant-approach/">Refining NEAR Foundation’s Grant Approach</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Refer-and-Earn Guidelines Update: Q3 2022</title>
+		<link>/blog/refer-and-earn-guidelines-update-q3-2022/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Fri, 09 Dec 2022 17:00:00 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Grants]]></category>
+		<category><![CDATA[Refer-and-Earn]]></category>
+		<guid isPermaLink="false">/?p=19539</guid>
+
+					<description><![CDATA[<p>NEAR’s ever-growing and engaged community is one of the ecosystem’s greatest strengths. Remember the NEAR Foundation Grants team’s Refer-and-Earn Program? …</p>
+<p>The post <a href="/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>NEAR’s ever-growing and engaged community is one of the ecosystem’s greatest strengths. Remember the <a href="https://medium.com/nearprotocol/refer-and-earn-pick-projects-you-love-and-get-up-to-10-000-in-near-981c0c015ba4#:~:text=Refer%20and%20Earn.,for%20nominating%20a%20worthy%20project">NEAR Foundation Grants team’s Refer-and-Earn Program</a>? A number of NEAR community members participated in Refer-and-Earn in early 2022, resulting in grants for dozens of exciting projects currently building on the NEAR ecosystem.&nbsp;&nbsp;</p>
+
+
+
+<p>The Foundation has had the pleasure of seeing the community being a key contributor in providing ecosystem support and building dapps. The community does this in a number of ways, including running and sponsoring events, educating developers and entrepreneurs on the benefits of NEAR, bringing projects with active user bases from other chains, and so on.</p>
+
+
+
+<p>NEAR Foundation wants to build on the community’s successes through a new incentive structure that aligns with the Grants Program (more information can be found at the Grants Program Handbook here bit.ly/Grants-Program-Handbook).&nbsp;</p>
+
+
+
+<ol>
+<li>The payout for each project referred will be awarded a total of 10% of the project awarded grant amount. This amount is awarded in nUSDC (wrapped USDC on NEAR) and is calculated at the end of each quarter.</li>
+
+
+
+<li>The first half of the 5% will be awarded at the point of the contract signed.</li>
+
+
+
+<li>The second half of the 5% will be awarded once all project milestones are completed.&nbsp;</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading" id="h-refer-and-earn-q3-qualified-projects">Refer-and-Earn: Q3 Qualified Projects</h2>
+
+
+
+<p>The NEAR ecosystem receives a number of your recommendations and referrals. A total of 12 quality projects emerged from Refer-and-Earn, each aligning with NEAR Foundation’s Grants program objectives.&nbsp;</p>
+
+
+
+<p>In no particular order, here are the Q3 2022 qualified projects:&nbsp;</p>
+
+
+
+<ul>
+<li>Scene&nbsp;</li>
+
+
+
+<li>Azadi Record</li>
+
+
+
+<li>Vital Carbon&nbsp;</li>
+
+
+
+<li>Metavision Games&nbsp;</li>
+
+
+
+<li>Murder Mystery Collective&nbsp;</li>
+
+
+
+<li>MetaLordz&nbsp;</li>
+
+
+
+<li>Klabrate and ClimaFi</li>
+
+
+
+<li>Meteor wallet&nbsp;</li>
+
+
+
+<li>Mintmade&nbsp;</li>
+
+
+
+<li>NEARKai</li>
+
+
+
+<li>EVIE Marketplace&nbsp;</li>
+
+
+
+<li>Autify&nbsp;</li>
+</ul>
+
+
+
+<p>The Grants team has reached out to all Refer-and-Earn referrers. Thanks to your help and support, the Grants team is able to support innovative projects like those listed above. </p>
+<p>The post <a href="/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NEAR and Grupo Nutresa Partner for Customer Experience Innovations in Web3</title>
+		<link>/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2022 09:45:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Mass adoption]]></category>
+		<category><![CDATA[Partnerships]]></category>
+		<guid isPermaLink="false">/?p=18608</guid>
+
+					<description><![CDATA[<p>In a groundbreaking and innovative move, NEAR has partnered with Grupo Nutresa, one of the most important processors of food …</p>
+<p>The post <a href="/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/">NEAR and Grupo Nutresa Partner for Customer Experience Innovations in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In a groundbreaking and innovative move, NEAR has partnered with <a href="https://gruponutresa.com/">Grupo Nutresa</a>, one of the most important processors of food in South America, to bring Web3 to the grocery industry. This will see Grupo Nutresa building one of the first open-source loyalty points programs on NEAR with long-term aspirations to reach a million users in Colombia and Latin America. The partnership was established through the support of tech firm Peersyst.</p>
+
+
+
+<p>Grupo Nutresa customers will in turn gain more autonomy and control of their rewards. Customers will also get additional security and the reassurance that points will not be stolen or denied, and can be transferred more efficiently. Leveraging NEAR’s technology will also increase usability and accessibility of the rewards system as a whole, saving customers from having to create multiple accounts or different logins for multiple platforms — they just need their easy to use NEAR wallet.</p>
+
+
+
+<p>“We are excited to partner with one of the biggest multinationals in Latin America and help it to lead the way through its first Web3 loyalty programme,” says NEAR Foundation CEO Marieke Flament. “Leveraging NEAR’s first-rate technology, the partnership will redefine what is possible when combining retail with the latest blockchain innovation, not just in Latin America but throughout the rest of the world.”&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-usability-is-key-to-loyalty">Usability is key to loyalty</h2>
+
+
+
+<p>Rewarding customers for their support has always been a priority for the world’s top brands. Such programs not only engage customers and deliver incentives for them to return but also act as analytical tools, giving businesses insights into customers’ behaviour and preferences.&nbsp;</p>
+
+
+
+<p>With <a href="https://www.annexcloud.com/blog/loyalty-program-statistics-will-make-rethink-marketing/">87% of shoppers</a> reporting they want brands to have loyalty programs and <a href="https://info.bondbrandloyalty.com/the-2016-bond-loyalty-report-press-release-us">over 70% of consumers</a> more likely to recommend a brand with a robust loyalty program, Web3 and digital wallets are pushing forward-thinking brands to explore new opportunities on platforms that are easy to use.&nbsp;</p>
+
+
+
+<p>As one of the biggest multinationals in Colombia, Grupo Nutresa manages several loyalty programs for its customers, collaborators, and providers. Those loyalty programs are now coming together into a single easy-to-use platform underpinned by blockchain technology, through support from Spanish technology company Peersyst Technology.</p>
+
+
+
+<h2 class="wp-block-heading">Onboarding the masses into NEAR and Web3</h2>
+
+
+
+<p>Grupo Nutresa sees NEAR as the ideal partner for these types of loyalty programs. NEAR Foundation sees the Grupo Nutresa partnership as a great opportunity to onboard the masses into the NEAR and Web3 ecosystems.&nbsp;&nbsp;</p>
+
+
+
+<p>“Our purpose is to make people feel recognized and valued by brands. Above all, what interests us most is that this is an opportunity to help build their dreams, through a service that provides them with significant redemption options and value,” says &nbsp;Fabián Andrés Restrepo, Digital Transformation Leader at Grupo Nutresa. “This invitation is also addressed to companies that want to help make people&#8217;s dreams come true and reward their loyal customers, by becoming an ally of Grupo Nutresa and its portfolio of businesses. We see in NEAR an important ally for developing and implementing Grupo Nutresa’s loyalty strategy.”&nbsp;</p>
+
+
+
+<p>NEAR’s sustainability credentials also align with Grupo Nutresa’s own business strategy and deep commitment to create value for society as a whole. According to the 2021 Dow Jones Sustainability Indices, Grupo Nutresa has been voted as the most sustainable food company in the world for two consecutive years, thanks to its effective implementation of social, environmental, and economic practices.&nbsp;</p>
+<p>The post <a href="/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/">NEAR and Grupo Nutresa Partner for Customer Experience Innovations in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

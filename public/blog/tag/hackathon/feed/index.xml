@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hackathon Archives &#8211; NEAR Protocol</title>
+	<atom:link href="/blog/tag/hackathon/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/hackathon/</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Mar 2023 15:40:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<title>Hackathon Archives &#8211; NEAR Protocol</title>
+	<link>/blog/tag/hackathon/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Near at ETHDenver Hackathon Bounty Winners</title>
+		<link>/blog/near-at-ethdenver-hackathon-bounty-winners/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Mon, 13 Mar 2023 18:14:58 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[ETHDenver]]></category>
+		<category><![CDATA[Hackathon]]></category>
+		<guid isPermaLink="false">/?p=20300</guid>
+
+					<description><![CDATA[<p>For the 2023 edition of ETHDenver, the Near ecosystem offered a number of bounties across a range of Web3 verticals, …</p>
+<p>The post <a href="/blog/near-at-ethdenver-hackathon-bounty-winners/">Near at ETHDenver Hackathon Bounty Winners</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>For the 2023 edition of ETHDenver, the Near ecosystem offered a number of bounties across a range of Web3 verticals, including DeFi, Content, Search, Social Media, Interoperability, Smart Contract History, and more. There were 3 main prize pools from Aurora, Proximity, and Developer Governance (DevGov).&nbsp;</p>
+
+
+
+<p>Congratulations to all Near winners. who received over 30k in USDC! Let’s have a look at the winning projects of the Near at ETHDenver bounties. </p>
+
+
+
+<h2 class="wp-block-heading" id="h-aurora-bounty-winners">Aurora Bounty Winners</h2>
+
+
+
+<h3 class="wp-block-heading" id="h-open-aurora-bounty">Open Aurora Bounty</h3>
+
+
+
+<p><em>Winner &#8211; </em><a href="https://app.buidlbox.io/projects/stakingpool-aurora'"><em>StakingPool Aurora</em></a></p>
+
+
+
+<p>Implements a liquid staking protocol around Aurora Plus staking. Users will deposit AURORA and receive a share in $stAUR tokens, which distributes the APY rewards. $stAUR could be immediately converted with a fee or wait for a delayed unstake.</p>
+
+
+
+<p><em>Runner Up &#8211; </em><a href="https://app.buidlbox.io/projects/geni"><em>Geni</em></a></p>
+
+
+
+<p>AI-powered specifications generator of security tests for smart contracts.</p>
+
+
+
+<p><em>Runner Up &#8211; </em><a href="https://app.buidlbox.io/projects/demeter"><em>Demeter</em></a></p>
+
+
+
+<p>A lending platform that offers yield advancements, i.e., self-paying loans. Borrowers’ collateral is invested in RWA protocols, and the yield pays off debt.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-proximity-bounty-winners">Proximity Bounty Winners</h2>
+
+
+
+<h3 class="wp-block-heading" id="h-deploy-a-decentralized-frontend-component">Deploy a Decentralized Frontend Component</h3>
+
+
+
+<p><em>Winner &#8211; </em><a href="https://app.buidlbox.io/projects/boswrap"><em>BosWrap</em></a><em>&nbsp;</em></p>
+
+
+
+<p>BosWrap used the Near Blockchain Operating System to build a decentralized widget for wrapping/unwrapping ETH.</p>
+
+
+
+<p><em>Runner Up &#8211; </em><a href="https://app.buidlbox.io/projects/abi-bos-widget"><em>ABI BOS Widget</em></a><em>&nbsp;</em></p>
+
+
+
+<p>A solidity explorer widget that allow users to explore any smart contract for a given ABI. You can get ABI from <a href="https://etherscan.io/">Etherscan website</a>.</p>
+
+
+
+<p><em>Runner Up &#8211; </em><a href="https://app.buidlbox.io/projects/bossed-up"><em>Bossed Up</em></a></p>
+
+
+
+<p>A project focusing on Ethereum frontends, Blockchain Operating System improvements, and NEAR Social widgets that interact with NEAR contracts.</p>
+
+
+
+<p><em>Runner Up &#8211; </em><a href="https://app.buidlbox.io/projects/undrip"><em>Atmosph3re</em></a></p>
+
+
+
+<p>A dApp for reducing the homeless crisis in the United States by giving those living on the streets a decentralized identity, mentoring and community support, and funds for spending on their basic needs to help them thrive. </p>
+
+
+
+<p><em>Runner Up &#8211; </em><a href="https://app.buidlbox.io/projects/ethdenver2023uwca"><em>EthDenver2023UWCA</em></a></p>
+
+
+
+<p>A dApp on NeaR’s new frontend with BOS.GG. Integrates with Rocketpool to offer quick swaps on Ethereum.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-devgov-bounty-winners">DevGov Bounty Winners</h2>
+
+
+
+<h3 class="wp-block-heading" id="h-extensive-developer-profile-widget">Extensive Developer Profile Widget</h3>
+
+
+
+<p><em>Winner &#8211; </em><a href="https://app.buidlbox.io/projects/developer-profile"><em>Developer Profile</em></a></p>
+
+
+
+<p>A recreation of Github profile for NEAR social developers in the Blockchain Operating System. </p>
+
+
+
+<h3 class="wp-block-heading" id="h-fuzzy-search-widget-promoted-posts-banner-widget-top-posts-widget-post-history-with-diff-widget">Fuzzy Search Widget / Promoted Posts Banner Widget / Top Posts Widget&nbsp; / Post History with Diff Widget</h3>
+
+
+
+<p><em>Winner &#8211; </em><a href="https://app.buidlbox.io/projects/near-social-update"><em>Near.Social DevGovGigs Improvements</em></a><em>&nbsp;</em></p>
+
+
+
+<p>A new Developer Governance Gigs interaction experience for Near.Social. Features: 1) Fuzzy Searching that can handle typos, 2) Promote posts and Promoted Post viewer, 3) Hottest Posts viewer, and 4), Post editing history viewer.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-near-social-bots-coded-in-javascript">Near.Social Bots Coded in Javascript</h3>
+
+
+
+<p><em>Winner &#8211; </em><a href="https://app.buidlbox.io/projects/js-bot-widget"><em>JS Bot Widget</em></a></p>
+
+
+
+<h3 class="wp-block-heading">Verifiable RPC Replies</h3>
+
+
+
+<p><em>Winner &#8211; </em><a href="https://app.buidlbox.io/projects/project-2"><em>Near Verifiable RPC Endpoints for Viewing Access Keys</em></a></p>
+
+
+
+<p>Adds proof generation support to RPC read access key endpoints on the NEAR protocol to help pave the road for light client support. </p>
+<p>The post <a href="/blog/near-at-ethdenver-hackathon-bounty-winners/">Near at ETHDenver Hackathon Bounty Winners</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

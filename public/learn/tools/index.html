@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <base target="_blank">
+    <!--<link rel="stylesheet" href="https://near-lib.num42.de/assets/Nav.1ce6f74f.css"/>-->
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v19.3 (Yoast SEO v21.6) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Tools &#8211; NEAR Protocol</title>
+	<link rel="canonical" href="/learn/tools/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Tools">
+	<meta property="og:url" content="/learn/tools/">
+	<meta property="og:site_name" content="NEAR Protocol">
+	<meta property="article:publisher" content="https://www.facebook.com/NEARProtocol/">
+	<meta property="article:modified_time" content="2022-11-30T16:48:24+00:00">
+	<meta property="og:image" content="/wp-content/uploads/2022/08/neardotorg-shareimage.png">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta property="og:image:type" content="image/png">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@nearprotocol">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"/learn/tools/","url":"/learn/tools/","name":"Tools – NEAR Protocol","isPartOf":{"@id":"/#website"},"datePublished":"2022-11-30T16:48:00+00:00","dateModified":"2022-11-30T16:48:24+00:00","breadcrumb":{"@id":"/learn/tools/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["/learn/tools/"]}]},{"@type":"BreadcrumbList","@id":"/learn/tools/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"/"},{"@type":"ListItem","position":2,"name":"Learn","item":"/learn/"},{"@type":"ListItem","position":3,"name":"Tools"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"NEAR Protocol","description":"","publisher":{"@id":"/#organization"},"inLanguage":"en-US"},{"@type":"Organization","@id":"/#organization","name":"NEAR Protocol","url":"/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"/#/schema/logo/image/","url":"/wp-content/uploads/2021/09/brand-horizontal.png","contentUrl":"/wp-content/uploads/2021/09/brand-horizontal.png","width":864,"height":864,"caption":"NEAR Protocol"},"image":{"@id":"/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/NEARProtocol/","https://twitter.com/nearprotocol","https://www.instagram.com/near_protocol/","https://www.linkedin.com/company/near-protocol-project","https://www.youtube.com/nearprotocol"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel="dns-prefetch" href="//use.fontawesome.com">
+<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2" media="all">
+<style id="global-styles-inline-css">body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--text-green: #aad055;--wp--preset--color--text-yellow: #ffc860;--wp--preset--color--text-orange: #e3935b;--wp--preset--color--text-turquoise: #4fd1d9;--wp--preset--color--text-blue: #5f8afa;--wp--preset--color--text-purple: #6b6ef9;--wp--preset--color--text-lilac: #a463b0;--wp--preset--color--text-red: #db5555;--wp--preset--color--text-dark: #262626;--wp--preset--color--text-dark-02: #3f4246;--wp--preset--color--text-dark-03: #676767;--wp--preset--color--text-gray: #9d9fa1;--wp--preset--color--text-gray-02: #a7a7a7;--wp--preset--color--text-gray-03: #d1d1d1;--wp--preset--color--text-light-gray: #f5f5f5;--wp--preset--color--text-background: #fcfcfc;--wp--preset--color--text-white: #fff;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-text-green-color{color: var(--wp--preset--color--text-green) !important;}.has-text-yellow-color{color: var(--wp--preset--color--text-yellow) !important;}.has-text-orange-color{color: var(--wp--preset--color--text-orange) !important;}.has-text-turquoise-color{color: var(--wp--preset--color--text-turquoise) !important;}.has-text-blue-color{color: var(--wp--preset--color--text-blue) !important;}.has-text-purple-color{color: var(--wp--preset--color--text-purple) !important;}.has-text-lilac-color{color: var(--wp--preset--color--text-lilac) !important;}.has-text-red-color{color: var(--wp--preset--color--text-red) !important;}.has-text-dark-color{color: var(--wp--preset--color--text-dark) !important;}.has-text-dark-02-color{color: var(--wp--preset--color--text-dark-02) !important;}.has-text-dark-03-color{color: var(--wp--preset--color--text-dark-03) !important;}.has-text-gray-color{color: var(--wp--preset--color--text-gray) !important;}.has-text-gray-02-color{color: var(--wp--preset--color--text-gray-02) !important;}.has-text-gray-03-color{color: var(--wp--preset--color--text-gray-03) !important;}.has-text-light-gray-color{color: var(--wp--preset--color--text-light-gray) !important;}.has-text-background-color{color: var(--wp--preset--color--text-background) !important;}.has-text-white-color{color: var(--wp--preset--color--text-white) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-text-green-background-color{background-color: var(--wp--preset--color--text-green) !important;}.has-text-yellow-background-color{background-color: var(--wp--preset--color--text-yellow) !important;}.has-text-orange-background-color{background-color: var(--wp--preset--color--text-orange) !important;}.has-text-turquoise-background-color{background-color: var(--wp--preset--color--text-turquoise) !important;}.has-text-blue-background-color{background-color: var(--wp--preset--color--text-blue) !important;}.has-text-purple-background-color{background-color: var(--wp--preset--color--text-purple) !important;}.has-text-lilac-background-color{background-color: var(--wp--preset--color--text-lilac) !important;}.has-text-red-background-color{background-color: var(--wp--preset--color--text-red) !important;}.has-text-dark-background-color{background-color: var(--wp--preset--color--text-dark) !important;}.has-text-dark-02-background-color{background-color: var(--wp--preset--color--text-dark-02) !important;}.has-text-dark-03-background-color{background-color: var(--wp--preset--color--text-dark-03) !important;}.has-text-gray-background-color{background-color: var(--wp--preset--color--text-gray) !important;}.has-text-gray-02-background-color{background-color: var(--wp--preset--color--text-gray-02) !important;}.has-text-gray-03-background-color{background-color: var(--wp--preset--color--text-gray-03) !important;}.has-text-light-gray-background-color{background-color: var(--wp--preset--color--text-light-gray) !important;}.has-text-background-background-color{background-color: var(--wp--preset--color--text-background) !important;}.has-text-white-background-color{background-color: var(--wp--preset--color--text-white) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-text-green-border-color{border-color: var(--wp--preset--color--text-green) !important;}.has-text-yellow-border-color{border-color: var(--wp--preset--color--text-yellow) !important;}.has-text-orange-border-color{border-color: var(--wp--preset--color--text-orange) !important;}.has-text-turquoise-border-color{border-color: var(--wp--preset--color--text-turquoise) !important;}.has-text-blue-border-color{border-color: var(--wp--preset--color--text-blue) !important;}.has-text-purple-border-color{border-color: var(--wp--preset--color--text-purple) !important;}.has-text-lilac-border-color{border-color: var(--wp--preset--color--text-lilac) !important;}.has-text-red-border-color{border-color: var(--wp--preset--color--text-red) !important;}.has-text-dark-border-color{border-color: var(--wp--preset--color--text-dark) !important;}.has-text-dark-02-border-color{border-color: var(--wp--preset--color--text-dark-02) !important;}.has-text-dark-03-border-color{border-color: var(--wp--preset--color--text-dark-03) !important;}.has-text-gray-border-color{border-color: var(--wp--preset--color--text-gray) !important;}.has-text-gray-02-border-color{border-color: var(--wp--preset--color--text-gray-02) !important;}.has-text-gray-03-border-color{border-color: var(--wp--preset--color--text-gray-03) !important;}.has-text-light-gray-border-color{border-color: var(--wp--preset--color--text-light-gray) !important;}.has-text-background-border-color{border-color: var(--wp--preset--color--text-background) !important;}.has-text-white-border-color{border-color: var(--wp--preset--color--text-white) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}</style>
+<link rel="stylesheet" id="near-css" href="/wp-content/themes/near-21/assets/dist/near.css?t=1684954600#038;ver=6.3.2" media="all">
+<link rel="stylesheet" id="near-footer-css" href="/wp-content/themes/near-21/assets/dist/near-footer.css?t=1684954600#038;ver=6.3.2" media="all">
+<script defer crossorigin="anonymous" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" id="font-awesome-official-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<link rel="shortlink" href="/?p=18977">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.6/iframeResizer.contentWindow.js"></script>
+
+
+			                <meta name="ssp-config-path" content="/wp-content/uploads/simply-static/configs/">
+			
+							
+	<!-- Woopra code starts here -->
+	<script>(function(){
+		var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/w.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
+		})("woopra");
+		woopra.config({"app":"wordpress","domain":"nearpages.wpengine.com","download_tracking":true,"outgoing_tracking":true,"hide_campaign":false});
+		woopra.track();</script>
+	<!-- Woopra code ends here -->
+	
+<link rel="icon" href="/wp-content/uploads/2020/09/cropped-favicon-32x32.png" sizes="32x32">
+<link rel="icon" href="/wp-content/uploads/2020/09/cropped-favicon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/wp-content/uploads/2020/09/cropped-favicon-180x180.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2020/09/cropped-favicon-270x270.png">
+    <script>// Initialize the data layer for Google Tag Manager (this should mandatorily be done before the Cookie Solution is loaded)
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        // Default consent mode is "denied" for both ads and analytics as well as the optional types, but delay for 2 seconds until the Cookie Solution is loaded
+        gtag("consent", "default", {
+            ad_storage: "denied",
+            analytics_storage: "denied",
+            functionality_storage: "denied", // optional
+            personalization_storage: "denied", // optional
+            security_storage: "denied", // optional
+            wait_for_update: 2000 // milliseconds
+        });
+        // Improve ad click measurement quality (optional)
+        gtag('set', 'url_passthrough', true);
+        // Further redact your ads data (optional)
+        gtag("set", "ads_data_redaction", true);
+
+
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TR5G968');</script>
+
+</head>
+
+<body class="page-template-default page page-id-18977 page-child parent-pageid-13690 wp-embed-responsive bg-background ">
+	
+	<div class="flex flex-col min-h-screen">
+				  
+		<main class="relative grow ">
+			
+			<div class="relative">
+<div id="block_1b552089da90e7e6e1c4d79aa7e2ca2c" class="near-block near-block-v2-heading-section ">
+<nr-section background="#fff" padding="m" paddingtop="m" paddingbottom="m" class="block-v2-heading-section" clipcontent>
+    <nr-grid class="w-full" grid="1-m">
+        <nr-grid-child first="true" class="col-span-12 md:col-span-8 md:col-start-3 text-center">
+						
+    <h1 class="mb-[48px] text-dark headline_type-1">
+	Everyday tools for everyone    </h1>
+<div class="further_sub-headline prose mb-[36px] sm:mb-[72px] text-dark">
+<p>All you need to get started using NEAR</p>
+</div>
+        </nr-grid-child>
+    </nr-grid>
+	
+	<nr-sticky-inline-nav class="paragraph_m_regular mb-6 float-left">            <a href="#wallets" class=" link_blue inline-block">
+                Wallets            </a>
+			            <a href="#exploration_tools" class=" link_blue inline-block">
+                Exploration tools            </a>
+			            <nr-jumpmark-nav-item slot="sticky" href="#wallets" class="link_blue font-bold text-black inline-block">
+                Wallets            </nr-jumpmark-nav-item>
+			            <nr-jumpmark-nav-item slot="sticky" href="#exploration_tools" class="link_blue font-bold text-black inline-block">
+                Exploration tools            </nr-jumpmark-nav-item>
+			</nr-sticky-inline-nav></nr-section>
+</div>
+
+<div id="block_577393759bf93f5031d85dc3ed67283b" class="near-block near-block-v2-heading-section ">
+<nr-section id="wallets" background="#F7F7F7" padding="m" paddingtop="m" paddingbottom="xs" class="block-v2-heading-section" clipcontent>
+    <nr-grid class="w-full" grid="1-xl">
+        <nr-grid-child first="true" class="col-span-12 text-center">
+						
+    <h2 class="mb-[32px] text-dark headline_type-2">
+	Wallet    </h2>
+<div class="further_sub-headline prose mb-[36px] sm:mb-[72px] text-dark">
+<p>Use a wallet to create an account and manage your assets</p>
+</div>
+        </nr-grid-child>
+    </nr-grid>
+	
+	</nr-section>
+</div>
+
+<div id="block_966c2a0184a2413467f6ab8f55228fbb" class="near-block near-block-v2-heading-section ">
+<nr-section background="#F7F7F7" padding="none" paddingtop="none" paddingbottom="xs" class="block-v2-heading-section" clipcontent>
+    <nr-grid class="w-full" grid="1-l">
+        <nr-grid-child first="true" class="col-span-12 md:col-span-10 md:col-start-2 text-center">
+						
+    <h5 class="mb-[32px] text-dark headline_type-5">
+	Why do you need a wallet?    </h5>
+
+        </nr-grid-child>
+    </nr-grid>
+	
+	        <nr-grid class="w-full" grid="1-l">
+            <nr-grid-child>
+                <nr-grid class="w-full text-" grid="3">
+					                        <nr-grid-child class="text-center">
+                            <div class="bg-[#F7F7F7] rounded-lg flex flex-col bg-white px-[48px] pt-[32px] pb-[40px] text-center h-[100%]">
+								                                    <div class="text-blue mb-[24px] flex justify-center ">
+										<svg width="32" height="32" viewbox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M16 4.35556L28.2222 12L16 19.6444L3.77778 12L16 4.35556ZM16 2L0 12L16 22L32 12L16 2Z" fill="currentColor"></path>
+	<path opacity="0.5" d="M26 15.7556V22C26 23.9556 24.3556 25.3333 23.3778 26C21.4444 27.2889 18.8222 28 16 28C13.1778 28 10.5556 27.2889 8.62222 26C7.64444 25.3333 6 23.9556 6 22V15.7556L4 14.5111V22C4 26.4222 9.37778 30 16 30C22.6222 30 28 26.4222 28 22V14.4889L26 15.7556Z" fill="currentColor"></path>
+</svg>
+                                    </div>
+								
+                                <div>
+																		
+									                                        <h5 class="headline_type-5 mb-[16px]">
+											To keep your assets (e.g. NFTs) safe                                        </h5>
+																		
+																		
+									                                </div>
+                            </div>
+                        </nr-grid-child>
+					                        <nr-grid-child class="text-center">
+                            <div class="bg-[#F7F7F7] rounded-lg flex flex-col bg-white px-[48px] pt-[32px] pb-[40px] text-center h-[100%]">
+								                                    <div class="text-blue mb-[24px] flex justify-center ">
+										<svg width="32" height="32" viewbox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path opacity="0.5" d="M16 8C20.4222 8 24 11.5778 24 16C24 20.4222 20.4222 24 16 24C11.5778 24 8 20.4222 8 16C8 11.5778 11.5778 8 16 8ZM16 6C10.4667 6 6 10.4667 6 16C6 21.5333 10.4667 26 16 26C21.5333 26 26 21.5333 26 16C26 10.4667 21.5333 6 16 6Z" fill="currentColor"></path>
+	<path d="M16 4C17.1046 4 18 3.10457 18 2C18 0.89543 17.1046 0 16 0C14.8954 0 14 0.89543 14 2C14 3.10457 14.8954 4 16 4Z" fill="currentColor"></path>
+	<path d="M16 32C17.1046 32 18 31.1046 18 30C18 28.8954 17.1046 28 16 28C14.8954 28 14 28.8954 14 30C14 31.1046 14.8954 32 16 32Z" fill="currentColor"></path>
+	<path d="M30 18C31.1046 18 32 17.1046 32 16C32 14.8954 31.1046 14 30 14C28.8954 14 28 14.8954 28 16C28 17.1046 28.8954 18 30 18Z" fill="currentColor"></path>
+	<path d="M2 18C3.10457 18 4 17.1046 4 16C4 14.8954 3.10457 14 2 14C0.89543 14 0 14.8954 0 16C0 17.1046 0.89543 18 2 18Z" fill="currentColor"></path>
+	<path d="M25.8889 8.11108C26.9935 8.11108 27.8889 7.21565 27.8889 6.11108C27.8889 5.00651 26.9935 4.11108 25.8889 4.11108C24.7843 4.11108 23.8889 5.00651 23.8889 6.11108C23.8889 7.21565 24.7843 8.11108 25.8889 8.11108Z" fill="currentColor"></path>
+	<path d="M6.11111 27.8889C7.21568 27.8889 8.11111 26.9935 8.11111 25.8889C8.11111 24.7843 7.21568 23.8889 6.11111 23.8889C5.00654 23.8889 4.11111 24.7843 4.11111 25.8889C4.11111 26.9935 5.00654 27.8889 6.11111 27.8889Z" fill="currentColor"></path>
+	<path d="M25.8889 27.8889C26.9935 27.8889 27.8889 26.9935 27.8889 25.8889C27.8889 24.7843 26.9935 23.8889 25.8889 23.8889C24.7843 23.8889 23.8889 24.7843 23.8889 25.8889C23.8889 26.9935 24.7843 27.8889 25.8889 27.8889Z" fill="currentColor"></path>
+	<path d="M6.11111 8.11108C7.21568 8.11108 8.11111 7.21565 8.11111 6.11108C8.11111 5.00651 7.21568 4.11108 6.11111 4.11108C5.00654 4.11108 4.11111 5.00651 4.11111 6.11108C4.11111 7.21565 5.00654 8.11108 6.11111 8.11108Z" fill="currentColor"></path>
+</svg>
+                                    </div>
+								
+                                <div>
+																		
+									                                        <h5 class="headline_type-5 mb-[16px]">
+											To interact with web3 applications and make transactions                                        </h5>
+																		
+																		
+									                                </div>
+                            </div>
+                        </nr-grid-child>
+					                        <nr-grid-child class="text-center">
+                            <div class="bg-[#F7F7F7] rounded-lg flex flex-col bg-white px-[48px] pt-[32px] pb-[40px] text-center h-[100%]">
+								                                    <div class="text-blue mb-[24px] flex justify-center ">
+										<svg width="32" height="32" viewbox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path opacity="0.5" d="M22.8444 4L29.7111 16L22.8444 28H9.15556L2.31111 16L9.15556 4H22.8444ZM24 2H8L0 16L8 30H24L32 16L24 2Z" fill="currentColor"></path>
+	<path d="M16 23.8889C18.6667 23.8889 20.9333 25.6 21.7556 28H10.2444C11.0667 25.6223 13.3333 23.8889 16 23.8889ZM16 21.8889C11.5333 21.8889 7.91111 25.5111 7.91111 30H24.1111C24.0889 25.5334 20.4667 21.8889 16 21.8889Z" fill="currentColor"></path>
+	<path d="M15.9333 14C17.3111 14 18.4222 15.1111 18.4222 16.4889C18.4222 17.8667 17.3111 18.9778 15.9333 18.9778C14.5556 18.9778 13.4444 17.8667 13.4444 16.4889C13.4444 15.1111 14.5556 14 15.9333 14ZM15.9333 12C13.4444 12 11.4444 14.0222 11.4444 16.4889C11.4444 18.9556 13.4667 20.9778 15.9333 20.9778C18.4222 20.9778 20.4222 18.9556 20.4222 16.4889C20.4222 14.0222 18.4 12 15.9333 12Z" fill="currentColor"></path>
+</svg>
+                                    </div>
+								
+                                <div>
+																		
+									                                        <h5 class="headline_type-5 mb-[16px]">
+											To manage your blockchain identity                                        </h5>
+																		
+																		
+									                                </div>
+                            </div>
+                        </nr-grid-child>
+					                </nr-grid>
+            </nr-grid-child>
+        </nr-grid>
+		</nr-section>
+</div>
+
+<div id="block_353b800678c5e965f8a13503cddbec7f" class="near-block near-block-v2-heading-section ">
+<nr-section background="#F7F7F7" padding="none" paddingtop="m" paddingbottom="none" class="block-v2-heading-section" clipcontent>
+    <nr-grid class="w-full" grid="1-xl">
+        <nr-grid-child first="true" class="col-span-12 text-center">
+						
+    <h5 class="mb-[32px] text-dark headline_type-5">
+	Choose the type of wallet that fits you    </h5>
+
+        </nr-grid-child>
+    </nr-grid>
+	
+	</nr-section>
+</div>
+
+<div id="block_c8fe85ba57079ca7c1710f15d16d860f" class="near-block near-block-v2-big-card ">
+<nr-section background="#F7F7F7" padding="none" paddingtop="none" paddingbottom="none" class="block-v2-big-card" clipcontent>
+    <nr-grid class="w-full rounded-[10px] py-[32px]" grid="1-l">
+        <nr-grid-child first="true" class="col-span-12 md:col-span-10 md:col-start-2 text-center">
+            <nr-box>
+                <div class=" bg-[#FFFFFF]">
+                    	<div class="text-center inline-block mb-[18px] text-red">
+		<svg width="32" height="32" viewbox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path opacity="0.5" d="M16 0V10" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path opacity="0.5" d="M16 22V32" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path opacity="0.5" d="M32 16H22" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path opacity="0.5" d="M10 16H0" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path d="M16 6C21.5111 6 26 10.4889 26 16C26 21.5111 21.5111 26 16 26C10.4889 26 6 21.5111 6 16C6 10.4889 10.4889 6 16 6ZM16 4C9.37778 4 4 9.37778 4 16C4 22.6222 9.37778 28 16 28C22.6222 28 28 22.6222 28 16C28 9.37778 22.6222 4 16 4Z" fill="currentColor"></path>
+</svg>
+	</div>
+                    
+    <h4 class="mb-[32px] text-dark headline_type-4">
+	Web wallets    </h4>
+<div class="further_sub-headline prose mb-[36px] sm:mb-[72px] text-dark">
+<p>Runs directly in your browser window. <strong>Fastest way to start</strong></p>
+</div>
+        
+                                                <nr-grid class="w-full" grid="2-l">
+                                                            <nr-grid-child class="text-left">
+                                    <div class="mb-[20px] font-[600] text-[18px]">
+                                        Pros:                                    </div>
+                
+                                    <div class="text-[18px]">
+                                        <ul>
+<li>Easy access from different devices, only a web browser is needed</li>
+<li>No installation required</li>
+</ul>
+                                    </div>
+                                </nr-grid-child>
+                                                                <nr-grid-child class="text-left">
+                                    <div class="mb-[20px] font-[600] text-[18px]">
+                                        Cons:                                    </div>
+                
+                                    <div class="text-[18px]">
+                                        <ul>
+<li>Service disruptions can make it difficult to access funds</li>
+<li>Your keys are saved in local storage, which is less secure</li>
+</ul>
+                                    </div>
+                                </nr-grid-child>
+                                                            </nr-grid>
+                        
+                    <div class="text-center prose text-[18px]">
+						<p>For example, <a href="https://mynearwallet.com/">MyNearWallet</a></p>
+                    </div>
+                </div>
+            </nr-box>
+        </nr-grid-child>
+    </nr-grid>
+</nr-section>
+</div>
+
+<div id="block_ecd03fc26c6fd3198da1b17d4a6780bc" class="near-block near-block-v2-big-card ">
+<nr-section background="#F7F7F7" padding="none" paddingtop="none" paddingbottom="none" class="block-v2-big-card" clipcontent>
+    <nr-grid class="w-full rounded-[10px] py-[32px]" grid="1-l">
+        <nr-grid-child first="true" class="col-span-12 md:col-span-10 md:col-start-2 text-center">
+            <nr-box>
+                <div class=" bg-[#FFFFFF]">
+                    	<div class="text-center inline-block mb-[18px] text-orange">
+		<svg width="32" height="32" viewbox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path opacity="0.5" d="M16 0V10" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path opacity="0.5" d="M16 22V32" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path opacity="0.5" d="M32 16H22" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path opacity="0.5" d="M10 16H0" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path d="M16 6C21.5111 6 26 10.4889 26 16C26 21.5111 21.5111 26 16 26C10.4889 26 6 21.5111 6 16C6 10.4889 10.4889 6 16 6ZM16 4C9.37778 4 4 9.37778 4 16C4 22.6222 9.37778 28 16 28C22.6222 28 28 22.6222 28 16C28 9.37778 22.6222 4 16 4Z" fill="currentColor"></path>
+</svg>
+	</div>
+                    
+    <h4 class="mb-[32px] text-dark headline_type-4">
+	Browser extensions    </h4>
+<div class="further_sub-headline prose mb-[36px] sm:mb-[72px] text-dark">
+<p>Installs as a plug-in for your browser. <strong>Best choice for a desktop</strong></p>
+</div>
+        
+                                                <nr-grid class="w-full" grid="2-l">
+                                                            <nr-grid-child class="text-left">
+                                    <div class="mb-[20px] font-[600] text-[18px]">
+                                        Pros:                                    </div>
+                
+                                    <div class="text-[18px]">
+                                        <ul>
+<li>More secure than pure web wallet</li>
+<li>Wallet can typically be used without leaving the current page</li>
+</ul>
+                                    </div>
+                                </nr-grid-child>
+                                                                <nr-grid-child class="text-left">
+                                    <div class="mb-[20px] font-[600] text-[18px]">
+                                        Cons:                                    </div>
+                
+                                    <div class="text-[18px]">
+                                        <ul>
+<li>Not always available for your preferred browser / operating system</li>
+<li>Your keys are saved on your local hard drive, which less secure</li>
+</ul>
+                                    </div>
+                                </nr-grid-child>
+                                                            </nr-grid>
+                        
+                    <div class="text-center prose text-[18px]">
+						<p>For example, <a href="https://senderwallet.io/">Sender Wallet</a></p>
+                    </div>
+                </div>
+            </nr-box>
+        </nr-grid-child>
+    </nr-grid>
+</nr-section>
+</div>
+
+<div id="block_0e8d48000fcc0fe177ce6f578b08a31a" class="near-block near-block-v2-big-card ">
+<nr-section background="#F7F7F7" padding="none" paddingtop="none" paddingbottom="none" class="block-v2-big-card" clipcontent>
+    <nr-grid class="w-full rounded-[10px] py-[32px]" grid="1-l">
+        <nr-grid-child first="true" class="col-span-12 md:col-span-10 md:col-start-2 text-center">
+            <nr-box>
+                <div class=" bg-[#FFFFFF]">
+                    	<div class="text-center inline-block mb-[18px] text-turquoise">
+		<svg width="32" height="32" viewbox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path opacity="0.5" d="M16 0V10" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path opacity="0.5" d="M16 22V32" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path opacity="0.5" d="M32 16H22" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path opacity="0.5" d="M10 16H0" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path d="M16 6C21.5111 6 26 10.4889 26 16C26 21.5111 21.5111 26 16 26C10.4889 26 6 21.5111 6 16C6 10.4889 10.4889 6 16 6ZM16 4C9.37778 4 4 9.37778 4 16C4 22.6222 9.37778 28 16 28C22.6222 28 28 22.6222 28 16C28 9.37778 22.6222 4 16 4Z" fill="currentColor"></path>
+</svg>
+	</div>
+                    
+    <h4 class="mb-[32px] text-dark headline_type-4">
+	Mobile wallets    </h4>
+<div class="further_sub-headline prose mb-[36px] sm:mb-[72px] text-dark">
+<p>Runs as an app on your mobile phone. <strong>Most convenient</strong></p>
+</div>
+        
+                                                <nr-grid class="w-full" grid="2-l">
+                                                            <nr-grid-child class="text-left">
+                                    <div class="mb-[20px] font-[600] text-[18px]">
+                                        Pros:                                    </div>
+                
+                                    <div class="text-[18px]">
+                                        <ul>
+<li>Portable and convenient; ideal when making transactions face-to-face or on the go</li>
+<li>Designed to use QR codes to make quick and seamless transactions</li>
+</ul>
+                                    </div>
+                                </nr-grid-child>
+                                                                <nr-grid-child class="text-left">
+                                    <div class="mb-[20px] font-[600] text-[18px]">
+                                        Cons:                                    </div>
+                
+                                    <div class="text-[18px]">
+                                        <ul>
+<li>App marketplaces can delist/remove wallet making it difficult to receive future updates</li>
+</ul>
+                                    </div>
+                                </nr-grid-child>
+                                                            </nr-grid>
+                        
+                    <div class="text-center prose text-[18px]">
+						<p>For example, <a href="https://herewallet.app/">HERE Wallet</a></p>
+                    </div>
+                </div>
+            </nr-box>
+        </nr-grid-child>
+    </nr-grid>
+</nr-section>
+</div>
+
+<div id="block_c51b6ae8091723db2c47af0c62c6ae2e" class="near-block near-block-v2-big-card ">
+<nr-section background="#F7F7F7" padding="none" paddingtop="none" paddingbottom="none" class="block-v2-big-card" clipcontent>
+    <nr-grid class="w-full rounded-[10px] py-[32px]" grid="1-l">
+        <nr-grid-child first="true" class="col-span-12 md:col-span-10 md:col-start-2 text-center">
+            <nr-box>
+                <div class=" bg-[#FFFFFF]">
+                    	<div class="text-center inline-block mb-[18px] text-green">
+		<svg width="32" height="32" viewbox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path opacity="0.5" d="M16 0V10" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path opacity="0.5" d="M16 22V32" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path opacity="0.5" d="M32 16H22" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path opacity="0.5" d="M10 16H0" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path>
+	<path d="M16 6C21.5111 6 26 10.4889 26 16C26 21.5111 21.5111 26 16 26C10.4889 26 6 21.5111 6 16C6 10.4889 10.4889 6 16 6ZM16 4C9.37778 4 4 9.37778 4 16C4 22.6222 9.37778 28 16 28C22.6222 28 28 22.6222 28 16C28 9.37778 22.6222 4 16 4Z" fill="currentColor"></path>
+</svg>
+	</div>
+                    
+    <h4 class="mb-[32px] text-dark headline_type-4">
+	Hardware wallets    </h4>
+<div class="further_sub-headline prose mb-[36px] sm:mb-[72px] text-dark">
+<p>A separate hardware device that keeps the keys to your account. <strong>Most secure.</strong></p>
+</div>
+        
+                                                <nr-grid class="w-full" grid="2-l">
+                                                            <nr-grid-child class="text-left">
+                                    <div class="mb-[20px] font-[600] text-[18px]">
+                                        Pros:                                    </div>
+                
+                                    <div class="text-[18px]">
+                                        <ul>
+<li>The most secure methods to store your assets</li>
+<li>Many other wallets support these for extra security</li>
+</ul>
+                                    </div>
+                                </nr-grid-child>
+                                                                <nr-grid-child class="text-left">
+                                    <div class="mb-[20px] font-[600] text-[18px]">
+                                        Cons:                                    </div>
+                
+                                    <div class="text-[18px]">
+                                        <ul>
+<li>Needs to connect to your mobile or desktop device</li>
+<li>Loss of device without proper backup can make funds unrecoverable</li>
+</ul>
+                                    </div>
+                                </nr-grid-child>
+                                                            </nr-grid>
+                        
+                    <div class="text-center prose text-[18px]">
+						<p>For example, <a href="https://www.ledger.com/">Ledger</a></p>
+                    </div>
+                </div>
+            </nr-box>
+        </nr-grid-child>
+    </nr-grid>
+</nr-section>
+</div>
+
+<div id="block_be5b62772d12b9a90c3e8f155ba5eb05" class="near-block near-block-v2-cta ">
+<nr-section background="#F7F7F7" padding="xs" paddingtop="xs" paddingbottom="m" class="block-v2-cta" clipcontent>
+    <nr-grid class="w-full" grid="1-l">
+        <nr-grid-child first="true" class="col-span-12 md:col-span-10 md:col-start-2 text-center">
+	        <div class="near-block-arrow-link flex items-center flex-col md:flex-row">
+<p class="paragraph_m_bold near-block-arrow-link">
+    <a target="" class=" link_blue paragraph_m_regular ml-[10px] mr-[10px] mb-[20px] md:mb-[0px]">
+	</a></p>
+</div>        </nr-grid-child>
+    </nr-grid>
+</nr-section>
+</div>
+
+<div id="block_84a35dd9a7a4b28fff8c77590d876670" class="near-block near-block-v2-warning-box ">
+<nr-section background="#F7F7F7" padding="none" paddingtop="none" paddingbottom="m" class="block-v2-big-card" clipcontent>
+    <nr-grid class="w-full" grid="1-xl">
+        <nr-grid-child first="true" class="col-span-12 text-center">
+						
+    <h6 class="mb-[32px] text-dark headline_type-6">
+	You are responsible for the safety of your assets!    </h6>
+<div class="further_sub-headline prose mb-[36px] sm:mb-[72px] text-dark">
+<p>The NEAR Foundation has not fully vetted any wallets (yet). The wallets listed above are examples, the listing above does not imply any endorsement.</p>
+</div>
+        </nr-grid-child>
+    </nr-grid>
+    
+    <nr-grid class="w-full" grid="1-xl">
+        <nr-grid-child first="true" class="col-span-12 text-center">
+            <div class="relative rounded-[10px]" style="background:linear-gradient(90deg, #262626 0%, #043B3E 100%);">
+                <img src="/wp-content/themes/near-21/assets/img/relaunch/icon_warning.png" alt="Icon - Warning" class="left-[25px] top-[30px] select-none absolute" draggable="false">
+
+                <div class="w-full grid grid-cols-1">
+                    <!-- @start: Columns -->
+					                        <nr-grid-child class="pl-[110px] py-[30px]">
+                            <div class="w-full text-left">
+								
+                                    <div class="text-[#ffffff] text-[14px]">
+										<ul>
+<li>Rotate your private keys regularly</li>
+<li>Keep credentials like seed phrases offline</li>
+<li>Check URLs are correct; many scammers make realistic sites for apps like MetaMask and try to trick you into</li>
+<li>entering your credentials.</li>
+</ul>
+                                    </div>
+									
+                                    <div class="text-[#ffffff] text-[14px]">
+										<ul>
+<li>Update your pin regularly</li>
+<li>Use multi-factor authentication whenever possible</li>
+<li>Don’t store all your funds in one place</li>
+<li>Use cold wallets to store assets</li>
+</ul>
+                                    </div>
+									                            </div>
+                        </nr-grid-child>
+						                    <!-- @end: Columns -->
+                </div>
+            </div>
+        </nr-grid-child>
+    </nr-grid>
+</nr-section>
+</div>
+
+<div id="block_268b70cf2f1858c6f7f3513520dd4c1a" class="near-block near-block-v2-teaser-cards ">
+<nr-section id="exploration_tools" background="#fff" padding="m" paddingtop="m" paddingbottom="m" class="block-v2-teaser-cards" clipcontent>
+    <nr-grid class="w-full" grid="1-xl">
+        <nr-grid-child first="true" class="col-span-12 text-center">
+						
+    <h2 class="mb-[32px] text-dark headline_type-2">
+	Tools to explore NEAR    </h2>
+<div class="further_sub-headline prose mb-[36px] sm:mb-[72px] text-dark">
+<p>See what’s on the blockchain and explore new dApps</p>
+</div>
+        </nr-grid-child>
+		
+		            <nr-grid-child class="">
+                <div class="w-full grid grid-cols-2 gap-[36px]">
+					                        <div class="bg-white rounded-[10px] border border-[#DEDEDE] overflow-clip">
+							
+                            <img src="/wp-content/uploads/2022/11/Img_explorer.png" alt="" class="border-b border-[#DEDEDE]">
+
+                            <div class="p-[32px]">
+                                <h5 class="headline_type-5 mb-[16px]">
+									NEAR official blockchain explorer                                </h5>
+
+                                <p class="paragraph_l_regular mb-[16px]">
+									Explore accounts and transactions of the NEAR Blockchain                                </p>
+								
+								                                    <p class="paragraph_m_regular near-block-arrow-link">
+                                        <a href="https://explorer.nearpages.wpengine.com/" class="link_blue">
+											Open NEAR explorer                                        </a>
+                                    </p>
+								                            </div>
+                        </div>
+						                        <div class="bg-white rounded-[10px] border border-[#DEDEDE] overflow-clip">
+							
+                            <img src="/wp-content/uploads/2022/11/img_nearblocks.png" alt="" class="border-b border-[#DEDEDE]">
+
+                            <div class="p-[32px]">
+                                <h5 class="headline_type-5 mb-[16px]">
+									NearBlocks.io blockchain explorer                                </h5>
+
+                                <p class="paragraph_l_regular mb-[16px]">
+									A Blockchain Explorer and Analytics Platform for Near Protocol                                </p>
+								
+								                                    <p class="paragraph_m_regular near-block-arrow-link">
+                                        <a href="https://nearblocks.io/" class="link_blue">
+											Open NearBlocks explorer                                        </a>
+                                    </p>
+								                            </div>
+                        </div>
+						                        <div class="bg-white rounded-[10px] border border-[#DEDEDE] overflow-clip">
+							
+                            <img src="/wp-content/uploads/2022/11/Img_statsgallery.png" alt="" class="border-b border-[#DEDEDE]">
+
+                            <div class="p-[32px]">
+                                <h5 class="headline_type-5 mb-[16px]">
+									stats.gallery                                </h5>
+
+                                <p class="paragraph_l_regular mb-[16px]">
+									An informative overview of what your NEAR account activity looks like, in an easy-to-read chart                                </p>
+								
+								                                    <p class="paragraph_m_regular near-block-arrow-link">
+                                        <a href="https://stats.gallery/" class="link_blue">
+											Open stats.gallery                                        </a>
+                                    </p>
+								                            </div>
+                        </div>
+						                        <div class="bg-white rounded-[10px] border border-[#DEDEDE] overflow-clip">
+							
+                            <img src="/wp-content/uploads/2022/11/Img_staking.png" alt="" class="border-b border-[#DEDEDE]">
+
+                            <div class="p-[32px]">
+                                <h5 class="headline_type-5 mb-[16px]">
+									NEAR Staking                                </h5>
+
+                                <p class="paragraph_l_regular mb-[16px]">
+									Explore staking stats, active nodes and validators                                </p>
+								
+								                                    <p class="paragraph_m_regular near-block-arrow-link">
+                                        <a href="https://near-staking.com/" class="link_blue">
+											Open NEAR-staking                                        </a>
+                                    </p>
+								                            </div>
+                        </div>
+						                        <div class="bg-white rounded-[10px] border border-[#DEDEDE] overflow-clip">
+							
+                            <img src="/wp-content/uploads/2022/11/Img_awesomenear.png" alt="" class="border-b border-[#DEDEDE]">
+
+                            <div class="p-[32px]">
+                                <h5 class="headline_type-5 mb-[16px]">
+									AwesomeNEAR                                </h5>
+
+                                <p class="paragraph_l_regular mb-[16px]">
+									A curated list of projects on NEAR                                </p>
+								
+								                                    <p class="paragraph_m_regular near-block-arrow-link">
+                                        <a href="https://awesomenear.com/" class="link_blue">
+											Open AwesomeNEAR                                        </a>
+                                    </p>
+								                            </div>
+                        </div>
+						                </div>
+            </nr-grid-child>
+			
+        <nr-grid-child class="text-center">
+			        </nr-grid-child>
+    </nr-grid>
+</nr-section>
+</div>
+</div>
+</main>
+
+	<div class="near-global-footer">
+	<form id="newsletter-form" class="near-newsletter-form" action="https://nearweek.us1.list-manage.com/subscribe/post?u=ed13caf5cf7d37689d81ef60b&id=86d4e11a12&f_id=003e00e2f0" method="POST" target="_blank">
+	<div class="near-newsletter-form-container rounded-[10px]">
+
+		<div class="near-newsletter-form-message">
+            <div class="text-[1rem] sm:text-[1.25rem] font-bold text-black ">Newsletter</div>
+            <div class="text-[0.75rem] sm:text-[0.95rem] text-black ">Powered by NEARWEEK. No spam. Unsubscribe at any time.</div>
+        </div>
+
+        <div class="near-newsletter-form-form">
+            <div class="near-newsletter-form-input-group">
+                <input type="email" name="EMAIL" class="near-newsletter-form-input  border-2 w-full rounded p-2 border-black mb-2 min-w-[200px] sm:grow sm:rounded-tr-none sm:rounded-br-none sm:mb-0 md:w-auto md:rounded-l-md md:p-3 md:border-r-0 md:min-w-[300px]" placeholder="Your e-mail ...">
+                <button type="submit" class="near-newsletter-form-btn">Subscribe</button>
+            </div>
+
+            <input type="text" name="b_faedf5dec8739fb92e05b4131_14e8024c6c" tabindex="-1" class="near-newsletter-form-hidden" value="">
+
+        </div>
+
+    </div>
+</form>
+	<footer class="near-footer">
+	<div class="near-footer-container">
+		<div class="near-footer-columns">
+												<div>
+						<h3 class="near-footer-menu-title">Learn</h3>
+
+						<ul id="menu-learn" class="near-footer-menu">
+<li id="menu-item-17510" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-17510"><a href="/learn/">The basics</a></li>
+<li id="menu-item-19716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19716"><a href="/learn/learn-more/">All learning resources</a></li>
+<li id="menu-item-17502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17502"><a target="_blank" rel="noopener" href="https://wiki.nearpages.wpengine.com/">NEAR Wiki</a></li>
+</ul>
+                        
+
+					</div>
+																<div>
+						<h3 class="near-footer-menu-title">Use</h3>
+
+						<ul id="menu-use" class="near-footer-menu">
+<li id="menu-item-19569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19569"><a href="/use/set-up-account/">Set up account</a></li>
+<li id="menu-item-17529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17529"><a href="/use/#dapps_by_category">Examples of dApps</a></li>
+<li id="menu-item-17839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17839"><a href="https://awesomenear.com/">AwesomeNEAR</a></li>
+<li id="menu-item-18033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18033"><a href="/use/#why_it_matters">Why it matters</a></li>
+</ul>
+                        
+
+					</div>
+																<div>
+						<h3 class="near-footer-menu-title">Ecosystem</h3>
+
+						<ul id="menu-ecosystem" class="near-footer-menu">
+<li id="menu-item-17804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17804"><a href="/ecosystem/">Overview</a></li>
+<li id="menu-item-17806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17806"><a href="/ecosystem/get-funding/">Get funding</a></li>
+<li id="menu-item-17807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17807"><a href="/ecosystem/work-and-earn/">Work &#038; earn</a></li>
+<li id="menu-item-17805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17805"><a href="/ecosystem/community/">Community</a></li>
+<li id="menu-item-17517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17517"><a target="_blank" rel="noopener" href="https://near.events/">Events</a></li>
+<li id="menu-item-17518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17518"><a target="_blank" rel="noopener" href="https://gov.nearpages.wpengine.com/">Gov. Forum</a></li>
+<li id="menu-item-17519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17519"><a target="_blank" rel="noopener" href="https://medium.com/nearprotocol">Community Blog</a></li>
+</ul>
+                        
+
+					</div>
+																<div>
+						<h3 class="near-footer-menu-title">Developers</h3>
+
+						<ul id="menu-developers" class="near-footer-menu">
+<li id="menu-item-17809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17809"><a href="/developers/">Overview</a></li>
+<li id="menu-item-17816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17816"><a href="/developers/get-help/">Get help</a></li>
+<li id="menu-item-13380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13380"><a target="_blank" rel="noopener" href="https://docs.near.org/">NEAR Docs</a></li>
+<li id="menu-item-17545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17545"><a target="_blank" rel="noopener" href="https://github.com/near">NEAR Github</a></li>
+<li id="menu-item-17808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17808"><a href="https://aurora.dev/">Aurora (EVM)</a></li>
+<li id="menu-item-19544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19544"><a target="_blank" rel="noopener" href="https://www.neardevgov.org/">Dev. Governance</a></li>
+</ul>
+                        
+
+					</div>
+																<div>
+						<h3 class="near-footer-menu-title">About</h3>
+
+						<ul id="menu-about" class="near-footer-menu">
+<li id="menu-item-17531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17531"><a href="/about/">Overview</a></li>
+<li id="menu-item-17810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17810"><a href="/blog/">Blog</a></li>
+<li id="menu-item-17813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17813"><a href="/about/network/">Network</a></li>
+<li id="menu-item-19081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19081"><a href="/about/press-center/">Press Center</a></li>
+<li id="menu-item-17815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17815"><a href="/about/brand/">Brand toolkit</a></li>
+<li id="menu-item-17814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17814"><a href="https://careers.near.org/jobs">Careers</a></li>
+<li id="menu-item-17812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17812"><a href="/about/contact-us/">Contact us</a></li>
+</ul>
+                        
+
+					</div>
+																<div>
+						<h3 class="near-footer-menu-title">User Tools</h3>
+
+						<ul id="menu-user-tools" class="near-footer-menu">
+<li id="menu-item-17543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17543"><a target="_blank" rel="noopener" href="https://wallet.nearpages.wpengine.com/">NEAR Wallet</a></li>
+<li id="menu-item-17541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17541"><a target="_blank" rel="noopener" href="https://explorer.nearpages.wpengine.com/">NEAR Explorer</a></li>
+<li id="menu-item-17818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17818"><a href="https://stats.gallery/">Stats gallery</a></li>
+<li id="menu-item-17817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17817"><a href="/bridge/">ETH ↔ NEAR bridge</a></li>
+</ul>
+                                                    <h3 class="near-footer-menu-title footer-nav-special">Developer Tools</h3>
+
+	                        <ul id="menu-developer-tools" class="near-footer-menu">
+<li id="menu-item-17549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17549"><a target="_blank" rel="noopener" href="https://docs.near.org/tools/near-cli">NEAR CLI</a></li>
+<li id="menu-item-17547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17547"><a target="_blank" rel="noopener" href="https://docs.near.org/develop/quickstart-guide">JavaScript SDK</a></li>
+<li id="menu-item-17546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17546"><a target="_blank" rel="noopener" href="https://github.com/near/near-sdk-rs">Rust SDK</a></li>
+<li id="menu-item-17548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17548"><a target="_blank" rel="noopener" href="https://docs.near.org/tools/near-api-js/cookbook">JavaScript API</a></li>
+</ul>                        
+
+					</div>
+									</div>
+
+		<ul id="menu-social" class="near-footer-social">
+<li id="menu-item-13397" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13397"><a title="Official Discord server" target="_blank" rel="noopener" href="http://near.chat/"><i class="fab fa-discord"></i></a></li>
+<li id="menu-item-13394" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13394"><a title="NEAR Governance Forum" target="_blank" rel="noopener" href="https://gov.nearpages.wpengine.com/"><i class="fab fa-discourse"></i></a></li>
+<li id="menu-item-13395" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13395"><a title="Official Twitter account" target="_blank" rel="noopener" href="https://twitter.com/nearprotocol"><i class="fab fa-twitter"></i></a></li>
+<li id="menu-item-13396" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13396"><a title="Official GitHub Repo" target="_blank" rel="noopener" href="https://github.com/near"><i class="fab fa-github"></i></a></li>
+<li id="menu-item-13398" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13398"><a title="Official Telegram channel" target="_blank" rel="noopener" href="https://t.me/cryptonear"><i class="fab fa-telegram"></i></a></li>
+<li id="menu-item-13399" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13399"><a title="WeChat" target="_blank" rel="noopener" href="/wechat"><i class="fab fa-weixin"></i></a></li>
+<li id="menu-item-13400" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13400"><a title="Official YouTube channel" target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCuKdIYVN8iE3fv8alyk1aMw"><i class="fab fa-youtube"></i></a></li>
+<li id="menu-item-18301" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-18301"><a title="Main reddit" target="_blank" rel="noopener" href="https://www.reddit.com/r/nearprotocol/"><i class="fab fa-reddit"></i></a></li>
+</ul>
+		<div class="near-footer-legal">
+            <a href="/cdn-cgi/l/email-protection#8be3eee7e7e4cbe5eeeaf9a5ede4fee5efeaffe2e4e5" class="no-auto-link"><span class="__cf_email__" data-cfemail="95fdf0f9f9fad5fbf0f4e7bbf3fae0fbf1f4e1fcfafb">[email&#160;protected]</span></a>
+            <span class="near-footer-legal-sep"></span>
+            <a href="https://near.org/privacy/">Privacy Policy</a>
+			<span class="near-footer-legal-sep"></span>
+            <a href="#" class="iubenda-cs-preferences-link">Cookie Settings</a>
+            <span class="near-footer-legal-sep"></span>
+            <a href="https://hackenproof.com/near" target="_blank">Bug Bounty Program</a>
+            <span class="near-footer-legal-sep"></span>
+            <span>2023 NEAR.org is run by the NEAR Foundation</span>
+		</div>
+	</div>
+</footer>
+</div>
+
+</div>
+
+
+        <span class="ssp-id" style="display:none">18977</span>
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>var nearRedditEvents = [{"selector":"#mega-overview-link","js_event":"click","reddit_event":"MegaOverview"},{"selector":"#mega-dev-tools-link","js_event":"click","reddit_event":"MegaDevTools"},{"selector":"#mega-education-link","js_event":"click","reddit_event":"MegaEducation"},{"selector":"#newsletter-form","js_event":"submit","reddit_event":"NewsletterSubscribe"}]</script>
+<script src="/wp-content/themes/near-21/assets/dist/near.js?t=1684954601" id="near-js"></script>
+
+<!--<script type="module" src="https://near-lib.num42.de/near-components.umd.js"></script>-->
+<script type="module" src="/wp-content/themes/near-21/assets/js/near-components.umd.js"></script>
+</body>
+
+</html>

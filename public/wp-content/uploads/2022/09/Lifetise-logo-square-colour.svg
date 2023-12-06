@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="lifetise_logo_sign">
+    <path d="M30 0C46.5685 0 60 13.4315 60 30L60 50C60 66.5685 46.5685 80 30 80C13.4315 80 0 66.5685 0 50L0 30C0 13.4315 13.4315 0 30 0Z" transform="translate(80 220)" id="part" fill="#5978F8" stroke="none" />
+    <path d="M30 0C46.5685 -3.04359e-15 60 13.4315 60 30L60 170C60 186.569 46.5685 200 30 200C13.4315 200 0 186.569 0 170L0 30C0 13.4315 13.4315 3.04359e-15 30 0Z" transform="translate(80 0)" id="part" fill="#69BBFF" stroke="none" />
+    <path d="M30 0C46.5685 -3.04359e-15 60 13.4315 60 30L60 50C60 66.5685 46.5685 80 30 80C13.4315 80 0 66.5685 0 50L0 30C0 13.4315 13.4315 3.04359e-15 30 0Z" transform="translate(240 0)" id="part" fill="#5978F8" stroke="none" />
+    <path d="M30 0C46.5685 0 60 13.4315 60 30L60 130C60 146.569 46.5685 160 30 160C13.4315 160 0 146.569 0 130L0 30C0 13.4315 13.4315 0 30 0Z" transform="translate(240 100)" id="part" fill="#69BBFF" stroke="none" />
+    <path d="M30 0C46.5685 0 60 13.4315 60 30L60 50C60 66.5685 46.5685 80 30 80C13.4315 80 5.58177e-15 66.5685 0 50L0 30C-2.02906e-15 13.4315 13.4315 0 30 0Z" transform="translate(0 40)" id="part" fill="#9E6CE4" stroke="none" />
+    <path d="M30 0C46.5685 0 60 13.4315 60 30L60 90C60 106.569 46.5685 120 30 120C13.4315 120 2.02906e-15 106.569 0 90L0 30C-2.02906e-15 13.4315 13.4315 0 30 0Z" transform="translate(0 140)" id="part" fill="#EC71DA" stroke="none" />
+    <path d="M30 0C46.5685 0 60 13.4315 60 30L60 50C60 66.5685 46.5685 80 30 80C13.4315 80 0 66.5685 0 50L0 30C0 13.4315 13.4315 0 30 0Z" transform="translate(160 180)" id="part" fill="#9E6CE4" stroke="none" />
+    <path d="M30 0C46.5685 0 60 13.4315 60 30L60 90C60 106.569 46.5685 120 30 120C13.4315 120 0 106.569 0 90L0 30C0 13.4315 13.4315 0 30 0Z" transform="translate(160 40)" id="part" fill="#EC71DA" stroke="none" />
+  </g>
+</svg>

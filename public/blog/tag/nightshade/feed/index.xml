@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nightshade Archives &#8211; NEAR Protocol</title>
+	<atom:link href="/blog/tag/nightshade/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/nightshade/</link>
+	<description></description>
+	<lastBuildDate>Wed, 14 Jun 2023 12:46:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<title>Nightshade Archives &#8211; NEAR Protocol</title>
+	<link>/blog/tag/nightshade/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Blockchain Scaling Approaches: NEAR Sharding vs. Layer 2s</title>
+		<link>/blog/blockchain-scaling-approaches-near-sharding-vs-layer-2s/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 14 Jun 2023 15:00:00 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[Nightshade]]></category>
+		<category><![CDATA[Sharding]]></category>
+		<guid isPermaLink="false">/?p=20626</guid>
+
+					<description><![CDATA[<p>Layer-twos (L2s) have become increasingly popular as a scaling solution for layer one (L1) blockchains in the past several years, …</p>
+<p>The post <a href="/blog/blockchain-scaling-approaches-near-sharding-vs-layer-2s/">Blockchain Scaling Approaches: NEAR Sharding vs. Layer 2s</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Layer-twos (L2s) have become increasingly popular as a scaling solution for layer one (L1) blockchains in the past several years, especially after Ethereum decided to scale via a rollup-centric roadmap. A layer-two is a protocol built on top of an existing blockchain to improve its scalability, throughput, or privacy and reduce the congestion and cost of operating on the L1 blockchain. NEAR, on the other hand, chose to scale through a different approach: sharding. In this post, I’ll explain the rationale behind NEAR’s approach and why NEAR does not plan to scale through layer 2.</p>
+
+
+
+<p>To understand the differences in scaling approaches, let’s first take a look at how layer 2s work. Generally speaking, layer 2s work by performing state transitions outside of (or off-chain from) the layer 1 they build on and committing state roots and transaction data to the underlying layer 1. Depending on how exactly the state transitions are verified, these may be optimistic rollups, which rely on fraud proofs, or ZK rollups, which use zero-knowledge proofs to show the validity of the layer 2 state transition.</p>
+
+
+
+<p>The premise of scaling through rollups is that a rollup has higher throughput than the underlying L1 due to decreased consensus overhead; there could be many rollups running as their own chain and processing different transitions. The underlying L1 provides security for rollups as a settlement layer, and rollups offer scalability in return. This offloads the significant challenge of scalability onto a protocol that exists outside of the L1 and therefore simplifies the L1 protocol design. Ethereum, for example, is well known for its plan to scale through rollups such as Arbitrum, Optimism, ZkSync and Polygon zkEVM.</p>
+
+
+
+<p>How well does this promising design approach work in practice? While it may still be too early to say, given that Ethereum is the only major blockchain adopting this approach and that L2s themselves are relatively nascent, there are lessons to be learned already. First, composability between layer 2s is a problem. While each rollup itself has higher throughput than Ethereum, rollups lack the native interoperability that allows contracts from different rollups to interact with each other. Each one can only interact with the Ethereum L1. Composability is especially important for financial applications and is arguably what makes the Ethereum L1 so successful.&nbsp;</p>
+
+
+
+<p>Second, while in theory rollups should work together to scale Ethereum, in practice the overall scaling achieved by rollups collectively is not much more than what one rollup offers. That is mostly due to the fact that popular Ethereum dapps run on almost all rollups and as a result, similar transactions are “duplicated” across different rollups. The transactions to use DeFi applications such as Uniswap on different rollups actually compete for call data space on Ethereum for data availability.</p>
+
+
+
+<p>In contrast, NEAR scales through sharding, or parallelizing the network into partitions that are built into the protocol itself, with the same security guarantees of the L1 blockchain. NEAR’s architecture is, in some sense, similar to Ethereum with rollups, where each shard is similar to an optimistic rollup. The difference is that because sharding is built into the protocol, applications on one shard can natively interact with applications on another shard. The homogeneous sharding model also means that two apps interact in the same way regardless of whether or not they are deployed on the same shard. As a result, not only do developers not need to care about which shard to deploy their applications on, they also have the peace of mind that their application can freely interact with any other application deployed on NEAR without having to resort to third-party bridges.&nbsp;</p>
+
+
+
+<p>While composability is a nontrivial advantage of NEAR’s sharding approach, it is not all NEAR has to offer. Fast finality on NEAR means that users can be confident that their transactions are finalized in two to three seconds. In the rollup world, however, transaction finality is much worse. Optimistic rollups are known for their long exit time (usually 7 days) and ZK rollups are bottlenecked on proof generation, which takes up to 10 minutes today. Furthermore, in NEAR’s sharding model, since both processing and state are completely sharded, the throughput almost scales linearly with the number of shards. Thanks to the native composability mentioned above, developers and users truly benefit from the scalability as one application is only deployed once on one shard, unlike the current state of rollups where many popular applications have to be deployed on many rollups, which reduces the amount of true parallelism in transaction processing.</p>
+
+
+
+<p>This is not to say, however, that NEAR’s approach is superior. Sharding makes the protocol very complex, hard to understand, and difficult to implement. In comparison, the rollup-centric approach taken by Ethereum has a relatively simple design, even though it still requires data availability sharding (Danksharding) for layer 2s to work efficiently.</p>
+
+
+
+<p>Ultimately, the different choices on scaling approaches reflect different design philosophies of the underlying protocol. Ethereum wants the protocol itself to be maximally robust and resilient and therefore it is important to minimize the complexity of the L1 protocol design. NEAR, on the other hand, prioritizes simplicity for developers and users and is willing to make the protocol more complex under the hood for the sake of a better experience for its users.</p>
+
+
+
+<p>It is worth noting that NEAR is not just a blockchain protocol, but an operating system that offers a common layer for browsing and discovering open web experiences and is compatible with any blockchain. Despite the differences in protocol design, NEAR as the blockchain operating system allows developers and users from different blockchains, including Ethereum layer 2s, to build and use applications across many different blockchain ecosystems.&nbsp;</p>
+<p>The post <a href="/blog/blockchain-scaling-approaches-near-sharding-vs-layer-2s/">Blockchain Scaling Approaches: NEAR Sharding vs. Layer 2s</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

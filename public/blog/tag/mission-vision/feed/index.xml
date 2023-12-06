@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mission &amp; vision Archives &#8211; NEAR Protocol</title>
+	<atom:link href="/blog/tag/mission-vision/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/mission-vision/</link>
+	<description></description>
+	<lastBuildDate>Thu, 15 Dec 2022 13:34:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<title>Mission &amp; vision Archives &#8211; NEAR Protocol</title>
+	<link>/blog/tag/mission-vision/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</title>
+		<link>/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 09 Nov 2022 13:33:43 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Mission & vision]]></category>
+		<category><![CDATA[Roadmaps]]></category>
+		<guid isPermaLink="false">/?p=19009</guid>
+
+					<description><![CDATA[<p>This post, written by Pagoda&#8217;s Head of Protocol Bowen Wang, originally appeared on the Web3 startup platform and main contributor …</p>
+<p>The post <a href="/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/">NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em>This post, written by Pagoda&#8217;s Head of Protocol Bowen Wang, originally appeared on the Web3 startup platform and main contributor to the core Protocol</em> <em>Pagoda&#8217;s blog. </em></p>
+
+
+
+<p>NEAR has evolved tremendously in the two years since the mainnet launch in October 2020.&nbsp;More than 20 protocol upgrades were done live, most recently the launch of Sharding Phase 1.&nbsp;As we look ahead to the next two phases of sharding and beyond, it’s time for an updated protocol roadmap.</p>
+
+
+
+<p>This post will outline&nbsp;the next two years of evolving the NEAR Protocol and the technical priorities we believe will benefit builders and users the most. The roadmap is meant to be a living document and anyone is welcome to make suggestions or proposals on how the protocol should evolve.</p>
+
+
+
+<p>The roadmap has two major components: Experience and Core. The Experience section encompasses user and/or developer experience and the protocol features needed to enable those experiences. As an example, an iPhone user can freely start to use applications built on top of NEAR without having to register an account if we have meta transactions and support for Secp256r1 keys.</p>
+
+
+
+<p>The Core section, on the other hand, covers major efforts to improve the scalability and decentralization of the protocol. Most notably, this features the launch of phase 2 of sharding, which scales the network to 100 shards with no validators tracking all shards. Phase 2 is planned for 2023. The roadmap goes through 2024 with the delivery of phase 3 of sharding, which dynamically adjusts the number of shards based on demand.</p>
+
+
+
+<p><strong>Head over to the <a href="https://www.pagoda.co/blog/protocol-roadmap-2023-4-the-next-2-years-of-near">Pagoda blog</a> to read the NEAR Protocol Roadmap 2023-4 with infographics.</strong></p>
+<p>The post <a href="/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/">NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Commitment to Communication</title>
+		<link>/blog/a-commitment-to-communication/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 08 Nov 2022 20:04:32 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[Mission & vision]]></category>
+		<guid isPermaLink="false">/?p=19007</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation has always held transparency as one of its core beliefs. Being open to the community, investors, builders …</p>
+<p>The post <a href="/blog/a-commitment-to-communication/">A Commitment to Communication</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation has always held transparency as one of its core beliefs. Being open to the community, investors, builders and creators is one of the core tenets of being a Web3 project. But it’s become apparent the Foundation needs to do more.&nbsp;</p>
+
+
+
+<p>The Foundation hears the frustration from the community, and it wants to be more pro-active in when and how it communicates.&nbsp;</p>
+
+
+
+<p>Below is a high level overview of its new communication strategy. More specific details will follow.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-relaunching-town-halls">Relaunching town halls&nbsp;</h2>
+
+
+
+<p>Townhalls have been a tool the Foundation has used to communicate its strategy and highlight what the ecosystem has been up to in the past. These will be brought back in an updated format monthly that will focus more on showcasing what’s happening internally at the Foundation, and providing opportunities for projects to play a bigger role in decision making through a Q&amp;A format. </p>
+
+
+
+<h2 class="wp-block-heading" id="h-a-commitment-to-regular-amas">A commitment to regular AMAs&nbsp;</h2>
+
+
+
+<p>The leadership team will be hosting fortnightly regular AMAs for the community to ask questions around strategy and future direction. The Foundation will also host specific AMAs around key parts of the Foundation to allow the community to ask questions to specific members of the team. </p>
+
+
+
+<p>These AMAs will initially be focused around:&nbsp;</p>
+
+
+
+<ol><li>Marketing &amp; Events</li><li>Community</li><li>BD/Funding</li><li>Education</li><li>Legal</li></ol>
+
+
+
+<h2 class="wp-block-heading" id="h-always-on-signposting">Always on signposting&nbsp;</h2>
+
+
+
+<p>The Foundation has created lots of resources to help the community navigate resources and where to go for help. However, the Foundation is aware these could be sign-posted better. As such, it will shift to an always-on approach to better highlight where people can find the information they need, or speak to someone from the Foundation.&nbsp;</p>
+
+
+
+<p>This is just the beginning of this strategy and Foundation will publish more updates on this approach in the coming weeks.</p>
+<p>The post <a href="/blog/a-commitment-to-communication/">A Commitment to Communication</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Time for Conviction</title>
+		<link>/blog/a-time-for-conviction/</link>
+		
+		<dc:creator><![CDATA[Marieke Flament]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 09:19:33 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[Mission & vision]]></category>
+		<guid isPermaLink="false">/?p=18740</guid>
+
+					<description><![CDATA[<p>It’s a tough time to be in Web3 at the moment: war in Europe, crippling inflation, and an increasingly pessimistic …</p>
+<p>The post <a href="/blog/a-time-for-conviction/">A Time for Conviction</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>It’s a tough time to be in Web3 at the moment: war in Europe, crippling inflation, and an increasingly pessimistic outlook over the growth of the global economy. That’s led to a steep contraction of the Web3 ecosystem, both in users and available capital.&nbsp;</p>
+
+
+
+<p>But for us at the NEAR Foundation, this moment of great duress is an opportunity to focus our efforts on what we believe is the long term future of this industry. It&#8217;s time for conviction.</p>
+
+
+
+<p>Web3 and NEAR are both in their early stages, and as such, there are still things that need long-term commitment both in time and resources in order to deliver the promise of decentralized technology.&nbsp;</p>
+
+
+
+<p>At its highest level, we believe the focus of the ecosystem should be on bringing more users to Web3, continuing to build out key infrastructure, and demonstrating why NEAR is the best solution for developers, founders and creatives.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-a-commitment-to-the-future">A Commitment to the future </h2>
+
+
+
+<p>NEAR is the best layer one technology platform. Bar none. Ethereum paved the way for companies to build and create their own worlds on top of a blockchain. But NEAR’s sharded design allows millions of people to use this technology without skipping a beat. </p>
+
+
+
+<p>NEAR’s focus on being simple to use, easy to build on, and fast to access funding and talent, means NEAR is primed to become the de facto choice for companies looking to onboard the next billion users to Web3. </p>
+
+
+
+<p>With the launch of SWEAT, we demonstrated NEAR’s capability of bringing millions of users on chain without outages. But that’s just half the challenge. NEAR is a network for a billion users, but onboarding a billion users requires thousands or millions of applications to create an immersive, inclusive Web3 world.&nbsp;&nbsp;</p>
+
+
+
+<p>We are just at the beginning of this journey to making mass adoption happen and as a result, there are lots of views on how we might get there and what steps need to be taken.&nbsp;</p>
+
+
+
+<p>At present, the Web3 pie is small. There are <a href="https://cryptoforinnovation.org/web3-developers-at-an-all-time-high-and-growing-faster-than-ever/">fewer than 20,000 developers</a> working consistently across the Web3 space. In Web2, meanwhile, there are more than 20 million Javascript developers worldwide &#8211; NEAR has built a <a href="/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">Javascript SDK</a> for any Web2 developer curious about Web3.&nbsp;</p>
+
+
+
+<p>In terms of users, there are believed to be around <a href="https://financesonline.com/number-of-blockchain-wallet-users/">70 million crypto wallet users</a> regularly interacting with a blockchain. There are more than 5 billion internet users who regularly use the internet. NEAR has the easiest onboarding in Web3 thanks to native account abstraction, a key feature to enable onboarding of millions of users.&nbsp;</p>
+
+
+
+<p>For us at the Foundation, our goal and strategy is clear: attract the Web2 world to build and use Web3. This is going to take time to do, but firmly paves the way to enable our vision of 1 billion users onboarded into Web3 in 5 years.&nbsp;</p>
+
+
+
+<p>The NEAR ecosystem has the talent, the technology and the funding to ensure it can achieve these goals. We plan to continue working on making NEAR the best place for Web2 devs and founders, by introducing more resources for builders, new education initiatives, and more coming soon.</p>
+
+
+
+<p>So yes, we are in a tough market. And it’s time for conviction. The next wave of innovation will be a fight for mass adoption. NEAR is the best platform for end-user applications on Web3. NEAR is where mass adoption will happen.</p>
+<p>The post <a href="/blog/a-time-for-conviction/">A Time for Conviction</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

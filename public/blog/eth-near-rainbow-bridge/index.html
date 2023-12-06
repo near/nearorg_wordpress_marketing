@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <base target="_blank">
+    <!--<link rel="stylesheet" href="https://near-lib.num42.de/assets/Nav.1ce6f74f.css"/>-->
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v19.3 (Yoast SEO v21.6) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>ETH-NEAR Rainbow Bridge &#8211; NEAR Protocol</title>
+	<meta name="description" content="At NEAR, we want Ethereum developers to have the same asset on both blockchains, so we built a bridge, called Rainbow Bridge, to connect the Ethereum and NEAR blockchains.">
+	<link rel="canonical" href="/blog/eth-near-rainbow-bridge/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="ETH-NEAR Rainbow Bridge">
+	<meta property="og:description" content="NEAR is the network for a world reimagined. Through simple, secure, and scalable technology, millions are empowered to invent and explore new experiences. Business, creativity, and community are being reimagined for a more sustainable and inclusive future">
+	<meta property="og:url" content="/blog/eth-near-rainbow-bridge/">
+	<meta property="og:site_name" content="NEAR Protocol">
+	<meta property="article:publisher" content="https://www.facebook.com/NEARProtocol/">
+	<meta property="article:published_time" content="2020-08-19T12:47:32+00:00">
+	<meta property="article:modified_time" content="2022-10-10T12:46:13+00:00">
+	<meta property="og:image" content="/wp-content/uploads/2020/10/bridge_fb.png">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta property="og:image:type" content="image/png">
+	<meta name="author" content="Maksym Zavershynskyi">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="ETH-NEAR Rainbow Bridge">
+	<meta name="twitter:description" content="ETH-NEAR Rainbow Bridge">
+	<meta name="twitter:image" content="/wp-content/uploads/2020/10/bridge_tw.png">
+	<meta name="twitter:creator" content="@nearprotocol">
+	<meta name="twitter:site" content="@nearprotocol">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"/blog/eth-near-rainbow-bridge/#article","isPartOf":{"@id":"/blog/eth-near-rainbow-bridge/"},"author":{"name":"Maksym Zavershynskyi","@id":"/#/schema/person/53ec1fac7fd5f7b195d53990a41e312b"},"headline":"ETH-NEAR Rainbow Bridge","datePublished":"2020-08-19T12:47:32+00:00","dateModified":"2022-10-10T12:46:13+00:00","mainEntityOfPage":{"@id":"/blog/eth-near-rainbow-bridge/"},"wordCount":3749,"publisher":{"@id":"/#organization"},"image":{"@id":"/blog/eth-near-rainbow-bridge/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2020/10/bridge_blog.png","articleSection":["Developers"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"/blog/eth-near-rainbow-bridge/","url":"/blog/eth-near-rainbow-bridge/","name":"ETH-NEAR Rainbow Bridge – NEAR Protocol","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/blog/eth-near-rainbow-bridge/#primaryimage"},"image":{"@id":"/blog/eth-near-rainbow-bridge/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2020/10/bridge_blog.png","datePublished":"2020-08-19T12:47:32+00:00","dateModified":"2022-10-10T12:46:13+00:00","description":"At NEAR, we want Ethereum developers to have the same asset on both blockchains, so we built a bridge, called Rainbow Bridge, to connect the Ethereum and NEAR blockchains.","breadcrumb":{"@id":"/blog/eth-near-rainbow-bridge/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["/blog/eth-near-rainbow-bridge/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"/blog/eth-near-rainbow-bridge/#primaryimage","url":"/wp-content/uploads/2020/10/bridge_blog.png","contentUrl":"/wp-content/uploads/2020/10/bridge_blog.png","width":1400,"height":648},{"@type":"BreadcrumbList","@id":"/blog/eth-near-rainbow-bridge/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"/"},{"@type":"ListItem","position":2,"name":"Blog","item":"/blog/"},{"@type":"ListItem","position":3,"name":"ETH-NEAR Rainbow Bridge"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"NEAR Protocol","description":"","publisher":{"@id":"/#organization"},"inLanguage":"en-US"},{"@type":"Organization","@id":"/#organization","name":"NEAR Protocol","url":"/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"/#/schema/logo/image/","url":"/wp-content/uploads/2021/09/brand-horizontal.png","contentUrl":"/wp-content/uploads/2021/09/brand-horizontal.png","width":864,"height":864,"caption":"NEAR Protocol"},"image":{"@id":"/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/NEARProtocol/","https://twitter.com/nearprotocol","https://www.instagram.com/near_protocol/","https://www.linkedin.com/company/near-protocol-project","https://www.youtube.com/nearprotocol"]},{"@type":"Person","@id":"/#/schema/person/53ec1fac7fd5f7b195d53990a41e312b","name":"Maksym Zavershynskyi","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/0b63c075161760cb753afd623218513e?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/0b63c075161760cb753afd623218513e?s=96&d=mm&r=g","caption":"Maksym Zavershynskyi"}}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel="dns-prefetch" href="//use.fontawesome.com">
+<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2" media="all">
+<style id="global-styles-inline-css">body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--text-green: #aad055;--wp--preset--color--text-yellow: #ffc860;--wp--preset--color--text-orange: #e3935b;--wp--preset--color--text-turquoise: #4fd1d9;--wp--preset--color--text-blue: #5f8afa;--wp--preset--color--text-purple: #6b6ef9;--wp--preset--color--text-lilac: #a463b0;--wp--preset--color--text-red: #db5555;--wp--preset--color--text-dark: #262626;--wp--preset--color--text-dark-02: #3f4246;--wp--preset--color--text-dark-03: #676767;--wp--preset--color--text-gray: #9d9fa1;--wp--preset--color--text-gray-02: #a7a7a7;--wp--preset--color--text-gray-03: #d1d1d1;--wp--preset--color--text-light-gray: #f5f5f5;--wp--preset--color--text-background: #fcfcfc;--wp--preset--color--text-white: #fff;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-text-green-color{color: var(--wp--preset--color--text-green) !important;}.has-text-yellow-color{color: var(--wp--preset--color--text-yellow) !important;}.has-text-orange-color{color: var(--wp--preset--color--text-orange) !important;}.has-text-turquoise-color{color: var(--wp--preset--color--text-turquoise) !important;}.has-text-blue-color{color: var(--wp--preset--color--text-blue) !important;}.has-text-purple-color{color: var(--wp--preset--color--text-purple) !important;}.has-text-lilac-color{color: var(--wp--preset--color--text-lilac) !important;}.has-text-red-color{color: var(--wp--preset--color--text-red) !important;}.has-text-dark-color{color: var(--wp--preset--color--text-dark) !important;}.has-text-dark-02-color{color: var(--wp--preset--color--text-dark-02) !important;}.has-text-dark-03-color{color: var(--wp--preset--color--text-dark-03) !important;}.has-text-gray-color{color: var(--wp--preset--color--text-gray) !important;}.has-text-gray-02-color{color: var(--wp--preset--color--text-gray-02) !important;}.has-text-gray-03-color{color: var(--wp--preset--color--text-gray-03) !important;}.has-text-light-gray-color{color: var(--wp--preset--color--text-light-gray) !important;}.has-text-background-color{color: var(--wp--preset--color--text-background) !important;}.has-text-white-color{color: var(--wp--preset--color--text-white) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-text-green-background-color{background-color: var(--wp--preset--color--text-green) !important;}.has-text-yellow-background-color{background-color: var(--wp--preset--color--text-yellow) !important;}.has-text-orange-background-color{background-color: var(--wp--preset--color--text-orange) !important;}.has-text-turquoise-background-color{background-color: var(--wp--preset--color--text-turquoise) !important;}.has-text-blue-background-color{background-color: var(--wp--preset--color--text-blue) !important;}.has-text-purple-background-color{background-color: var(--wp--preset--color--text-purple) !important;}.has-text-lilac-background-color{background-color: var(--wp--preset--color--text-lilac) !important;}.has-text-red-background-color{background-color: var(--wp--preset--color--text-red) !important;}.has-text-dark-background-color{background-color: var(--wp--preset--color--text-dark) !important;}.has-text-dark-02-background-color{background-color: var(--wp--preset--color--text-dark-02) !important;}.has-text-dark-03-background-color{background-color: var(--wp--preset--color--text-dark-03) !important;}.has-text-gray-background-color{background-color: var(--wp--preset--color--text-gray) !important;}.has-text-gray-02-background-color{background-color: var(--wp--preset--color--text-gray-02) !important;}.has-text-gray-03-background-color{background-color: var(--wp--preset--color--text-gray-03) !important;}.has-text-light-gray-background-color{background-color: var(--wp--preset--color--text-light-gray) !important;}.has-text-background-background-color{background-color: var(--wp--preset--color--text-background) !important;}.has-text-white-background-color{background-color: var(--wp--preset--color--text-white) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-text-green-border-color{border-color: var(--wp--preset--color--text-green) !important;}.has-text-yellow-border-color{border-color: var(--wp--preset--color--text-yellow) !important;}.has-text-orange-border-color{border-color: var(--wp--preset--color--text-orange) !important;}.has-text-turquoise-border-color{border-color: var(--wp--preset--color--text-turquoise) !important;}.has-text-blue-border-color{border-color: var(--wp--preset--color--text-blue) !important;}.has-text-purple-border-color{border-color: var(--wp--preset--color--text-purple) !important;}.has-text-lilac-border-color{border-color: var(--wp--preset--color--text-lilac) !important;}.has-text-red-border-color{border-color: var(--wp--preset--color--text-red) !important;}.has-text-dark-border-color{border-color: var(--wp--preset--color--text-dark) !important;}.has-text-dark-02-border-color{border-color: var(--wp--preset--color--text-dark-02) !important;}.has-text-dark-03-border-color{border-color: var(--wp--preset--color--text-dark-03) !important;}.has-text-gray-border-color{border-color: var(--wp--preset--color--text-gray) !important;}.has-text-gray-02-border-color{border-color: var(--wp--preset--color--text-gray-02) !important;}.has-text-gray-03-border-color{border-color: var(--wp--preset--color--text-gray-03) !important;}.has-text-light-gray-border-color{border-color: var(--wp--preset--color--text-light-gray) !important;}.has-text-background-border-color{border-color: var(--wp--preset--color--text-background) !important;}.has-text-white-border-color{border-color: var(--wp--preset--color--text-white) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}</style>
+<link rel="stylesheet" id="near-css" href="/wp-content/themes/near-21/assets/dist/near.css?t=1684954600#038;ver=6.3.2" media="all">
+<link rel="stylesheet" id="near-footer-css" href="/wp-content/themes/near-21/assets/dist/near-footer.css?t=1684954600#038;ver=6.3.2" media="all">
+<script defer crossorigin="anonymous" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" id="font-awesome-official-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<link rel="shortlink" href="/?p=4935">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.6/iframeResizer.contentWindow.js"></script>
+
+
+			                <meta name="ssp-config-path" content="/wp-content/uploads/simply-static/configs/">
+			
+							
+	<!-- Woopra code starts here -->
+	<script>(function(){
+		var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/w.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
+		})("woopra");
+		woopra.config({"app":"wordpress","domain":"nearpages.wpengine.com","download_tracking":true,"outgoing_tracking":true,"hide_campaign":false});
+		woopra.track("wp article", {"author":"Maksym Zavershynskyi","category":"Developers","permalink":"\/blog\/eth-near-rainbow-bridge\/","title":"ETH-NEAR Rainbow Bridge","post date":1597826852000});</script>
+	<!-- Woopra code ends here -->
+	
+<link rel="icon" href="/wp-content/uploads/2020/09/cropped-favicon-32x32.png" sizes="32x32">
+<link rel="icon" href="/wp-content/uploads/2020/09/cropped-favicon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/wp-content/uploads/2020/09/cropped-favicon-180x180.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2020/09/cropped-favicon-270x270.png">
+    <script>// Initialize the data layer for Google Tag Manager (this should mandatorily be done before the Cookie Solution is loaded)
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        // Default consent mode is "denied" for both ads and analytics as well as the optional types, but delay for 2 seconds until the Cookie Solution is loaded
+        gtag("consent", "default", {
+            ad_storage: "denied",
+            analytics_storage: "denied",
+            functionality_storage: "denied", // optional
+            personalization_storage: "denied", // optional
+            security_storage: "denied", // optional
+            wait_for_update: 2000 // milliseconds
+        });
+        // Improve ad click measurement quality (optional)
+        gtag('set', 'url_passthrough', true);
+        // Further redact your ads data (optional)
+        gtag("set", "ads_data_redaction", true);
+
+
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TR5G968');</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-4935 single-format-standard wp-embed-responsive bg-background ">
+	
+	<div class="flex flex-col min-h-screen">
+				  
+		<main class="relative grow ">
+			
+			<div class="relative">
+
+	
+        <nr-section>
+            <div class="mb-[24px] grid w-full sm:mb-[48px] sm:grid-cols-2">
+    
+                                    <img src="/wp-content/uploads/2020/10/bridge_blog.png" alt="Image | NEAR &amp; Social Good: Bringing Web3 to the Fringes" class="order-2 w-full rounded-[10px] sm:order-1 sm:col-span-2 sm:mb-[48px] md:w-auto">
+                                <a class="link paragraph_m_bold order-1 sm:order-2 sm:mb-[24px]" href="/blog/">
+                    &lt;- Back to all posts</a>
+    
+                <div class="order-3 hidden w-full flex-row items-center justify-end space-x-[24px] align-baseline sm:flex">
+                    <p class="paragraph_m_bold">Share this:</p>
+<div class="flex flex-row flex-wrap items-center justify-start gap-[15px]">
+    <nr-social-media-icon icon="twitter" href="https://twitter.com/share/?text=ETH-NEAR Rainbow Bridge&url=https://pages.near.org/blog/eth-near-rainbow-bridge/&hashtags=NEAR&via=NEARProtocol" target="_blank">
+    </nr-social-media-icon>
+    <nr-social-media-icon icon="reddit" href="https://reddit.com/submit?url=https://pages.near.org/blog/eth-near-rainbow-bridge/&title=ETH-NEAR Rainbow Bridge" target="_blank">
+    </nr-social-media-icon>
+    <nr-social-media-icon icon="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://pages.near.org/blog/eth-near-rainbow-bridge/" target="_blank">
+    </nr-social-media-icon>
+    <nr-social-media-icon icon="linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://pages.near.org/blog/eth-near-rainbow-bridge/" target="_blank">
+    </nr-social-media-icon>
+</div>
+
+                </div>
+            </div>
+            <div class="max-w-[800px]">
+                <h1 class="headline_type-3 mb-[40px]">
+                    ETH-NEAR Rainbow Bridge                </h1>
+    
+                <p class="paragraph_l_regular mb-[16px] text-gray">
+                    </p>
+<div class="flex justify-between items-center mb-[20px]">
+    <div class="uppercase text-[#6D7073] font-[400] text-[14px]">
+		Developers    </div>
+
+    <div class="text-[#6D7073] font-[400] text-[14px]">
+		August 19, 2020    </div>
+</div>
+                
+                <div class="prose md:prose-base">
+                    <p><span style="font-weight: 400;">There are lots of blockchains and scalability solutions, and it is hard to decide which one to use when we are building a product, especially when it means committing with the assets or data. Ideally, we don’t want to commit at all. We want to freely move our assets and data between the blockchains, or even better — run our product on several blockchains at the same time and leverage each of them. For example, we can leverage performance on one blockchain while leveraging community and ecosystem on another blockchain.</span></p>
+<p><span style="font-weight: 400;">At NEAR, we do not want Ethereum developers to choose between NEAR and Ethereum and commit to only one. We want them to have the same asset on both blockchains and even have apps that seamlessly communicate across the boundary. So we built a bridge, called </span><a href="https://github.com/near/rainbow-bridge"><span style="font-weight: 400;">Rainbow Bridge</span></a><span style="font-weight: 400;">, to connect the Ethereum and NEAR blockchains, and we created the lowest possible trust level one can have for an interoperability solution — you only need to trust what it connects, the NEAR and Ethereum blockchains, and you don’t need to trust the bridge itself. There is no authority outside Ethereum miners and NEAR validators.</span></p>
+<p><span style="font-weight: 400;">Specifically, to trust the bridge, you need to:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Trust that Ethereum blocks are final after X confirmations. Currently, bridge implementation decides X for the app developer, but soon app developers will be able to determine X for themselves. It can be 25 if you are a typical app developer or 500 if you are super cautious;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Trust that at no time, 2/3 of the validators stake on NEAR blockchain is dishonest. Not only the bridge, but also all other applications on NEAR operate under this assumption;</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Until </span><a href="https://github.com/ethereum/EIPs/blob/master/EIPS/eip-665.md"><span style="font-weight: 400;">EIP665</span></a><span style="font-weight: 400;"> is accepted, you will need to trust that it is not possible to exponentially increase the minimum gas price of Ethereum blocks by more than 2x with every block for more than 4 hours. Assuming the base gas price to be 40gwei and 14bps, you can easily calculate that attempting to increase gas price by 2x will very quickly cause it to exceed any reasonable limits way before the end of 4 hours. We will explain more on where this restriction is coming from below.</span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Since the Rainbow Bridge does not require the users to trust anything but the blockchains themselves, we call it </span><b>trustless</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">This trustless model results in the following latency number for interactions across the bridge:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">For ETH-&gt;NEAR interactions, the latency is the speed of producing X Ethereum blocks, which is about 6 minutes for 25 blocks;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">For NEAR-&gt;ETH interactions, the latency is 4 hours, and it will be about 14 seconds once EIP665 is accepted.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Notice how significantly the latency would drop if only EIP665 was accepted. Given that many scalability solutions require up to 7 days of waiting time for interoperability, we consider our bridge </span><b>rapid</b><span style="font-weight: 400;">. The speed is only limited by the lack of EIP665 and the number of confirmations for Ethereum blocks, which is the same limitation that applies to any Ethereum-based project.</span></p>
+<p><span style="font-weight: 400;">As we will expand later, our bridge does not require special permission to deploy, maintain, or use. Anyone can deploy a new bridge, use an existing bridge, or join the maintenance of an existing bridge without getting approval from anyone else, not even NEAR Foundation, which makes our bridge </span><b>decentralized</b><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">Rainbow Bridge is also </span><b>generic</b><span style="font-weight: 400;">. Any information that is cryptographically provable on NEAR is usable in Ethereum contracts and the other way around. The following information is cryptographically provable for both blockchains:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Inclusion of a transaction in a block;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Execution of a transaction with a specific result;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The state of the contract.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Additionally, blockchain-specific information is provable, like the content of a specific block header, which in Ethereum would include things like information about the miner, and in NEAR would include information about the validators. Cryptographically-provable information allows us to build a variety of use-cases:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">we can bridge fungible tokens, non-fungible tokens, or any kind of asset;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">we can write Ethereum contracts that use the state of a contract or validator from NEAR;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">we can do cross-contract calls across the bridge.</span></li>
+</ul>
+<p><span style="font-weight: 400;">While the variety of the use cases looks unlimited, we currently only have out-of-box support for transferring ERC20 tokens from Ethereum to NEAR blockchain and back. However, we will add out-of-box support for other use cases based on demand. Additionally, anyone can jump in and add support to their personal use case without waiting for us or working with our codebase.</span></p>
+<p><span style="font-weight: 400;">To understand why this and other properties that we listed above hold, we need to understand its design.</span></p>
+<p><span style="font-weight: 400;">*If you are a developer or designer, join us Sept. 15-30, 2020 for NEAR&#8217;s open online Hack The Rainbow 🌈 hackathon.</span></p>
+<h1><b>Design</b></h1>
+<p><a href="https://twitter.com/k06a"><span style="font-weight: 400;">Anton Bukov</span></a><span style="font-weight: 400;"> developed a large portion of the Rainbow Bridge design during his work in NEAR. He is now the CTO of </span><a href="http://1inch.exchange/"><span style="font-weight: 400;">1inch exchange</span></a><span style="font-weight: 400;">, but he still guides the high-level design of the bridge.</span></p>
+<p><span style="font-weight: 400;">The core idea behind the bridge is that it implements two light clients: </span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">An Ethereum light client implemented in Rust as a NEAR contract</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A NEAR light client implemented in Solidity as an Ethereum contract</span></li>
+</ol>
+<p><span style="font-weight: 400;">If you are familiar with the concept of a light client, this short outline already explains the above-listed guarantees. In short, a blockchain light client is a specification or an implementation of this specification that tracks the state of the blockchain without running heavy computation, but which can still verify the state that it tracks in a trustless way. The main focus is to be able to track and verify the state with a small amount of computation. </span></p>
+<p><span style="font-weight: 400;">We realized that the amount of computation could be so small that it might be possible to run a light client inside a contract. This was the key to making the Rainbow Bridge feasible. </span></p>
+<p><span style="font-weight: 400;">The Ethereum light client is more resource-intensive since it requires tracking every single header of the Ethereum blockchain, and it requires Ethash verification. The NEAR light client is less resource-intensive since it requires tracking only one block per epoch, where an epoch is approximately 43k blocks (this is a necessary quality since NEAR produces blocks much faster than Ethereum, which makes tracking all NEAR headers in an Ethereum Solidity contract challenging and frankly prohibitively expensive due to gas costs). Fortunately, NEAR gas limits allow more expensive computations than Ethereum. So we can run a more expensive Ethereum light client in the more computationally liberal NEAR blockchain while running a less expensive NEAR light client in the more computationally conservative Ethereum blockchain. What a fantastic coincidence! 🙂 You can find the specification of the NEAR light client here: </span><a href="https://nomicon.io/ChainSpec/LightClient.html"><span style="font-weight: 400;">https://nomicon.io/ChainSpec/LightClient.html</span></a></p>
+<h2><b>Light clients</b></h2>
+<p><span style="font-weight: 400;">Here is the simplified diagram of the light clients operating in the bridge:</span></p>
+<p><span style="font-weight: 400;"><img decoding="async" class="aligncenter wp-image-4940 size-large" src="/wp-content/uploads/2020/08/bridge_001-1024x563.png" alt="" width="1024" height="563" srcset="/wp-content/uploads/2020/08/bridge_001-1024x563.png 1024w, /wp-content/uploads/2020/08/bridge_001-300x165.png 300w, /wp-content/uploads/2020/08/bridge_001-768x422.png 768w, /wp-content/uploads/2020/08/bridge_001.png 1440w" sizes="(max-width: 1024px) 100vw, 1024px"> </span></p>
+<p><span style="font-weight: 400;">Notice, how in addition to smart contracts that implement light clients, we have two services, called relays, that regularly send headers to the light clients. Eth2NearRelay sends every single header to the EthOnNearClient contract, while Near2EthRelay sends one header every 4 hours to the NearOnEthClient contract. For a given pair of EthOnNearClient and NearOnEthClient contracts, there could be several pairs of Eth2NearRelay and Near2EthRelay services. Each bridge maintainer can run its pair of services. These pairs of services can either compete with each other — they would try submitting the same blocks simultaneously, and only one would succeed each time, or back up each other — some services would only submit the blocks if others did not submit blocks in time. Our current implementation of the services runs in the first mode.</span></p>
+<h3><b>EthOnNearClient</b></h3>
+<p><span style="font-weight: 400;">EthOnNearClient as we already said is an implementation of the Ethereum light client in Rust as a NEAR contract. It accepts Ethereum headers and maintains the canonical chain, it assumes that blocks that have finalized_gc_threshold confirmations cannot leave the canonical chain, and it memorizes up to hashes_gc_threshold of the blocks from the canonical chain, where hashes_gc_threshold&gt;=finalized_gc_threshold. By the default finalized_gc_threshold=46k which roughly corresponds to 7 days worth of headers. This is done so that the state of the EthOnNearClient does not grow endlessly. Remember that in NEAR one is required to have a certain amount of locked tokens to be able to use the state (</span><a href="https://docs.near.org/docs/concepts/storage"><span style="font-weight: 400;">more info</span></a><span style="font-weight: 400;">), which would require a very large ever-growing number of locked tokens if we were storing the hash of every single Ethereum canonical header in a single contract. Therefore we store a limited number of hashes of Ethereum headers. As a consequence the bridge can only be used to prove events that happened within this time horizon. So if you ever start an ERC20 transfer from Ethereum to NEAR, please make sure to finish it within 7 days if it gets interrupted in the middle.</span></p>
+<p><span style="font-weight: 400;">Another important nuance of EthOnNearClient is how it verifies Ethereum headers. It wouldn’t be possible to verify Ethereum PoW directly inside the contract since it would require storing the Ethereum DAG file, which would require prohibitive memory usage. Fortunately, every Ethereum block uses only a subset of the elements from the DAG file, and there is only one DAG file per Ethereum epoch. Moreover, DAG files can be precomputed for future epochs in advance. We precompute DAG files for about 4 years in advance and merkelize each of them. EthOnNearClient contract then memorizes the merkle roots of the DAG files for the next 4 years upon initialization. EthOnNearClient then only needs to receive the Ethereum header, the DAG elements, and the merkle proofs of these elements, which allows it to verify PoW without having the entire DAG file in memory. We took this approach from the </span><a href="https://github.com/KyberNetwork/bridge_eos_smart_contracts"><span style="font-weight: 400;">EOS bridge used by Kyber network</span></a><span style="font-weight: 400;">, and we even reuse some of their code. Fortunately, the Ethereum header’s verification uses only 1/3 of the max transaction gas limit and 1/10 of the block gas limit.</span></p>
+<h3><b>NearOnEthClient</b></h3>
+<p><span style="font-weight: 400;">NearOnEthClient is an implementation of the NEAR light client in Solidity as an Ethereum contract. Unlike EthOnNearClient it does not need to verify every single NEAR header and can skip most of them as long as it verifies at least one header per NEAR epoch, which is about 43k blocks and lasts about half a day. As a result, NearOnEthClient can memorize hashes of all submitted NEAR headers in history, so if you are making a transfer from NEAR to Ethereum and it gets interrupted you don’t need to worry and you can resume it any time, even months later. Another useful property of the NEAR light client is that every NEAR header contains a root of the merkle tree computed from all headers before it. As a result, if you have one NEAR header you can efficiently verify any event that happened in any header before it.</span></p>
+<p><span style="font-weight: 400;">Another useful property of the NEAR light client is that it only accepts final blocks, and final blocks cannot leave the canonical chain in NEAR. This means that NearOnEthClient does not need to worry about forks.</span></p>
+<p><span style="font-weight: 400;">However, unfortunately, NEAR uses </span><a href="https://ed25519.cr.yp.to/"><span style="font-weight: 400;">Ed25519</span></a><span style="font-weight: 400;"> to sign messages of the validators who approve the blocks, and this signature is not available as an EVM precompile. It makes verification of all signatures of a single NEAR header prohibitively expensive. So technically, we cannot verify one NEAR header within one contract call to NearOnEthClient. Therefore we adopt </span><a href="https://medium.com/@deaneigenmann/optimistic-contracts-fb75efa7ca84"><span style="font-weight: 400;">the optimistic approach</span></a><span style="font-weight: 400;"> where NearOnEthClient verifies everything in the NEAR header except the signatures. Then anyone can challenge a signature in a submitted header within a 4-hour challenge window. The challenge requires verification of a single Ed25519 signature which would cost about 500k Ethereum gas (expensive, but possible). The user submitting the NEAR header would have to post a bond in Ethereum tokens, and a successful challenge would burn half of the bond and return the other half to the challenger. The bond should be large enough to pay for the gas even if the gas price increases exponentially during the 4 hours. For instance, a 20 ETH bond would cover gas price hikes up to 20000 Gwei. This optimistic approach requires having a watchdog service that monitors submitted NEAR headers and challenges any headers with invalid signatures. For added security, independent  users can run several watchdog services.</span></p>
+<p><span style="font-weight: 400;">Once EIP665 is accepted, Ethereum will have the Ed25519 signature available as an EVM precompile. This will make watchdog services and the 4-hour challenge window unnecessary.</span></p>
+<p><span style="font-weight: 400;">At its bare minimum, Rainbow Bridge consists of EthOnNearClient and NearOnEthClient contracts, and three services: Eth2NearRelay, Near2EthRelay, and the Watchdog. We might argue that this already constitutes a bridge since we have established a cryptographic link between two blockchains, but practically speaking it requires a large portion of additional code to make application developers even consider using the Rainbow Bridge for their applications.</span></p>
+<h2><b>Provers</b></h2>
+<p><span style="font-weight: 400;">What would make clients more useful is the ability to prove that something happened on a specific blockchain. For that, we implement EthOnNearProver NEAR contract in Rust and NearOnEthProver Ethereum contract in Solidity. EthOnNearProver can verify Ethereum events, while the NearOnEthProver contract can verify NEAR contract execution results. Both EthOnNearProver and NearOnEthProver contracts are implemented separately from EthOnNearClient and NearOnEthClient for multiple reasons:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Separation of concerns — clients are responsible for keeping track of the most recent blockchain header, while provers are responsible for verifying specific cryptographic information;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Scalability — since NEAR is a sharded blockchain, if a certain instance of the bridge becomes extremely popular, users will be able to scale the load by deploying multiple copies of a given prover;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Specificity — in addition to the provers described above, one can implement other kinds of provers. One could verify a contract’s state, the specific content of a header, or the inclusion of a transaction. Additionally, different implementations of  provers could use different optimizations.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Currently, we have implementations only for verifying Ethereum events and NEAR contract execution results, which is sufficient for moving tokens between the blockchains. But anyone is welcome to contribute prover implementations. </span></p>
+<p><img decoding="async" class="size-large wp-image-4942 aligncenter" src="/wp-content/uploads/2020/08/bridge_002-1024x563.png" alt="" width="1024" height="563" srcset="/wp-content/uploads/2020/08/bridge_002-1024x563.png 1024w, /wp-content/uploads/2020/08/bridge_002-300x165.png 300w, /wp-content/uploads/2020/08/bridge_002-768x422.png 768w, /wp-content/uploads/2020/08/bridge_002.png 1440w" sizes="(max-width: 1024px) 100vw, 1024px"></p>
+<p><span style="font-weight: 400;">(Caption: One EthOnNearClient can have multiple provers talking to it replicated across multiple shards, while NearOnEthClient will have a single copy of each kind of the prover talking to it).</span></p>
+<h2><b>ERC20 use case</b></h2>
+<p><span style="font-weight: 400;">The provers enable us to build a set of contracts that allow asset transfer or cross-chain communication. However, these contracts will be very different depending on what exactly we want to interoperate across the bridge. For example, ERC20 requires an entirely separate set of contracts from ERC721 or native token transfer. Currently, the Rainbow Bridge has out-of-the-box support for generic ERC20 token transfers, and we will add more use cases in the future. In this post, we focus only on the ERC20 use case.</span></p>
+<p><span style="font-weight: 400;">Suppose there is an existing ERC20 token on Ethereum, e.g., DAI. For us to move it across the bridge, we need to deploy two additional contracts:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">TokenLocker Ethereum contract implemented in Solidity;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">MintableFungibleToken NEAR contract implemented in Rust.</span></li>
+</ul>
+<p><span style="font-weight: 400;">When a user wants to transfer X amount of DAI from Ethereum to NEAR, they first lock this X DAI in the TokenLocker contract, and then mint X nearDAI in the MintableFungibleToken NEAR contract. When they want to transfer some tokens back from NEAR to Ethereum, they first burn Y nearDAI in MintableFungibleToken and then unlock Y DAI in TokenLocker.</span></p>
+<p><span style="font-weight: 400;">Currently, each instance of ERC20 token would require deploying a separate pair of TokenLocker/MintableFungibleToken; however, we are going to lift this restriction in the future and use the same TokenLocker for multiple ERC20 tokens. Note that if someone wants to add support of ERC721 or another type of asset transfer, they would need to implement similar Locker/Asset pair with a different external interface and internal implementation, but the high-level design would remain the same — the Locker would lock/unlock assets while Asset would mint/burn the NEAR version of this asset.</span></p>
+<h2><b>Usage flow</b></h2>
+<p><span style="font-weight: 400;">Users will be able to use either RainbowCLI or any app that integrates with RainbowLib, like NEAR Wallet. In rare cases, someone might choose to work with the bridge manually by calling Ethereum and NEAR contracts from their shell using low-level contract calls. Currently, we only support RainbowCLI, but we are working on RainbowLib and Wallet integrations. </span></p>
+<p><span style="font-weight: 400;">From the user perspective, the transfer of a token should be straightforward: they provide credentials, choose beneficiary and amount, and initiate the transfer either from RainbowCLI, Wallet, or other applications. After some time, the transfer succeeds, and the user receives visual confirmation. Behind the scenes however, RainbowLib will perform the following complex operations:</span></p>
+<ol>
+<li><span style="font-weight: 400;"> Suppose Alice wants to transfer X DAI to Bob on NEAR blockchain and she initiates the transfer from RainbowCLI/RainbowLib;</span></li>
+</ol>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">RainbowLib first sets an allowance to transfer X DAI from Alice to TokenLocker;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">It then calls TokenLocker to grab those tokens resulting in TokenLocker emitting event “Alice locked X tokens in favor of Bob”;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">RainbowLib then waits until EthOnNearClient receives the Ethereum header than contains this event, plus 25 blocks more for confirmation (see note on Ethereum finality in opening section) </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Then RainbowLib computes the proof of this event and submits it to the MintableFungibleToken contract;</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">MintableFungibleToken contract then verifies that this proof is correct by calling EthOnNearProver;</span>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">EthOnNearProver, in turn, verifies that the header of the proof is on the canonical chain of EthOnNearClient, and it has the required number of confirmations. It also verifies the proof itself;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">MintableFungibleToken then unpacks the Ethereum event and mints X nearDAI for Bob, finishing the transfer.</span></li>
+</ol>
+</li>
+</ol>
+<p><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-4943" src="/wp-content/uploads/2020/08/bridge_003-1024x563.png" alt="" width="1024" height="563" srcset="/wp-content/uploads/2020/08/bridge_003-1024x563.png 1024w, /wp-content/uploads/2020/08/bridge_003-300x165.png 300w, /wp-content/uploads/2020/08/bridge_003-768x422.png 768w, /wp-content/uploads/2020/08/bridge_003.png 1440w" sizes="(max-width: 1024px) 100vw, 1024px"></p>
+<p><span style="font-weight: 400;">Similarly, RainbowLib will be able to perform transfers of non-ERC20 tokens and do contract calls.</span></p>
+<h1><b>Hard forks</b></h1>
+<p><span style="font-weight: 400;">We want existing Rainbow Bridges not to break when NEAR or Ethereum protocol change is happening. And we want to be able to upgrade bridge contracts when serious performance upgrades become available, e.g., if EIP665 is accepted. However, we don’t want it to become less trustless or decentralized by introducing a centralized way of initiating the upgrade.</span></p>
+<p><span style="font-weight: 400;">There is a large variety of </span><a href="https://blog.openzeppelin.com/proxy-patterns/"><span style="font-weight: 400;">proxy patterns</span></a><span style="font-weight: 400;"> developed by the Ethereum community that allow contract updates. However, we think </span><a href="https://medium.com/@k06a/the-safest-and-probably-the-best-way-to-upgrade-smart-contracts-ea6e619d5dfd"><span style="font-weight: 400;">the safest upgrade pattern</span></a><span style="font-weight: 400;"> is when the upgrade decision is delegated to the users themselves. An equivalent of this user-controlled upgrade for the bridge is the following:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Suppose the user is using the bridge to transfer DAI between Ethereum and NEAR. Suppose they have X DAI locked in TokenLocker and X nearDAI available on the NEAR side;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Suppose one day they receive an announcement that NEAR or Ethereum are making a protocol change and they need to migrate to bridge V2 within a week;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">They transfer nearDAI back to DAI using the old bridge, then transfer DAI into nearDAI V2 using bridge V2.</span></li>
+</ol>
+<p><span style="font-weight: 400;">This approach, however, has downsides:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Unlike regular contracts, the bridge is a more complex system that requires maintenance — someone needs to run the relays constantly, otherwise the light clients will go out of sync with the blockchains and become useless. That means we cannot ask users to manually migrate from bridge V1 to bridge V2 at their convenience. If we shut down the relays of the V1 bridge before literally everyone migrates their assets out, their assets might be permanently locked without the ability to move to V2. If we run relays for too long and wait until every user migrates we will be spending gas on the fees daily, approximately 40 USD per day at 40gwei price;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Applications that integrate with our bridge would need to be aware of the migration as they would need to switch from an old MintableFungibleToken contract to a new MintableFungibleToken contract. Some of them might need to perform this migration themselves or guide the user through it with the UI.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Given the above downsides, we have decided to implement the following upgradability option into our bridge. We will be using one of the proxy patterns to allow EthOnNearClient, EthOnNearProver, NearOnEthClient, and NearOnEthProver to automatically switch to new contract versions when they have received a proof that 2/3 of NEAR stake has voted for a new set of contracts. TokenLocker and MintableFungibleToken would not need to change, in most if not all cases, and so the upgrade will be transparent to the users and the application developers. This will not affect the bridge’s trust model since we need to trust 2/3 of the NEAR stake anyway. We will be using the same voting contract as for other governance mechanisms at NEAR. We will also try to minimize the chance of this mechanism used as a backdoor by creating a 7-day delay on the upgrade so that users can observe it, verify it, and if they don’t like it, liquidate their tokens or move them manually to a different bridge. We will, however, leave a possibility for the NEAR validators to vote for an emergency upgrade, but we do not expect to exercise it.</span></p>
+<h1><b>Incentives</b></h1>
+<p><span style="font-weight: 400;">The current Rainbow Bridge does not implement incentives for the maintainers who pay for the gas by relaying the headers. Major users of the bridge are expected to run their own relays, and at least one pair of relays will be run by the NEAR collective. Future versions of the bridge will have an option to charge users of the bridge who perform the transfers would have to pay for its usage in gas, native tokens, or some other means. Designing a sound incentive system is, however, tricky. The most naive approach would accumulate the tax from users of the bridge and distribute it among the maintainers who run relays. Unfortunately, such a system does not protect from death spiral scenarios, e.g. when the bridge experiences a hiccup which causes users to stop using it for some time and consequently makes maintainers lose interest in paying for gas. Our organization is taking time to develop a well-thought-through incentive system for the bridge, and meanwhile, we will maintain it at our own cost.</span></p>
+<h1><b>Trying it out and getting involved</b></h1>
+<p><span style="font-weight: 400;">We’ve been running Rainbow Bridge between Ropsten and NEAR TestNet for several weeks now, but we haven’t opened it to the public yet. However, you can experiment with bridge transfers by running a </span><a href="https://github.com/near/rainbow-bridge/#local-test-run"><span style="font-weight: 400;">local NEAR node and Ganache</span></a><span style="font-weight: 400;">. Please make sure to install all dependencies first, as their number is quite extensive: Rust+Wasm, Golang, pm2, node &lt;=13. We are working on removing some of these dependencies.</span></p>
+<p><span style="font-weight: 400;"> If you are a developer or designer, sign up for NEAR&#8217;s open online Hack The Rainbow 🌈 hackathon. You can also get involved in our </span><a href="https://nearprotocol1001.typeform.com/to/Ug6Y73YX"><span style="font-weight: 400;">Bridge Guild</span></a><span style="font-weight: 400;"> where we will be discussing various integrations, new use cases, and building projects that use the bridge. Please also follow our blog as we are going to have a series of posts on bridge use cases and integrations.</span></p>
+                </div>
+
+
+                <hr class="mt-[70px] mb-[24px] text-gray-20">
+                <div class="mt-[36px] grid w-full gap-[48px] sm:grid-cols-3 sm:justify-between sm:text-left">
+                    <div class="flex flex-col space-y-[24px]">
+	                    <p class="paragraph_m_bold">Share this:</p>
+<div class="flex flex-row flex-wrap items-center justify-start gap-[15px]">
+    <nr-social-media-icon icon="twitter" href="https://twitter.com/share/?text=ETH-NEAR Rainbow Bridge&url=https://pages.near.org/blog/eth-near-rainbow-bridge/&hashtags=NEAR&via=NEARProtocol" target="_blank">
+    </nr-social-media-icon>
+    <nr-social-media-icon icon="reddit" href="https://reddit.com/submit?url=https://pages.near.org/blog/eth-near-rainbow-bridge/&title=ETH-NEAR Rainbow Bridge" target="_blank">
+    </nr-social-media-icon>
+    <nr-social-media-icon icon="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://pages.near.org/blog/eth-near-rainbow-bridge/" target="_blank">
+    </nr-social-media-icon>
+    <nr-social-media-icon icon="linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://pages.near.org/blog/eth-near-rainbow-bridge/" target="_blank">
+    </nr-social-media-icon>
+</div>
+
+                    </div>
+                    <div class="flex flex-col space-y-[24px]">
+	                    <p class="paragraph_m_bold">Join the community:</p>
+<div class="flex flex-row flex-wrap items-center gap-[15px] justify-start">
+    <nr-social-media-icon icon="discord" href="https://near.chat/" target="_blank">
+    </nr-social-media-icon>
+    <nr-social-media-icon icon="telegram" href="https://t.me/cryptonear" target="_blank">
+    </nr-social-media-icon>
+    <nr-social-media-icon icon="forum" href="https://gov.near.org/" target="_blank">
+    </nr-social-media-icon>
+</div>
+
+                    </div>
+                    <div class="flex flex-col space-y-[24px]">
+	                    <p class="paragraph_m_bold">Follow NEAR:</p>
+<div class="flex flex-row flex-wrap items-center gap-[15px] justify-start">
+    <nr-social-media-icon icon="twitter" href="https://twitter.com/nearprotocol" target="_blank">
+    </nr-social-media-icon>
+    <nr-social-media-icon icon="medium" href="https://medium.com/nearprotocol" target="_blank">
+    </nr-social-media-icon>
+    <nr-social-media-icon icon="youtube" href="https://www.youtube.com/c/NEARProtocol" target="_blank">
+    </nr-social-media-icon>
+</div>
+
+                    </div>
+                </div>
+
+
+
+
+            </div>
+        </nr-section>
+    
+            <nr-section background="#F7F7F7">
+        <div class="mb-[24px] flex w-full flex-row text-left sm:mb-[48px]">
+            <h3 class="headline_type-4">
+				More posts <span class="hidden sm:inline">from our blog</span>            </h3>
+        </div>
+
+        <div class="my-[48px] grid grid-cols-1 items-stretch justify-center gap-[24px] gap-y-[24px] sm:grid-cols-2 sm:gap-y-[48px] lg:grid-cols-3">
+			                <div class="flex flex-col items-stretch mb-[26px] md:mb-[48px]">
+                    <div class="block sm:basis-[250px] shrink-0 grow-0 rounded-tr-[10px] sm:rounded-tr-[0px] sm:rounded-bl-[10px] rounded-tl-[10px]">
+						<img width="1024" height="512" src="/wp-content/uploads/2023/11/pyth-blog-1024x512.png" class="w-[100%] h-[100%] object-cover object-center rounded-tr-[10px] sm:rounded-tr-[0px] sm:rounded-bl-[10px] rounded-tl-[10px] wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2023/11/pyth-blog-1024x512.png 1024w, /wp-content/uploads/2023/11/pyth-blog-300x150.png 300w, /wp-content/uploads/2023/11/pyth-blog-768x384.png 768w, /wp-content/uploads/2023/11/pyth-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px">                    </div>
+
+                    <div class="bg-[#ffffff] grow rounded-br-[10px] rounded-bl-[10px] sm:rounded-bl-[0px] sm:rounded-tr-[10px] sm:rounded-br-[10px] py-[12px] px-[20px]">
+						<div class="flex justify-between items-center mb-[20px]">
+    <div class="uppercase text-[#6D7073] font-[400] text-[14px]">
+		NEAR Foundation    </div>
+
+    <div class="text-[#6D7073] font-[400] text-[14px]">
+		November 30, 2023    </div>
+</div>
+                        <p class="paragraph_l_bold mb-[16px]"><a class="hover:underline" href="/blog/pyth-price-feeds-launch-on-near-protocol-bringing-equity-commodities-and-market-data-on-chain/">Pyth Price Feeds Launch on NEAR Protocol Bringing Equity, Commodities, and Market Data On Chain </a></p>
+						<div class="flex flex-wrap">
+	            <div class="text-[#262626] font-[400] text-[13px] py-[2px] px-[8px] bg-[#F5F5FA] mr-[8px] mb-[8px] flex-wrap">
+                <a href="/blog/tag/oracles/" class="hover:underline">Oracles</a>
+            </div>
+			            <div class="text-[#262626] font-[400] text-[13px] py-[2px] px-[8px] bg-[#F5F5FA] mr-[8px] mb-[8px] flex-wrap">
+                <a href="/blog/tag/pyth/" class="hover:underline">Pyth</a>
+            </div>
+			            <div class="text-[#262626] font-[400] text-[13px] py-[2px] px-[8px] bg-[#F5F5FA] mr-[8px] mb-[8px] flex-wrap">
+                <a href="/blog/tag/pyth-price-feeds/" class="hover:underline">Pyth Price Feeds</a>
+            </div>
+			</div>
+                    </div>
+                </div>
+				                <div class="flex flex-col items-stretch mb-[26px] md:mb-[48px]">
+                    <div class="block sm:basis-[250px] shrink-0 grow-0 rounded-tr-[10px] sm:rounded-tr-[0px] sm:rounded-bl-[10px] rounded-tl-[10px]">
+						<img width="1024" height="512" src="/wp-content/uploads/2023/11/n23-hack-winners-blog-1024x512.png" class="w-[100%] h-[100%] object-cover object-center rounded-tr-[10px] sm:rounded-tr-[0px] sm:rounded-bl-[10px] rounded-tl-[10px] wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2023/11/n23-hack-winners-blog-1024x512.png 1024w, /wp-content/uploads/2023/11/n23-hack-winners-blog-300x150.png 300w, /wp-content/uploads/2023/11/n23-hack-winners-blog-768x384.png 768w, /wp-content/uploads/2023/11/n23-hack-winners-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px">                    </div>
+
+                    <div class="bg-[#ffffff] grow rounded-br-[10px] rounded-bl-[10px] sm:rounded-bl-[0px] sm:rounded-tr-[10px] sm:rounded-br-[10px] py-[12px] px-[20px]">
+						<div class="flex justify-between items-center mb-[20px]">
+    <div class="uppercase text-[#6D7073] font-[400] text-[14px]">
+		NEAR Foundation    </div>
+
+    <div class="text-[#6D7073] font-[400] text-[14px]">
+		November 22, 2023    </div>
+</div>
+                        <p class="paragraph_l_bold mb-[16px]"><a class="hover:underline" href="/blog/meet-the-2023-nearcon-irl-hackathon-winners/">Meet the 2023 NEARCON IRL Hackathon Winners</a></p>
+						<div class="flex flex-wrap">
+	            <div class="text-[#262626] font-[400] text-[13px] py-[2px] px-[8px] bg-[#F5F5FA] mr-[8px] mb-[8px] flex-wrap">
+                <a href="/blog/tag/nearcon-irl-hackathon/" class="hover:underline">NEARCON IRL Hackathon</a>
+            </div>
+			</div>
+                    </div>
+                </div>
+				                <div class="flex flex-col items-stretch mb-[26px] md:mb-[48px]">
+                    <div class="block sm:basis-[250px] shrink-0 grow-0 rounded-tr-[10px] sm:rounded-tr-[0px] sm:rounded-bl-[10px] rounded-tl-[10px]">
+						<img width="1024" height="512" src="/wp-content/uploads/2023/11/neartasks-blog-1024x512.png" class="w-[100%] h-[100%] object-cover object-center rounded-tr-[10px] sm:rounded-tr-[0px] sm:rounded-bl-[10px] rounded-tl-[10px] wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2023/11/neartasks-blog-1024x512.png 1024w, /wp-content/uploads/2023/11/neartasks-blog-300x150.png 300w, /wp-content/uploads/2023/11/neartasks-blog-768x384.png 768w, /wp-content/uploads/2023/11/neartasks-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px">                    </div>
+
+                    <div class="bg-[#ffffff] grow rounded-br-[10px] rounded-bl-[10px] sm:rounded-bl-[0px] sm:rounded-tr-[10px] sm:rounded-br-[10px] py-[12px] px-[20px]">
+						<div class="flex justify-between items-center mb-[20px]">
+    <div class="uppercase text-[#6D7073] font-[400] text-[14px]">
+		NEAR Foundation    </div>
+
+    <div class="text-[#6D7073] font-[400] text-[14px]">
+		November 16, 2023    </div>
+</div>
+                        <p class="paragraph_l_bold mb-[16px]"><a class="hover:underline" href="/blog/near-tasks-launches-ai-marketplace-on-near-to-revolutionize-the-future-of-work/">NEAR Tasks Launches AI Marketplace on NEAR to Revolutionize the Future of Work</a></p>
+						<div class="flex flex-wrap">
+	</div>
+                    </div>
+                </div>
+				        </div>
+    </nr-section>
+
+
+
+
+</div>
+</main>
+
+	<div class="near-global-footer">
+	<form id="newsletter-form" class="near-newsletter-form" action="https://nearweek.us1.list-manage.com/subscribe/post?u=ed13caf5cf7d37689d81ef60b&id=86d4e11a12&f_id=003e00e2f0" method="POST" target="_blank">
+	<div class="near-newsletter-form-container rounded-[10px]">
+
+		<div class="near-newsletter-form-message">
+            <div class="text-[1rem] sm:text-[1.25rem] font-bold text-black ">Newsletter</div>
+            <div class="text-[0.75rem] sm:text-[0.95rem] text-black ">Powered by NEARWEEK. No spam. Unsubscribe at any time.</div>
+        </div>
+
+        <div class="near-newsletter-form-form">
+            <div class="near-newsletter-form-input-group">
+                <input type="email" name="EMAIL" class="near-newsletter-form-input  border-2 w-full rounded p-2 border-black mb-2 min-w-[200px] sm:grow sm:rounded-tr-none sm:rounded-br-none sm:mb-0 md:w-auto md:rounded-l-md md:p-3 md:border-r-0 md:min-w-[300px]" placeholder="Your e-mail ...">
+                <button type="submit" class="near-newsletter-form-btn">Subscribe</button>
+            </div>
+
+            <input type="text" name="b_faedf5dec8739fb92e05b4131_14e8024c6c" tabindex="-1" class="near-newsletter-form-hidden" value="">
+
+        </div>
+
+    </div>
+</form>
+	<footer class="near-footer">
+	<div class="near-footer-container">
+		<div class="near-footer-columns">
+												<div>
+						<h3 class="near-footer-menu-title">Learn</h3>
+
+						<ul id="menu-learn" class="near-footer-menu">
+<li id="menu-item-17510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17510"><a href="/learn/">The basics</a></li>
+<li id="menu-item-19716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19716"><a href="/learn/learn-more/">All learning resources</a></li>
+<li id="menu-item-17502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17502"><a target="_blank" rel="noopener" href="https://wiki.nearpages.wpengine.com/">NEAR Wiki</a></li>
+</ul>
+                        
+
+					</div>
+																<div>
+						<h3 class="near-footer-menu-title">Use</h3>
+
+						<ul id="menu-use" class="near-footer-menu">
+<li id="menu-item-19569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19569"><a href="/use/set-up-account/">Set up account</a></li>
+<li id="menu-item-17529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17529"><a href="/use/#dapps_by_category">Examples of dApps</a></li>
+<li id="menu-item-17839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17839"><a href="https://awesomenear.com/">AwesomeNEAR</a></li>
+<li id="menu-item-18033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18033"><a href="/use/#why_it_matters">Why it matters</a></li>
+</ul>
+                        
+
+					</div>
+																<div>
+						<h3 class="near-footer-menu-title">Ecosystem</h3>
+
+						<ul id="menu-ecosystem" class="near-footer-menu">
+<li id="menu-item-17804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17804"><a href="/ecosystem/">Overview</a></li>
+<li id="menu-item-17806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17806"><a href="/ecosystem/get-funding/">Get funding</a></li>
+<li id="menu-item-17807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17807"><a href="/ecosystem/work-and-earn/">Work &#038; earn</a></li>
+<li id="menu-item-17805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17805"><a href="/ecosystem/community/">Community</a></li>
+<li id="menu-item-17517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17517"><a target="_blank" rel="noopener" href="https://near.events/">Events</a></li>
+<li id="menu-item-17518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17518"><a target="_blank" rel="noopener" href="https://gov.nearpages.wpengine.com/">Gov. Forum</a></li>
+<li id="menu-item-17519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17519"><a target="_blank" rel="noopener" href="https://medium.com/nearprotocol">Community Blog</a></li>
+</ul>
+                        
+
+					</div>
+																<div>
+						<h3 class="near-footer-menu-title">Developers</h3>
+
+						<ul id="menu-developers" class="near-footer-menu">
+<li id="menu-item-17809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17809"><a href="/developers/">Overview</a></li>
+<li id="menu-item-17816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17816"><a href="/developers/get-help/">Get help</a></li>
+<li id="menu-item-13380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13380"><a target="_blank" rel="noopener" href="https://docs.near.org/">NEAR Docs</a></li>
+<li id="menu-item-17545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17545"><a target="_blank" rel="noopener" href="https://github.com/near">NEAR Github</a></li>
+<li id="menu-item-17808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17808"><a href="https://aurora.dev/">Aurora (EVM)</a></li>
+<li id="menu-item-19544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19544"><a target="_blank" rel="noopener" href="https://www.neardevgov.org/">Dev. Governance</a></li>
+</ul>
+                        
+
+					</div>
+																<div>
+						<h3 class="near-footer-menu-title">About</h3>
+
+						<ul id="menu-about" class="near-footer-menu">
+<li id="menu-item-17531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17531"><a href="/about/">Overview</a></li>
+<li id="menu-item-17810" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-17810"><a href="/blog/">Blog</a></li>
+<li id="menu-item-17813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17813"><a href="/about/network/">Network</a></li>
+<li id="menu-item-19081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19081"><a href="/about/press-center/">Press Center</a></li>
+<li id="menu-item-17815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17815"><a href="/about/brand/">Brand toolkit</a></li>
+<li id="menu-item-17814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17814"><a href="https://careers.near.org/jobs">Careers</a></li>
+<li id="menu-item-17812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17812"><a href="/about/contact-us/">Contact us</a></li>
+</ul>
+                        
+
+					</div>
+																<div>
+						<h3 class="near-footer-menu-title">User Tools</h3>
+
+						<ul id="menu-user-tools" class="near-footer-menu">
+<li id="menu-item-17543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17543"><a target="_blank" rel="noopener" href="https://wallet.nearpages.wpengine.com/">NEAR Wallet</a></li>
+<li id="menu-item-17541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17541"><a target="_blank" rel="noopener" href="https://explorer.nearpages.wpengine.com/">NEAR Explorer</a></li>
+<li id="menu-item-17818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17818"><a href="https://stats.gallery/">Stats gallery</a></li>
+<li id="menu-item-17817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17817"><a href="/bridge/">ETH ↔ NEAR bridge</a></li>
+</ul>
+                                                    <h3 class="near-footer-menu-title footer-nav-special">Developer Tools</h3>
+
+	                        <ul id="menu-developer-tools" class="near-footer-menu">
+<li id="menu-item-17549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17549"><a target="_blank" rel="noopener" href="https://docs.near.org/tools/near-cli">NEAR CLI</a></li>
+<li id="menu-item-17547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17547"><a target="_blank" rel="noopener" href="https://docs.near.org/develop/quickstart-guide">JavaScript SDK</a></li>
+<li id="menu-item-17546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17546"><a target="_blank" rel="noopener" href="https://github.com/near/near-sdk-rs">Rust SDK</a></li>
+<li id="menu-item-17548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17548"><a target="_blank" rel="noopener" href="https://docs.near.org/tools/near-api-js/cookbook">JavaScript API</a></li>
+</ul>                        
+
+					</div>
+									</div>
+
+		<ul id="menu-social" class="near-footer-social">
+<li id="menu-item-13397" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13397"><a title="Official Discord server" target="_blank" rel="noopener" href="http://near.chat/"><i class="fab fa-discord"></i></a></li>
+<li id="menu-item-13394" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13394"><a title="NEAR Governance Forum" target="_blank" rel="noopener" href="https://gov.nearpages.wpengine.com/"><i class="fab fa-discourse"></i></a></li>
+<li id="menu-item-13395" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13395"><a title="Official Twitter account" target="_blank" rel="noopener" href="https://twitter.com/nearprotocol"><i class="fab fa-twitter"></i></a></li>
+<li id="menu-item-13396" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13396"><a title="Official GitHub Repo" target="_blank" rel="noopener" href="https://github.com/near"><i class="fab fa-github"></i></a></li>
+<li id="menu-item-13398" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13398"><a title="Official Telegram channel" target="_blank" rel="noopener" href="https://t.me/cryptonear"><i class="fab fa-telegram"></i></a></li>
+<li id="menu-item-13399" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13399"><a title="WeChat" target="_blank" rel="noopener" href="/wechat"><i class="fab fa-weixin"></i></a></li>
+<li id="menu-item-13400" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13400"><a title="Official YouTube channel" target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCuKdIYVN8iE3fv8alyk1aMw"><i class="fab fa-youtube"></i></a></li>
+<li id="menu-item-18301" class="no-auto-link menu-item menu-item-type-custom menu-item-object-custom menu-item-18301"><a title="Main reddit" target="_blank" rel="noopener" href="https://www.reddit.com/r/nearprotocol/"><i class="fab fa-reddit"></i></a></li>
+</ul>
+		<div class="near-footer-legal">
+            <a href="/cdn-cgi/l/email-protection#e9818c858586a9878c889bc78f869c878d889d808687" class="no-auto-link"><span class="__cf_email__" data-cfemail="dbb3beb7b7b49bb5bebaa9f5bdb4aeb5bfbaafb2b4b5">[email&#160;protected]</span></a>
+            <span class="near-footer-legal-sep"></span>
+            <a href="https://near.org/privacy/">Privacy Policy</a>
+			<span class="near-footer-legal-sep"></span>
+            <a href="#" class="iubenda-cs-preferences-link">Cookie Settings</a>
+            <span class="near-footer-legal-sep"></span>
+            <a href="https://hackenproof.com/near" target="_blank">Bug Bounty Program</a>
+            <span class="near-footer-legal-sep"></span>
+            <span>2023 NEAR.org is run by the NEAR Foundation</span>
+		</div>
+	</div>
+</footer>
+</div>
+
+</div>
+
+
+        <span class="ssp-id" style="display:none">4935</span>
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>var nearRedditEvents = [{"selector":"#mega-overview-link","js_event":"click","reddit_event":"MegaOverview"},{"selector":"#mega-dev-tools-link","js_event":"click","reddit_event":"MegaDevTools"},{"selector":"#mega-education-link","js_event":"click","reddit_event":"MegaEducation"},{"selector":"#newsletter-form","js_event":"submit","reddit_event":"NewsletterSubscribe"}]</script>
+<script src="/wp-content/themes/near-21/assets/dist/near.js?t=1684954601" id="near-js"></script>
+
+<!--<script type="module" src="https://near-lib.num42.de/near-components.umd.js"></script>-->
+<script type="module" src="/wp-content/themes/near-21/assets/js/near-components.umd.js"></script>
+</body>
+
+</html>

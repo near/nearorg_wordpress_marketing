@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Developers Archives &#8211; NEAR Protocol</title>
+	<atom:link href="/blog/category/developers/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/category/developers/</link>
+	<description></description>
+	<lastBuildDate>Mon, 23 Oct 2023 19:18:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<title>Developers Archives &#8211; NEAR Protocol</title>
+	<link>/blog/category/developers/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Check Out the Pagoda Product Roadmap</title>
+		<link>/blog/check-out-the-pagoda-product-roadmap/</link>
+		
+		<dc:creator><![CDATA[Eric Winer]]></dc:creator>
+		<pubDate>Thu, 19 Oct 2023 14:00:00 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Pagoda]]></category>
+		<category><![CDATA[Pagoda Product Roadmap]]></category>
+		<guid isPermaLink="false">/?p=20986</guid>
+
+					<description><![CDATA[<p>Over the past year, Pagoda has been working hard to build out the B.O.S, evolve near.org, and continue developing the …</p>
+<p>The post <a href="/blog/check-out-the-pagoda-product-roadmap/">Check Out the Pagoda Product Roadmap</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Over the past year, Pagoda has been working hard to build out the B.O.S, evolve near.org, and continue developing the NEAR protocol. While Pagoda has built and launched proprietary services in the past, almost all of our work so far in 2023 and planned for the future is free open-source software,&nbsp; which we intend to become vital parts of the NEAR ecosystem. We want the community to be aware of, excited by, and engaged in this work.&nbsp;</p>
+
+
+
+<p>So I’m excited to announce that Pagoda is making its product roadmap public this week <a href="https://github.com/orgs/near/projects/80/views/3">via GitHub</a>. It&#8217;s honestly a bit overdue. Given our values of transparency and collaboration, we hope to involve more members of the community in the development process. We also hope this lets teams across the NEAR ecosystem plan ahead a bit better, build in parallel to Pagoda, and even get ideas for what to build based on what you feel is missing or should be prioritized.&nbsp;</p>
+
+
+
+<p>Right now this roadmap covers the rest of 2023 and we are committing to update the roadmap at least quarterly. The roadmap on GitHub is arranged into several views covering both the company objectives (OKRs) as well as larger workstreams (initiatives). We’ve further organized our roadmap views by product vertical and priority level, along with status and expected delivery date (which the product leads will update in real time). You may see some roadmap items displayed as “private”; this is because certain partnerships and enterprise workstreams must remain under NDA or embargo until launch. The Pagoda team will continue to iterate on this roadmap tool to make it an even richer resource for ecosystem partners and the NEAR community.</p>
+
+
+
+<p>Delivering on the Open Web vision will take contributions far beyond Pagoda and we look forward to working alongside those who are as passionate about NEAR as we are. Please explore and leave comments or questions on the <a href="https://near.social/mob.near/widget/MainPage.N.Post.Page?accountId=pagodaplatform.near&amp;blockHeight=103737068">NEAR Social post</a> – or on the roadmap itself – if you have feedback.&nbsp;</p>
+
+
+
+<p><br>-Eric Winer, CTO Pagoda</p>
+<p>The post <a href="/blog/check-out-the-pagoda-product-roadmap/">Check Out the Pagoda Product Roadmap</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Embracing Decentralization: What’s Next for the NEAR Wallet</title>
+		<link>/blog/embracing-decentralization-whats-next-for-the-near-wallet/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 16:30:00 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[NEAR Wallet]]></category>
+		<category><![CDATA[Transfer Wizard]]></category>
+		<guid isPermaLink="false">/?p=20715</guid>
+
+					<description><![CDATA[<p>When NEAR Mainnet launched in late 2020, it included a wallet built and hosted by Pagoda’s (then known as Near …</p>
+<p>The post <a href="/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>When NEAR Mainnet launched in late 2020, it included a wallet built and hosted by Pagoda’s (then known as Near Inc.) core team on <a href="https://wallet.near.org/">https://wallet.near.org/</a> to support NEAR’s unique account model. Nearly three years later, the NEAR wallet ecosystem is home to a myriad of high quality, open source wallets supported by NEAR’s community of active contributors. This significant milestone reflects NEAR’s ongoing commitment to empower users and foster decentralization. The evolution of NEAR wallets also showcases the substantial growth of the ecosystem, as NEAR now supports a diverse list of cross-chain wallets, as well as native wallets with innovative onboarding approaches such as <a href="/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/?_gl=1%2A1fvy7yq%2A_up%2AMQ..%2A_ga%2AMjA1NTA3NTczNy4xNjg2NjY4NDc2%2A_ga_9GWCXQJ62J%2AMTY4NjY2ODQ3NC4xLjEuMTY4NjY2ODUxMC4wLjAuMA..">FastAuth</a>.</p>
+
+
+
+<p>To celebrate these excellent contributions from across the NEAR community, and to reflect the priority of decentralization, over the next few months Pagoda will start migrating the domain <a href="https://wallet.near.org/">https://wallet.near.org/</a> from being a browser wallet to being a wallet hub. In this way, <a href="https://wallet.near.org/">https://wallet.near.org/</a> will become the reference place for all NEAR wallets, allowing users to discover and implement the right wallets for their specific needs.</p>
+
+
+
+<p>If you currently use <a href="https://wallet.near.org/">https://wallet.near.org/</a> as your main wallet, you have nothing to worry about. The Pagoda team has been working hard to build a Wallet Transfer Wizard to help you transfer your accounts to a new wallet easily and smoothly, while keeping your funds and assets safe. The Transfer Wizard will allow you to choose between Browser and Extension-based wallets, so you will still have the same friendly wallet experience you are accustomed to after the Wizard is finished.</p>
+
+
+
+<p>For more details, visit the <a href="https://wallet.near.org/transfer-wizard">Migrating from NEAR Wallet</a> page.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="h-timeline-for-transitioning-the-main-wallet-domain">Timeline for transitioning the main wallet domain&nbsp;</h3>
+
+
+
+<p>The NEAR Wallet will remain a browser wallet until <strong>January 1st, 2024</strong>, during which time the wallet will encourage and help you to transfer your accounts to a new wallet. You can do this manually with your recovery phrase or use the Transfer Wizard to securely migrate your accounts to the wallet of your choice. </p>
+
+
+
+<p>Do not worry if you have not transferred your accounts by <strong> <strong>January 1st, 2024</strong></strong> —<strong> </strong>the Transfer Wizard will still be available after the wallet functionality sunsets. Rest assured that your assets will remain secure until you import them to a new wallet.</p>
+
+
+
+<p>The Transfer Wizard will remain available on the new wallet landing page at wallet.near.org indefinitely. This repurposed page will act as an introduction to the various options for wallets in the NEAR ecosystem.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-a-new-era-for-near-wallets">A new era for NEAR Wallets</h3>
+
+
+
+<p>This new step moves NEAR closer to achieving a truly decentralized ecosystem driven by its own community. Thanks to the wallet hub and the wallet selector (which enables the use of any compatible NEAR wallet in web applications), users will now be able to use any wallet they like. This will not only improve their experience on NEAR, but also the full spectrum of available Web3 experiences thanks <a href="/blog/near-blockchain-operating-system-is-now-live-on-near-org/?_gl=1%2Ahbkih2%2A_up%2AMQ..%2A_ga%2AMjAwNDA3NDY4Mi4xNjg2NjY5MjQx%2A_ga_9GWCXQJ62J%2AMTY4NjY2OTIzOS4xLjEuMTY4NjY2OTI0My4wLjAuMA..">to the BOS</a>.</p>
+<p>The post <a href="/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</title>
+		<link>/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 14:00:00 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[BOS]]></category>
+		<category><![CDATA[Developer tools]]></category>
+		<category><![CDATA[Infrastructure]]></category>
+		<guid isPermaLink="false">/?p=20704</guid>
+
+					<description><![CDATA[<p>NEAR is welcoming Vistara, the groundbreaking rollup deployment framework, into the fold. Vistara is set to seamlessly integrate with the …</p>
+<p>The post <a href="/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>NEAR is welcoming <a href="https://twitter.com/vistaralabs">Vistara</a>, the groundbreaking rollup deployment framework, into the fold. Vistara is set to seamlessly integrate with the BOS for the end-to-end, multi-chain deployment of rollups. This alliance will accelerate the pace of blockchain innovation, making rollup deployment faster, more efficient, and accessible across multiple chains for all developers.</p>
+
+
+
+<p>Vistara stands out as a game-changing one-click <a href="https://docs.vistara.dev/">rollup deployment framework</a> that simplifies creating application-specific rollups across multiple blockchains. Streamlining the intricate rollup deployment process into a straightforward, single-click operation, Vistara will build a front-end on the BOS to make user-friendly, multi-chain rollup deployment a reality.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-simplifying-multi-chain-roll-ups-with-vistara-on-the-bos">Simplifying multi-chain roll-ups with Vistara on the BOS&nbsp;</h2>
+
+
+
+<p>Existing frameworks such as Cosmos SDK and Substrate have sought to streamline certain software components in decentralized applications but often leave developers tied to one ecosystem that they must completely understand and master. Vistara will now present a unique solution by combining the BOS with backend chains like Ethereum and Celestia.</p>
+
+
+
+<p>Vistara’s emphasis on simplifying rollup component creation aligns with NEAR&#8217;s vision of user-centric decentralization and a serverless Web3. With this new BOS front-end integration, developers in the NEAR ecosystem and beyond can now build and deploy rollups in one convenient location.</p>
+
+
+
+<p>The result will be a user-friendly design that makes the deployment of a rollup as simple as selecting an option from a dropdown menu. The integration will also encourage a wider range of developers to build with rollups on the BOS with any chain, leading to a more diverse pool of innovations and robust growth.</p>
+
+
+
+<p>Vistara’s integration not only simplifies the process but also expands the scope for innovation. It demystifies rollup creation, making it accessible to a broader range of developers. This inclusivity fuels a more diverse pool of applications, fostering growth and vibrancy within the NEAR ecosystem.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-vistara-and-bos-breaking-base-layer-building-barriers">Vistara and BOS breaking base layer building barriers</h2>
+
+
+
+<p>Developing decentralized applications on base layers can be a complex process. Coordination of node operators, high costs, and extended development times are among the major challenges. However, Vistara is designed to confront these issues directly, streamlining the process and fostering efficiency.</p>
+
+
+
+<p>Rollups — technologies that bundle or &#8216;roll up&#8217; side-chain transactions into a single transaction — provide an effective solution. They help developers bypass the difficulties associated with building decentralized networks. Vistara leverages this rollup technology, pushing the NEAR ecosystem towards application-specific rollups.&nbsp;</p>
+
+
+
+<p>The solution effectively untangles the complexities tied to base layer dependencies, forging a development environment on the BOS that stretches beyond traditional base layer confines. With Vistara, multi-chain developers can now bring their applications to life more swiftly and efficiently than ever before.</p>
+
+
+
+<p>To sum up, Vistara&#8217;s user-friendly, multi-chain rollup deployment capabilities on the BOS will have a huge impact on the NEAR ecosystem and beyond. The integration will take much of the complexity out of rollup deployment for anyone, helping Web3 creators, builders, and developers bring their applications to life faster than ever.</p>
+<p>The post <a href="/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NEAR Teams With Google Cloud to Accelerate Web3 Startups</title>
+		<link>/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 12:02:24 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Infrastructure]]></category>
+		<category><![CDATA[Partnerships]]></category>
+		<guid isPermaLink="false">/?p=18589</guid>
+
+					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership between Google Cloud and NEAR Protocol. Going forward, Google Cloud will …</p>
+<p>The post <a href="/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/">NEAR Teams With Google Cloud to Accelerate Web3 Startups</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>NEAR Foundation is excited to announce a new partnership between Google Cloud and NEAR Protocol. Going forward, Google Cloud will provide technical support for NEAR grant recipients. Open and developer-friendly, Google Cloud will support devs as they build and scale their Web3 projects and dApps.</p>
+
+
+
+<p>If you’re developing on NEAR, this is great news—the partnership will supercharge blockchain innovations. Developers will even more easily create without limits as they build dApps and help onboard the masses into Web3.&nbsp;</p>
+
+
+
+<p>“We are thrilled to be collaborating with those who pioneered the Internet as we know it,” says Marieke Flament, CEO of the NEAR Foundation. “This partnership marks a new chapter for us as we continue to offer the best support possible for the next generation of visionaries choosing to build on the NEAR protocol.”</p>
+
+
+
+<h2 class="wp-block-heading" id="h-powering-near-developers-with-google-cloud">Powering NEAR developers with Google Cloud</h2>
+
+
+
+<p>In the last year, NEAR has grown exponentially thanks to its super-fast, incredibly secure, and infinitely scalable protocol. There are now over 20 million accounts, 200 million transactions to date, and 300,000 to 400,000 transactions per day on the NEAR network. Building upon the momentum of NEARCON 2022, which showcased the NEAR ecosystem’s vibrancy, <a href="http://awesomenear.com/">800 projects</a> are now building on the protocol.&nbsp;</p>
+
+
+
+<p>How will the hundreds of projects currently building on NEAR benefit from the Google Cloud partnership?&nbsp;</p>
+
+
+
+<p>Google Cloud provides the infrastructure for NEAR’s Remote Procedure Call (RPC) node provider to <a href="https://www.pagoda.co/">Pagoda</a>, NEAR’s Web3 startup platform. This allows developers to deploy code quickly, securely, and seamlessly. Pagoda helps developers easily and rapidly launch dApps on NEAR through a library of pre-audited templates and auto-generated contract user interfaces.</p>
+
+
+
+<p>&nbsp;“We will be supporting NEAR and giving Web3 developers the most secure, reliable, and sustainable cloud infrastructure on which they can build and scale,” Carlos Arena, Director of&nbsp;<a href="https://cloud.google.com/blog/topics/financial-services/google-cloud-launches-dedicated-digital-asset-team">Digital Assets</a> at Google Cloud. “We continue to support tomorrow’s leaders in creating new products and services on blockchain-based platforms.”</p>
+
+
+
+<p>For more information on how Google Cloud is working to support Web3 innovation, check out <a href="https://cloud.google.com/blog/topics/financial-services/google-cloud-launches-dedicated-digital-asset-team">Google Cloud’s Digital Assets blog</a>.&nbsp;</p>
+<p>The post <a href="/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/">NEAR Teams With Google Cloud to Accelerate Web3 Startups</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hacking a New World with MetaBUILD III</title>
+		<link>/blog/hacking-a-new-world-with-metabuild-iii/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 01 Sep 2022 20:55:58 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<guid isPermaLink="false">/?p=18193</guid>
+
+					<description><![CDATA[<p>UPDATE: MetaBUILD III&#8217;s Pre-Accelerator Program has some new details. Scroll down to the &#8220;After the Hack&#8221; section for more information.   …</p>
+<p>The post <a href="/blog/hacking-a-new-world-with-metabuild-iii/">Hacking a New World with MetaBUILD III</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>UPDATE:</strong><em> MetaBUILD III&#8217;s Pre-Accelerator Program has some new details. Scroll down to the &#8220;After the Hack&#8221; section for more information.  </em></p>
+
+
+
+<p>Six months ago, NEAR wrapped up the <a href="https://medium.com/nearprotocol/metabuilding-the-history-of-near-2719ce71acbf">MetaBUILD 2 hackathon</a> just as the world shut down. New challenges emerged, both inside and outside the NEAR ecosystem. The crypto market itself was seemingly falling apart, and everyone was talking about the looming “Crypto winter”. It was clear that in order to continue, a new, creative approach would be necessary.</p>
+
+
+
+<p>NEAR was founded during some of the gloomiest times of the previous “Crypto winter”, so at least some of this was already familiar territory. In fact, NEAR’s resilient design was informed by the uncertainty in the markets surrounding its release. This resilience is not just evident in the technology, but it can also be seen throughout the ecosystem.&nbsp;</p>
+
+
+
+<p>To maintain the health of its vibrant community, NEAR focused the aim of its hackathons towards a broader, more ambitious journey for participants—what if these hackathons could foster each team from ideation all the way to forming a Web3 start-up with a market-ready product?</p>
+
+
+
+<h2 class="wp-block-heading" id="h-metabuild-iii-a-bigger-better-impact">MetaBUILD III: A Bigger, Better Impact</h2>
+
+
+
+<p>MetaBUILD is considered <a href="https://metabuildii.devpost.com/">one of the biggest hackathons</a> in the blockchain community. With a $1 million in prizes pool, nearly 4,000 participants, and more than 350 submissions from across the world, it has helped realize ideas from streaming tokens to metaverse worlds. In fact, some of these winners will be featured at <a href="https://nearcon.org/">NEARCON in September</a>, so the community can listen to their stories and learn from their challenges.</p>
+
+
+
+<p>This year, <strong>MetaBUILD III</strong> returns with its $1 million in prizes, with registrations opening today and submissions starting September 23rd. But participants should expect to see the hackathon’s format evolve. It’s shaping it up to become an <strong>8-week product-oriented incubation program, hosted by Pagoda,</strong> focused on supporting teams beyond the prize money, towards securing funding, and producing a market-ready prototype. Here’s what else is new:</p>
+
+
+
+<ul><li>Instead of the Welcome track (for newly created projects), a <strong>Web2 track </strong>will be established to help existing teams integrate NEAR blockchain into their current products.</li><li>Only <strong>newly created or substantively modified projects </strong>are allowed to enter the Native track to ensure that participants are committed to remaining in the ecosystem even after they win. Proofs of concept projects built during <a href="https://nearcon-irl-hackathon.devpost.com/">NEARCON’s 48hs IRL hackathon</a> are welcome to join MetaBUILD.&nbsp;</li><li><strong>Challenges instead of bounties</strong>: MetaBUILD III is looking for sustained product teams who understand their market and are committed to building solutions addressing some of the most pressing challenges of today: rising unemployment, the energy crisis, refugee crises, climate change, access to education and other resources, media censorship, etc.</li></ul>
+
+
+
+<p>This shift in perspective centers on an understanding of how impactful $1 million could be in the right hands. It is not only about proving great ideas, but growing them as products that can make a long-term impact in the ecosystem and beyond!</p>
+
+
+
+<h2 class="wp-block-heading" id="h-ways-to-metabuild">Ways to MetaBUILD</h2>
+
+
+
+<p>Whether you are a solo hacker or an ecosystem partner, there are several ways to participate in MetaBUILD III:</p>
+
+
+
+<ul><li><strong>As a developer</strong></li></ul>
+
+
+
+<p>Incubate your project from idea to an MVP in 8 weeks. Find some talented teammates, and win $20-60k to continue building.&nbsp;</p>
+
+
+
+<p><a href="https://metabuild.devpost.com/register?flow%5Bdata%5D%5Bchallenge_id%5D=15923&amp;flow%5Bname%5D=register_for_challenge">Learn more &gt;</a></p>
+
+
+
+<ul><li><strong>As a non-technical person</strong></li></ul>
+
+
+
+<p>Pivot your career into Web3, and join one of the teams as a designer, bizdev expert, product manager, or copywriter to build a winning project together.</p>
+
+
+
+<ul><li><strong>As a NEAR community member</strong></li></ul>
+
+
+
+<p>Host a workshop, share your success story, or provide mentorship to participants.&nbsp;</p>
+
+
+
+<p><a href="https://forms.gle/esmF2QTPcrcwRLiu9">Learn more &gt;</a></p>
+
+
+
+<ul><li><strong>As a Web3 company or VC</strong></li></ul>
+
+
+
+<p>Spread the word about MetaBUILD in your community, apply to become a mentor or a judge, or host an IRL event to inspire and support the MetaBUILD community.&nbsp;</p>
+
+
+
+<p><a href="https://forms.gle/esmF2QTPcrcwRLiu9">Learn more &gt;</a>&nbsp;</p>
+
+
+
+<p>To help fuel the ideas for the next big wave in Web3, a whole educational program will be added to the incubation process:</p>
+
+
+
+<ul><li><strong>The Education team</strong> behind <a href="https://www.near.university/">NEAR University</a> will provide self-paced NEAR workshops.</li><li><strong>Team Docs </strong>will present their <a href="https://docs.near.org/tutorials/welcome">Zero to Hero</a> tutorials<strong> </strong>to make sure the onboarding process is streamlined for everyone.&nbsp;</li><li><strong>The Pagoda team</strong> is already hosting monthly <a href="http://near.ai/tooling-meetings">Developer Tooling</a> meetings to demonstrate the features and capabilities of their latest releases.</li></ul>
+
+
+
+<h2 class="wp-block-heading">After the Hack: Pre-Accelerator Program from Pagoda and Startup Wise Guys</h2>
+
+
+
+<p>This time, MetaBUILD is not just about building a quick project for competition. The new challenge is for developers to join and build a new product that can hit the market and make a long-term impact on the NEAR ecosystem. From MVP in the hack, to a first market release in the pre-accelerator program, MetaBUILD III is designed to get devs the resources they need to get there with a solid foundation.</p>
+
+
+
+<p>Of the winning submissions, 30 MetaBUILD projects will be welcomed to a pre-accelerator program hosted by Pagoda and Startup Wise Guys. Projects will have access to a roster of talented NEAR ecosystem mentors, who will support them in their early stages as projects focus on the key components of their business and idea. NEAR mentors will also help winning submissions develop go-to-market strategies with clear goals and propositions, acquire their first customers, operate sustainably for the long term, and attract investment with our roster of talented NEAR ecosystem partners, amongst other things.&nbsp;</p>
+
+
+
+<p>Ultimately, the pre-accelerator program will help projects prepare to successfully apply for full-time accelerator programs or first-round investment opportunities.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-we-in-web3">The “We” in Web3</h2>
+
+
+
+<p>Navigating a bear market is a sobering experience, but it is also an inspiring one, because Web3 is ready to face new challenges, new audiences, and new use cases. All it needs are open minds, ambitious ideas, and a willingness to work together to change the world—one decentralized project at a time.</p>
+
+
+
+<p>Ready to hack the ever changing world? <a href="https://metabuild.devpost.com/">Build your next project on NEAR</a>. MetaBUILD III is here to guide you from idea to market, and beyond. We have the expertise, the funds, and the drive to face new challenges together.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://secure.devpost.com/users/register?return_to=https%3A%2F%2Fmetabuild.devpost.com%2Fregister%3Fflow%255Bdata%255D%255Bchallenge_id%255D%3D15923%26flow%255Bname%255D%3Dregister_for_challenge">Register Today</a></div>
+</div>
+<p>The post <a href="/blog/hacking-a-new-world-with-metabuild-iii/">Hacking a New World with MetaBUILD III</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Stake Wars III is Halfway to the Finish Line: What Does This Mean for NEAR’s Sharding?</title>
+		<link>/blog/stake-wars-iii-is-halfway-to-the-finish-line-what-does-this-mean-for-nears-sharding/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Fri, 19 Aug 2022 13:00:00 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<guid isPermaLink="false">/?p=17993</guid>
+
+					<description><![CDATA[<p>The incredible Stake Wars III journey is still unfolding, but now is a good time to celebrate some important milestones. …</p>
+<p>The post <a href="/blog/stake-wars-iii-is-halfway-to-the-finish-line-what-does-this-mean-for-nears-sharding/">Stake Wars III is Halfway to the Finish Line: What Does This Mean for NEAR’s Sharding?</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The incredible<a href="/stakewars/"> Stake Wars III</a> journey is still unfolding, but now is a good time to celebrate some important milestones. Let’s look at a few quick stats and updates, as the organizers move forward in this effort to prepare NEAR’s sharding to move <a href="/blog/near-launches-simple-nightshade-the-first-step-towards-a-sharded-blockchain/">from Phase 0 to 1.</a><br>Before we do that, there&#8217;s now a leaderboard where you can see the <a href="https://openshards.io/shardnet-uptime-scoreboard/">performance of the participants</a>. As you can see, everyone in the top 25 has a 90% or above success rate in getting their chunks online. Great job!  </p>
+
+
+
+<p>During the program, shardnet, the testing network set up specifically for Stake Wars, frequently had more than 1,500 active nodes participating and 400 validators (chunk + block producers) competing in 11 successful challenges in the shardnet while a few more lined up. The Stake Wars organizers will continue to operate Stake Wars exclusively in shardnet until the program ends on September 9th.&nbsp;</p>
+
+
+
+<p>Stake Wars will not be moved to testnet as previously announced. Testnet is used as a final staging environment, and is part of the regular release cycle. Separating that cycle from Stake Wars will allow the team to focus on the community and not on the release requirements.&nbsp;</p>
+
+
+
+<p>Major credit for Stake Wars’ success goes to the dedicated NEAR community and partners, without whom Stake Wars wouldn&#8217;t have been possible. Their thoughtful and continuous feedback shaped the program. Last but not least, a big shout-out to the entire Pagoda team, who stands tall and has been a backbone throughout the process.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-some-wins">Some Wins</h2>
+
+
+
+<p>Since the launch of Stake Wars III four weeks ago, the community has rallied a massive amount of participation–much more than previously anticipated. The stats have been stunning as shown above, and there is a tremendous amount of activity in the dedicated Discord channels, e.g. #stake-wars. Let’s keep this momentum up throughout the second part of the program all the way through to the finish line and beyond!</p>
+
+
+
+<p>The 11 published challenges (competitions) have helped shed light on the work required to become a successful validator. They also created a battleground in shardnet for testing chunk-only producer code.</p>
+
+
+
+<p>One of the most important takeaways so far is that Stake Wars is teaching community members the ins-and-outs of running successful validator nodes. It is also offering them a pathway, through stake support, to securing seats as mainnet validators.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-some-learnings">Some Learnings</h2>
+
+
+
+<p>Win or lose, there’s always something to learn. In these four intense, amazing weeks, the Stake Wars organizers have faced a series of potential setbacks, but with the help of the community the team persevered, and NEAR is a stronger ecosystem for it.</p>
+
+
+
+<p>The first of these challenges was the abuse of the distribution mechanism for the shardnet token. The Stake Wars organizers addressed this issue by switching over to a delegation model to protect the network. Although this created some additional friction for participants, it did have the silver lining of introducing them to the underlying staking and delegation models in mainnet.</p>
+
+
+
+<p>The other issue the Stake Wars organizers faced was handling simultaneous setup and token-distribution, which warranted creating several hard forks. Fortunately, this decision essentially helped bring the network back into a functional state. While there is no expectation that these situations will be seen in mainnet, being able to “safely” learn from them during Stake Wars contributes to an optimal operational experience for program participants. Hence, running Stake Wars in a dedicated test network (shardnet) gives the team the flexibility to respond and adapt to the different situations that may be encountered throughout the duration of the program.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-what-next-phase-1-of-sharding">What Next? &#8211; Phase 1 of Sharding</h2>
+
+
+
+<p>In the run-up to the launch of Phase 1 of sharding, which is scheduled for next month, the <strong>chuck-only producer</strong> feature was released to testnet on Aug 15th. This will create more opportunities to earn rewards and further secure the NEAR Ecosystem. The chunk-only producer is also a great onramp to becoming a validator for those who may not have the $NEAR or system requirements to run a validator node since chunk-only producers are solely responsible for single shards.&nbsp;</p>
+
+
+
+<p>The number of validators will also increase from ~100 to ~300, and the seat price to become a validator will be lowered. This is a crucial step to better facilitate scaling, improve NEAR’s decentralization, and bring the Open Web to mass adoption.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-references">References:</h2>
+
+
+
+<p>It’s not late yet, learn how to be <a href="/decentralize/">chuck-only producers</a>. And the best way to join <a href="https://openshards.io/">testnet</a>.</p>
+
+
+
+<h2 class="wp-block-heading"></h2>
+<p>The post <a href="/blog/stake-wars-iii-is-halfway-to-the-finish-line-what-does-this-mean-for-nears-sharding/">Stake Wars III is Halfway to the Finish Line: What Does This Mean for NEAR’s Sharding?</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</title>
+		<link>/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 23:00:26 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Developer tools]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<guid isPermaLink="false">https://neardev.nmcgn.de/?p=17905</guid>
+
+					<description><![CDATA[<p>Blockchain development has just become a whole lot easier for Web2 developers. NEAR is thrilled to unveil its much anticipated …</p>
+<p>The post <a href="/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Blockchain development has just become a whole lot easier for Web2 developers. NEAR is thrilled to unveil its much anticipated JavaScript Software Development Kit (JS SDK) at ETHToronto, the official hackathon of the Blockchain Futurist Conference, in a significant move to democratize Web3 development.</p>
+
+
+
+<p>With NEAR’s JS SDK, more than 20 million developers that make JavaScript the world’s most popular coding language can finally join the internet revolution and quickly build fast, scalable, and user-friendly decentralized applications. Having that many more contributors in the space could bring about a fascinating renaissance to the open web.</p>
+
+
+
+<p>Although Rust and Solidity are the most prominent programming languages for Layer 1 blockchains, there are fewer than 2.5 million developers worldwide who use these languages. So, opening up the doors nearly 10x is a major step towards mass adoption. JS runs in every browser, the basics can be taught in an afternoon, it requires no compiler setup, and it comes pre-loaded with useful libraries like RegExp, Math, and Array. The NEAR JS SDK brings this same capability and ease of use to developing smart contracts, unlocking the power of blockchain to a much, much wider audience.&nbsp;</p>
+
+
+
+<p>Commenting on the launch, Illia Polosukhin, Founder of NEAR, says: “Developers can spend less time learning a new language and more time building their application in a language they already know. Millions of developers already know how to program in JavaScript; enabling this group to build novel applications on NEAR is a critical step in achieving our vision of a billion users interacting with NEAR.”</p>
+
+
+
+<h2 class="wp-block-heading" id="h-learn-build-and-deploy-in-minutes">Learn, build, and deploy in minutes</h2>
+
+
+
+<p>NEAR’s commitment to putting simplicity and usability first is reinforced by this release, making the learning curve for blockchain far less steep than it has ever been. Javascript developers can now set up their first dApp in the same amount of time it takes to spin up a React app.&nbsp;</p>
+
+
+
+<p>The&nbsp;<a href="https://github.com/near/near-sdk-js">JS SDK</a>&nbsp;release has everything you need to dive right into blockchain development including the contract framework itself, JavaScript and TypeScript contract examples, and example tests. It is implemented in TypeScript, which offers developers implicit, strict, and structural typing, along with type annotations built into your favorite IDE.&nbsp;</p>
+
+
+
+<p>Developers can get started building their first JavaScript decentralized application by following this&nbsp;<a href="https://docs.near.org/develop/quickstart-guide">quick start guide</a><em>&nbsp;</em>or heading to&nbsp;<a href="https://www.pagoda.co/jssdk?utm_source=blog&amp;utm_campaign=js-sdk">Pagoda’s landing page</a>&nbsp;to learn more.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-a-closer-look-at-the-js-sdk">A Closer Look at the JS SDK</h2>
+
+
+
+<p>The JS SDK provides each contract its own instance of a JS engine running inside it. This design allows developers to write contracts in pure JavaScript or TypeScript, and access all the same features, like oracles, available to Rust contracts. </p>
+
+
+
+<p class="has-text-dark-color has-text-color">To get started, run <code><mark style="background-color:#d1d1d1" class="has-inline-color has-text-dark-02-color">npx create-near-app</mark></code>  in your terminal and select JavaScript for your smart contract. Once everything is installed you can test, compile, and deploy your newly created project with ease.</p>
+
+
+
+<p>For a more detailed look at the contract structure and other configurations check out this<a href="https://docs.near.org/develop/quickstart-guide">&nbsp;dApp QuickStart Guide</a><em>&nbsp;</em>on NEAR’s Official Documentation site.&nbsp;</p>
+
+
+
+<p><em>About Pagoda</em></p>
+
+
+
+<p>The JS SDK is developed by Pagoda, the engineering team that builds and maintains NEAR Protocol and some of the most important tools needed for decentralized application (dApp) development. Developers can use the Pagoda suite of tools to build, deploy, test, and interact with smart contracts on NEAR. For more information on the JS SDK, visit&nbsp;<a href="https://www.pagoda.co/jssdk?utm_source=blog&amp;utm_campaign=js-sdk">Pagoda</a>&nbsp;or join the&nbsp;<a href="http://near.chat/">NEAR Discord</a>&nbsp;and checkout the&nbsp;<em>#engineering</em>&nbsp;channels where resources like&nbsp;<a href="/office-hours">live support</a>&nbsp;are available every day.&nbsp;</p>
+
+
+
+<p></p>
+<p>The post <a href="/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Convert Web 2 Games to Web 3</title>
+		<link>/blog/how-to-convert-web-2-games-to-web-3/</link>
+		
+		<dc:creator><![CDATA[Dev Rel]]></dc:creator>
+		<pubDate>Fri, 01 Jul 2022 12:54:48 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<guid isPermaLink="false">/?p=16911</guid>
+
+					<description><![CDATA[<p>Gaming has become one of the fastest growing sectors of the Web3 world. On NEAR alone, there are nearly 100 …</p>
+<p>The post <a href="/blog/how-to-convert-web-2-games-to-web-3/">How to Convert Web 2 Games to Web 3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Gaming has become one of the fastest growing sectors of the Web3 world. On NEAR alone, there <a href="https://awesomenear.com/categories/gaming">are nearly 100 projects building gaming</a> titles in the ecosystem. But harnessing the unique properties of blockchain can be a challenge. Which is why an ecosystem project, in collaboration with the NEAR Foundation has created a handy tutorial for anyone considering converting their games to Web3.</p>
+
+
+
+<p>If you’ve ever tried to find a simple answer to the question of “How do I start converting my mobile game to NEAR blockchain?”, then <a href="http://bit.ly/web2toweb3">this Web2 to Web3 tutorial</a> is for you.</p>
+
+
+
+<p>The tutorial was created by <a href="https://sigma.software/">Sigma Software Group</a>, a consultancy group with Swedish and Ukrainian roots, as a result of its own work converting a free to play large-scale mobile AR game called <a href="https://blacksnow.tv/"><em>Black Snow</em></a><em>,</em> which makes players the heroes of an epic sci-fi movie at their physical or virtual locations. </p>
+
+
+
+<p>Through this conversion, <em>Black Snow</em> is utilising NFTs to radically reimagine the gaming experience for players. So the team have decided to share its knowledge with other gaming companies looking to explore similar conversions. <br></p>
+
+
+
+<p>Essentially, there is no way of just “converting” your game to use a blockchain, although NEAR strives to make the transition and onboarding to web3 ecosystem as natural and hassle free as possible. Thus, even the very first step to add NFTs into a mobile game presents a multi-faceted challenge that includes game mechanics, architecture, engineering, and live ops.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-a-step-by-step-guide">A step-by-step guide</h2>
+
+
+
+<p><a href="http://bit.ly/web2toweb3">The tutorial</a> begins with explanations of the very core concepts, which you’ll need to understand before starting the move to web3. It highlights both the benefits and constraints of moving to blockchain.</p>
+
+
+
+<p>Then, you’ll find a sequence of practical steps along with code examples to guide you through converting a regular mobile game to a game with NFTs in the NEAR ecosystem.</p>
+
+
+
+<p>These steps cover the technical aspects of how to choose libraries, frameworks and which third-party solutions can be used to implement the blockchain architecture.&nbsp;</p>
+
+
+
+<p>The tutorial describes how NFTs are used to represent ownership of an asset in web3 world, how to implement them technically, and on which moment you need to stay focused during this process. Further, it covers aspects on NFT usage and minting as well as NFT marketplace integration.&nbsp;</p>
+
+
+
+<p>The tutorial also provides a number of tips and tricks, which are not that obvious for any newcomer to blockchain, concerning security, scalability, availability, and costs of a web3 application.<br></p>
+
+
+
+<p>Are you ready? <a href="http://bit.ly/web2toweb3">Start you blockchain building journey with NEAR here.</a></p>
+<p>The post <a href="/blog/how-to-convert-web-2-games-to-web-3/">How to Convert Web 2 Games to Web 3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Join Stake Wars to Become a Chunk-Only Producer</title>
+		<link>/blog/join-stake-wars-to-become-a-chunk-only-producer/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2022 16:02:13 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<guid isPermaLink="false">/?p=16865</guid>
+
+					<description><![CDATA[<p>Stake Wars is back to help decentralize the NEAR network and help the community with cool new challenges and rewards …</p>
+<p>The post <a href="/blog/join-stake-wars-to-become-a-chunk-only-producer/">Join Stake Wars to Become a Chunk-Only Producer</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Stake Wars is back to help decentralize the NEAR network and help the community with cool new challenges and rewards to members who want to become validators. In Stake Wars: Episode III, NEAR is focusing on <a href="/decentralize">Chunk-Only Producers</a>—NEAR’s next step toward a fully-sharded protocol.</p>
+
+
+
+<p>By introducing this new type of validator, NEAR can increase the total number of validator seats. Stake Wars is helping Chunk-Only Producers to prepare for this moment. It’s an opportunity to gain confidence and learn how to work with contract-based delegation.</p>
+
+
+
+<p>With Stake Wars III set for July 13, here’s a brief rundown of the new Chunk-Only Producer role, and what to expect from the Stake Wars program.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-chunk-only-producers-help-decentralize-and-secure-near">Chunk-Only Producers help decentralize and secure NEAR</h2>
+
+
+
+<p>The NEAR Network is currently secured by 100 validators. NEAR’s <a href="https://near.ai/mainnet-roadmap">roadmap</a> will allow the protocol to become fully-sharded. This will help reach the ambitious goal to decentralize NEAR while keeping the network secure. Chunk-Only Producers are an important milestone along this path.</p>
+
+
+
+<p>Chunk-Only Producers are solely responsible for <a href="/papers/nightshade/#nightshade">producing chunks</a> in a single shard (a network partition). A chunk, of course, is a shard block (see <a href="https://near.ai/nightshade">Nightshade</a> for more detail). What’s cool for Chunk-Only Producers is that they can run their validator node on a less demanding machine, such as a 4-Core CPU, with 8GB of RAM and 200GB SSD of storage.</p>
+
+
+
+<p>Once the Chunk-Only Producer is available on NEAR mainnet at the end of Q3, NEAR plans to onboard an additional 200-300 validators. This, combined with a lower barrier to entry (minimum stake) for validators, is a win for the NEAR network as it moves toward a more scalable future. By increasing the total number of validators, NEAR will become more decentralized and more secure.</p>
+
+
+
+<h2 class="wp-block-heading">How Stake Wars III works</h2>
+
+
+
+<p>Chunk-Only Producers can deploy the open-source Staking Pool smart contract from Github, to test their systems and gain confidence with contract-based delegation. Validators are also free to customize their delegation contract, build their web applications, and integrate the Staking Pool into their existing systems.</p>
+
+
+
+<p>Stake Wars is community-operated, and community members such as Metapool, Everstake, LiNEAR and Open Shards Alliance (OSA) will offer their support to the program. NEAR plans to use more than 4M $NEAR tokens as delegation rewards for the participants who complete the challenges. These rewards help put participants in a position to become a mainnet validators by Q4 of 2022.&nbsp;</p>
+
+
+
+<p>The Stake Wars: Episode III incentivized testnet for Chunk-Only Producers will launch on July 13th and run until early September. Any potential validators should join the Stake Wars community on <a href="https://t.me/near_validators">Telegram</a> and <a href="https://discord.com/invite/ZMPr3VB">Discord</a> to coordinate with other Validators, and follow <a href="https://twitter.com/PagodaPlatform">@PagodaPlatform</a> on twitter.&nbsp;</p>
+
+
+
+<p>The full Stake Wars III page is launching soon. So stay tuned. </p>
+<p>The post <a href="/blog/join-stake-wars-to-become-a-chunk-only-producer/">Join Stake Wars to Become a Chunk-Only Producer</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NEAR Foundation Launches Smart Contract Audit Program</title>
+		<link>/blog/near-foundation-launches-smart-contract-audit-program/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 21 Jun 2022 15:00:54 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<guid isPermaLink="false">/?p=16754</guid>
+
+					<description><![CDATA[<p>NEAR Foundation is excited to announce that its Smart Contract Audit Program is live.&#160;This is an important step in expanding …</p>
+<p>The post <a href="/blog/near-foundation-launches-smart-contract-audit-program/">NEAR Foundation Launches Smart Contract Audit Program</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>NEAR Foundation is excited to announce that its Smart Contract Audit Program is live.&nbsp;This is an important step in expanding smart contract audits and enhancing ecosystem security.&nbsp;</p>
+
+
+
+<p>Many new projects request smart contract audits, necessitating an expansion of the number of auditors the Foundation has on retainer. This effort will make the process of choosing the most experienced and skilled auditors seamless.&nbsp;</p>
+
+
+
+<p>Let’s briefly explore what this means for auditors, projects, and the wider <a href="/community/">NEAR ecosystem</a>. We’ll also explain how projects and auditors can access the program.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-smart-contract-audits-program-features">Smart Contract Audits Program features</h2>
+
+
+
+<p>NEAR Foundation’s Smart Contract Audit Program comes with two main features—a new auditor ingest form and an audit request form.&nbsp;</p>
+
+
+
+<p>The <a href="https://airtable.com/shrD6nUBly0SnysAT">New Auditor Ingest Form</a> is the first step for interested smart contract auditors to illustrate their capabilities. It will be followed by a review process, when NEAR Foundation onboards new auditors as it expands the program. This will allow the Foundation to gain a better understanding of auditors, and have a detailed selection of auditors to choose from when deciding who to onboard.</p>
+
+
+
+<p>By filling out the <a href="https://airtable.com/shrqu32NXPKjFYsrv">Smart Contract Audit Request form</a>, projects building on NEAR can enter a queue for an audit. To file a request, your project must have a plan for funding the smart contract audit. The audit will be carried about by approved smart contract auditing firms, which NEAR Foundation has on retainer.</p>
+
+
+
+<p>“The features are an important step in growing an ecosystem of trusted security partners, and ensuring availability of quality audits for NEAR-related audits,” says Isha Tyagi, NEAR Foundation’s Smart Contract Audits Program Manager. “This will also allow for the expansion and uplift of security companies in the NEAR ecosystem.”&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">How to access Audit Program features</h2>
+
+
+
+<p>Potential auditors can find the Smart Contract Auditor ingest form <a href="https://airtable.com/shrD6nUBly0SnysAT">here</a>. Simply fill out your name, email, audit firm name, and other information, including past experience, capacity, and more.&nbsp;</p>
+
+
+
+<p>The smart contract audit request form can be found <a href="https://airtable.com/shrqu32NXPKjFYsrv">here</a>. Fill out your name, email, and other relevant information. Be certain that your project is ready for an audit and, again, make sure you have a plan for funding your smart contract audit.  </p>
+<p>The post <a href="/blog/near-foundation-launches-smart-contract-audit-program/">NEAR Foundation Launches Smart Contract Audit Program</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
