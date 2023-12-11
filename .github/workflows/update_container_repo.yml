@@ -1,0 +1,28 @@
+name: trigger nearorg_container workflow 
+on: 
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:    
+  trigger_workflow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: echo workflow name
+        shell: bash
+        run: |
+          echo "Running trigger_workflow on nearorg_marketing"
+          echo "secret is ${{ secrets.REPO_TOKEN }}"
+      - name: trigger nearorg_container workflow
+        uses: convictional/trigger-workflow-and-wait@v1.6.1
+        with:
+          owner: near
+          repo: nearorg_container
+          github_token: ${{ secrets.REPO_TOKEN }}
+          github_user: github-actions-bot
+          workflow_file_name: update_submodules.yml
+          ref: main
+          wait_interval: 10
+          propagate_failure: true
+          trigger_workflow: true
+          wait_workflow: true
