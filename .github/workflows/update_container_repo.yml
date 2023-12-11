@@ -12,7 +12,6 @@ jobs:
         shell: bash
         run: |
           echo "Running trigger_workflow on nearorg_marketing"
-          echo "secret is ${{ secrets.REPO_TOKEN }}"
       - name: trigger nearorg_container workflow
         uses: convictional/trigger-workflow-and-wait@v1.6.1
         with:
