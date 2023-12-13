@@ -14,4 +14,3 @@ jobs:
           -H 'Accept: application/vnd.github.everest-preview+json' \
           -u ${{ secrets.REPO_TOKEN }} \
           --data '{"ref":"main"}'
-      - uses: actions/checkout@v3
