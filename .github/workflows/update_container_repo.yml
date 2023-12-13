@@ -4,24 +4,14 @@ on:
   push:
     branches: [main]
 
-jobs:    
+jobs:
   trigger_workflow:
     runs-on: ubuntu-latest
     steps:
-      - name: echo workflow name
-        shell: bash
-        run: |
-          echo "Running trigger_workflow on nearorg_marketing"
       - name: trigger nearorg_container workflow
-        uses: convictional/trigger-workflow-and-wait@v1.6.1
-        with:
-          owner: near
-          repo: nearorg_container
-          github_token: ${{ secrets.REPO_TOKEN }}
-          github_user: github-actions-bot
-          workflow_file_name: update_submodules.yml
-          ref: main
-          wait_interval: 10
-          propagate_failure: true
-          trigger_workflow: true
-          wait_workflow: true
+        run: |
+          curl -X POST  https://api.github.com/repos/near/nearorg_container/actions/workflows/78807110/dispatches \
+          -H 'Accept: application/vnd.github.everest-preview+json' \
+          -u ${{ secrets.REPO_TOKEN }} \
+          --data '{"ref":"main"}'
+      - uses: actions/checkout@v3
