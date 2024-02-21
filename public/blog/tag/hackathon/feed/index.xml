@@ -12,13 +12,13 @@
 	<atom:link href="/blog/tag/hackathon/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/hackathon/</link>
 	<description></description>
-	<lastBuildDate>Fri, 24 Mar 2023 15:40:45 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Feb 2024 18:59:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -28,6 +28,69 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Inaugural AI x Web3 Hackathon and Decentralized AI Summit to Debut at ETH Denver 2024</title>
+		<link>/blog/inaugural-ai-x-web3-hackathon-and-decentralized-ai-summit-to-debut-at-eth-denver-2024/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 14 Feb 2024 18:59:43 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[AI is NEAR]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Hackathon]]></category>
+		<category><![CDATA[Partnerships]]></category>
+		<guid isPermaLink="false">/?p=21226</guid>
+
+					<description><![CDATA[<p>In collaboration with Edge and Polygon Labs, the NEAR Foundation will co-sponsor a Decentralized AI Summit and “Autonomous Agent,” an …</p>
+<p>The post <a href="/blog/inaugural-ai-x-web3-hackathon-and-decentralized-ai-summit-to-debut-at-eth-denver-2024/">Inaugural AI x Web3 Hackathon and Decentralized AI Summit to Debut at ETH Denver 2024</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In collaboration with Edge and Polygon Labs, the NEAR Foundation will co-sponsor a Decentralized AI <a href="https://lu.ma/fvoeazk8">Summit</a> and “Autonomous Agent,” an AI x Web3 <a href="https://edgeintelligence.xyz/autonomous-agent-hackathon">Hackathon</a>, at ETHDenver on February 26 and 27. The events will bring together visionaries, developers, and enthusiasts working at the intersection of AI and Web3 along with a hackathon for builders and researchers to dive into the buzziest tech topic of today. Speakers at the Summit will include Vitalik Buterin of the Ethereum Foundation, Illia Polosukhin of NEAR Foundation, Sandeep Nailwal of Polygon Labs, and Sreeram Kannan of EigenLayer.&nbsp;</p>
+
+
+
+<p>“Autonomous Agent” is the first event in the &#8220;{Chain}-of-Thought&#8221; series from <a href="https://edgeintelligence.xyz/">Edge</a>, which will explore and harness the potential of Web3 and open source AI. Edge is a research and development organization dedicated to democratizing access to open intelligence and advancing the evolution of next-generation web architecture. Hackers can expect hands-on hacking sessions, workshops, and mentorship opportunities with a chance to learn from those at the cutting edge of decentralized AI development. </p>
+
+
+
+<p>The intersection of Artificial Intelligence (AI) and Web3 technology is poised to revolutionize industries, with many Web3 projects now incorporating AI into decentralized applications and developer tools. Ethereum Co-Founder Vitalik Buterin recently shared his <a href="https://vitalik.eth.limo/general/2024/01/30/cryptoai.html">observations</a> about the intersection, and NEAR Co-Founder Illia Polosukhin shared how AI fits into the vision for the NEAR ecosystem in a recent <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">post</a>. </p>
+
+
+
+<p>As the risks from centralized AI controlled primarily by major corporations become more apparent, investing in open source, transparent AI development will become increasingly important––along with community building, governance experiments, and advocacy. “{Chain} of Thought” will lead the way in bringing members of the AI and Web3 ecosystems together to advance these initiatives and make concrete progress.</p>
+
+
+
+<p>In addition to the premier sponsors, the “Autonomous Agent” hackathon is co-sponsored by <a href="https://www.eigenlayer.xyz/">EigenLayer</a>, <a href="https://www.gensyn.ai/">Gensyn</a>, and <a href="https://www.hyperoracle.io/">Hyper Oracle</a>, with co-hosting participation from Sentient, Lightspeed, and Symbolic Capital. Benefits of participation include:</p>
+
+
+
+<ul>
+<li><strong>Cutting-Edge Workshops:</strong> Engage with industry experts and thought leaders through immersive workshops exploring the latest trends and technologies in AI x Web3.</li>
+
+
+
+<li><strong>Hackathon Challenges:</strong> Tackle real-world challenges and showcase your creativity by developing innovative solutions at the forefront of AI and Web3 integration.</li>
+
+
+
+<li><strong>Networking Opportunities:</strong> Connect with like-minded individuals, potential collaborators, and industry professionals to expand your network and exchange ideas.</li>
+
+
+
+<li><strong>Prizes and Recognition:</strong> Compete for exciting prizes and gain recognition for your contributions to the advancement of AI x Web3 technology.</li>
+</ul>
+
+
+
+<p>Join NEAR Foundation, Polygon Labs, and Edge in Denver and be a part of the next great tech revolution. Those interested in attending the Decentralized AI Summit can register <a href="https://lu.ma/fvoeazk8">here</a>. Researchers, developers, and hackers interested in participating in the <a href="https://edgeintelligence.xyz/autonomous-agent-hackathon">hackathon</a> can apply <a href="https://lu.ma/k6dw9jk2">here</a>.&nbsp;</p>
+<p>The post <a href="/blog/inaugural-ai-x-web3-hackathon-and-decentralized-ai-summit-to-debut-at-eth-denver-2024/">Inaugural AI x Web3 Hackathon and Decentralized AI Summit to Debut at ETH Denver 2024</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Near at ETHDenver Hackathon Bounty Winners</title>
 		<link>/blog/near-at-ethdenver-hackathon-bounty-winners/</link>
 		

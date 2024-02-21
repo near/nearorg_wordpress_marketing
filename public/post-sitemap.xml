@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2023-11-30T13:33:37+00:00</lastmod>
+		<lastmod>2024-02-15T16:58:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/near-community-update-february-22-2019/</loc>
@@ -4375,6 +4375,122 @@
 		<lastmod>2023-11-30T13:33:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/11/nearda-blog-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/2023-near-in-review/</loc>
+		<lastmod>2023-12-20T18:20:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/generic-green-blog.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/</loc>
+		<lastmod>2023-12-21T15:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/arbitrum-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/an-update-from-the-near-foundation/</loc>
+		<lastmod>2024-01-11T08:04:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/generic-green-blog.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/near-q4-protocol-roadmap-update/</loc>
+		<lastmod>2024-01-12T19:23:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/near-protocol-roadmap-updates-blog.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/near-da-integrates-with-polygon-cdk-for-developers-building-ethereum-zk-rollups/</loc>
+		<lastmod>2024-01-18T21:30:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/polygonCDKxnear-blog.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/da-comparison.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/</loc>
+		<lastmod>2024-01-19T20:19:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/illia-dragon-social.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</loc>
+		<lastmod>2024-01-24T19:55:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/chainabstraction-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/metamask-snaps/</loc>
+		<lastmod>2024-01-25T20:52:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/metamask-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/why-near-data-availability/</loc>
+		<lastmod>2024-01-26T16:28:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/why_near_da-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/phase-2-of-near-sharding-launches/</loc>
+		<lastmod>2024-01-30T14:33:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/sharding-phase2-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/meta-pool-launches-enterprise-node-operators-program/</loc>
+		<lastmod>2024-02-07T13:59:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/metapool-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/</loc>
+		<lastmod>2024-02-08T14:10:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/d3-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/inaugural-ai-x-web3-hackathon-and-decentralized-ai-summit-to-debut-at-eth-denver-2024/</loc>
+		<lastmod>2024-02-14T18:59:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/autonomous-agent-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/unlocking-web3-usability-with-account-aggregation/</loc>
+		<lastmod>2024-02-15T16:58:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/acct-abstraction-blog-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10%E2%80%AFPM.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

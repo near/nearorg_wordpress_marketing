@@ -12,13 +12,13 @@
 	<atom:link href="/blog/tag/ecosystem/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/ecosystem/</link>
 	<description></description>
-	<lastBuildDate>Mon, 18 Sep 2023 16:32:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Jan 2024 19:55:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -28,6 +28,164 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Why Chain Abstraction Is the Next Frontier for Web3</title>
+		<link>/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</link>
+		
+		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
+		<pubDate>Wed, 24 Jan 2024 19:55:01 +0000</pubDate>
+				<category><![CDATA[A Post from Illia Polosukhin]]></category>
+		<category><![CDATA[Chain Abstraction]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Mission & vision]]></category>
+		<category><![CDATA[Multichain]]></category>
+		<guid isPermaLink="false">/?p=21182</guid>
+
+					<description><![CDATA[<p>Most of today’s dapps are not actually dapps, i.e. decentralized applications. If you need to leave the app in order …</p>
+<p>The post <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Most of today’s dapps are not actually dapps, i.e. <em>decentralized applications. </em>If you need to leave the app in order to start using it, it’s not really an app––it’s just a frontend. If users have to manually onboard themselves through exchanges and manage multiple accounts and gas fees and bridges, did you even build an app? I think not––which may explain why only a few million people in the world are using dapps.&nbsp;</p>
+
+
+
+<p>If we want to see mainstream adoption of Web3 because we believe a more open, decentralized internet that supports self-sovereignty for all people is <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem">better for the world</a>, then we will need to do better.</p>
+
+
+
+<p>The prevailing narrative in Web3 today is modularity, or separating out the different functional layers of a blockchain, i.e. settlement, data availability, and execution, for the sake of scalability. Layer-twos, optimistic and ZK rollups, data availability layers, sidechains, and state channels are all examples of modularity solutions.&nbsp;</p>
+
+
+
+<p>This proliferation of blockchains &amp; rollups has led to a degraded experience for users and developers. Modularity and a world of many chains leads to more fragmentation of liquidity, apps, and users––a significant degree of complexity in the user experience that no mainstream user could ever be expected to navigate. This also applies to developers, who feel pressure to commit to a specific tech stack while limiting the audience for their application. Now when you build a dapp, you’re enshrining yourself into a small addressable market by choosing a single chain.</p>
+
+
+
+<p>I want to propose a better vision for the entire Ethereum ecosystem and all of Web3: let’s work together on advancing mainstream adoption via chain abstraction. The idea is that blockchains must be abstracted away from the user so they are not barriers to entry or participation. NEAR has been focusing on this vision since 2018 and today has achieved the most users of any network in Web3: 12.4 million monthly active accounts and 34 million accounts overall.&nbsp;</p>
+
+
+
+<p>Here’s how we can defragment Web3 and onboard billions of users via dapps.&nbsp;</p>
+
+
+
+<p><strong>What does this look like for the user?&nbsp;</strong></p>
+
+
+
+<p>Let’s imagine how using a dapp should actually work: transacting across networks and navigating between experiences with ease, all within a single interface. As one example, Alice picks up her phone and opens <a href="https://kaikai.ai/">KAIKAI</a> from her lockscreen. She orders a smoothie from a local place and sees in the app that there’s a discount offer from her favorite clothing store, Maison, and orders a pair of shoes for the spring. Alice sees she has earned enough KAICHING rewards to get a badge from Maison, not knowing it’s an NFT on Polygon, and redeems it in her account.&nbsp;</p>
+
+
+
+<p>When she browses Maison on the KAIKAI app later that day, she notices that her new badge reveals an offer to buy tickets for an exclusive event at their store with a DJ she likes. She buys the ticket with KAICHING and receives 2 tickets, still not knowing it’s an NFT on Arbitrum. Since she gets a +1, Alice invites her friend Bob to come with her and pings him for his address.&nbsp;</p>
+
+
+
+<p>Bob sends his NEAR address to Alice and opens his app to check out the ticket. He sends Alice some ETH to say thanks for the invite and looks at the different cryptos he has in his account. Since he’s on the metro and has some time, he decides to buy some BTC and borrow against it with USDC so he can mint a Fighting Dragon NFT on Magic Eden. His friend Charles texted him earlier to get one so they could play each other in Year of the Dragon, a new game on NEAR where their dragons can battle each other for coins they can stake.</p>
+
+
+
+<p>All of these interactions and transactions can take place in a single interface and in a completely private way. There are no wallets, no switching networks, and no transaction fees to deal with; those are embedded directly in the swap or the buy and handled on behalf of the user. Alice didn’t need to worry about which network the ticket is on and Bob can send her funds for the ticket in whichever crypto he wants, moving seamlessly into buying a different one the next second. All inside of an app. This is the level of seamlessness we should be striving for as an ecosystem.</p>
+
+
+
+<p><strong>How do we achieve Chain Abstraction?</strong></p>
+
+
+
+<p>Everyone building an app in Web3 will benefit from being able to access such a broad market of potential users as in this example––i.e. anyone who uses apps. Whereas today, developers choose a network based on access to liquidity or the users of a specific rollup or chain, in a chain abstraction future they can just build with the best tech. The users will show up for the best experiences.&nbsp;</p>
+
+
+
+<p>Imagine if a Gmail user couldn’t just send a message to an Outlook address––it doesn’t make sense. The same is true for Web3 addresses. The core assumption of chain abstraction is: end users don’t care about the underlying blockchain. They just want apps to work. In reality, blockchains are simply infrastructure to receive value out of Web3: security of assets from seizure, economic opportunity, removing middlemen for transactions, global permissionless identity, data provenance, entertaining experiences, and more.</p>
+
+
+
+<p>The core goal of chain abstraction is to defragment the increasingly fractured modular landscape of Web3. While this will be most visible at the user experience layer, this defragmentation of liquidity and accounts is possible thanks to innovation at the security layer.&nbsp;</p>
+
+
+
+<p>Zero knowledge (ZK) introduces a principally new approach to ledger security. Whereas before one needed to trust a decentralized set of validators, now even a single computer can prove that rules were followed with a simple proof. This means that where before, developers would be forced to either build on a shared chain or spend immense resources to launch a new one, now they can just spin one up on their single server.</p>
+
+
+
+<p>This new paradigm introduces the idea of cross settlement: as more chains become fully ZK provable, if some proof is published on other chains, there is no way to revert this chain without also needing to revert other chains. Transactions from one chain can also settle on multiple others via ZK proofs. This provides mesh security as all proofs continuously get aggregated, allowing the safe movement of assets between such chains.</p>
+
+
+
+<p>In order to achieve unified security, two things are needed at the bottom of the stack: Data availability, which provides a way for everyone to sync even if the operator is offline, and a decentralized sequencer for applications that don’t have a central operator.&nbsp;</p>
+
+
+
+<p>The next layer is identity with that security unified. Users can have an address on all possible chains and move assets between them freely. From a user perspective, this should be a single account where they interact with apps on different chains, and assets either get bridged or swapped automatically.&nbsp;</p>
+
+
+
+<p>I call this “account aggregation” and will share more details about it in another post soon. NEAR will launch the next version of FastAuth in March 2024, which has mapping for NEAR addresses to EVM, Bitcoin, and other addresses. NEAR accounts can request to sign a transaction for another chain. This allows them to build multichain apps directly as smart contracts on NEAR.&nbsp;</p>
+
+
+
+<p>The final layer is unifying the experience layer, or the application layer (e.g. <a href="https://alpha.dapdap.net/">DapDap</a>)––providing a way to interact with apps on various chains without users switching or needing to leave a single interface. A decentralized frontend can provide easy components to build in a chain-abstracted way. NEAR can achieve this through NearJS, combining data indexing and decentralized frontends––V2 also coming in March 2024. </p>
+
+
+
+<p><strong>How is NEAR enabling Chain Abstraction?&nbsp;</strong></p>
+
+
+
+<p>The NEAR ecosystem has been building towards the chain abstraction vision since its beginnings in 2018, focusing on usability, a flexible account model, and a highly scalable blockchain that could support mainstream apps with billions of users. Today, the stack has expanded to support full chain abstraction across chains and all kinds of apps.&nbsp;</p>
+
+
+
+<ul>
+<li>Scalable, integrated blockchain that can grow to 1B+ daily active accounts.</li>
+
+
+
+<li>Security aggregation stack consisting of <a href="https://near.org/data-availability">NEAR DA</a>, <a href="https://blockworks.co/news/polygon-developers-zk-proofs">zkWASM</a> (collaboration with Polygon Labs), and <a href="https://near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">EigenLayer-powered Fast Finality</a>.</li>
+
+
+
+<li>Account aggregation on top of this to enable transacting on all chains using a single account</li>
+
+
+
+<li>Data layer that supports everything from monolithic, integrated, modular, private and permissioned chains to query data in a <a href="https://docs.near.org/bos/queryapi/intro">predictable protocol</a>.</li>
+
+
+
+<li>Intent relayers that can execute complex intents across chains using this infra.</li>
+
+
+
+<li><a href="https://docs.near.org/bos/overview">Decentralized frontends</a> that provide discoverability and composability for multiple apps across chains into one experience.</li>
+
+
+
+<li>Super (app) wallets that are user friendly and offer a way to navigate all of Web3 without having to switch networks or deal with gas tokens and bridges.</li>
+</ul>
+
+
+
+<p>Importantly, each of these layers supports builders from across Web3, including Ethereum, rollups &amp; L2s, and beyond––the multichain future is becoming the chain abstraction future.&nbsp;</p>
+
+
+
+<p><strong>Call to Action</strong></p>
+
+
+
+<p>2024 is the year of hiding the complexity of multichain infrastructure to deliver the Web3 experiences we’re striving for. Improving usability and discoverability should be a priority for all Web3 builders, as well as solving for liquidity fragmentation and security tradeoffs.&nbsp;</p>
+
+
+
+<p>Let’s make chain abstraction a movement. The NEAR ecosystem invites builders from across Web3 to take advantage of the solutions we’re offering and to collaborate with us to build more chain abstraction solutions together. Stay tuned for more news on collaborations as well as details on an exciting event that NEAR Foundation will co-host at ETHDenver 2024.<br><br><em>Special thanks to Zaki Manian for conversations that led to this post as well as for his review.</em></p>
+<p>The post <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>ICYMI: Scootering Through Web3 at NEAR APAC&#8217;s Vietnam Showcase </title>
 		<link>/blog/icymi-scootering-through-web3-at-near-apacs-vietnam-showcase/</link>
 		
@@ -60,7 +218,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg" alt="" class="wp-image-20876" srcset="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0065-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0065-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0065-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0065-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg" alt="" class="wp-image-20876" srcset="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0065-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0065-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0065-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0065-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -112,7 +270,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" src="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg" alt="" class="wp-image-20873" srcset="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg 1024w, /wp-content/uploads/2023/09/QUR_9815-300x200.jpg 300w, /wp-content/uploads/2023/09/QUR_9815-768x512.jpg 768w, /wp-content/uploads/2023/09/QUR_9815-1536x1024.jpg 1536w, /wp-content/uploads/2023/09/QUR_9815-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg" alt="" class="wp-image-20873" srcset="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg 1024w, /wp-content/uploads/2023/09/QUR_9815-300x200.jpg 300w, /wp-content/uploads/2023/09/QUR_9815-768x512.jpg 768w, /wp-content/uploads/2023/09/QUR_9815-1536x1024.jpg 1536w, /wp-content/uploads/2023/09/QUR_9815-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -132,7 +290,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg" alt="" class="wp-image-20872" srcset="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0824-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0824-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0824-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0824-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg" alt="" class="wp-image-20872" srcset="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0824-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0824-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0824-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0824-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -144,7 +302,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg" alt="" class="wp-image-20875" srcset="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0845-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0845-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0845-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0845-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg" alt="" class="wp-image-20875" srcset="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0845-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0845-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0845-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0845-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -261,7 +419,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="768" src="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg" alt="" class="wp-image-20842" srcset="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg 1024w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-300x225.jpeg 300w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-768x576.jpeg 768w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg" alt="" class="wp-image-20842" srcset="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg 1024w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-300x225.jpeg 300w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-768x576.jpeg 768w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -887,65 +1045,6 @@
 
 <p>“NEAR Protocol provides a user experience similar to Web2 using Fast Auth account abstraction feature, greatly lowering the initial entry barrier to Web3,” said a spokesperson from NEAR Korea Hub. “We will continue to strongly partner with excellent domestic companies such as MARBLEX to implement a user-centered ecosystem where users can easily enjoy all services.”</p>
 <p>The post <a href="/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEAR Foundation Partners with Absolute Labs to Accelerate How Brands Connect with Customers in Web3</title>
-		<link>/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 20 Apr 2023 13:29:00 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[Infrastructure]]></category>
-		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">/?p=20444</guid>
-
-					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership with Absolute Labs, a company revolutionizing Web3’s marketing stack. Its “Wallet …</p>
-<p>The post <a href="/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/">NEAR Foundation Partners with Absolute Labs to Accelerate How Brands Connect with Customers in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>NEAR Foundation is excited to announce a new partnership with <a href="https://absolutelabs.io/">Absolute Labs</a>, a company revolutionizing Web3’s marketing stack. Its “Wallet Relationship Management™ platform can be used by Web2 brands and Web3 startups alike to acquire, convert and retain customers on the Open Web. </p>
-
-
-
-<p>To help in this endeavor, the company <a href="https://finance.yahoo.com/news/absolute-labs-announces-8-million-150000487.html">announced</a> an $8M seed round of funding at NFT NYC in the past week. Other funding partners include backers like Samsung Next, Aglae Ventures, Sparkle Ventures (Animoca Brands), The Luxury Fund and MoonPay. </p>
-
-
-
-<p>”We are thrilled to have the NEAR Foundation as a partner in helping us to accelerate how marketing is done in the next Internet,” says Samir Addamine, Absolute Labs’ CEO and co-founder. “Both our organizations share a vision to accelerate the world’s transition to decentralized marketplaces and more open, transparent and valued user engagement, so it’s a great fit for us.”</p>
-
-
-
-<h2 class="wp-block-heading" id="h-what-is-wallet-relationship-management">What is Wallet Relationship Management</h2>
-
-
-
-<p>Wallet Relationship Management (WRM™) starts with the premise that wallets hold the keys to everything Web3 — from proving identity, providing access to value-rich brand experiences, facilitating payments, creating “ownership” opportunities for customers, and much more. Combining on-chain data from wallets along with assets that Web2 brands can also inject from their Web2 systems, this platform supports all facets of the marketing funnel, from acquisition to conversion and retention of loyalty.</p>
-
-
-
-<p>Users of the platform can gain deep insights into their customers and their on-chain preferences and behaviors, identify actionable segments to track and engage, and craft cross-chain and cross-channel (Web2 and Web3) campaigns to develop and nurture relationships</p>
-
-
-
-<p>Absolute Labs customers can also use WRM to reactivate dormant wallet customers by using the WRM dashboard to distribute meaningful incentives such as rewards tokens, NFTs, and more. </p>
-
-
-
-<p>To date, Absolute Labs has 40+ companies using their services. With WRM, these customers get an enterprise-grade suite of connectors and APIs to seamlessly integrate with their existing marketing tech stack. </p>
-
-
-
-<p>Absolute Labs has an incredibly strong product and is a fantastic addition to the NEAR ecosystem. Their Wallet Relationship Management platform is a clear market leader in the burgeoning Web3 martech space, and is already an indispensable component of the modern marketing stack. By bringing Absolute Labs into the NEAR ecosystem, it creates a seamless Web3 on-ramp for brands  and will enable them to engage, retain, and reactivate customers like never before.</p>
-
-
-
-<p>DISCLOSURE: <em>Any information shared in this announcement regarding our partnership with Absolute Labs should not be considered as a binding agreement or representation, and may be subject to change without notice. The information presented in this communication is for informational purposes only and should not be construed as investment advice. Any decisions made based on this information are solely the responsibility of the individual or entity making them.</em></p>
-<p>The post <a href="/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/">NEAR Foundation Partners with Absolute Labs to Accelerate How Brands Connect with Customers in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

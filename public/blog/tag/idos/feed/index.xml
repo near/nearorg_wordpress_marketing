@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -31,7 +31,7 @@
 		<title>Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</title>
 		<link>/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/</link>
 		
-		<dc:creator><![CDATA[DJ Pangburn]]></dc:creator>
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 09 Nov 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[DeFi]]></category>

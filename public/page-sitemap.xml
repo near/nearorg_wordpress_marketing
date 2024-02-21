@@ -513,19 +513,6 @@
 		<lastmod>2023-03-08T08:47:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/about/network/validators/</loc>
-		<lastmod>2023-03-29T10:24:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/10/scaling-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/11/dots-01-2.gif</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/10/scaling-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/work-with-us/</loc>
 		<lastmod>2023-03-29T10:34:20+00:00</lastmod>
 	</url>
@@ -642,6 +629,19 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/blue.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/about/network/validators/</loc>
+		<lastmod>2024-01-03T21:14:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/scaling-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/11/dots-01-2.gif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/scaling-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

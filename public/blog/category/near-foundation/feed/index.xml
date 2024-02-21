@@ -12,13 +12,13 @@
 	<atom:link href="/blog/category/near-foundation/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/near-foundation/</link>
 	<description></description>
-	<lastBuildDate>Thu, 30 Nov 2023 12:38:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Feb 2024 14:10:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -28,6 +28,607 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NEAR Protocol Partners With D3 To Apply For .Near Top-Level Domain</title>
+		<link>/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 08 Feb 2024 14:10:42 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<guid isPermaLink="false">/?p=21222</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation, in partnership with D3, a leading digital infrastructure provider specializing in domains, is applying to obtain the …</p>
+<p>The post <a href="/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/">NEAR Protocol Partners With D3 To Apply For .Near Top-Level Domain</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation, in partnership with D3, a leading digital infrastructure provider specializing in domains, is applying to obtain the &#8216;.near&#8217; Top-Level Domain (TLD) during the upcoming ICANN application window. The collaboration will integrate D3’s interoperable digital identities into the NEAR ecosystem, enhancing utility for both users and developers.</p>
+
+
+
+<p>Integrating web domains and the existing Domain Name System (DNS) presents a significant opportunity to advance mainstream adoption of the open web. With over <a href="https://www.businesswire.com/news/home/20230907783392/en/DNIB.com-Reports-Internet-Has-356.6-Million-Domain-Name-Registrations-at-the-End-of-the-Second-Quarter-of-2023">356 million domains</a> currently using the DNS and more than <a href="https://www.statista.com/statistics/617136/digital-population-worldwide/">5.3 billion internet users</a> worldwide, decentralized and interoperable domains could be a game-changer.&nbsp;</p>
+
+
+
+<p>The goal is to catalyze mainstream adoption by extending NEAR’s reach beyond the blockchain community to include the broader Internet infrastructure. The partnership between NEAR and D3 highlights the importance of interoperability in achieving widespread adoption of the open web, offering users and developers enhanced utility and a more expansive definition of identity.</p>
+
+
+
+<p>Users will have the ability to use a single domain for various functions, such as a website, email address, or wallet address, and will also serve verified credentials within the NEAR ecosystem.</p>
+
+
+
+<p>“We&#8217;re excited to work with D3 to secure the .near top-level domain and extend the power of NEAR accounts across the entire internet. As the functionality of NEAR accounts expands with Chain Abstraction, combining Web3 identity with existing internet infrastructure will help drive mainstream adoption,” said Illia Polosukhin, Co-Founder of NEAR Protocol and Chief Executive Officer of the NEAR Foundation.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-merging-domains-and-identity-for-an-accessible-open-web">Merging domains and identity for an accessible open web</h2>
+
+
+
+<p>D3’s patent-pending technologies enable Web3 digital identities to be interoperable with the Internet, using the DNS as a foundation. Through these interoperable, human-readable digital identities – i.e. alice.near – users can use a single domain as a website, email, or wallet address. This also opens up the potential for cross-platform usernames through verified credentials.</p>
+
+
+
+<p>For the NEAR ecosystem, this means broader utility for developers and projects building on the open web, using identities that are interoperable between the traditional Web2 internet and a decentralized open web. As D3 helps expand functionality of NEAR accounts, along with Chain Abstraction, it potentially paves the way for broader mainstream Web3 adoption.</p>
+
+
+
+<p>“In order for Web3 to accelerate its growth, it will require interoperability with existing Internet infrastructure,” says Fred Hsu, Chief Executive Officer at D3. “We’re pleased to welcome NEAR on our journey to redefine digital identity, while offering NEAR users and projects alike more utility by bringing the ‘web’ to Web3.”&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-bringing-identity-innovation-to-the-near-ecosystem">Bringing identity innovation to the NEAR ecosystem</h2>
+
+
+
+<p>The collaboration with D3 to bridge the traditional internet and the open web using domains could lead to a host of innovative use cases on NEAR, from NFTs to SocialFi. Furthermore, D3’s mission of integrating traditional internet and Web3 for utility, security, and universal access dovetails with the NEAR ecosystem’s chain abstraction initiative. Making Web3 experiences feel familiar and smooth, while abstracting the blockchain hurdles away from end users, will improve the usability of decentralized applications for mainstream internet consumers.</p>
+<p>The post <a href="/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/">NEAR Protocol Partners With D3 To Apply For .Near Top-Level Domain</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meta Pool Launches Enterprise Node Operators Program</title>
+		<link>/blog/meta-pool-launches-enterprise-node-operators-program/</link>
+		
+		<dc:creator><![CDATA[Rob Woodbury]]></dc:creator>
+		<pubDate>Wed, 07 Feb 2024 13:59:03 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<guid isPermaLink="false">/?p=21219</guid>
+
+					<description><![CDATA[<p>TL;DR: Meta Pool proudly introduces the Enterprise Node Operators (ENO) program, marking a significant milestone in institutional engagement for the …</p>
+<p>The post <a href="/blog/meta-pool-launches-enterprise-node-operators-program/">Meta Pool Launches Enterprise Node Operators Program</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>TL;DR:</p>
+
+
+
+<ul>
+<li>The Enterprise Node Operators program aims to onboard top-tier Institutions and companies into the NEAR Ecosystem.</li>
+
+
+
+<li>Meta Pool, the liquid staking solution built on NEAR, partnered with the NEAR Foundation to provide guidance and oversee the rollout and operation of the program.</li>
+
+
+
+<li>Enterprise Node operators contribute to marketing, community building, and financial support.</li>
+</ul>
+
+
+
+<p>Meta Pool proudly introduces the Enterprise Node Operators (ENO) program, marking a significant milestone in institutional engagement for the NEAR Ecosystem. In collaboration with the NEAR Foundation, Meta Pool has curated a strategic initiative that empowers top-tier companies to contribute to the NEAR community&#8217;s growth, security, and decentralization.&nbsp;</p>
+
+
+
+<p>The ENO program kicked off successfully in November 2023 with a vision to establish global institutional support and foster relationships with industry leaders. Now with more than fifteen projects onboarded, the Meta Pool team is excited to spread the word and seek to further grow the program. Each participating ENO is committed to advancing the NEAR Ecosystem, focusing on key areas such as marketing, institutional growth, and financial support.</p>
+
+
+
+<p>The primary goal of the ENO program is to enhance the NEAR Ecosystem&#8217;s institutional network by forging partnerships with enterprise-grade companies. These companies, in turn, facilitate the onboarding of their partners into the NEAR community, fostering a collaborative and interconnected environment that contributes to the overall growth of NEAR.</p>
+
+
+
+<p>As the operational backbone of the program, Meta Pool plays a pivotal role in guiding and facilitating ENOs. This includes managing the distribution of staking allocated to the program. Currently, there is a substantial pool of 5,000,000 $NEAR tokens earmarked to support the staking activities of these Enterprise Node Operators.<br></p>
+
+
+
+<p>Here is a list of some current participating ENOs so far (note that this list will be updated as new ENOs are added to the program):</p>
+
+
+
+<ul>
+<li>North Stake</li>
+
+
+
+<li>Colossus</li>
+
+
+
+<li>Luga Nodes</li>
+
+
+
+<li>Sensei Node</li>
+
+
+
+<li>DSRV Labs</li>
+
+
+
+<li>Triton One</li>
+
+
+
+<li>Stakin</li>
+
+
+
+<li>Frens Validator</li>
+
+
+
+<li>Grassets Tech</li>
+
+
+
+<li>Nodes International</li>
+
+
+
+<li>Alpha Nodes</li>
+
+
+
+<li>A41</li>
+
+
+
+<li>Money Crypt</li>
+
+
+
+<li>Stable Lab</li>
+
+
+
+<li>Alum Labs</li>
+</ul>
+
+
+
+<p>The launch of the ENO program signifies Meta Pool’s and the NEAR Foundation’s shared commitment to fostering institutional collaboration and expanding the influence of the NEAR Ecosystem. As the program expands, the ENO initiative aims to strengthen global partnerships, driving collective success and innovation across the decentralized landscape.</p>
+
+
+
+<p>&nbsp;Please join Meta Pool in welcoming these institutions to the NEAR community. For more updates about the ENO program or to refer a participant, follow along on X at <a href="https://twitter.com/meta_pool">@meta_pool </a>or visit <a href="https://blog.metapool.app/">their blog</a>.&nbsp; The Meta Pool team will also host Spaces with each ENO team during the month of February to educate the NEAR community and let enterprise partners share what they are adding to the NEAR ecosystem.&nbsp;</p>
+<p>The post <a href="/blog/meta-pool-launches-enterprise-node-operators-program/">Meta Pool Launches Enterprise Node Operators Program</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Phase 2 of NEAR Sharding Launches</title>
+		<link>/blog/phase-2-of-near-sharding-launches/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 30 Jan 2024 14:33:22 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[Chain Abstraction]]></category>
+		<category><![CDATA[Core protocol]]></category>
+		<category><![CDATA[Nightshade]]></category>
+		<category><![CDATA[Sharding]]></category>
+		<category><![CDATA[stateless validation]]></category>
+		<guid isPermaLink="false">/?p=21200</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation announced today that the Protocol Work Group will launch testing for Phase 2 of Sharding this week, …</p>
+<p>The post <a href="/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation announced today that the Protocol Work Group will launch testing for Phase 2 of Sharding this week, marking a major milestone in the network’s development roadmap. Phase 2 introduces fundamental upgrades to NEAR’s core protocol architecture, enabling even greater scalability and decentralization for the network. The fourth edition of <a href="https://github.com/near/stakewars-iv">Stake Wars</a>, an incentivized community testing initiative, will kick off on February 1.&nbsp;&nbsp;</p>
+
+
+
+<p>NEAR&#8217;s vision of <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> to facilitate broad adoption of decentralized apps requires an extremely scalable blockchain layer. From the start, NEAR has been designed to scale with demand towards mainstream adoption. A primary benefit of the new sharding implementation will be an up-to-10x speed improvement to NEAR’s already-fast transaction throughput. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” Combined with NEAR already having the lowest transaction fees in Web3, this sharding upgrade positions NEAR at the forefront of Web3 in terms of both performance and scalability. Phase 2 greatly improves the network’s capacity for end user volume and is an important landmark on the road to global-scale usage of Web3. </p>
+
+
+
+<p>“NEAR continues to make progress on bringing Chain Abstraction infrastructure that can scale to a billion users and beyond,” said Illia Polosukhin, Co-Founder of NEAR Protocol and CEO of NEAR Foundation. “The scalability improvements from stateless validation can unlock even better user experiences for more end-user applications, whether multichain DeFi-style dapps or those aimed at mainstream users.”</p>
+
+
+
+<p>Phase 2 introduces the most significant changes to the NEAR Protocol since its Mainnet launch in 2020. The biggest of these is the implementation of stateless validation: an innovative approach to state change, or the process of updating the status of all the data posted to the blockchain. Now, NEAR validators no longer have to maintain the state of a shard locally and can retrieve all the information they need to validate state changes, or &#8220;state witness,&#8221; from the network. </p>
+
+
+
+<p>With stateless validation, NEAR can finally achieve the truest form of sharding, where shards can function mostly independently at the consensus level to improve decentralization and throughput while preserving the highest security guarantees. An added benefit is that the hardware requirements to run most validator nodes are dramatically reduced (a smaller number of “chunk proposer” validators with specialized hardware will validate blocks with state held in memory). This also paves the way for greater decentralization of the network by lowering the barrier to entry to become a validator.</p>
+
+
+
+<p>“We&#8217;re very excited about the potential for future proofing the NEAR protocol design with stateless validation,” said Bowen Wang, Director of Protocol at Pagoda. “From a research perspective, we expect that as zero-knowledge tech matures, more protocols will adopt a similar approach, where a smaller set of expensive machines execute transactions and produce proofs, while a bigger validator set validates the proofs. This will enable more unified security across networks and defragment Web3, advancing a key aspect of the chain abstraction vision.”&nbsp;</p>
+
+
+
+<p>Phase 2 is a shift in direction from the original Nightshade sharding architecture NEAR launched with in 2020, bypassing some fundamental roadblocks in that protocol design around the implementation of challenges in the initial idea of Phase 2, while also unlocking additional benefits. Other network improvements in Phase 2 include in-memory trie, wherein validator nodes can load the entire state into RAM for maximized performance. This will greatly improve transaction throughput thanks to minimizing storage access.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh7-us.googleusercontent.com/ZwmjWx8WpvKyALYbwkVVS7-9_UOnvFaSrb7M6zTVxPdKPeg01hmwD5IybX8sOd0TKasPv8qmFE5sHD_w0A4j1R4CGurstJmXZwv_rbKN5gRpAcynJyej3U7X0PhYmRWVyEysYaiuOI7Sz2NGJGOPBhM" alt=""/><figcaption class="wp-element-caption"><em>Phase 2 is the third major upgrade to NEAR Protocol’s sharding since Mainnet launch in October 2020, showcasing the incredible shipping speed of the protocol engineering team.</em></figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>NEAR users should not experience any downtime with the transition to Phase 2 and no special action is required from validators, apart from adjusting hardware specs. Through dozens of protocol upgrades since Mainnet launch, including three major upgrades, the core NEAR protocol has had 100% uptime with zero disruption for developers and end users.&nbsp;</p>
+
+
+
+<p>On Thursday, February 1, <strong>Stake Wars IV: Attack of the Transactions</strong> will launch to incentivize battle testing of the new sharding architecture. Planned to run through March 31, the latest edition of Stake Wars invites community members to test features and generate traffic. For more information about participating and deeper technical detail about Phase 2, visit the Stake Wars <a href="https://github.com/near/stakewars-iv">page on Github</a>.&nbsp;</p>
+
+
+
+<p>With the launch of Phase 2, NEAR becomes one of the only networks in Web3 to implement stateless validation to improve scaling and paves the way for further network performance and scalability improvements in the future roadmap. A technical paper with more detail about NEAR’s new sharding design is forthcoming later in Q1. Phase 2 is expected to launch on NEAR Mainnet in May 2024.</p>
+<p>The post <a href="/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MetaMask Is Now Usable on NEAR via NEAR Snap 🦊🤝</title>
+		<link>/blog/metamask-snaps/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 25 Jan 2024 16:58:27 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<guid isPermaLink="false">/?p=21186</guid>
+
+					<description><![CDATA[<p>NEAR is now compatible with MetaMask, one of the most popular wallets in Web3! For the first time, MetaMask users …</p>
+<p>The post <a href="/blog/metamask-snaps/">MetaMask Is Now Usable on NEAR via NEAR Snap 🦊🤝</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>NEAR is now compatible with MetaMask, one of the most popular wallets in Web3! For the first time, MetaMask users will be able to create NEAR accounts, sign NEAR Protocol transactions, and use a host of other features natively inside the MetaMask wallet thanks to the new <a href="https://snaps.metamask.io/snap/npm/near-snap/plugin/">NEAR Snap</a>.&nbsp;</p>
+
+
+
+<p>The NEAR Snap was developed by <a href="https://www.herewallet.app/">HERE Wallet</a> (led by Petr Volnov and Andrey Zhevlakov) and supported by the <a href="https://www.banyan.gg/">Banyan Collective</a>. NEAR Snap is one of several integrations in the recently launched MetaMask Snap ecosystem, a series of apps developed by independent teams across Web3 looking to expand the functionality of the MetaMask Wallet experience.&nbsp;</p>
+
+
+
+<p>The launch of NEAR Snap makes the MetaMask ecosystem more accessible to the NEAR community. While Aurora, as an EVM compatible blockchain, can already be operated inside MetaMask, NEAR Snap is the first time NEAR transactions can be supported natively in MetaMask. Snaps allows for greater interoperability between blockchains, as MetaMask is also&nbsp; able to interact and sign transactions on other non-EVM chains including NEAR, Solana, Cosmos, Tezos, Bitcoin, Sui, Aptos, Algorand, and others. Innovations like Snaps contribute to creating a frictionless Web3 experience for everyone.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-unlocking-new-near-capabilities">Unlocking new NEAR Capabilities&nbsp;</h2>
+
+
+
+<p>In its first iteration, NEAR Snap allows MetaMask users to interact directly with the NEAR Protocol, but NEAR Snap isn’t stopping there. As part of its ongoing development, the <a href="https://nearbuilders.com/">NEAR builders</a> community plans to develop BOS components to enable web wallet-like functionalities through a set of different gateways for not just NEAR Snaps, but also for other wallets in the ecosystem. NEAR Snap is also creating an easy integration for other dApps in the NEAR Ecosystem. Dapps can start integrating with NEAR Snaps via the <a href="https://github.com/near/wallet-selector">NEAR Wallet Selector</a>.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>How to use NEAR applications with Metamask</strong></h2>
+
+
+
+<ol>
+<li>Assuming you already have a Metamask wallet, open <a href="https://my.herewallet.app/">https://my.herewallet.app/</a>&nbsp;</li>
+
+
+
+<li>Click “I Already Have An Account”</li>
+
+
+
+<li>Click “Metamask Snap”</li>
+
+
+
+<li>Confirm transactions in via Metamask extension titled “Third-party software notice”, “Connection Request”, “Installation Request”, and “Sign Message”</li>
+
+
+
+<li>Create a .near username / “nickname”</li>
+
+
+
+<li>Approve transactions asking for your public data, to add a nickname to the account, and to sign message</li>
+
+
+
+<li>Use any of the applications that support NEAR Snap via the “HERE Connector”: <a href="https://my.herewallet.app/">https://my.herewallet.app/</a></li>
+</ol>
+
+
+
+<p></p>
+
+
+
+<h1 class="wp-block-heading" id="h-faq">FAQ</h1>
+
+
+
+<h3 class="wp-block-heading" id="h-isn-t-metamask-already-supported-through-aurora">Isn’t MetaMask already supported through Aurora?</h3>
+
+
+
+<p>Yes. Aurora is an EVM compatible blockchain, which means you can switch networks to Aurora within MetaMask. However, the NEAR Snap allows you to support transactions on NEAR’s non-EVM shards.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-what-does-the-near-snap-do-for-bos">What does the NEAR Snap do for BOS?</h3>
+
+
+
+<p>The NEAR Snap can be added to BOS gateways so that EVM + NEAR experiences can both be in one wallet. Additionally, the power of BOS can bridge the gap of a lack of GUI to provide a wallet front end for not only the NEAR SNAP but other chain SNAPs as well.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="h-how-is-this-different-from-the-neth-implementation-made-by-proximity">How is this different from the NETH implementation made by Proximity?</h3>
+
+
+
+<p>NETH is a smart contract designed to enable your Ethereum account to sign transactions and remotely manage your paired NEAR account. This allows you to directly interact with NEAR decentralized applications (dApps) using your Ethereum wallet, such as MetaMask. Essentially, it acts as a proxy that facilitates Ethereum-view transactions on the NEAR network. This functions as a separate EVM network, but has many limitations.&nbsp;</p>
+
+
+
+<p>On the other hand, Snap is a miniature application that allows you to create and sign regular NEAR-view transactions. These mini-applications are typically opened from the websites where the signing process is required. Within these mini-applications, you can sign, review the transaction, and perform other related actions. Nevertheless, the user cannot open them as a separate network within MetaMask and view balances independently.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-how-is-this-different-from-remote-accounts-coming-to-near">How is this different from remote accounts coming to NEAR?</h3>
+
+
+
+<p>Remote Accounts are the concept that you can use NEAR to to sign transactions on other blockchains, simply put. This concept’s implementation is still under development and being discussed on <a href="https://github.com/near/NEPs/issues/498">Github</a>&nbsp;</p>
+<p>The post <a href="/blog/metamask-snaps/">MetaMask Is Now Usable on NEAR via NEAR Snap 🦊🤝</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>An Update from the NEAR Foundation</title>
+		<link>/blog/an-update-from-the-near-foundation/</link>
+		
+		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 08:01:06 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[NEAR 2024]]></category>
+		<category><![CDATA[NEAR Foundation Update]]></category>
+		<guid isPermaLink="false">/?p=21148</guid>
+
+					<description><![CDATA[<p>Dear NEAR Community, The NEAR Foundation’s vision has always been to help the world create a truly Open Web, giving …</p>
+<p>The post <a href="/blog/an-update-from-the-near-foundation/">An Update from the NEAR Foundation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Dear NEAR Community,<br></p>
+
+
+
+<p>The NEAR Foundation’s vision has always been to help the world create a truly Open Web, giving all people full control of their data, privacy, and power of governance. In 2023, the NEAR ecosystem saw remarkable progress towards this vision, with the NEAR Protocol now home to three of the top ten apps in Web3, a record number of daily users, and closer collaboration than ever with the Ethereum community.<br></p>
+
+
+
+<p>With the NEAR Foundation Council (NFC), we&#8217;ve conducted a thorough review of the Foundation’s activities. During this process, we heard feedback that the Foundation has not always been as effective as it could be, sometimes moving too slowly and trying to do too many things at once. Following this review, we have decided to significantly consolidate the core Foundation team to focus on a narrower and higher-impact set of activities.&nbsp;Over time, Foundation’s footprint will continue to contract as the ecosystem further decentralizes and various nodes drive more activity in the network and across the ecosystem.<br></p>
+
+
+
+<p>As part of this realignment, NEAR Foundation will reduce its team by approximately 40%, impacting 35 colleagues, primarily across the marketing, business development, and community teams. The NEAR Protocol Engineering Team at Pagoda will continue to operate as it has. The NEAR Foundation will provide support to affected colleagues during this time to help them find new opportunities in the NEAR ecosystem, the Web3 industry, and beyond. We thank each of our departing colleagues for your efforts and contributions towards our shared vision of the Open Web.<br><br>The NEAR Foundation treasury remains strong and well-managed, with over $285m fiat, 305m NEAR (worth over $1B), and $70m of investments and loans. The Foundation is well-placed to continue to support the ongoing growth, development, and further decentralization of the NEAR Protocol and ecosystem.<br></p>
+
+
+
+<p>Thank you to everyone in the NEAR community for your ongoing efforts and support. We are excited to move forward with more focus, more efficiency, and more speed. We’ll share more updates soon about what comes next as we work to advance chain abstraction, user-owned AI, and mainstream adoption of the Open Web.<br></p>
+
+
+
+<p>Keep building,</p>
+
+
+
+<p>Illia<br></p>
+
+
+
+<p><em>–Illia Polosukhin, CEO of NEAR Foundation</em><br></p>
+
+
+
+<p></p>
+<p>The post <a href="/blog/an-update-from-the-near-foundation/">An Update from the NEAR Foundation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </title>
+		<link>/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2023 15:00:00 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[Arbitrum]]></category>
+		<category><![CDATA[Ethereum Rollups]]></category>
+		<guid isPermaLink="false">/?p=21140</guid>
+
+					<description><![CDATA[<p>The NEAR Data Availability layer (NEAR DA) was one of the most exciting announcements to come out of NEARCON ‘23. …</p>
+<p>The post <a href="/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/">Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The <a href="https://near.org/data-availability">NEAR Data Availability layer</a> (NEAR DA) was one of the most exciting announcements to come out of NEARCON ‘23. Unveiled by NEAR Protocol co-founder and new NEAR Foundation CEO, Illia Polosukhin, NEAR DA is a highly efficient and robust data availability layer, designed to help Ethereum rollup builders simplify their network and lower costs, while ensuring they can scale like the NEAR Protocol.</p>
+
+
+
+<p>The latest technical integration for NEAR DA’s efficient and highly scalable data availability is now available for <a href="https://arbitrum.io/orbit">Arbitrum Orbit</a>, the tech stack that allows developers to launch their own configurable rollups based on Arbitrum’s technology.</p>
+
+
+
+<p>Arbitrum Orbit is a L2/L3 scaling solution for Ethereum that lets developers build their own dedicated chains with their own configurations. Arbitrum Orbit chains derive trustless security, while scaling Ethereum. With the latest NEAR DA integration, rollup builders could benefit from cheaper data availability costs to significantly reduce their overall rollup overheads.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-develop-ethereum-rollups-within-the-arbitrum-orbit-ecosystem-enabled-by-near-da">Develop Ethereum rollups within the Arbitrum Orbit ecosystem enabled by NEAR DA</h2>
+
+
+
+<p>The NEAR-Arbitrum integration allows devs&nbsp; building their own rollups to be part of <a href="https://docs.arbitrum.io/launch-orbit-chain/orbit-gentle-introduction#:~:text=In%20a%20nutshell%3A%E2%80%8B,token%2C%20governance%2C%20and%20more.">Arbitrum Orbit</a>, an ecosystem of blockchains that settle onto Arbitrum or Ethereum Mainnet, while leveraging the cost effectiveness and scalability of the NEAR Protocol.&nbsp;</p>
+
+
+
+<p>Arbitrum is a clear innovative leader in developing the Optimistic Rollup technology, while also operating as an L2 with the highest TVL. Arbitrum now offers its own stack to other rollups builders with Arbitrum Orbit, one step closer to decentralizing Ethereum.&nbsp;&nbsp;</p>
+
+
+
+<p>Arbitrum Orbit chains leverage the Arbitrum Nitro tech stack, the technology that Arbitrum developed to scale Ethereum. It allows builders to create their own blockchains, which settles transactions on Arbitrum One, Arbitrum Nova, or Ethereum Mainnet if the Arbitrum DAO grants an L2 license.&nbsp;</p>
+
+
+
+<p>These Orbit chains, which use Arbitrum’s Rollup and AnyTrust protocols, offer customization across throughput, privacy, gas token, and governance to cater to specific use cases and business requirements. For instance, rollup builders looking for cheaper DA alternatives can now utilize NEAR DA within the Arbitrum Orbit stack. With this, developers can build self-managed, configurable blockchains with enhanced control over its features and governance, while deriving the security guarantees of Ethereum.&nbsp;&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-near-da-paves-the-way-for-modular-blockchain-development">NEAR DA paves the way for modular blockchain development</h2>
+
+
+
+<p>This integration empowers rollup builders on Arbitrum Orbit to use NEAR DA as a complete out-of-the-box modular DA solution.&nbsp;</p>
+
+
+
+<p>As of December 2023, 231 kB of calldata on <a href="https://nearblocks.io/txns/HCA1dMLjYE9bTMNUpTG4sbcwhC9X1tXRtpUSxUEhjhLm">NEAR costs $0.0016</a>, while the same calldata on <a href="https://etherscan.io/tx/0x53a0d93d88e0dc050ca86ab45b26c952a79aa0116825a9e3a5276a36fa897bbe">Ethereum L1 costs users $140.54</a>. </p>
+
+
+
+<p>NEAR DA helps developers reduce costs and enhance their rollup’s reliability, while maintaining the security guarantees provided by Ethereum. Another upside to NEAR DA is that high quality projects launching an app-chain or L2 will be able to get out of the box NEAR DA compatibility and support.&nbsp;</p>
+
+
+
+<p>“Offering a data availability layer to Ethereum rollups highlights the versatility of NEAR’s tech while also helping founders from across Web3 deliver great products that bring us closer to mainstream adoption of the Open Web,” said Polosukhin, when announcing NEAR DA at NEARCON ‘23.&nbsp;</p>
+
+
+
+<p>“NEAR’s L1 has been live with 100% uptime for more than three years, so it can offer true reliability to projects looking for secure DA while also being cost-effective,” Polosukhin added. “NEAR provides great solutions to developers no matter which stack they’re building on and now that includes the Ethereum modular blockchain landscape.”<br>Interested teams who want to work with NEAR DA are invited to fill out <a href="https://forms.gle/LWJoTpTiCbSheUL26">this form</a>, with information about your project and how you would like to integrate with NEAR DA.</p>
+<p>The post <a href="/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/">Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>2023: NEAR In Review</title>
+		<link>/blog/2023-near-in-review/</link>
+		
+		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
+		<pubDate>Wed, 20 Dec 2023 18:10:12 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[NEAR 2023]]></category>
+		<category><![CDATA[NEAR in Review]]></category>
+		<guid isPermaLink="false">/?p=21133</guid>
+
+					<description><![CDATA[<p>by Illia Polosukhin While this was a tough year in the market, we’re closing 2023 on a higher note for …</p>
+<p>The post <a href="/blog/2023-near-in-review/">2023: NEAR In Review</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em>by Illia Polosukhin</em></p>
+
+
+
+<p>While this was a tough year in the market, we’re closing 2023 on a higher note for Web3. The NEAR ecosystem has made great progress on many fronts. </p>
+
+
+
+<p>Here’s a recap of some highlights and accomplishments from this year and a brief look ahead at 2024.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-year-in-review"><strong>Year in Review</strong></h2>
+
+
+
+<p>The NEAR ecosystem has made great strides in 2023 towards realizing the vision of mainstream adoption of the Open Web in spite of tough market conditions. Four of DappRadar’s top ten <a href="https://dappradar.com/rankings">apps</a> in all of Web3 are built on the NEAR Protocol and daily active users now regularly exceed a million per day.&nbsp;</p>
+
+
+
+<p>From launching the Blockchain Operating System in February to NEAR DA in November, the NEAR ecosystem is offering solutions to builders across all Web3 networks to deliver the vision of the Open Web. With 7 million monthly active accounts, 35 million total accounts overall, and a current average of over 2 million transactions per day, the NEAR ecosystem has seen substantial growth in usage this year—and keeps outpacing its peers in terms of daily usage.&nbsp;</p>
+
+
+
+<p>A lot of exciting technology built on NEAR was also released this year to enable chain abstraction. At EthDenver in February, NEAR Day featured the debut of the <a href="https://near.org/">Blockchain Operating System</a>—a fully decentralized open web stack and common layer for browsing and discovering open web experiences. By making it easier to build and deploy decentralized on-chain frontends for any network, B.O.S. helps developers build more discoverable and resilient apps while hiding the blockchain infrastructure from users.&nbsp;&nbsp;</p>
+
+
+
+<p>Building on the benefits of the NEAR account model, the FastAuth onboarding solution lets users create an account in seconds using only an email address and device security. App developers can subsidize gas so users can start using apps immediately upon creating their account, and they only need to set up once in order to access any app on B.O.S. The team has gotten great feedback on the beta and will share some exciting next steps early next year.&nbsp;</p>
+
+
+
+<p>B.O.S. also includes <a href="https://near.org/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/">NEAR QueryAPI</a>, a fully managed, open-source, serverless infrastructure offering NEAR blockchain indexers, storage, and GraphQL endpoints. QueryAPI simplifies the indexer building experience with JavaScript and interactive debugging and eliminates the need to manage cloud infrastructure. The beta already powers 25 indexers in production.</p>
+
+
+
+<p>Beyond rollups using decentralized frontends, I shared the news of 3 exciting Ethereum alignment initiatives to offer NEAR technology to the modular Ethereum ecosystem and benefit the broader Open Web. The <a href="https://near.org/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/">collaboration with Polygon Labs</a> on a zkWASM prover will optimize the NEAR L1 and bring NEAR to the forefront of the zero-knowledge research space. </p>
+
+
+
+<p>The Foundation is working with <a href="/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">Eigen Labs</a> to build a fast finality layer for defragmenting Ethereum rollups and also launched <a href="https://near.org/data-availability">NEAR DA</a>, a cost-efficient and data availability layer compatible with L2s offering 11,000x cheaper DA than Ethereum and 30x cheaper than Celestia.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="428" src="/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg" alt="" class="wp-image-21135" style="aspect-ratio:2.392523364485981;width:1287px;height:auto" srcset="/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg 1024w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-300x125.jpg 300w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-768x321.jpg 768w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>NEAR reached #1 in daily active users for all of Web3 to close the year, per Artemis.</em></figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="458" src="/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png" alt="" class="wp-image-21136" srcset="/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png 1024w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-300x134.png 300w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-768x343.png 768w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1536x687.png 1536w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-2048x916.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>4 of the top 10 apps in all of Web3 are built on NEAR &amp; Aurora, per DappRadar&#8217;s 30-day ranking.</em></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Looking Ahead</strong></h2>
+
+
+
+<p>As we look towards 2024, the ecosystem will build upon the innovations and market recognition of 2023 with some major advancements at every layer of NEAR’s open web stack, plus expand into exciting new territory on the AI and product fronts.&nbsp;</p>
+
+
+
+<p>2024 is the year of chain abstraction: blockchains and other infrastructure will become increasingly invisible to users and developers. Just as we don’t need to know if a given website or app we’re using every day is running on Google or Amazon servers, most app users on the Open Web shouldn’t need to manage infra, toggling between accounts and wallets, bridging, or gas. This is the biggest barrier to mainstream adoption.&nbsp;</p>
+
+
+
+<p>The NEAR ecosystem has been building for chain abstraction since the very beginning with sharding and the account model, and more recently the B.O.S., FastAuth, and ETH alignment solutions. From the user perspective the NEAR blockchain functions like a single platform, but under the hood, every account and smart contract is its own logical chain.&nbsp;</p>
+
+
+
+<p>Developers today pick an ecosystem based on where they can access liquidity and users, but that will matter less if they can access users and deposit liquidity from any chain – so they can just choose the infrastructure that works best for their application.&nbsp;</p>
+
+
+
+<p>A big part of advancing chain abstraction for the Web3 space is account aggregation. In order to enable users to transact across all blockchains without needing to think about underlying infrastructure or switch networks, they need a single account from which they can navigate all of Web3. In the true spirit of Web3, this single account should be non-custodial and non-dependent on a specific wallet software or any other single service provider. In addition to FastAuth, Pagoda will launch chain signatures and intent relayers to deliver the full scope of this vision in the first half of 2024.</p>
+
+
+
+<p>At the protocol level, the team will launch Phase 2 of sharding, which is a big deal. TLDR: introducing stateless validation will expand the original Nightshade design, allowing us to avoid fraud proofs. As part of this transition, the state of each shard moves fully into memory, improving performance of each shard—currently 4, soon to be 5—by 10x+. Adding zkWASM on top as the next step will compress execution proofs, enabling even greater decentralization of validators. </p>
+
+
+
+<p>Finally, the NEAR ecosystem will make bigger strides into AI. I’ve been sharing my views on how AI and blockchains can work together with humans to improve our collective systems and individual experiences while minimizing risk and centralization. We’re working both on AI-driven governance and AI-augmented Web3 experiences to work towards the vision of user-owned AI.&nbsp;</p>
+
+
+
+<p>Stay tuned for more updates and specifics in January 2024. Thank you to every member of the NEAR community for staying the course and believing in our shared Open Web vision. </p>
+<p>The post <a href="/blog/2023-near-in-review/">2023: NEAR In Review</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Pyth Price Feeds Launch on NEAR Protocol Bringing Equity, Commodities, and Market Data On Chain </title>
 		<link>/blog/pyth-price-feeds-launch-on-near-protocol-bringing-equity-commodities-and-market-data-on-chain/</link>
 		
@@ -396,962 +997,6 @@
 <li>LinkedIn: <a href="https://www.linkedin.com/company/98907399">https://www.linkedin.com/company/98907399</a>&nbsp;</li>
 </ul>
 <p>The post <a href="/blog/near-tasks-launches-ai-marketplace-on-near-to-revolutionize-the-future-of-work/">NEAR Tasks Launches AI Marketplace on NEAR to Revolutionize the Future of Work</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</title>
-		<link>/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 16 Nov 2023 13:00:00 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[AI is NEAR]]></category>
-		<category><![CDATA[EigenLayer]]></category>
-		<category><![CDATA[NEAR DA Layer]]></category>
-		<category><![CDATA[NEARCON ‘23]]></category>
-		<guid isPermaLink="false">/?p=21092</guid>
-
-					<description><![CDATA[<p>Over the course of three epic days, the NEAR ecosystem showed up and showed out to make NEARCON ‘23 the …</p>
-<p>The post <a href="/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/">NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Over the course of three epic days, the NEAR ecosystem showed up and showed out to make NEARCON ‘23 the most iconic edition yet. Groundbreaking partnerships were announced, new bonds forged, and a new vision for AI and the open web was unveiled by some of the brightest minds in the blockchain business.</p>
-
-
-
-<p>“The open web is an internet where all people control their own assets, data, and power of governance,” remarked NEAR co-founder and newly minted CEO of NEAR Foundation, Illia Polosukhin, on Day One of NEARCON ‘23. “And that vision extends beyond NEAR to the entire space, with the B.O.S. acting as the single entry point to an open web.”&nbsp;</p>
-
-
-
-<p>Illia’s remarks truly encapsulated the spirit of NEARCON ‘23, as innovative collaborations with the likes of Polygon and <a href="https://near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">EigenLayer</a> highlighted a cross-chain, multi-ecosystem future with NEAR enabling multiple key facets of tomorrow’s truly open web.&nbsp;</p>
-
-
-
-<p>So ICYMI, here’s all the key happenings, hubbub, and highpoints of an iconic NEARCON ‘23.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-partnerships-irl-hackathon-and-ncon-make-a-splash">Partnerships, IRL Hackathon, and NCON make a splash</h2>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://lh7-eu.googleusercontent.com/jog58Foi9eK8yb0kt8LNLgFBKjQo_cXMxmxeUn3ZDPFEgvNaQ3RjVnw-i9AOrKpa3Q3sv70HDA9Lzn2vAUWN6A-tq6S3obNwg_Z9f2B1VciUCWNlOXK3rCbWJWWvJ34ZYED5WJoRY0-jqiwdYVoFvw4TqHGsmsGHgU_7zO3Z0mLfjeS8dQmWII645drzXw" alt=""/></figure>
-
-
-
-<p>Things started off with a bang before the doors of the Convento Do Beato in Lisbon even opened, with the debut of the NCON token. The first ever native NEARCON token, attendees could download the NEARCON app and collect NCON tokens by completing tasks, bounties, and viewing sessions throughout the event.</p>
-
-
-
-<p>NEARCON-goers could then redeem NCON tokens for swag or a bite from the various food trucks, or even send NCON to other attendees via a slick native wallet on the NEARCON app. All told, <a href="https://twitter.com/openwebdata/status/1723463055542300696">over 110,000 NCON tokens</a> were distributed during the event, making it a smash hit amongst attendees.</p>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://lh7-eu.googleusercontent.com/WvxgD6nadaErgWpYzZLpHKMJmLXrxWA9r4riyOV_wywtPrBLCKEjhiCASWjAGFVk2C0twfjs8macMcr029Hawm0N7ftUrsbkZdJVC6QGF5L-IIottIQlp3Bcgtmrbkk5LBknm0cqxwUVfkhSA-sG8D5ptvFsZWqC-tC8Ava6daCzCYDQdhS1X3JdniIBCA" alt=""/></figure>
-
-
-
-<p>This year’s NEARCON also took place across three cool and contrasting venues: NEARCON HQ, Hacker HQ, and Community HQ, each providing a unique experience for those of varying interests. HackerHQ was popping in particular due to the three day IRL Hackathon. Held in a stunning seaview venue, the winners will be announced next week, so stay tuned.</p>
-
-
-
-<p>Once everyone settled in for Day One, the ecosystem was treated to a few major game-changing partnership announcements. Here’s a roundup of the major collabs that are already making an impact for NEAR builders, developers, and the community at large:</p>
-
-
-
-<h3 class="wp-block-heading" id="h-near-releases-the-data-availability-layer-for-eth-rollups-and-ethereum-developers">NEAR releases the Data Availability Layer for ETH Rollups and Ethereum developers</h3>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Introducing the NEAR Data Availability Layer" width="500" height="281" src="https://www.youtube.com/embed/U1IfP435Aow?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>By far the biggest news of Day One was NEAR <a href="/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/?_gl=1%2Ak9zc45%2A_up%2AMQ..%2A_ga%2AMTA3NDE2NTgxOS4xNzAwMDM4OTU2%2A_ga_9GWCXQJ62J%2AMTcwMDAzODk1Mi4xLjAuMTcwMDAzODk1Mi4wLjAuMA..">unveiling the NEAR Data Availability Layer (NEAR DA)</a>, offering robust, low-cost blockchain data to developers for modular open web development. NEAR DA will help developers reduce costs and enhance the reliability of rollups, while keeping the security of Ethereum. NEAR DA is a key part of tomorrow&#8217;s open web development stack, with early users including StarkNet, Caldera, Movement Labs, and others.&nbsp;</p>
-
-
-
-<h3 class="wp-block-heading" id="h-near-x-eigenlayer-streamline-ethereum">NEAR x EigenLayer streamline Ethereum</h3>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://lh7-eu.googleusercontent.com/4Ir5U6Ej7UgAKATGtl2k3GEBZxcx9Ijetal173PU1eM2MQpV9C_wCj5DBt6rhWx_rSg4JqZiTXTnQq2RiEECZ8USbNkOtFoHifoVPn4xB6_-71Mb5mALQD6BXhP30NLTWR6hEBziROAg3v8hNnAU_1-Hpfk5TSJZz2kqhxDgMJLq2uYTOVDzML8G5MIKzQ" alt=""/></figure>
-
-
-
-<p>NEAR Foundation announced its <a href="/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/?_gl=1%2Abb1vlz%2A_up%2AMQ..%2A_ga%2AMTA3NDE2NTgxOS4xNzAwMDM4OTU2%2A_ga_9GWCXQJ62J%2AMTcwMDAzODk1Mi4xLjAuMTcwMDAzODk1Mi4wLjAuMA..">partnership with EigenLayer</a>, which will speed&nbsp; up transaction times and slashing costs on the Ethereum blockchain. The collaboration will introduce a fast finality layer to Ethereum rollups, boosting their efficiency and scalability. The fast finality layer showcases the strengths of NEAR’s technology while making the open web more usable.</p>
-
-
-
-<h3 class="wp-block-heading" id="h-layerzero-brings-interoperability-to-near">LayerZero brings interoperability to NEAR</h3>
-
-
-
-<p>In other big news, <a href="https://x.com/NEARProtocol/status/1722936951358034312?s=20">LayerZero integrated with NEAR</a>, bringing over 40 blockchain networks into the open web. Layer brings trustless cross-chain messaging into the fold, making NEAR a more versatile ecosystem. The announcement highlighted NEAR&#8217;s commitment to seamless communication across various blockchain networks.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-day-one-highlights-bringing-the-open-web-vision-to-life">Day One highlights: bringing the open web vision to life</h2>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://lh7-eu.googleusercontent.com/5fAa-iF11u_bBT0EJBugPswSRTK_DHm7ECm7cLCVfEtmDtoBIKN52uxtmdhoe_GQWmkP_-C--T3SEtp73OayIz1dZSIvSDAxHDNc7A0K7dDW4PgJvug3KvDxbqfJYvTig2bTg8vOTiEQPClSJnYvUzBugacwlUJR3dqVTxWSNeymjYjJORlvPHGfL7s1ZA" alt=""/></figure>
-
-
-
-<p>While there were a ton of amazing sessions and panels on the first day — from open web gaming and sports to crypto economics — one of the major themes was how Illia would realize his vision for a truly open internet in his new role as CEO of the NEAR Foundation. With a renewed focus on developers in the ecosystem, it only makes sense for him to steer the ship.</p>
-
-
-
-<p>Piggybacking on Illia’s “NEAR: The Open Web Vision” keynote, new NEAR COO Chris Donovan made a case for the open web, while also sitting down to discuss Web3 regulatory issues with Coindesk’s Michael Casey. And in other developer tooling news, NEAR Data Availability (DA) was announced, giving developers low-cost access to modular, scalable blockchain data.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-day-two-highlights-the-ai-is-near-track-takes-flight">Day Two highlights: the AI is NEAR track takes flight</h2>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://lh7-eu.googleusercontent.com/Fliv3gNu9eojFeS2QCYlbxHaSRLWEofADptXojnQOVMHb-JBTXZ1Euxfz-QByKYir75UtWSqIzzfAmYBVCz8SJzl1r4_iZIjsbIyKdlMAayDnzJeRmDv9_8vSDsp7oEdKXy81iSLX9w60C_9o6dPWOz7barT9gxfu1I1w5_tGkAJz-kHi132RK710vzz-w" alt=""/></figure>
-
-
-
-<p>The second day of NEARCON ‘23 was perhaps the boldest to date, with an epic “AI is NEAR” speaker and programming track that was simply mind blowing. Things kicked off with sessions featuring thought leaders from the likes of Pantera Capital and NEAR Tasks, and heated up even more with NEAR co-founder Alex Skidanov’s talk on generative AI and the open web.</p>
-
-
-
-<p>Illia returned in the afternoon to discuss “AI on NEAR: The Future of Work and Governance,” painting a picture of how AI will impact the future of governance, work, asset ownership, and beyond. He was then joined by Mike Butcher of TechCrunch, with the two unpacking the intersection of AI, blockchain, and global policy.</p>
-
-
-
-<p>“AI has the potential to be a huge driver for productivity,” Illia explained. “AI agents, for example,&nbsp; are redefining the future of work. They have the unique ability to manage transactions and resources on blockchain platforms, communicate with secure cryptographic verification, and act as autonomous entities on people’s behalf — and directly for their benefit.”</p>
-
-
-
-<p>The AI is NEAR track was capped off when Illia then joined Michael Casey for a Coindesk podcast, where the two dove as deep as one can imagine down the AI rabbit hole. In particular, Illia shared his experience, views, and predictions regarding AI, blockchain, and the open web – simply a must listen. (Stay tuned for the release of this Coindesk podcast with Illia and Michael.)</p>
-
-
-
-<h2 class="wp-block-heading" id="h-day-three-highlights-governance-and-hackathon-on-stage">Day Three highlights: governance and hackathon on stage</h2>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://lh7-eu.googleusercontent.com/YMVF0QoG2ZetU2RDLt_nolNdY7zpPh8xeNNvkvPtQ6I1Nzu_H2G_d0Chx1KTM0lcq2jMJZ3QFkLJDtQccpLP63nyyQBSKBhZ-WX-eED61NbYupTHjHQLk-CxriCdqBFG-cznfPVFtr48Avga7qSbfUgup1_CnSW5EWGSwldn59un6pvdD3rsLgwZv1SnsQ" alt=""/></figure>
-
-
-
-<p>Governance and current happenings with the NEAR Digital Collective (NDC) were front and center in a spirited Day Three. One of the most unique panels was the NEAR Governance Forum, featuring AVB from the Transparency Committee, Cameron Dennis from Banyan, and Blaze of Cheddar.</p>
-
-
-
-<p>All three gave their takes on what’s gone right — and wrong — with the NDC since its inception at last year’s NEARCON. And in a “Round Robin” format, the three fielded a variety of questions from the audience, some of whom were NDC members themselves. Blaze and AVB then joined NEAR’s Yadira Blocker in an afternoon session discussing Decentralized Democracy in 2024.</p>
-
-
-
-<p>The final season of NEARCON ‘23 featured presentations from the IRL Hackathon, where builders unveiled their work and ideas. Judges and panelists included Oleg Fomenko, CEO of Sweat Economy, with talented NEAR builders putting their best foot forward. They showcased some truly amazing ideas and tech, so you’ll want to keep your eyes peeled for the winners.</p>
-
-
-
-<p>And what’s Day Three of any NEARCON without a party? This year’s bash was held at the LX Factory, an enormous space where all attendees got their final chance to network, share ideas, and have a blast. The Littles sponsored the party, bringing an added element of excitement by setting up carnival games at the venue along with The Fun Pass to reward anyone who played.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-nearcon-23-as-iconic-as-it-gets">NEARCON ‘23: as iconic as it gets</h2>
-
-
-
-<figure class="wp-block-image"><img decoding="async" src="https://lh7-eu.googleusercontent.com/yYY2_yr7Zg7pzkHX3fpfsykRtcnXSlKZR-RcTXw4pTzfPnkfR2PH3_xaIqGFPjDkpcm3bN5fG4LVBV9qP20QVuu63SlCyQnZynqNuCq8uNwY7CNGhb4d8bld1DPMvw6XibIBsHe0dYz9MuQSj7_m5ZEmgAPe_Wu5hWpGxg5M2j0ohXt96G9c-j2smCf55w" alt=""/></figure>
-
-
-
-<p>If you joined us in Lisbon, a huge thanks for making this year’s edition so fun, spectacular, and rewarding. If you weren’t able to attend, we sincerely hope to see you next year. From transformative partnerships to leading the Web3 pack in AI, NEARCON ‘23 showcased the passion, momentum, and ingenuity of the entire NEAR ecosystem.<br><br>If you weren’t able to make it to Lisbon for NEARCON, don’t worry —&nbsp;you can still check out all of the talks. Visit <a href="https://www.youtube.com/@NEARProtocol/videos">NEAR Protocol’s YouTube page</a> for the full livestreams from the Layer 1 and Layer 2 stages, or click the links below.&nbsp;</p>
-
-
-
-<ul>
-<li><strong>NEARCON Day One Livestream</strong>&nbsp; – <a href="https://youtu.be/Cj2PpoZW47g?feature=shared">Layer 1 Stage</a>, <a href="https://youtu.be/6vMidjsnXjM?feature=shared">Layer 2 Stage</a></li>
-
-
-
-<li><strong>NEARCON Day Two Livestream</strong> – <a href="https://youtu.be/gYhNjSQ1uVs?feature=shared">Layer 1 Stage</a>, <a href="https://youtu.be/uIMWHcMuzj8?feature=shared">Layer 2 Stage</a></li>
-
-
-
-<li><strong>NEARCON Day Three Livestream</strong>&nbsp; – <a href="https://youtu.be/nsnit6wKIUU?feature=shared">Layer 1 Stage</a>, <a href="https://youtu.be/ghb5mxFQoOs?feature=shared">Layer 2 Stage</a></li>
-</ul>
-
-
-
-<p>Anyone who built furiously at the HackerHQ or clinked a cocktail at the Glass Movers &amp; Shakers Happy Hour will likely tell you something similar: that NEARCON ‘23 showed the importance of a truly open web — and how together we can all achieve it.</p>
-<p>The post <a href="/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/">NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEARCON ‘23 Day Three: Governance and Multi-Chain in the Spotlight</title>
-		<link>/blog/nearcon-23-day-three-governance-and-multi-chain-in-the-spotlight/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Fri, 10 Nov 2023 16:26:29 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<guid isPermaLink="false">/?p=21089</guid>
-
-					<description><![CDATA[<p>As NEARCON &#8217;23 drew to a close, the vibrant energy of innovation and unity in the open web was palpable. …</p>
-<p>The post <a href="/blog/nearcon-23-day-three-governance-and-multi-chain-in-the-spotlight/">NEARCON ‘23 Day Three: Governance and Multi-Chain in the Spotlight</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>As NEARCON &#8217;23 drew to a close, the vibrant energy of innovation and unity in the open web was palpable. Attendees reflected on a journey filled with groundbreaking discussions and pivotal connections, marking the final day as a celebration of collective progress and shared visions for the future.</p>
-
-
-
-<p>The conference&#8217;s last act spotlighted transformative dialogues and educational strides, with a keen focus on empowering the next wave of builders. Governance talks, innovative partnerships, and technical milestones underscored NEAR&#8217;s commitment to nurturing talent and fostering a future where the open web thrives.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-major-eigenlayer-and-layerzero-announcements">Major EigenLayer and LayerZero announcements</h2>
-
-
-
-<p>Day Three was headlined by two major announcements that will impact the NEAR Protocol and ecosystem in a variety of ways moving forward.</p>
-
-
-
-<p><strong>NEAR and EigenLayer enable fast finality on Ethereum&nbsp;</strong></p>
-
-
-
-<p>NEAR Foundation <a href="https://near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">partners with Eigen Labs</a> to develop a &#8220;fast finality layer&#8221; for Ethereum rollups, promising swift and economical transactions. This initiative, set for a 2024 testnet launch, aims to quicken cross-rollup communication and minimize costs, streamlining the developer experience and enhancing Web3 interoperability.</p>
-
-
-
-<p><strong>LayerZero integrates with NEAR for cross-chain messaging</strong></p>
-
-
-
-<p>A second big announcement was the integration with LayerZero Labs on NEAR’s EVM layer, Aurora, enabling NEAR to connect with over 40 blockchain networks. LayerZero&#8217;s endpoint paves the way for trustless cross-chain messaging, expanding NEAR&#8217;s interoperability and user experience. For further details, visit LayerZero&#8217;s documentation <a href="https://layerzero.gitbook.io/docs/">here</a><strong>.&nbsp;</strong></p>
-
-
-
-<h2 class="wp-block-heading" id="h-day-three-ecosystem-news-and-announcements">Day Three ecosystem news and announcements</h2>
-
-
-
-<p>EigenLayer and LayerZero were just the tip of the iceberg for the ecosystem on Day Three. Here’s a rundown of other key happenings.</p>
-
-
-
-<p><strong>​​Activelink boosted by NEAR grant</strong></p>
-
-
-
-<p>Activelink, enhancing sports and media engagement, has received a NEAR Foundation grant to facilitate on-chain transactions, fostering direct fan connections and monetization on the NEAR protocol.</p>
-
-
-
-<p><strong>Ample kicks off Horizon program</strong></p>
-
-
-
-<p>Ample, readying to disrupt media distribution, leverages the Horizon Programme to launch a unique platform for artists. It aims to democratize entertainment by tokenizing content, ensuring creators&#8217; ownership, and optimizing monetization without requiring open web expertise.&nbsp;</p>
-
-
-
-<p><strong>Encode: Kickstarting NEAR Innovations</strong></p>
-
-
-
-<p>Encode teams up with NEAR Horizon for an eight-week online accelerator, starting November 23rd including workshops, mentorship, and global networking opportunities. Open to unfunded hackathon and startup projects, it’s a launchpad to growth without full-time commitment. Check out the <a href="https://www.encode.club/encode-near-horizon-accelerator">Encode accelerator website</a> to learn more and <a href="https://encodeclub.typeform.com/near2023acc#source=ncn">fill out an application</a> today.</p>
-
-
-
-<p><strong>QSTN: NFT Success and Testnet Launch</strong></p>
-
-
-
-<p>QSTN announced a full sell-out of their NFT collection on NEAR, gearing up for their public incentivized testnet on November 13th. QSTN is calling on the open community to engage and earn NEAR rewards for survey participation and feedback with Telegram integration plans.</p>
-
-
-
-<p><strong>World of Rogues brings mobile adventure to NEAR</strong></p>
-
-
-
-<p>World of Rogues is set to conquer mobile gaming, with Rogues Studio announcing a forthcoming release for iOS and Android. Emphasizing a seamless, frictionless blockchain gaming experience on NEAR, the studio focuses on easy onboarding for non-crypto gamers.&nbsp;</p>
-
-
-
-<p><strong>Lava Network bolsters NEAR with modular APIs</strong></p>
-
-
-
-<p>The Lava Network is boosting the NEAR ecosystem through a partnership aimed at enhancing developer tools with modular APIs and incentivized public RPCs. By integrating NEAR support, Lava provides developers with a robust node network, ensuring speed and efficiency.&nbsp;</p>
-
-
-
-<p><strong>Encore Network empowers NEAR with user-centric data</strong></p>
-
-
-
-<p>Encore, a leading data collection platform, announced a huge step in data control. NEAR users now control their data along with terms of sharing. The goal is to slash customer acquisition costs for projects and spur revenue, marking a new chapter in data-driven user empowerment.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-key-sessions-and-panels">Key sessions and panels</h2>
-
-
-
-<p>The final day of NEARCON ‘23 highlighted governance, along with a special session between NEAR co-founder and CEO Illia Polosukhin and Polygon co-founder Jordy Baylina.</p>
-
-
-
-<p><strong>NEAR Governance Forum: shaping decentralized democracy</strong></p>
-
-
-
-<p>At the NEAR Governance Forum, leaders like Blaze from Cheddar and Alejandro Betancourt of the Transparency Commission discussed challenges in the NDC, emphasizing the need for high standards and community-driven progress. Topics included efficient governance models, the balance between autonomy and collaboration, and advancing NEAR&#8217;s decentralized democracy.</p>
-
-
-
-<p><strong>Illia dives deeper into Polygon and ZK with Jordi Baylina</strong></p>
-
-
-
-<p>NEAR&#8217;s Illia Polosukhin, alongside Polygon co-founder Jordi Baylina, dove into the collaboration between the two ecosystems. The two focused on zero-knowledge proofs for enhancing cross-chain interactions and unifying blockchain security. They talked about streamlining Layer 1 and Layer 2 operations, promoting a cohesive and interoperable blockchain network, and more.</p>
-
-
-
-<p><strong>Envisioning the future of decentralized democracy&nbsp;</strong></p>
-
-
-
-<p>During &#8220;What 2024 Looks Like for Decentralized Democracy&#8221; Blaze and Alejandro returned along with Yadira Blocker from the NEAR Foundation to break down cultural and operational shifts needed for effective governance, touching on the role of AI in streamlining decision-making processes. They also discussed the NDC’s past, present, and future.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-the-littles-bash-at-lx-factory-closes-out-nearcon-23">The Littles bash at LX Factory closes out NEARCON ‘23</h2>
-
-
-
-<p>Day Three will culminate in a huge bash at <a href="https://lxfactory.com/en/map/">LX Factory</a>, sponsored by The Littles. Unwind and network against the backdrop of one of Lisbon&#8217;s most vibrant and hip nightlife districts. The closing party not only marks the end of an iconic NEARCON ‘23, but will be fertile ground for future collaborations and community bonding.</p>
-
-
-
-<p>Not to mention a chance to win rewards and NFTs just by playing carnival games via The Littles Fun Pass app on NEAR. Win or lose, you’ll walk away with some cool blockchain-based swag.</p>
-
-
-
-<p>As NEARCON &#8217;23 wraps up, the collaborative spirit of the open web community is clear. The convergence of thought leaders, innovators, and enthusiasts in Lisbon made this year’s edition incredibly special. Thanks to every attendee, hacker, sponsor, and NEAR enthusiast for making NEARCON ‘23 so memorable, and see you at the LX Factory at 9 PM for the grand finale!</p>
-<p>The post <a href="/blog/nearcon-23-day-three-governance-and-multi-chain-in-the-spotlight/">NEARCON ‘23 Day Three: Governance and Multi-Chain in the Spotlight</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</title>
-		<link>/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Fri, 10 Nov 2023 13:30:00 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[Eigen Labs]]></category>
-		<category><![CDATA[EigenLayer]]></category>
-		<guid isPermaLink="false">/?p=21085</guid>
-
-					<description><![CDATA[<p>EigenLabs, one of the leaders in building scaling solutions on Ethereum, is partnering with the NEAR Foundation to create an …</p>
-<p>The post <a href="/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><a href="https://www.eigenlayer.xyz/about">EigenLabs</a>, one of the leaders in building scaling solutions on Ethereum, is partnering with the NEAR Foundation to create an industry first partnership designed to foster faster, cheaper transactions for Layer 2 projects building on Ethereum.&nbsp;</p>
-
-
-
-<p>Ethereum rollups, projects that perform transaction execution outside of the main Ethereum blockchain, have been one of the fastest growing sectors on the world’s largest blockchain. However, they have consistently faced challenges around finality and cost, making them an expensive option for developers looking to build on Ethereum. With the partnership with the NEAR Blockchain and NEAR Foundation, those roadblocks disappear.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-the-world-s-first-fast-finality-layer-for-ethereum-layer-2s">The world’s first ‘fast finality layer’ for Ethereum layer 2s</h2>
-
-
-
-<p>The partnership, which will have the two teams build the world’s first “fast finality layer” for Ethereum layer 2s, will see transaction times shrink from minutes and hours to 3-4 seconds. The cost of transacting on this new finality layer will become 4,000 times cheaper than it is currently, creating the perfect conditions for teams looking to scale on Ethereum.&nbsp;</p>
-
-
-
-<p>This advancement will reduce liquidity fragmentation between Layer-2s through increased efficiency while also allowing them to make individual decisions around the sequencers they use to process those transactions, either on-chain or off-chain. The fast finality layer retains all Ethereum security guarantees while adding both NEAR and EigenLayer guarantees, making it an attractive option for any team building on Ethereum L2s.</p>
-
-
-
-<p>“We are thrilled to partner with the highly innovative team behind the NEAR protocol,” says Sreeram Kannan, founder of EigenLabs. “This is a mutually beneficial partnership that will leverage both NEAR and EigenLayer’s technologies to make it easier, faster, and cheaper for developers to build on Ethereum.”</p>
-
-
-
-<h2 class="wp-block-heading" id="h-making-the-open-web-more-usable">Making the Open Web more usable&nbsp;</h2>
-
-
-
-<p>The collaboration, spearheaded by <a href="https://www.pagoda.co/">Pagoda</a>, the NEAR ecosystem development team, will help transition the NEAR-Ethereum Rainbow Bridge to an actively validated service (AVS).&nbsp;</p>
-
-
-
-<p>“Pagoda is proud to work with Eigen Labs, a world-class team, to cobuild the fast finality layer. This solution improves the composability with Ethereum L2s and reduces liquidity fragmentation within the rollup ecosystem,&#8221; says Bowen Wang, Director of Protocol at Pagoda.</p>
-
-
-
-<p>The partnership will not only help projects building on Ethereum, but NEAR too, create a better bridging experience between NEAR and Ethereum, allowing transactions to reach finality faster, with stronger security guarantees and decentralization.&nbsp;</p>
-
-
-
-<p>“NEAR Foundation is proud to partner with such an excellent team as Eigen Labs to offer a fast finality layer for ETH rollups,” says Illia Polosukhin, co-founder of NEAR Protocol.&nbsp;</p>
-
-
-
-<p>“The fast finality layer showcases the strengths of NEAR’s technology while making the Open Web more usable, which has always been the core goal for NEAR. It will also help defragment liquidity for Ethereum rollups and make all of Web3 more interoperable as a result.”&nbsp;</p>
-
-
-
-<p>The NEAR Foundation’s mission is to help usher in the dawn of the open web, a radically new form of Web3 where infrastructure, application protocols, and access is open to anyone, anywhere. Facilitating the development of Ethereum by creating a pathway to fast, low-cost, and scalable infrastructure is one the many ways NEAR is helping bring about this radical shift in how the internet works.&nbsp;</p>
-
-
-
-<p>A testnet is expected to launch in Q1 2024, and more details will be shared around that time.&nbsp;</p>
-<p>The post <a href="/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEARCON ‘23 Day Three: Shaping the Future of Decentralized Governance </title>
-		<link>/blog/nearcon-23-day-three-shaping-the-future-of-decentralized-governance/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Fri, 10 Nov 2023 08:09:16 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[NEARCON 23]]></category>
-		<guid isPermaLink="false">/?p=21078</guid>
-
-					<description><![CDATA[<p>NEARCON &#8217;23&#8217;s grand finale is here, packed with groundbreaking sessions you won&#8217;t want to miss. It&#8217;s been a great ride …</p>
-<p>The post <a href="/blog/nearcon-23-day-three-shaping-the-future-of-decentralized-governance/">NEARCON ‘23 Day Three: Shaping the Future of Decentralized Governance </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>NEARCON &#8217;23&#8217;s grand finale is here, packed with groundbreaking sessions you won&#8217;t want to miss. It&#8217;s been a great ride so far, with engaging sessions, a mind-blowing hackathon, and the chance to network in person with open web experts from all over the globe. Today’s agenda has some of the most impactful talks yet, so get ready to send NEARCON ‘23 out with a bang!</p>
-
-
-
-<p>Start with a coffee at 9:00 AM and enjoy breakfast at the venue with other attendees before diving into our final day of immersive sessions. By 10:45 AM, the curtain will lift on the main stage for NEARCON 23’s final foray into Web3 — including a special, surprise announcement from NEAR CEO Illia Polosukhin.<br>Remember, you can stay connected throughout the day on Calimero Chat  — a private, decentralized comms built on the NEAR blockchain.<br><em>*Note: There is no bag check or cloak room at any NEARCON venue</em>. </p>
-
-
-
-<h2 class="wp-block-heading" id="h-can-t-miss-sessions-on-day-three">Can’t miss sessions on Day Three</h2>
-
-
-
-<p><strong>What 2024 Looks Like for Decentralized Democracy</strong> (1:00 PM &#8211; 1:30 PM, Layer 1 Stage).</p>
-
-
-
-<p>Join us for a deep dive into the future of governance on NEAR, where the visionaries behind NEAR&#8217;s political framework dissect past triumphs and unfold the master plan for 2024. Hear from our panelists, including Joe Spano of ShardDog and Blaze from Cheddar.</p>
-
-
-
-<p><strong>Special Announcement </strong>(12:00 PM &#8211; 12:30 PM, Layer 1 Stage). Don’t miss NEAR Co-founder and NEAR Foundation CEO Illia Polosukhin’s major announcement. When Illia speaks, the entire Web3 world listens, so grab a quick bite and head on over to the main stage for what’s sure to be Illia’s mic-drop moment of NEARCON ‘23.</p>
-
-
-
-<p><strong>NEAR Governance Forum</strong> (11:05 AM &#8211; 12:00 PM, Layer 2 Stage). Curious about NEAR’s decentralized governance model? Get your questions answered by Alejandro Betancourt of the Transparency Commission and Cameron Dennis of Banyan Collective, with the conversation facilitated by Gus Friis of NEARWEEK.</p>
-
-
-
-<p><strong>NEAR Campus: Unleashing the Potential of University Partnerships for DevHub </strong>(11:00 AM &#8211; 11:20 AM). NEAR DevHub’s Boris Polania will showcase the NEAR Campus&#8217;s role in revolutionizing developer engagement. Explore the relationship between NEAR and academia, and how NEAR Campus will serve as a touchpoint for global campuses in the future.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-sensational-speaker-highlights">Sensational speaker highlights</h2>
-
-
-
-<p><strong>Unveiling the Web3 BUILD Incubator Fellowship</strong> (11:20 AM &#8211; 11:30 AM, Block Zero Stage)</p>
-
-
-
-<p>Max Mizzi from Major League Hacking will introduce the BUILD Incubator Fellowship, an innovative collaboration with NEAR Horizon. Discover the inception, operation, and success stories of the program&#8217;s trailblazing summer cohort.</p>
-
-
-
-<p><strong>It&#8217;s Honest Work: How DeFi Is Growing Up </strong>(11:30 AM &#8211; 12:00 PM, Layer 1 Stage),</p>
-
-
-
-<p>From ‘DeFi Summer’ to today, decentralized finance remains one of the most promising areas of crypto — and it’s inevitably maturing. Drop by as an incredible panel included Arjun Arora from Orderly Network, Mike Cahill of Douro Labs, and more chart recent developments that are reshaping DeFi&#8217;s landscape on NEAR and beyond.</p>
-
-
-
-<p><strong>Aurora Unleashed: Igniting NEAR&#8217;s Potential </strong>(11:15 AM &#8211; 11:30 AM, Layer 1 Stage).</p>
-
-
-
-<p>Alex Shevchenko of Aurora Labs takes the spotlight to discuss Aurora&#8217;s impactful innovations within the NEAR ecosystem. Expect insights into Aurora’s network developments, Borealis infrastructure, and their cross-contract call SDK, all of which amplify NEAR&#8217;s technological prowess.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-irl-hackathon-grand-finale-and-lx-factory-party">IRL Hackathon grand finale and LX Factory party</h2>
-
-
-
-<p>Judgment day is finally here, as winners of the IRL Hackathon will claim their awards on the Main Stage from 2:35 PM &#8211; 3:50 PM. Huge thanks to all who participated and submitted projects. Every hacker, coder, builder, and developer is what makes the NEAR ecosystem special and the NEAR Foundation looks forward to engaging each and every one in the future.</p>
-
-
-
-<p>Finally, NEARCON ‘23 is going out with a major bang at one of the most iconic Lisbon party venues — LX Factory. An epic bash brought to you by The Littles, it’s a going away soiree that every NEARCON ‘23 attendee simply can’t miss. Grab a drink, do some networking, and groove your night away as NEARCON ‘23 sails off into the Portuguese sunset. </p>
-
-
-
-<h2 class="wp-block-heading">A few important reminders </h2>
-
-
-
-<p>Here are today&#8217;s venue hours:</p>
-
-
-
-<ul>
-<li>Armazem (Hacker HQ) closes at 12:30 PM. </li>
-</ul>
-
-
-
-<ul>
-<li>Garagem (Community HQ) closes at 5:30 immediately after the happy hour. </li>
-</ul>
-
-
-
-<ul>
-<li>Convento Do Beato Layer 2 Stage closes at 12:00 PM. The Layer 1 Stage and venue closes at 4:00 PM. </li>
-</ul>
-
-
-
-<ul>
-<li>Closing party at LX Factory (Fábrica) from 9:00 PM &#8211; 4:00 AM. Open to badge holders. </li>
-</ul>
-
-
-
-<h2 class="wp-block-heading" id="h-shoutout-to-day-three-sponsors">Shoutout to Day Three sponsors</h2>
-
-
-
-<p>Of course, this epic Day Three wouldn’t be possible without the support of todays’ generous and amazing sponsors:</p>
-
-
-
-<ul>
-<li><strong>The Littles</strong></li>
-
-
-
-<li><strong>SailGP</strong></li>
-</ul>
-
-
-
-<p>Day Three will be all about forging connections, gaining insights, and celebrating all that you and the collective NEAR ecosystem has accomplished not only over the past three days – but the entirety of 2023. So grab a coffee, head on over to the venue, and let’s make the final day of NEARCON ‘23 count towards making this the most iconic edition ever.</p>
-<p>The post <a href="/blog/nearcon-23-day-three-shaping-the-future-of-decentralized-governance/">NEARCON ‘23 Day Three: Shaping the Future of Decentralized Governance </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEARCON ‘23 Day 2 Roundup: Web3&#8217;s Women Shine and Innovations Unfold</title>
-		<link>/blog/nearcon-23-day-2-roundup-web3s-women-shine-and-innovations-unfold/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 09 Nov 2023 17:57:24 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[NEARCON 23]]></category>
-		<guid isPermaLink="false">/?p=21075</guid>
-
-					<description><![CDATA[<p>As the Lisbon sun dipped below the horizon, NEARCON ‘23&#8217;s second day came to a vibrant conclusion. The day was …</p>
-<p>The post <a href="/blog/nearcon-23-day-2-roundup-web3s-women-shine-and-innovations-unfold/">NEARCON ‘23 Day 2 Roundup: Web3&#8217;s Women Shine and Innovations Unfold</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>As the Lisbon sun dipped below the horizon, NEARCON ‘23&#8217;s second day came to a vibrant conclusion. The day was marked by a rich tapestry of dialogue and discovery, highlighting the profound impact of women in Web3 and the AI is NEAR track. The energy was palpable as attendees navigated through a day steeped in collaborative exploration.&nbsp;</p>
-
-
-
-<p>Key announcements from Pyth Network and breakthroughs in identity solutions with idOS and Tangem Wallet underscored a day where the future of blockchain was not just imagined, but actively constructed.</p>
-
-
-
-<p>Remember, you can stay connected with other attendees through Calimero Chat — a private, decentralized comms built on the NEAR blockchain.</p>
-
-
-
-<p><em>*Note: There is no bag check or cloak room at any NEARCON venue</em>. </p>
-
-
-
-<h2 class="wp-block-heading" id="h-female-open-web-trailblazers-kick-start-day-two">Female open web trailblazers kick start Day Two</h2>
-
-
-
-<p>Day 2 of NEARCON ‘23’s celebrated diversity and technical milestones, highlighting transformative initiatives and strategic expansions within the ecosystem.</p>
-
-
-
-<p>The &#8220;Women in Web3&#8221; brunch at NEARCON ‘23 spotlighted the vital contributions of women in blockchain, focusing on fostering inclusivity. Leaders in the space convened to discuss strategies for empowering women, emphasizing the NEAR Foundation’s commitment to diversity with initiatives like the Women in Web3 Changemakers list.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-ecosystem-highlights-take-center-stage">Ecosystem highlights take center stage</h2>
-
-
-
-<p><strong>FractalID unveils idOS on NEAR</strong></p>
-
-
-
-<p>FractalID is redefining Web3 identity with the launch of idOS on NEAR, providing users with unparalleled control over their digital identity. This pivotal development promises to enhance user sovereignty and compliance in dApp interactions, bolstering NEAR&#8217;s position as a leader in decentralized identity solutions.</p>
-
-
-
-<p><strong>Pyth Network</strong></p>
-
-
-
-<p>NEAR&#8217;s integration with the Pyth Network brings a wealth of real-time price feeds to its testnet, significantly enhancing the toolkit available to developers. This move, a year after Pyth&#8217;s Aurora integration, demonstrates NEAR&#8217;s dedication to equipping its platform with the data and tools required for leading-edge dApp development.</p>
-
-
-
-<p><strong>Octopus Network restaking and IBC bridge</strong></p>
-
-
-
-<p>As part of its Octopus 2.0 program, Octopus Network —&nbsp;built on NEAR Protocol —&nbsp;unveils $NEAR restaking for Ottochain launch in December. This initiative enhances validators&#8217; rewards and bolsters appchain security, incentivizing $NEAR&#8217;s wider use and fostering equilibrium in the NEAR ecosystem.</p>
-
-
-
-<p>Octopus Network also introduced Adaptive IBC, bridging Cosmos and NEAR ecosystems for enhanced interoperability with Secret Network poised to be the first adopter.&nbsp;</p>
-
-
-
-<p><strong>Tangem Cold Wallet integrates NEAR Protocol</strong></p>
-
-
-
-<p>The Tangem Wallet, renowned for its Swiss-made security and simplicity, now fully supports the NEAR Protocol, ensuring effortless self-custody for NEAR holders. This collaboration embodies NEAR&#8217;s commitment to making Web3 accessible, offering users a secure and straightforward way to manage their digital assets with confidence.</p>
-
-
-
-<p><strong>Jump DeFi broadens DeFi accessibility on NEAR</strong></p>
-
-
-
-<p>Jump DeFi has extended its decentralized finance platform to Telos, making strides toward widespread DeFi adoption. By integrating with NEAR Protocol, Jump DeFi simplifies user and developer engagement, streamlining access to a previously fragmented DeFi ecosystem with its all-in-one solution for core financial activities.</p>
-
-
-
-<p><strong>MotoDEX accelerates on NEAR Blockchain</strong></p>
-
-
-
-<p>MotoDEX, integrating with the NEAR blockchain, offers a thrilling motorcycle racing game directly on app stores. It caters to 13,000 daily players, blending the thrill of racing with the perks of blockchain tech. The game&#8217;s seamless Web3 integration ensures accessibility for all, fueling a new era of blockchain gaming.</p>
-
-
-
-<p><strong>GeekPay rides high on NEAR Blockchain</strong></p>
-
-
-
-<p>GeekPay also announced impressive growth with a $1M turnover, a quarter of which was on NEAR. GeekPay simplifies payroll for businesses like theirs. Its recent accolade includes a nod from the Tenity Incubation Program, affirming GeekPay&#8217;s pivotal role in the gig economy and future of work.</p>
-
-
-
-<p><strong>DevHub&#8217;s bold new rebrand</strong></p>
-
-
-
-<p>DevHub unveiled a fresh brand identity to resonate with its evolution into a thriving NEAR developer ecosystem. This rebranding is more than a visual facelift — it represents DevHub&#8217;s commitment to fostering innovation and supporting builders at every stage. Dive into the enhanced experience at <a href="https://neardevhub.org/">neardevhub.org</a> and join the ranks shaping the Open Web with NEAR.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-key-sessions-and-panels">Key sessions and panels</h2>
-
-
-
-<p><strong>SK Telecom ports into the metaverse</strong></p>
-
-
-
-<p>Sehyeon Oh from SK Telecom detailed the Korean company’s strategic foray into the open web, highlighting their collaboration with NEAR Foundation and plans for a Web3 wallet and NFT marketplace. SKT&#8217;s approach aims to fuse digital and tangible realms, from art NFTs to metaverse developments while community building with education and blockchain integration.</p>
-
-
-
-<p><strong>FractalID unveils idOS on NEAR&nbsp;</strong></p>
-
-
-
-<p>Julian Leitloff from Fractal ID and Johan Salaï Bondioli of Pagoda introduced the idOS at NEARCON ‘23, a leap forward in Web3 identity, granting users control over their digital presence. This initiative is set to redefine the interaction landscape for dApp users, solidifying NEAR&#8217;s leadership in decentralized identity solutions.</p>
-
-
-
-<p><strong>NEAR’s evolution from Nightshade to Starsight</strong></p>
-
-
-
-<p>Bowen Wang from Pagoda offered a compelling overview of NEAR Protocol&#8217;s evolution, highlighting the advances in stateless validation and zero-knowledge technologies. Wang teased the upcoming Starsight project, promising a leap forward in blockchain&#8217;s usability, scalability, and decentralization in 2024.</p>
-
-
-
-<p><strong>Illia Polosukhin on AI&#8217;s Role in NEAR&#8217;s Future</strong></p>
-
-
-
-<p>NEAR co-founder and CEO Illia Polosukhin dove into the future of AI and its integration with blockchain. He emphasized AI&#8217;s potential to drive work and governance on NEAR, forecasting AI agents that execute tasks autonomously, enhancing efficiency within decentralized systems and contributing to the evolution of DAOs into truly autonomous organizations.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-side-events-and-networking">Side events and networking</h2>
-
-
-
-<p>As Day Two winds down, don’t forget to head on over to the Community HQ for the Movers and Shakers Happy Hour, sponsored by Glass and Moonbounce. Just a few steps down the cobbled Lisbon streets from HackerHQ, Movers and Shakers will be a great chance to sip some cocktails and learn about Glass, an innovative app bringing the adult beverage closer to brand enthusiasts on the NEAR blockchain.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-looking-ahead-to-day-three">Looking ahead to Day Three</h2>
-
-
-
-<p>Day Three of NEARCON ‘23 is your final opportunity to dive into immersive open web sessions starting at 10:45 AM, after doors open at 9 AM. The day will highlight the Hackathon&#8217;s brightest innovations with judging from 12:00 PM and the NEAR Pitch Competition and Hackathon Awards Ceremony from 2:35 PM to 3:50 PM on the Main Stage, showcasing top project pitches.</p>
-
-
-
-<p>NEARCON ‘23 then goes out with a massive bang at the Closing Party at the LX Factory, sponsored by The Littles. The bash begins at 9:00 PM, and will be a chance for attendees to unwind, network, and reflect on everything that was NEARCON ‘23. Not to mention dancing the night away in one of Lisbon’s most happening party venues.</p>
-
-
-
-<p>We hope you had a fantastic Day Two at NEARCON ‘23, with the best yet to come. Enjoy another buzzing evening in Lisbon and see you on Day Three!</p>
-<p>The post <a href="/blog/nearcon-23-day-2-roundup-web3s-women-shine-and-innovations-unfold/">NEARCON ‘23 Day 2 Roundup: Web3&#8217;s Women Shine and Innovations Unfold</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</title>
-		<link>/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/</link>
-		
-		<dc:creator><![CDATA[DJ Pangburn]]></dc:creator>
-		<pubDate>Thu, 09 Nov 2023 14:00:00 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[idOS]]></category>
-		<guid isPermaLink="false">/?p=21069</guid>
-
-					<description><![CDATA[<p>In the ever-evolving landscape of web3, DeFi has stood apart as a driver of innovation, promising a decentralized financial future. …</p>
-<p>The post <a href="/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/">Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>In the ever-evolving landscape of web3, DeFi has stood apart as a driver of innovation, promising a decentralized financial future. But for developers and founders, the challenge has always been integrating real-world applications with the decentralized world, ensuring compliance, and providing a seamless user experience. Enter the idOS on NEAR, a solution — built with Fractal — that bridges this gap and brings the Open Web closer to mainstream adoption.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Why the idOS Matters&nbsp;</strong></h2>
-
-
-
-<p>For developers diving into DeFi, the idOS (Identity Operating System) on NEAR offers a robust framework. It&#8217;s not just about creating decentralized financial applications; it&#8217;s about crafting solutions that can interact with real-world systems, regulations, and meet user expectations.</p>
-
-
-
-<p>1. <strong>Composable &amp; Permissionless Integration</strong>: With the idOS, developers can effortlessly combine different protocols that require identity verification, leveraging the &#8220;money legos&#8221; concept. This composability ensures that your DeFi applications can scale and evolve with the ecosystem.</p>
-
-
-
-<p>2. <strong>Enhanced User Experience &amp; Identity Verification</strong>: One of the major pain points in the decentralized world is the repetitive identity verification processes, often known as KYC. With the idOS, this process is streamlined. Users verify their identity once, and then, by simply signing with their wallet, they can reuse their verified credentials across any NEAR dApp without undergoing KYC again. This not only enhances user experience but also ensures faster onboarding and interaction with dApps.</p>
-
-
-
-<p>3. <strong>Seamless On/Off Ramps</strong>: The idOS facilitates smoother crypto-fiat transactions, a significant pain point in web3 adoption. By integrating the idOS, developers can offer users the ability to easily transition between the decentralized and traditional financial worlds, unlocking use cases like remittances or DeCommerce payments.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Beyond DeFi: Proof-of-Personhood Use Cases</strong></h2>
-
-
-
-<p>While DeFi is the cornerstone, the idOS’s potential extends beyond. For founders looking to innovate in areas like decentralized governance or community voting, the idOS provides the tools to ensure proof-of-personhood:</p>
-
-
-
-<p>1. <strong>Decentralized Voting</strong>: Governance is a critical aspect of any decentralized protocol. With the idOS, developers can integrate systems where users prove their unique human status, ensuring one person, one vote. This minimizes the influence of bots and whales, leading to fairer governance outcomes.</p>
-
-
-
-<p><strong>2. Portable user profiles across Web3</strong>: For platforms that require user profiles like Near.org, the idOS offers a decentralized solution. Users can create and manage their profiles, ensuring data privacy and control. This is especially crucial for platforms that want to offer personalized experiences without compromising on user data sovereignty.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Privacy-Preserving KYC &amp; Compliance</strong></h2>
-
-
-
-<p>No developer wants to compromise on user privacy. With the idOS, KYC processes become more user-centric. Users can obtain KYC credentials from multiple providers, with the assurance that their data remains encrypted and under their control. For founders, this means complying with global financial regulations without sacrificing user trust.</p>
-
-
-
-<h2 class="wp-block-heading">Join the revolution with idOS</h2>
-
-
-
-<p>For developers and founders ready to shape the future of DeFi and decentralized applications, the idOS on NEAR offers the tools, scalability, and compliance required for success. As we venture into a world where decentralized finance and real-world applications converge, solutions like the idOS will be at the forefront, ensuring that innovation remains uncompromised.</p>
-
-
-
-<p>Join the revolution and explore how the <a href="https://idos.network/">idOS</a> can redefine your DeFi applications and enhance user identity verification on NEAR.</p>
-<p>The post <a href="/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/">Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEARCON ‘23 Day Two Begins: Expand Your Open Web Horizons</title>
-		<link>/blog/nearcon-23-day-two-begins-expand-your-open-web-horizons/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<guid isPermaLink="false">/?p=21064</guid>
-
-					<description><![CDATA[<p>The second day of NEARCON 23 is kicking off with an awesome agenda, carrying over the massive momentum from Day …</p>
-<p>The post <a href="/blog/nearcon-23-day-two-begins-expand-your-open-web-horizons/">NEARCON ‘23 Day Two Begins: Expand Your Open Web Horizons</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>The second day of NEARCON 23 is kicking off with an awesome agenda, carrying over the massive momentum from Day One. Doors fling wide open at 9:00 AM for all attendees, so make sure to grab a coffee and a quick breakfast bite before the sessions really get ramped up at 10:45 AM all the way through 5:30 PM.&nbsp;</p>
-
-
-
-<p>You won’t want to miss a moment of Day Two, so read on for a complete rundown.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-join-the-morning-brunch-at-community-hq">Join the morning brunch at Community HQ</h2>
-
-
-
-<p>This year, we&#8217;re paying tribute to the dynamic women shaping the Web3 ecosystem, and leading a discussion on how to nurture the next generation of top talent. Join us for the Women in Web3 Changemakers breakfast at Community HQ at 8:30 AM. It’s a must attend event for anyone wishing to learn about the challenges and career opportunities available to women — and how to make the World of Web3 brighter for all.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-can-t-miss-sessions-on-day-two">Can’t miss sessions on Day Two</h2>
-
-
-
-<p>Day Two at NEARCON ‘23 will dive into the intersection of the open web and traditional industries and explore new developments in digital identity, including a must see fireside chat with NEAR CEO Illia Polosukhin and TechCrunch.</p>
-
-
-
-<p><strong>SK Telecom&#8217;s Leap Into Web3</strong> (11:25 AM &#8211; 11:40 AM, Layer 1 Stage): Sehyeon Oh, EVP at SK Telecom, unveils the telecom giant’s Web3 strategy, including an open web wallet and NFT marketplace initiative. Learn about how a traditional industry is collaborating with NEAR to expand the reach of the open web..</p>
-
-
-
-<p><strong>AI x Blockchain: Illia Polosukhin and Mike Butcher in Conversation</strong> (3:50 PM &#8211; 4:15 PM, Layer 1 Stage): Join Illia Polosukhin, NEAR co-founder, and Mike Butcher of TechCrunch as they dissect the interplay between AI and Web3, and what the future holds for their convergence.</p>
-
-
-
-<p><strong>From Nightshade to Starsight: The Evolution of NEAR Protocol Design</strong> (2:40 PM &#8211; 3:00 PM, Layer 2 Stage): Pagoda&#8217;s Bowen Wang provides insights into NEAR Protocol’s recent advancements and teases upcoming developments regarding protocol design and the next evolution of sharding.</p>
-
-
-
-<p><strong>Introducing Decentralized Identity Solutions With the idOS</strong> (1:45 PM &#8211; 2:15 PM, Block Zero Stage): Julian Leitloff explains how the Identity Operating System (idOS) is transforming digital identity, offering users sovereign control over their personal data with their pioneering open-source DID solution.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-more-speaker-highlights">More Speaker Highlights</h2>
-
-
-
-<p><strong>Hiring Wisdom for Web3</strong> (11:00 AM &#8211; 11:15 AM, Layer 2 Stage): Dan Eskow, open web recruiter at Up Top, shares invaluable hiring tactics tailored for the dynamic Web3 sector, where finding the right fit is as challenging as it is critical.</p>
-
-
-
-<p><strong>Economic Design in Protocols </strong>(11:45 AM &#8211; 12:00 PM, Layer 2 Stage): Lisa JY Tan from Economics Design guides us through the intricacies of creating economically sound and sustainable protocols, offering vital insights for VCs and entrepreneurs.</p>
-
-
-
-<p><strong>Bug Bounties and Web3 Security</strong> (3:30 PM &#8211; 3:45 PM, Layer 2 Stage): Mitchell Amador, founder and CEO of Immunefi, narrates the journey to establishing the most substantial bug bounties in the open web.</p>
-
-
-
-<p><strong>Strategizing DAO Resource Allocation</strong> (4:25 PM &#8211; 4:40 PM, Layer 2 Stage): Andre Geest of Safe discusses optimizing resource distribution within DAOs, presenting a balanced approach to boost both governance and community engagement.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-founders-forum-and-irl-hackathon">Founders Forum and IRL Hackathon</h2>
-
-
-
-<p>For entrepreneurs forging the next wave of open innovation, the Founders Forum at Community HQ is the place to be. Dive into sessions from 11:30 AM to 5:00 PM that dissect critical legal and regulatory aspects for startups, explore the equilibrium between decentralization and compliance, and uncover strategies for assembling a stellar team in the Web3 domain.</p>
-
-
-
-<p>Also, a reminder for all Hackathon participants. Finalize your projects by the 5:00 PM deadline and prepare to showcase your open web ingenuity.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-sunset-socializing-and-networking">Sunset socializing and networking</h2>
-
-
-
-<p>After the jam-packed sessions all morning and afternoon, get ready to wind down and relax before calling it a day — or getting revved up for a late Lisbon night.</p>
-
-
-
-<ul>
-<li><strong>Movers and Shakers Happy Hour</strong> (5pm &#8211; 7pm, Community HQ): Mingle with your newest NEARCON friends and connections at an epic happy hour sponsored by Glass and Moonbounce.</li>
-
-
-
-<li><strong>SailGP Happy Hour</strong> (5:45 pm &#8211; 7pm, NEARCON HQ): Swap stories and fresh insights right outside the Layer 2 Stage as the final session ends. Who knows, you might even score a collab or two while you’re at it.</li>
-</ul>
-
-
-
-<h2 class="wp-block-heading" id="h-shout-out-to-the-day-two-sponsors">Shout out to the Day Two sponsors</h2>
-
-
-
-<p>A heartfelt thank you to today’s sponsors, without whose all-out support such an event would not have been possible.</p>
-
-
-
-<ul>
-<li>Glass</li>
-
-
-
-<li>Moonbounce</li>
-
-
-
-<li>SailGP</li>
-</ul>
-
-
-
-<p>Get ready for a day brimming with Web3 wisdom, open web masterminds, and the chance to engage with the brightest and bravest of the NEAR ecosystem. It&#8217;s a unique concoction of insight, education, and fun that only NEARCON ‘23 can cook up. So seize the day, connect at the happy hours, and let’s make Day Two a milestone for the entire open web.</p>
-<p>The post <a href="/blog/nearcon-23-day-two-begins-expand-your-open-web-horizons/">NEARCON ‘23 Day Two Begins: Expand Your Open Web Horizons</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

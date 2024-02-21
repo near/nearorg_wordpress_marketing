@@ -5,12 +5,16 @@
 		<lastmod>2023-05-04T00:02:35+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/blog/tag/account-aggregation/</loc>
+		<lastmod>2024-02-15T16:58:06+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/blog/tag/ai/</loc>
 		<lastmod>2023-10-26T17:18:22+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/ai-is-near/</loc>
-		<lastmod>2023-11-16T08:51:37+00:00</lastmod>
+		<lastmod>2024-02-14T18:59:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/alex-skidanov/</loc>
@@ -27,6 +31,10 @@
 	<url>
 		<loc>/blog/tag/analytics/</loc>
 		<lastmod>2023-04-27T19:07:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/tag/arbitrum/</loc>
+		<lastmod>2023-12-21T14:59:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/art/</loc>
@@ -105,6 +113,10 @@
 		<lastmod>2023-10-31T17:24:46+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/blog/tag/chain-abstraction/</loc>
+		<lastmod>2024-01-30T14:33:23+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/blog/tag/circle/</loc>
 		<lastmod>2023-09-14T13:39:47+00:00</lastmod>
 	</url>
@@ -130,7 +142,7 @@
 	</url>
 	<url>
 		<loc>/blog/tag/community/</loc>
-		<lastmod>2023-10-13T16:46:31+00:00</lastmod>
+		<lastmod>2024-02-14T18:59:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/competition/</loc>
@@ -142,7 +154,7 @@
 	</url>
 	<url>
 		<loc>/blog/tag/core-protocol/</loc>
-		<lastmod>2022-12-21T10:41:23+00:00</lastmod>
+		<lastmod>2024-01-30T14:33:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/cosmose-ai/</loc>
@@ -186,7 +198,7 @@
 	</url>
 	<url>
 		<loc>/blog/tag/ecosystem/</loc>
-		<lastmod>2023-09-18T16:32:44+00:00</lastmod>
+		<lastmod>2024-01-24T19:55:02+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/ecosystem-funding/</loc>
@@ -241,8 +253,12 @@
 		<lastmod>2023-07-17T20:22:39+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/blog/tag/ethereum-rollups/</loc>
+		<lastmod>2024-01-26T16:28:31+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/blog/tag/events/</loc>
-		<lastmod>2023-09-18T16:32:44+00:00</lastmod>
+		<lastmod>2024-02-14T18:59:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/fan-engagement/</loc>
@@ -310,7 +326,7 @@
 	</url>
 	<url>
 		<loc>/blog/tag/hackathon/</loc>
-		<lastmod>2023-03-24T15:40:45+00:00</lastmod>
+		<lastmod>2024-02-14T18:59:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/horizon/</loc>
@@ -438,7 +454,11 @@
 	</url>
 	<url>
 		<loc>/blog/tag/mission-vision/</loc>
-		<lastmod>2022-12-15T13:34:26+00:00</lastmod>
+		<lastmod>2024-01-24T19:55:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/tag/modularity/</loc>
+		<lastmod>2024-01-26T16:28:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/move-to-earn/</loc>
@@ -446,7 +466,7 @@
 	</url>
 	<url>
 		<loc>/blog/tag/multichain/</loc>
-		<lastmod>2023-08-18T17:15:05+00:00</lastmod>
+		<lastmod>2024-01-24T19:55:02+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/music/</loc>
@@ -481,6 +501,14 @@
 		<lastmod>2023-11-08T06:51:56+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/blog/tag/near-2023/</loc>
+		<lastmod>2023-12-20T18:20:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/tag/near-2024/</loc>
+		<lastmod>2024-01-11T08:04:19+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/blog/tag/near-apac/</loc>
 		<lastmod>2023-09-18T16:32:44+00:00</lastmod>
 	</url>
@@ -506,7 +534,7 @@
 	</url>
 	<url>
 		<loc>/blog/tag/near-data-availability-layer/</loc>
-		<lastmod>2023-11-30T13:33:37+00:00</lastmod>
+		<lastmod>2024-01-26T16:28:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/near-day/</loc>
@@ -522,7 +550,7 @@
 	</url>
 	<url>
 		<loc>/blog/tag/near-ecosystem/</loc>
-		<lastmod>2023-10-24T19:54:55+00:00</lastmod>
+		<lastmod>2024-01-19T20:19:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/near-foundation/</loc>
@@ -537,8 +565,16 @@
 		<lastmod>2023-06-15T18:43:10+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/blog/tag/near-foundation-update/</loc>
+		<lastmod>2024-01-11T08:04:19+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/blog/tag/near-horizon/</loc>
 		<lastmod>2023-07-27T15:11:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/tag/near-in-review/</loc>
+		<lastmod>2023-12-20T18:20:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/near-korea/</loc>
@@ -614,7 +650,7 @@
 	</url>
 	<url>
 		<loc>/blog/tag/nightshade/</loc>
-		<lastmod>2023-06-14T12:46:07+00:00</lastmod>
+		<lastmod>2024-01-30T14:33:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/okrs/</loc>
@@ -646,7 +682,7 @@
 	</url>
 	<url>
 		<loc>/blog/tag/partnerships/</loc>
-		<lastmod>2023-07-27T15:11:09+00:00</lastmod>
+		<lastmod>2024-02-14T18:59:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/pipeflare/</loc>
@@ -666,7 +702,7 @@
 	</url>
 	<url>
 		<loc>/blog/tag/protocol-roadmap/</loc>
-		<lastmod>2023-08-09T15:51:46+00:00</lastmod>
+		<lastmod>2024-01-12T19:23:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/public-dataset/</loc>
@@ -725,12 +761,16 @@
 		<lastmod>2023-08-02T17:17:45+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/blog/tag/self-sovereignty/</loc>
+		<lastmod>2024-01-19T20:19:03+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/blog/tag/seracle/</loc>
 		<lastmod>2023-06-20T13:53:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/sharding/</loc>
-		<lastmod>2023-06-14T12:46:07+00:00</lastmod>
+		<lastmod>2024-01-30T14:33:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/shemaroo/</loc>
@@ -759,6 +799,10 @@
 	<url>
 		<loc>/blog/tag/startup-wise-guys/</loc>
 		<lastmod>2023-02-22T14:44:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/tag/stateless-validation/</loc>
+		<lastmod>2024-01-30T14:33:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/statistics/</loc>
@@ -827,6 +871,10 @@
 	<url>
 		<loc>/blog/tag/usdc/</loc>
 		<lastmod>2023-09-14T13:39:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/tag/user-owned-ai/</loc>
+		<lastmod>2024-01-19T20:19:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/tag/validator-delegation/</loc>
