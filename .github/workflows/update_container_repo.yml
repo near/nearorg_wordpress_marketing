@@ -1,4 +1,4 @@
-name: trigger nearorg_container workflow 
+name: trigger near-discovery workflow 
 on: 
   workflow_dispatch:
   push:
@@ -8,9 +8,9 @@ jobs:
   trigger_workflow:
     runs-on: ubuntu-latest
     steps:
-      - name: trigger nearorg_container workflow
+      - name: trigger near-discovery update_submodules.yml workflow
         run: |
-          curl -X POST  https://api.github.com/repos/near/nearorg_container/actions/workflows/78807110/dispatches \
+          curl -X POST  https://api.github.com/repos/near/near-discovery/actions/workflows/88517104/dispatches \
           -H 'Accept: application/vnd.github.everest-preview+json' \
           -u ${{ secrets.REPO_TOKEN }} \
           --data '{"ref":"main"}'
