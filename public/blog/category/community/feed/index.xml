@@ -12,7 +12,7 @@
 	<atom:link href="/blog/category/community/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/community/</link>
 	<description></description>
-	<lastBuildDate>Thu, 07 Mar 2024 14:59:32 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Mar 2024 13:37:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,380 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NEAR Ecosystem @ Korea BUIDL Week 2024</title>
+		<link>/blog/korea-buidl-week-2024/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Mon, 18 Mar 2024 13:37:17 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<guid isPermaLink="false">/?p=21282</guid>
+
+					<description><![CDATA[<p>MARCH 26 &#8211; APRIL 2, 2024 As the sun rises in the east, a new dawn breaks for NEAR. Fresh …</p>
+<p>The post <a href="/blog/korea-buidl-week-2024/">NEAR Ecosystem @ Korea BUIDL Week 2024</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>MARCH 26 &#8211; APRIL 2, 2024</p>
+
+
+
+<p>As the sun rises in the east, a new dawn breaks for NEAR. Fresh from ETHDenver, where we planted a firm flag in the ground to own the Chain Abstraction narrative, the NEAR Ecosystem arrives at Korea BUIDL Week 2024 riding a wave of momentum and armed with exciting updates and alpha destined to reshape the blockchain landscape.</p>
+
+
+
+<p>Chain Abstraction – a groundbreaking approach that abstracts away the complexities of different blockchain architectures – was a central focus for us at ETHDenver. We captivated attendees with live demonstrations, showcasing Chain Abstraction&#8217;s potential to enable developers to build seamlessly across multiple networks without the need for custom integrations or bridges.</p>
+
+
+
+<p>By boldly staking our claim on this game-changing technology, we made a powerful statement at ETHDenver, signaling our intent to lead the charge in unlocking unprecedented levels of cross-chain communication and composability.</p>
+
+
+
+<p>Now, as we descend upon Korea BUIDL Week, we are poised to take Chain Abstraction to the global stage, introducing this transformative narrative and its robust, developer-friendly tooling to an international audience of innovators, entrepreneurs, and industry leaders.&nbsp;</p>
+
+
+
+<p>Developers, builders, researchers, and enthusiasts – join us for a week of events as we continue to push the boundaries of what&#8217;s possible.</p>
+
+
+
+<p><strong>NEAR is Everything Everywhere All at Once at Korea BUIDL Week</strong></p>
+
+
+
+<p>We&#8217;re hitting the ground running with NEAR Foundation&#8217;s second <a href="https://lu.ma/ChADay_BUIDLAsia24">Chain Abstraction Day (apply-to-attend)</a> in our year long series, taking place March 26, 2024 during Korea BUIDL Week. We&#8217;re doubling down and taking everyone to the moon!<br><br>Our co-founder and CEO, Illia Polosukhin, will be dropping some major alpha at <a href="https://www.buidl.asia/">BUIDL Asia 2024</a>, sharing insights into NEAR&#8217;s vision for Chain Abstraction and how it&#8217;s poised to unlock unprecedented levels of interoperability and composability across decentralized networks.<br></p>
+
+
+
+<p>But that&#8217;s not all – we&#8217;re bringing the heat with dedicated workshops, content, and a massive hackathon bounty prize up for grabs at <a href="https://www.ethseoul.org/">ETH Seoul</a>, challenging the brilliant minds of the blockchain world to push the boundaries of Chain Abstraction. Developers, builders, and innovators: get ready to bring your A-game and compete for this lucrative reward.</p>
+
+
+
+<p>Don&#8217;t miss your shot at NEAR&#8217;s massive hackathon bounty prizes at ETHSeoul &#8211; <a href="https://ethseoul2024.devfolio.co/">check out the link</a> to see what lucrative rewards await the winners. <a href="https://ethseoul2024.devfolio.co/">Register for the hackathon</a> today and let your skills shine on the global stage.<br></p>
+
+
+
+<p>And if that&#8217;s not enough, NEAR is also proud to support <a href="https://lu.ma/shefisummmitseoul">SheFi Summit Seoul</a>, empowering women builders in Web3. This groundbreaking event showcases the incredible female talent in our ecosystem, with NEAR women taking the stage to share their visionary work.&nbsp;</p>
+
+
+
+<p>Abstractooors, you won’t want to miss the fun!</p>
+<p>The post <a href="/blog/korea-buidl-week-2024/">NEAR Ecosystem @ Korea BUIDL Week 2024</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</title>
+		<link>/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 17:03:07 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developers]]></category>
+		<guid isPermaLink="false">/?p=21275</guid>
+
+					<description><![CDATA[<p>The Graph Foundation recently announced the inclusion of NEAR into its expansive subgraph support, now encompassing over 40 leading L1 …</p>
+<p>The post <a href="/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The Graph Foundation recently announced the inclusion of NEAR into its expansive subgraph support, now encompassing over 40 leading L1 and L2 blockchains including Arbitrum, Base, Fantom, Celo, Optimism, Polygon Labs, and Scroll. By integrating with The Graph, NEAR developers gain access to a decentralized network for streamlined data querying, significantly reducing costs and improving synchronization speeds.&nbsp;</p>
+
+
+
+<p>The partnership highlights the NEAR Foundation&#8217;s ongoing commitment to enhancing developer resources and interoperability within open web ecosystems as part of advancing the Chain Abstraction vision. In 2021, NEAR became The Graph&#8217;s <a href="https://thegraph.com/blog/graph-near/">first non-EVM chain integration</a> for its hosted service, kickstarting the evolution towards a multichain open web ecosystem.&nbsp;</p>
+
+
+
+<p>Subgraph support will take things a step further, facilitating better multichain data accessibility for NEAR builders and increasing the reach and breadth of tools and technologies to support Chain Abstraction. This moment also marks NEAR as the first non-EVM chain to become available on The Graph Network.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-how-subgraph-support-empowers-near-developers">How Subgraph Support Empowers NEAR Developers</h2>
+
+
+
+<p>Subgraphs on The Graph are transformative open APIs that efficiently organize and serve blockchain data, accelerating the development of decentralized applications (dApps) on the NEAR Protocol. This integration offers developers further support in efficient data querying, swift access to indexed blockchain data, and seamless interoperability across multiple chains.</p>
+
+
+
+<p>By streamlining data retrieval, The Graph&#8217;s subgraph support eliminates the need for exhaustive blockchain scans, allowing for quick navigation, filtering, and location of specific data points. This advancement equips NEAR developers with tools similar to Web 2.0 search engine capabilities, tailored for the precision and complexity of blockchain data.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-graph-s-multichain-support-and-expansion-goals">The Graph&#8217;s Multichain Support and Expansion Goals&nbsp;</h2>
+
+
+
+<p>The Graph&#8217;s integration with NEAR and over 40 additional blockchains is a step towards more rich multichain development. By extending beyond Ethereum, The Graph is facilitating a unified, accessible ecosystem for designing advanced, user-focused decentralized applications (dApps) across a diverse range of blockchains.&nbsp;</p>
+
+
+
+<p>Enhancing interoperability among different blockchain networks also grants developers access to a broader spectrum of data, supporting the creation of dApps that are both feature-dense and user-friendly. These improvements also promote more unrestricted data exchange across chains for the purposes of dApp development.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-near-protocol-and-future-of-the-graph-network">NEAR Protocol and Future of The Graph Network</h2>
+
+
+
+<p>Looking forward, The Graph Network is aiming to break the barriers of decentralized access to blockchain data, as it plans to introduce new data services to meet the growing needs of Web3. The Graph’s core devs are planning ahead on executing the “<a href="https://thegraph.com/blog/unveiling-updated-sunrise-decentralized-data/">Sunrise of decentralized data</a>” initiative, designed to improve tooling and developer experience.&nbsp;</p>
+
+
+
+<p>Soon, NEAR devs building on The Graph Network will be able to take advantage of a free query plan, an intuitive subgraph upgrade wizard, and more. The Graph-NEAR Foundation collaboration will further emphasize the shared mission of both teams for a more interconnected and inclusive Web3 ecosystem via Chain Abstraction, enhancing the value of indexing and querying blockchain data.&nbsp;&nbsp;</p>
+<p>The post <a href="/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</title>
+		<link>/blog/frax-deploys-decentralized-stablecoin/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 13:00:00 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developers]]></category>
+		<guid isPermaLink="false">/?p=21270</guid>
+
+					<description><![CDATA[<p>Frax Finance announced the launch of FRAX stablecoin on NEAR via Ref Finance and Burrow through FraxFerry and the Rainbow …</p>
+<p>The post <a href="/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Frax Finance announced the launch of FRAX stablecoin on NEAR via Ref Finance and Burrow through FraxFerry and the Rainbow Bridge. This marks a significant milestone for Frax as its first major venture into a non-Ethereum Virtual Machine (EVM) ecosystem.&nbsp;</p>
+
+
+
+<p>Frax Finance is the second-largest issuer of decentralized dollar-pegged stablecoins and an industry leader for DeFi infrastructure.</p>
+
+
+
+<p>The NEAR ecosystem and Frax contributors will now collaborate through ongoing in-depth research and protocol integrations. One of the biggest opportunities between the two teams will be the introduction of short-term treasury yields on NEAR using sFRAX, a yield-bearing asset that tracks the Federal Reserve&#8217;s Interest on Reserve Balance (IORB).</p>
+
+
+
+<p>In the coming months, Frax will natively issue their suite of assets, FRAX, sFRAX, frxETH, and sfrxETH on NEAR and Fraxtal, along with exploring opportunities around NEAR LSTs. Other protocols on NEAR will also be able to explore these exciting frontiers with Frax. While NEAR supports various stablecoins, the decentralized Frax platform sets itself apart by offering additional features like yield and LSTs. These offerings can be utilized by NEAR&#8217;s DeFi protocols for novel ventures.&nbsp;</p>
+
+
+
+<p>This deployment is led by Ref and Burrow and will soon expand to other protocols. <a href="https://www.ref.finance/">Ref Finance</a> is a decentralized finance (DeFi) platform built on NEAR Protocol, designed to facilitate the swapping, lending, and borrowing of digital assets. It is a multi-purpose DeFi platform that integrates various financial mechanisms, offering users a comprehensive suite of DeFi tools. <a href="https://burrow.finance/">Burrow</a> is a decentralized finance (DeFi) platform on the NEAR blockchain, offering non-custodial, pool-based lending and borrowing services.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Highlighting the Incentive Campaign</strong></p>
+
+
+
+<p>To boost activity and foster growth of Frax on NEAR, Ref will introduce an incentive program offering rewards for Liquidity Providers (LPs) in the USDC/FRAX and NEAR/FRAX pools, as well as the Curve style stableswap pools.</p>
+
+
+
+<p>The proliferation of native stablecoins is crucial to the growth of DeFi as it facilitates effortless access to liquidity between protocols for users across various types of exchanges. This allows for more seamless interactions with different projects across the Web3 ecosystem, effectively removing bottlenecks and promoting a smooth trading experience. This also advances the NEAR ecosystem vision of Chain Abstraction, streamlining usability and defragmenting liquidity and UX across all of Web3. Moreover, native stablecoins will significantly enhance the visibility of the NEAR Ecosystem&#8217;s Total Value Locked (TVL) within the market.</p>
+
+
+
+<p>On Burrow, borrowers and lenders will earn incentives for using USDC, USDT, and FRAX. Additionally, Burrow will offer rewards for NEAR and liquid staked NEAR, with more details to be announced soon.</p>
+
+
+
+<p>This incentive campaign will be expanded&nbsp; to other qualifying DeFi protocols and primitives after the initial rollout on Ref and Burrow.&nbsp;</p>
+
+
+
+<p>If you’re new to NEAR, you can find free resources for building apps, deploying smart contracts,creating blockchain operating system(BOS) components, and more on the <a href="https://docs.near.org/#">DevRel resources page.&nbsp;</a>Checkout the official documentation of <a href="https://docs.frax.finance/">Frax</a> to learn more about protocol and other technical specifications.&nbsp;</p>
+
+
+
+<p></p>
+<p>The post <a href="/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PotLock and NEAR Foundation Partner to Accelerate Public Goods Funding (PGF)</title>
+		<link>/blog/potlock-and-near-foundation-partner-to-accelerate-public-goods-funding-pgf/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Fri, 08 Mar 2024 15:15:08 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<guid isPermaLink="false">/?p=21265</guid>
+
+					<description><![CDATA[<p>NEAR Foundation is proud to announce the inaugural launch of Near Public Goods Funding (NEARPGF) together with PotLock, a new …</p>
+<p>The post <a href="/blog/potlock-and-near-foundation-partner-to-accelerate-public-goods-funding-pgf/">PotLock and NEAR Foundation Partner to Accelerate Public Goods Funding (PGF)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>NEAR Foundation is proud to announce the inaugural launch of Near Public Goods Funding (NEARPGF) together with <a href="https://bos.potlock.org/">PotLock</a>, a new quadratic funding (QF) platform on NEAR. NEAR Foundation is allocating $100,000+ in initial funding to pilot funding campaigns conducted through PotLock. This initial contribution aims to empower promising and impactful projects building within the NEAR ecosystem.</p>
+
+
+
+<p>Launched in late February, PotLock provides an opportunity for developers and innovators to showcase their projects and for the community to financially support the projects they believe in. By leveraging QF, resources will be allocated more democratically, ensuring projects with widespread community support receive the necessary financial backing to continue building.</p>
+
+
+
+<p>The partnership between NEAR Foundation and PotLock will advance innovation across the NEAR ecosystem. From funding open-source developers and AI contributors, to startups in Africa building on NEAR, the goal of the partnership and of NEARPGF more broadly is to catalyze the building of public goods in the NEAR ecosystem.<br><br>Through this partnership, NEAR Foundation and PotLock aim to transform public goods funding into a collaborative, community-driven process. This vision reflects a joint commitment to cultivating an ecosystem where innovation, public utility, and equitable opportunities are at the forefront. By demanding greater accountability and measurable impact from funding recipients, while simultaneously providing a platform for fair compensation and recognition of contributions, the NEAR Foundation and PotLock are setting a new standard for public goods funding within the NEAR ecosystem.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-qf-rounds-aka-pots">QF Rounds (AKA: “Pots”)</h2>
+
+
+
+<p>PotLock’s QF rounds focus on specific areas for growth and innovation within the NEAR ecosystem. The verticals for this round include:</p>
+
+
+
+<ul>
+<li><strong>Africa Round </strong>(March 5 &#8211; March 24th): Managed by NEAR Africa, this $3,000 round aims to empower communities and startups across Africa. It seeks to drive regional development, attract new donors, and strengthen existing projects with transformative potential.&nbsp;&nbsp;</li>
+
+
+
+<li><strong>Retroactive Builders Round </strong>(March 18th &#8211; April 7)<strong>: </strong>Managed by Build DAO, this $30,000 round rewards builders in the NEAR ecosystem who previously developed open-source projects without compensation.&nbsp;</li>
+
+
+
+<li><strong>Open Source Round </strong>(April 22 &#8211; May 5): Overseen by Banyan Collective, this $22,000 round targets a broad range of open-source projects, aiming to support initiatives that contribute to the public good of the NEAR ecosystem.<br><strong>AI Round </strong>(April 22 &#8211; May 5): Managed by Edge Intelligence, this $45,000 round aims to seed and support strategic open source AI builders and contributors.&nbsp;</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="h-understanding-qf">Understanding QF</h2>
+
+
+
+<p>Quadratic Funding (QF) aims to revolutionize the way projects receive support by emphasizing the importance of community engagement and collective decision-making. Here&#8217;s how it accomplishes this: </p>
+
+
+
+<p><strong>1. Broadening Participation through Small Contributions</strong>: QF encourages participation from all community members by giving significant value to numerous small donations rather than relying solely on a few large ones. This approach diversifies the funding base, allowing a wider array of projects to gain support.xr</p>
+
+
+
+<p><strong>2. Enhanced Support with Matching Funds</strong>: Donations are not just contributions; they&#8217;re leveraged through a matching fund. The unique aspect of QF is the use of a quadratic formula to determine the amount of matching funds a project receives. This formula is designed to ensure that projects with a wider base of community support receive a larger portion of the matching funds, thus rewarding projects that appeal to a broader audience.</p>
+
+
+
+<p><strong>3. Preventing Manipulation with Advanced Verification</strong>: To maintain the fairness and integrity of the funding process, PotLock utilizes NadaBot, an innovative identity aggregator built on NEAR protocol. NadaBot&#8217;s role is essential in verifying the uniqueness of each participant&#8217;s identity, effectively countering attempts at Sybil attacks where individuals could try to exert undue influence by creating multiple fake identities. </p>
+
+
+
+<p>Through these mechanisms, QF seeks to make the process of supporting public goods and initiatives more democratic, ensuring that funding is distributed in a manner that truly represents the interests and priorities of the community.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-near-s-strategic-funding-objectives">NEAR’s Strategic Funding Objectives</h2>
+
+
+
+<p>The NEAR Foundation&#8217;s collaboration with PotLock aims to revitalize the ecosystem and drive innovation through the following objectives:</p>
+
+
+
+<ul>
+<li><strong>Equitable Compensation</strong>: Ensure fair compensation for creators of public goods, focusing on undiscovered or under-resourced contributors to recognize their value within the NEAR ecosystem.</li>
+
+
+
+<li><strong>Cultivating a Supportive Ecosystem</strong>: Foster a culture that recognizes and rewards contributions, reducing dependence on grants and promoting a self-sustaining community spirit.</li>
+
+
+
+<li><strong>Innovative Funding Framework</strong>: Implement a proactive funding approach to stimulate ecosystem dynamism, by exploring novel funding strategies to engage projects across NEAR Social, NEAR Horizon, and DAO tooling.</li>
+
+
+
+<li><strong>Enhanced Visibility and Community Engagement</strong>: Increase awareness and participation in public goods and impact initiatives, driving community engagement and spotlighting meaningful projects within the ecosystem.</li>
+
+
+
+<li><strong>External Support and Dynamic Sponsorships</strong>: Attract external partners to support these initiatives, enriching the ecosystem through diverse partnerships and sponsorships.</li>
+
+
+
+<li><strong>Community Empowerment</strong>: Assist smaller NEAR communities in launching and managing their own funding cycles, ensuring widespread impact across the ecosystem.</li>
+
+
+
+<li><strong>Stakeholder Engagement</strong>: Collaborate with a broad range of stakeholders to evaluate the effectiveness of funding allocations and its overall impact on ecosystem growth.</li>
+</ul>
+
+
+
+<p>By achieving these objectives, the NEAR Foundation envisions a stronger, more innovative ecosystem where equitable compensation and broad participation drive further development in the Web3 space.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-how-potlock-facilitates-funding-rounds">How PotLock Facilitates Funding Rounds</h2>
+
+
+
+<p>PotLock operates in distinct phases, each essential to the QF cycle:<br><br><img fetchpriority="high" decoding="async" src="https://lh7-us.googleusercontent.com/QKDaXM-6PZRyOk6BZ44dARUQs8amT2pGrUIr-WoisNH6JD4-gHRLBPy7gGwuox9VgR5dl9mgEK77DR5FuOBtUGiJqG_ztlVLhYkA3ZT7cITRhO04O0xCNUZ0YKuEiAf0FuN2_GQmE1516qL7_DEl-2M" width="602" height="339"></p>
+
+
+
+<ul>
+<li><strong>Activation</strong>: Once a “Pot” is initiated, participants can donate to a Pot, with their contributions matched by funds from the NEAR Foundation. Donors are recognized on a visual sponsor board.</li>
+
+
+
+<li><strong>Application and Review</strong>: Projects submit applications to participate in the funding round. A designated authority, known as a Chef, reviews these submissions for eligibility and potential impact, selecting which will proceed to the matching phase.</li>
+
+
+
+<li><strong>Donation and Matching:</strong> Approved projects receive direct contributions from verified donors, amplified by the QF model at the round&#8217;s close, ensuring widespread fund distribution and community engagement.</li>
+
+
+
+<li><strong>Payout</strong>: After the matching phase, funds are distributed to projects, followed by a cooldown period before the next cycle begins.</li>
+</ul>
+
+
+
+<p>PotLock leverages an advanced asset-locking mechanism, allowing funders to securely store their digital assets in vaults protected by smart contracts. This feature is crucial for projects seeking funding, as it assures both security and accessibility of funds.&nbsp;</p>
+
+
+
+<p>PotLock fosters transparency and verifiability by providing real-time insights into fund movements and allocations. This transparency builds trust by ensuring that funds are used ethically and effectively.&nbsp;</p>
+
+
+
+<p>For a detailed understanding of each step and to participate, visit the PotLock’s <a href="https://docs.potlock.io/">documentation</a> and <a href="https://www.youtube.com/playlist?list=PLJxhkGinB9L-7x-frtiWYPx9AaxSwA5nl">tutorial sections</a>.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-getting-involved">Getting Involved</h2>
+
+
+
+<p>To participate in PotLock’s QF rounds, follow these steps:</p>
+
+
+
+<ol>
+<li><strong>Project Submission</strong>: Submissions are now <a href="https://bos.potlock.org/?tab=pots">open</a>! Submit your project on the PotLock platform for the upcoming funding cycle <a href="https://bos.potlock.org/?tab=pots">here</a>.</li>
+
+
+
+<li><strong>Community Engagement</strong>: Stay informed by joining NEAR&#8217;s Telegram group for discussions, following updates on <a href="https://twitter.com/potlock_?lang=en">Twitter</a> or <a href="https://www.linkedin.com/company/potlock/">LinkedIn</a>, and subscribing to the <a href="https://subscribe.potlock.org/">newsletter </a>for the latest information.</li>
+
+
+
+<li><strong>Fund Projects</strong>: During open funding rounds, verified humans will review projects and contribute to those they believe will positively impact the NEAR ecosystem.</li>
+</ol>
+
+
+
+<p>All NEAR community members are invited to engage with NEARPGF by <a href="https://docs.potlock.io/user-guides/create-your-project">submitting projects</a> to PotLock that can leverage NEAR technology or by contributing to the funding rounds supporting ecosystem growth. Broad engagement and participation are key to identifying the best projects that will drive innovation on NEAR and expand decision-making about resource allocation to a wider pool of NEAR believers.</p>
+<p>The post <a href="/blog/potlock-and-near-foundation-partner-to-accelerate-public-goods-funding-pgf/">PotLock and NEAR Foundation Partner to Accelerate Public Goods Funding (PGF)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>NEAR @ ETHDenver Breakdown: We Came, We Saw, We Abstracted!</title>
 		<link>/blog/near-ethdenver-round-up/</link>
 		
@@ -168,7 +542,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg" alt="" class="wp-image-20876" srcset="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg 1024w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-300x200.jpg 300w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-768x511.jpg 768w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1536x1022.jpg 1536w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg" alt="" class="wp-image-20876" srcset="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0065-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0065-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0065-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0065-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -184,7 +558,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg" alt="" class="wp-image-20874" srcset="/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg 1024w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-300x200.jpg 300w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-768x511.jpg 768w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1536x1022.jpg 1536w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg" alt="" class="wp-image-20874" srcset="/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0058-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0058-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0058-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0058-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -200,7 +574,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg" alt="" class="wp-image-20871" srcset="/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg 1024w,https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-300x200.jpg 300w,https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-768x512.jpg 768w,https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1536x1024.jpg 1536w,https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg" alt="" class="wp-image-20871" srcset="/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg 1024w, /wp-content/uploads/2023/09/QUR_0011-300x200.jpg 300w, /wp-content/uploads/2023/09/QUR_0011-768x512.jpg 768w, /wp-content/uploads/2023/09/QUR_0011-1536x1024.jpg 1536w, /wp-content/uploads/2023/09/QUR_0011-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -220,7 +594,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg" alt="" class="wp-image-20873" srcset="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg 1024w,https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-300x200.jpg 300w,https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-768x512.jpg 768w,https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-1536x1024.jpg 1536w,https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg" alt="" class="wp-image-20873" srcset="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg 1024w, /wp-content/uploads/2023/09/QUR_9815-300x200.jpg 300w, /wp-content/uploads/2023/09/QUR_9815-768x512.jpg 768w, /wp-content/uploads/2023/09/QUR_9815-1536x1024.jpg 1536w, /wp-content/uploads/2023/09/QUR_9815-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -240,7 +614,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg" alt="" class="wp-image-20872" srcset="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg 1024w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-300x200.jpg 300w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-768x511.jpg 768w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-1536x1022.jpg 1536w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg" alt="" class="wp-image-20872" srcset="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0824-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0824-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0824-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0824-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -252,7 +626,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg" alt="" class="wp-image-20875" srcset="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg 1024w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-300x200.jpg 300w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-768x511.jpg 768w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-1536x1022.jpg 1536w,https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg" alt="" class="wp-image-20875" srcset="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0845-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0845-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0845-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0845-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -513,7 +887,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg" alt="" class="wp-image-20842" srcset="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg 1024w,https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-300x225.jpeg 300w,https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-768x576.jpeg 768w,https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg" alt="" class="wp-image-20842" srcset="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg 1024w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-300x225.jpeg 300w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-768x576.jpeg 768w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -658,308 +1032,6 @@
 
 <p>If Day One was any indication, the NEAR community’s growth, presence, and development in APAC will only continue accelerating through 2023 and beyond!</p>
 <p>The post <a href="/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How Vietnam Became a Web3 Powerhouse </title>
-		<link>/blog/how-vietnam-became-a-web3-powerhouse/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Mon, 04 Sep 2023 14:00:00 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[NEAR APAC]]></category>
-		<category><![CDATA[NEAR Vietnam]]></category>
-		<guid isPermaLink="false">/?p=20828</guid>
-
-					<description><![CDATA[<p>Asia is Web3’s engine room. According to a report by Emergen Research, the Web3 global market is expected to be …</p>
-<p>The post <a href="/blog/how-vietnam-became-a-web3-powerhouse/">How Vietnam Became a Web3 Powerhouse </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Asia is Web3’s engine room. According to a report by <a href="https://www.prnewswire.com/news-releases/global-web-3-0-market-size-to-reach-usd-81-5-billion-in-2030--emergen-research-301559192.html">Emergen Research</a>, the Web3 global market is expected to be worth $81.5 billion by 2030, growing at an annual rate of more than 40%. Asia is set to capture most of that growth.&nbsp;&nbsp;</p>
-
-
-
-<p>That’s because the region has some of the highest adoption rates of Web3 technologies anywhere in the world. In Japan, more than five million <a href="https://triple-a.io/crypto-ownership-japan-2023/">people currently own cryptocurrency</a>, the South Korean government became the first to <a href="https://www.cnbc.com/2022/05/30/south-koreas-investment-in-the-metaverse-could-provide-a-blueprint.html">directly invest in the metaverse</a>, and &nbsp; <a href="https://www.bain.com/about/media-center/press-releases/sea/southeast-asias-digital-consumers-a-new-stage-of-evolution/">almost 70% of people in Southeast Asia</a> alone have used at least one metaverse-related tech in the last year.</p>
-
-
-
-<p>One of the leaders in the region is Vietnam. In recent years, international investors have flooded into Vietnam and established funds specialising in blockchain – with capital inflows into non-fungible token (NFT) assets rising <a href="https://en.vietnamplus.vn/great-chance-for-vietnam-navigate-to-web-30-experts/244413.vnp">from 37 million USD to 4.8 billion USD</a> in 2021.&nbsp;</p>
-
-
-
-<p>It’s why the NEAR Foundation is one of the leading investors in Asia, thanks <a href="https://www.nftgators.com/near-foundation-accelerates-web3-growth-in-asia-with-alibaba-cloud-partnership/">to its partnerships</a> with the likes of Alibaba Cloud, and why it’s hosting its first major conference in Vietnam.</p>
-
-
-
-<p>Taking place September 8-12 <a href="https://nearapac.org/">NEAR APAC</a> will bring together more than 100 global blockchain leaders to discuss blockchain’s unlimited future through the latest blockchain technology updates, development trends, and how blockchain ecosystems drive Web3 mass adoption.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-vietnam-on-the-rise">Vietnam on the rise&nbsp;</h2>
-
-
-
-<p>Vietnam has all the ingredients to become a Web3 super power. The country has&nbsp;</p>
-
-
-
-<p>more than <a href="https://inspius.com/insights/data-on-remote-vietnam-software-engineers/">400,000 skilled software engineers</a>, produces 50,000 IT graduates annually, and has an <a href="https://sunbytes.io/why-software-outsourcing-to-vietnam/">IT</a> labour force more than a million strong.&nbsp;</p>
-
-
-
-<p>The nation’s software engineers rank at an impressive <a href="https://inspius.com/insights/data-on-remote-vietnam-software-engineers/">8th place</a> globally in terms of capability — 95% of which have bachelor’s degrees or higher in IT. It’s unsurprising then to hear that Vietnam now has <a href="https://vir.com.vn/opening-up-capital-flows-for-local-blockchain-startups-94821.html">3,800 blockchain-related projects</a>, 200 venture capital funds, and 100 project incubation funds to support the country&#8217;s startups.&nbsp;</p>
-
-
-
-<p>Vietnam&#8217;s tech landscape is now full of startups and innovation hubs fostering creativity in Web3. Local incubators and accelerators provide mentorship, resources, and networking opportunities for Web3 entrepreneurs.&nbsp;</p>
-
-
-
-<p>That growth also has government support. In 2021, <a href="https://www.coindesk.com/markets/2021/07/04/vietnam-prime-minister-asks-central-bank-to-study-crypto-pursue-pilot-implementation-report/">Vietnamese Prime Minister Pham Minh Chinh</a> greenlit the country’s &#8220;e-government&#8221; development strategy designed to create regulatory clarity for Web3 projects. Last year, the country launched <a href="https://blockchain.vn/en/about">its first official blockchain association</a>, which is helping blockchain builders and business owners become a bigger part of the regulatory conversation.&nbsp;&nbsp;</p>
-
-
-
-<p>Its chairman, Hoang Van Huay, has <a href="https://vietcetera.com/en/crypto-curious-vietnam-committed-to-speeding-up-blockchain-development">shared the Vietnam Blockchain Association’s commitment</a> to “providing consultation on building legal framework, regulations, and standards in developing services and products on blockchain”. This commitment is part of a broader mission to accelerate the growth of blockchain technology in Vietnam.</p>
-
-
-
-<p>It’s no wonder then that Vietnam <a href="https://vietcetera.com/en/vietnam-leads-global-cryptocurrency-adoption-index-in-2022">ranks first</a> in the Global Cryptocurrency Adoption Index released by Chainalysis, up from 10th place the year before.&nbsp;<br>Vietnam is on the rise, and the NEAR Foundation is here to support it. <a href="https://nearapac.org/">Join us at NEAR APAC on 8-12 September 2023 in Ho Chi Minh City.</a></p>
-<p>The post <a href="/blog/how-vietnam-became-a-web3-powerhouse/">How Vietnam Became a Web3 Powerhouse </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>An Update on the NDC Funding and Support for Grassroots Projects</title>
-		<link>/blog/an-update-on-the-ndc-funding-and-support-for-grassroots-projects/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Fri, 18 Aug 2023 15:04:37 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[NDC Funding]]></category>
-		<category><![CDATA[NEAR Digital Collective]]></category>
-		<guid isPermaLink="false">/?p=20807</guid>
-
-					<description><![CDATA[<p>Executive Summary One of the central tenets of Web3 is decentralisation. Decentralisation is central to creating an open web because …</p>
-<p>The post <a href="/blog/an-update-on-the-ndc-funding-and-support-for-grassroots-projects/">An Update on the NDC Funding and Support for Grassroots Projects</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Executive Summary</strong></p>
-
-
-
-<ul>
-<li>The Foundation has set the future of funding for the NDC based on significant milestones post V1 Governance</li>
-
-
-
-<li>The launch of the Grassroots Support Initiative where projects in need of funding or support can engage directly with the NEAR Foundation to discuss options in the interim of direct support from the NDC&nbsp;</li>
-
-
-
-<li>If you are looking for support, you can schedule time with the team <a href="https://airtable.com/app5mCfwTVtmOhfHW/shrbpLz5XQHqrt4rQ">here</a></li>
-</ul>
-
-
-
-<p>One of the central tenets of Web3 is decentralisation. Decentralisation is central to creating an open web because it underpins an ecosystem’s anti-fragility, sustainability, scalability, and censorship resistance (amongst other important characteristics). A core part of a decentralised ecosystem is a robust self-governance infrastructure that empowers users and the community.</p>
-
-
-
-<p>Decentralisation is something that has guided the Foundation as a northstar, but as in all emerging fields sometimes the path toward that goal can be winding, complicated, and messy. That’s why we thought it would be important to take a moment to discuss the place of the NDC on that journey, the steps ahead, and how we can help the community get the support it needs along the way.&nbsp;</p>
-
-
-
-<p>Back in August 2022, the <a href="https://gov.near.org/t/formation-of-near-digital-collective-ndc-and-call-for-participation-in-the-community-working-group/27544">Community Working Group was formed</a> by a collection of prominent NEAR community nodes with the purpose of establishing a new framework and implementation plan for ecosystem self-governance infrastructure and an associated treasury that could help ensure the ecosystem would continue on its path to decentralisation while giving everyone the chance to have their voice heard. This is how and why the NEAR Digital Collective (NDC) was formed.&nbsp;</p>
-
-
-
-<p>As the champion supporting the creation of decentralised governance infrastructure, the NDC plays an important role in the future of the NEAR ecosystem. Decentralised governance infrastructure will enable the community to vote (using an on-chain mechanism) on the allocation of funds, help ensure that decisions are made in a fair and representative manner, and further decentralise the NEAR ecosystem, something that is important both philosophically and practically for the healthy development of any Web3 ecosystem.</p>
-
-
-
-<p>So far, the NDC has already successfully launched the <a href="https://near.org/blog/near-digital-collective-legal-framework">NDC Community Treasury</a>, the <a href="https://medium.com/near-digital-collective/ndc-is-launching-i-am-human-v1-80ae3b940237">IAMHuman</a> voting initiative and <a href="https://medium.com/near-digital-collective/a-beginners-guide-to-v0-of-the-ndc-governance-structure-39f977d91b3e">V0 Governance</a>, all major milestones for the ecosystem and vital pieces of governance infrastructure.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-funding-for-the-ndc"><strong>Funding for the NDC</strong></h2>
-
-
-
-<p>Understanding the important role that the NDC can play in the future of the ecosystem, the NEAR Foundation is fully committed to its long term success. Of the Foundation’s treasury, a substantial portion <a href="https://gov.near.org/t/near-ecosystem-treasury-dao/2946">has been earmarked</a> for community initiatives like the NDC, which the Foundation intends to advance to the <a href="https://near.org/blog/near-digital-collective-legal-framework">NDC Community Treasury</a> over time as the ecosystem’s governance infrastructure matures.</p>
-
-
-
-<p>In order to further support the mission of the NDC as they continue to make progress, the Foundation is announcing today that it will provide an advance to the NDC Community Treasury in the region of 15M NEAR, subject to the successful completion of the V1 Governance elections. The criteria for this initial treasury advance will include (a) all V1 Governance elected positions being filled; and (b) the implementation by the community of a standardized funding request framework as a benchmark for responsible work moving forward.</p>
-
-
-
-<p>After this initial advance, the Foundation is also reiterating its commitment to further treasury advances (up to 100M NEAR). These further advances will be based on careful work with the community to set out specific criteria for milestones that will ensure funds are deployed responsibly and in a way that helps achieve the long-term goals of the wider ecosystem.&nbsp;</p>
-
-
-
-<p>Once V1 Governance is live, the community will be able to create success metrics for the NDC and vote on them as a collective with the support of the Foundation and other ecosystem nodes.&nbsp;</p>
-
-
-
-<p>The Foundation is also aware that, as a result of various delays with the launch of V1 Governance, the NDC Community Treasury is close to reaching the original USD1.5m V0 Governance budget cap contained in the NDC Community Treasury trust instrument. To ensure the community can continue to move forwards to the critical goal of V1 Governance launch, the Foundation will support the NDC Community Treasury by providing an additional USD400k buffer above that original budget cap.</p>
-
-
-
-<p>The NDC nominations for all 3 houses in V1 Governance are <a href="https://near.social/nomination.ndctools.near/widget/NDC.Nomination.Page">currently live</a> until September 7th, with elections then kicking off on September 8th and running until September 22nd. We would encourage anyone who is interested in getting involved in this critical ecosystem milestone, and playing a role in steering the ecosystem forwards, to <a href="/blog/ndc-v1-governance-elections-faq/">nominate themselves</a>.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Support for grassroots projects</strong></h2>
-
-
-
-<p>As part of the Foundation’s commitment to decentralisation and ensuring the voice of the community is heard, the <a href="https://near.org/blog/evolving-near-foundations-funding-strategy">Foundation announced</a> in November 2022 that in most instances it would stop providing capital to the ecosystem through grants and instead have the NDC gradually take over that responsibility. While the Foundation understands that grants are a vital resource for grassroots projects to build and grow, we believed it was important to support moving them to a more decentralised model.&nbsp;&nbsp;</p>
-
-
-
-<p>However, since the timeline to implement V1 Governance has taken longer than anticipated, we recognise that ecosystem funding has been more limited, which has put significant pressure on builders in the ecosystem. Concerns around funding have been a major topic of discussion in the community over the last few weeks, and the Foundation appreciates that the community has rallied together to surface these issues in an open and constructive way. This feedback has helped the Foundation understand that it should have moved more quickly to provide interim support.&nbsp;</p>
-
-
-
-<p>To help address this issue, and to better support grassroots projects who are in need of support while the NDC continues to ramp up, the Foundation is launching a grassroots support initiative for any project in the ecosystem that is currently in need of urgent support. The Ecosystem Relations team is leading on the initiative from the Foundation and they have set up an open calendar for community members to connect directly with them to discuss how the Foundation can best support.&nbsp;</p>
-
-
-
-<p>Projects will be able to ask for emergency support, either financial or otherwise, by booking time with the team. This initiative will remain in place until NDC funding options become more readily available. While the Foundation will not be able to fund every request, we are committed to carefully reviewing every one we receive and prioritizing them based on immediate need and how well they line up with the goals of the broader ecosystem.&nbsp;</p>
-
-
-
-<p>You can book time with the Ecosystem Relations Team <a href="https://airtable.com/app5mCfwTVtmOhfHW/shrbpLz5XQHqrt4rQ">here</a>.</p>
-
-
-
-<p>Grassroots projects and the community are the lifeblood of the NEAR ecosystem and the Foundation is committed to ensuring projects have the resources they need as we continue to create a thriving, decentralised ecosystem together.</p>
-<p>The post <a href="/blog/an-update-on-the-ndc-funding-and-support-for-grassroots-projects/">An Update on the NDC Funding and Support for Grassroots Projects</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Case Study: Aurora&#8217;s Alex Shevchenko on Scaling Solidity Smart Contracts</title>
-		<link>/blog/case-study-auroras-alex-shevchenko-on-scaling-solidity-smart-contracts/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Wed, 16 Aug 2023 18:50:01 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Aurora Cloud]]></category>
-		<category><![CDATA[Aurora Labs]]></category>
-		<guid isPermaLink="false">/?p=20798</guid>
-
-					<description><![CDATA[<p>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR …</p>
-<p>The post <a href="/blog/case-study-auroras-alex-shevchenko-on-scaling-solidity-smart-contracts/">Case Study: Aurora&#8217;s Alex Shevchenko on Scaling Solidity Smart Contracts</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><em>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR to effortlessly create and distribute innovative decentralized apps, while helping build a more open web — free from centralized platforms. In these Case Study videos, NEAR Foundation showcases some of these projects.&nbsp;</em></p>
-
-
-
-<p>In the latest NEAR Foundation Case Study video below, Alex Shevchenko, co-founder and CEO of <a href="https://auroralabs.dev/">Aurora Labs</a>, talks about the developer studio’s work in making it easier for developers integrating Solidity smart contracts on NEAR. </p>
-
-
-
-<p>“Aurora is a solution that allows you to launch your Solidity smart contracts on NEAR,” says Shevchenko.  “We’re also adding something new: a scalability feature for the NEAR Protocol — something that can make EVM future-safe and make a destination of Aurora plus NEAR a final one for businesses to come.”</p>
-
-
-
-<p>“We are focusing on the user experience,” he adds. “We have a whole set of products that are helping blockchain businesses to make the user experience much more convenient.” </p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="CaseStudy Aurora Alex v2" width="500" height="281" src="https://www.youtube.com/embed/pR5VYilG3_Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div></figure>
-<p>The post <a href="/blog/case-study-auroras-alex-shevchenko-on-scaling-solidity-smart-contracts/">Case Study: Aurora&#8217;s Alex Shevchenko on Scaling Solidity Smart Contracts</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>With MeshFlux, Multimedia Art and Gaming Explore Blockchain Technology </title>
-		<link>/blog/with-meshflux-multimedia-art-and-gaming-explore-blockchain-technology/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 10 Aug 2023 12:00:00 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Art]]></category>
-		<category><![CDATA[Blockchain]]></category>
-		<guid isPermaLink="false">/?p=20790</guid>
-
-					<description><![CDATA[<p>The worlds of art and blockchain are no strangers. On NEAR, art can be found on apps like Mintbase, Paras, …</p>
-<p>The post <a href="/blog/with-meshflux-multimedia-art-and-gaming-explore-blockchain-technology/">With MeshFlux, Multimedia Art and Gaming Explore Blockchain Technology </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>The worlds of art and blockchain are no strangers. On NEAR, art can be found on apps like Mintbase, Paras, and many other ecosystem projects.&nbsp; With the <a href="https://www.meshflux.com/">MeshFlux</a> project, however, Turkish artist and designer <a href="https://www.ubarismutlu.com/">Ufuk Barış Mutlu</a> shows a clear path to how physical artworks can be deeply integrated with the blockchain.&nbsp;</p>
-
-
-
-<p>With funding from the NEAR ecosystem, Mutlu created MeshFlux — a series of interactive sculptures that highlight one of the fundamental aspects of blockchain technology — the distinction between centralized, decentralized, and distributed networks. To achieve this goal, Mutlu created a series of three interactive sculptures that deliver the experience of these systems’ characteristics through simple gamification.</p>
-
-
-
-<p>Mutlu recently exhibited MeshFlux at a couple of events. MeshFlux appeared at virtual art platform’s Monoco.io’s physical gallery in Istanbul from May 18 to June 17, 2023, then at Sónar+D Barcelona — the music festival’s digital trade show, from June 15 to June 17, 2023.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-making-blockchain-art-accessible-to-the-masses">Making blockchain art accessible to the masses</h2>
-
-
-
-<p>Although crypto natives and blockchain curious might understand these concepts, Mutlu wanted to make his physical artworks that explore the blockchain comprehensible to the average person. To that end, he created physical artwork that explains blockchain by visualizing and gamifying it.</p>
-
-
-
-<p>“The project&#8217;s output consists of three interactive sculptures machined out of aluminum, which are sized similarly to an iPad,” said Mutlu. “The dynamics of the interaction are based on the conventional maze game, where the paths of the mazes represent three different network systems: centralized, decentralized, and distributed networks.”</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="MeshFlux Production Documentation" width="500" height="281" src="https://www.youtube.com/embed/67rTCtovTbQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>All three maze paths are mapped according to Paul Baran&#8217;s original work published in 1964. Steel bearing balls inside the sculptures represent data packets in the network. The usage of multiple bearing balls distinguishes this sculpture from a conventional maze game and visualizes a multi-user network schematic.</p>
-
-
-
-<p>“I narrowed down my approach to the fundamental principles of blockchain, specifically network models,” Mutlu explained. “To achieve this, I created three maze games using network models as the foundation. These maze games are often associated with children and were constructed using premium and industrial materials to strike a balance between play and serious tech.”</p>
-
-
-
-<p>Using computers to industrially mill materials — aluminum, in this case — requires designing a digital 3D model, programming the milling machine (referred to as CAM), securing the material into the CNC machine, and using automated cutting tools (CNC) to precisely shape the aluminum block according to the design.&nbsp;</p>
-
-
-
-<p>“The process allows for accurate and efficient production of objects with complex shapes” explains Mutlu.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-meshflux-nft-meets-3d-printed-sculpture">MeshFlux: NFT meets 3D-printed sculpture</h2>
-
-
-
-<p>Since his focus lies in physical objects, Mutlu wanted to offer the same sculpture as a 3D-printable file functioning as an NFT. His plan was to leverage all the advantages of blockchain technology through the creation of an NFT, while ensuring its potential to be transformed into a physical and tactile artwork. This would, he figured, satisfy the collector&#8217;s desire for touch and possession.</p>
-
-
-
-<p>With part of his NEAR ecosystem grant, Mutlu shot a documentary that explores the process of creating MeshFlux’s physical and digital (blockchain) aspects. NFT versions of MeshFlux are <a href="https://www.monoco.io/profile/ufukbarismutlu">currently available</a>, and Mutlu is working on integrating them with NEAR.&nbsp;</p>
-
-
-
-<p>Follow <a href="https://www.instagram.com/ubarismutlu/">Ufuk Barış Mutlu</a> on Instagram.&nbsp;</p>
-<p>The post <a href="/blog/with-meshflux-multimedia-art-and-gaming-explore-blockchain-technology/">With MeshFlux, Multimedia Art and Gaming Explore Blockchain Technology </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

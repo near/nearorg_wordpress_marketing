@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2024-03-07T14:59:32+00:00</lastmod>
+		<lastmod>2024-03-18T13:37:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/near-community-update-february-22-2019/</loc>
@@ -4463,13 +4463,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/blog/meta-pool-launches-enterprise-node-operators-program/</loc>
-		<lastmod>2024-02-07T13:59:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/metapool-blog.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/</loc>
 		<lastmod>2024-02-08T14:10:43+00:00</lastmod>
 		<image:image>
@@ -4505,6 +4498,41 @@
 		<lastmod>2024-03-07T14:59:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/ethdenver2024wrap-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/potlock-and-near-foundation-partner-to-accelerate-public-goods-funding-pgf/</loc>
+		<lastmod>2024-03-08T19:49:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/quadratic-funding-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/frax-deploys-decentralized-stablecoin/</loc>
+		<lastmod>2024-03-14T13:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/frax-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/</loc>
+		<lastmod>2024-03-14T17:03:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/thegraph-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/meta-pool-launches-enterprise-node-operators-program/</loc>
+		<lastmod>2024-03-18T02:34:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/metapool-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/korea-buidl-week-2024/</loc>
+		<lastmod>2024-03-18T13:37:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/korea-buidl-blog.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

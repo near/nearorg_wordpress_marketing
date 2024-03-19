@@ -12,7 +12,7 @@
 	<atom:link href="/blog/category/developers/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/developers/</link>
 	<description></description>
-	<lastBuildDate>Thu, 15 Feb 2024 16:58:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Mar 2024 17:03:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,136 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</title>
+		<link>/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 17:03:07 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developers]]></category>
+		<guid isPermaLink="false">/?p=21275</guid>
+
+					<description><![CDATA[<p>The Graph Foundation recently announced the inclusion of NEAR into its expansive subgraph support, now encompassing over 40 leading L1 …</p>
+<p>The post <a href="/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The Graph Foundation recently announced the inclusion of NEAR into its expansive subgraph support, now encompassing over 40 leading L1 and L2 blockchains including Arbitrum, Base, Fantom, Celo, Optimism, Polygon Labs, and Scroll. By integrating with The Graph, NEAR developers gain access to a decentralized network for streamlined data querying, significantly reducing costs and improving synchronization speeds.&nbsp;</p>
+
+
+
+<p>The partnership highlights the NEAR Foundation&#8217;s ongoing commitment to enhancing developer resources and interoperability within open web ecosystems as part of advancing the Chain Abstraction vision. In 2021, NEAR became The Graph&#8217;s <a href="https://thegraph.com/blog/graph-near/">first non-EVM chain integration</a> for its hosted service, kickstarting the evolution towards a multichain open web ecosystem.&nbsp;</p>
+
+
+
+<p>Subgraph support will take things a step further, facilitating better multichain data accessibility for NEAR builders and increasing the reach and breadth of tools and technologies to support Chain Abstraction. This moment also marks NEAR as the first non-EVM chain to become available on The Graph Network.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-how-subgraph-support-empowers-near-developers">How Subgraph Support Empowers NEAR Developers</h2>
+
+
+
+<p>Subgraphs on The Graph are transformative open APIs that efficiently organize and serve blockchain data, accelerating the development of decentralized applications (dApps) on the NEAR Protocol. This integration offers developers further support in efficient data querying, swift access to indexed blockchain data, and seamless interoperability across multiple chains.</p>
+
+
+
+<p>By streamlining data retrieval, The Graph&#8217;s subgraph support eliminates the need for exhaustive blockchain scans, allowing for quick navigation, filtering, and location of specific data points. This advancement equips NEAR developers with tools similar to Web 2.0 search engine capabilities, tailored for the precision and complexity of blockchain data.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-graph-s-multichain-support-and-expansion-goals">The Graph&#8217;s Multichain Support and Expansion Goals&nbsp;</h2>
+
+
+
+<p>The Graph&#8217;s integration with NEAR and over 40 additional blockchains is a step towards more rich multichain development. By extending beyond Ethereum, The Graph is facilitating a unified, accessible ecosystem for designing advanced, user-focused decentralized applications (dApps) across a diverse range of blockchains.&nbsp;</p>
+
+
+
+<p>Enhancing interoperability among different blockchain networks also grants developers access to a broader spectrum of data, supporting the creation of dApps that are both feature-dense and user-friendly. These improvements also promote more unrestricted data exchange across chains for the purposes of dApp development.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-near-protocol-and-future-of-the-graph-network">NEAR Protocol and Future of The Graph Network</h2>
+
+
+
+<p>Looking forward, The Graph Network is aiming to break the barriers of decentralized access to blockchain data, as it plans to introduce new data services to meet the growing needs of Web3. The Graph’s core devs are planning ahead on executing the “<a href="https://thegraph.com/blog/unveiling-updated-sunrise-decentralized-data/">Sunrise of decentralized data</a>” initiative, designed to improve tooling and developer experience.&nbsp;</p>
+
+
+
+<p>Soon, NEAR devs building on The Graph Network will be able to take advantage of a free query plan, an intuitive subgraph upgrade wizard, and more. The Graph-NEAR Foundation collaboration will further emphasize the shared mission of both teams for a more interconnected and inclusive Web3 ecosystem via Chain Abstraction, enhancing the value of indexing and querying blockchain data.&nbsp;&nbsp;</p>
+<p>The post <a href="/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</title>
+		<link>/blog/frax-deploys-decentralized-stablecoin/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 13:00:00 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developers]]></category>
+		<guid isPermaLink="false">/?p=21270</guid>
+
+					<description><![CDATA[<p>Frax Finance announced the launch of FRAX stablecoin on NEAR via Ref Finance and Burrow through FraxFerry and the Rainbow …</p>
+<p>The post <a href="/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Frax Finance announced the launch of FRAX stablecoin on NEAR via Ref Finance and Burrow through FraxFerry and the Rainbow Bridge. This marks a significant milestone for Frax as its first major venture into a non-Ethereum Virtual Machine (EVM) ecosystem.&nbsp;</p>
+
+
+
+<p>Frax Finance is the second-largest issuer of decentralized dollar-pegged stablecoins and an industry leader for DeFi infrastructure.</p>
+
+
+
+<p>The NEAR ecosystem and Frax contributors will now collaborate through ongoing in-depth research and protocol integrations. One of the biggest opportunities between the two teams will be the introduction of short-term treasury yields on NEAR using sFRAX, a yield-bearing asset that tracks the Federal Reserve&#8217;s Interest on Reserve Balance (IORB).</p>
+
+
+
+<p>In the coming months, Frax will natively issue their suite of assets, FRAX, sFRAX, frxETH, and sfrxETH on NEAR and Fraxtal, along with exploring opportunities around NEAR LSTs. Other protocols on NEAR will also be able to explore these exciting frontiers with Frax. While NEAR supports various stablecoins, the decentralized Frax platform sets itself apart by offering additional features like yield and LSTs. These offerings can be utilized by NEAR&#8217;s DeFi protocols for novel ventures.&nbsp;</p>
+
+
+
+<p>This deployment is led by Ref and Burrow and will soon expand to other protocols. <a href="https://www.ref.finance/">Ref Finance</a> is a decentralized finance (DeFi) platform built on NEAR Protocol, designed to facilitate the swapping, lending, and borrowing of digital assets. It is a multi-purpose DeFi platform that integrates various financial mechanisms, offering users a comprehensive suite of DeFi tools. <a href="https://burrow.finance/">Burrow</a> is a decentralized finance (DeFi) platform on the NEAR blockchain, offering non-custodial, pool-based lending and borrowing services.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Highlighting the Incentive Campaign</strong></p>
+
+
+
+<p>To boost activity and foster growth of Frax on NEAR, Ref will introduce an incentive program offering rewards for Liquidity Providers (LPs) in the USDC/FRAX and NEAR/FRAX pools, as well as the Curve style stableswap pools.</p>
+
+
+
+<p>The proliferation of native stablecoins is crucial to the growth of DeFi as it facilitates effortless access to liquidity between protocols for users across various types of exchanges. This allows for more seamless interactions with different projects across the Web3 ecosystem, effectively removing bottlenecks and promoting a smooth trading experience. This also advances the NEAR ecosystem vision of Chain Abstraction, streamlining usability and defragmenting liquidity and UX across all of Web3. Moreover, native stablecoins will significantly enhance the visibility of the NEAR Ecosystem&#8217;s Total Value Locked (TVL) within the market.</p>
+
+
+
+<p>On Burrow, borrowers and lenders will earn incentives for using USDC, USDT, and FRAX. Additionally, Burrow will offer rewards for NEAR and liquid staked NEAR, with more details to be announced soon.</p>
+
+
+
+<p>This incentive campaign will be expanded&nbsp; to other qualifying DeFi protocols and primitives after the initial rollout on Ref and Burrow.&nbsp;</p>
+
+
+
+<p>If you’re new to NEAR, you can find free resources for building apps, deploying smart contracts,creating blockchain operating system(BOS) components, and more on the <a href="https://docs.near.org/#">DevRel resources page.&nbsp;</a>Checkout the official documentation of <a href="https://docs.frax.finance/">Frax</a> to learn more about protocol and other technical specifications.&nbsp;</p>
+
+
+
+<p></p>
+<p>The post <a href="/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Unlocking Web3 Usability with Account Aggregation</title>
 		<link>/blog/unlocking-web3-usability-with-account-aggregation/</link>
 		
@@ -99,7 +229,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="634" src="/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png" alt="" class="wp-image-21236" style="width:1102px;height:auto" srcset="/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png 1024w,https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-300x186.png 300w,https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-768x475.png 768w,https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1536x951.png 1536w,https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-2048x1267.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="634" src="/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png" alt="" class="wp-image-21236" style="width:1102px;height:auto" srcset="/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png 1024w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-300x186.png 300w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-768x475.png 768w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1536x951.png 1536w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-2048x1267.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -530,7 +660,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/01/da-comparison-1024x576.png" alt="" class="wp-image-21165" srcset="/wp-content/uploads/2024/01/da-comparison-1024x576.png 1024w,https://pages.near.org/wp-content/uploads/2024/01/da-comparison-300x169.png 300w,https://pages.near.org/wp-content/uploads/2024/01/da-comparison-768x432.png 768w,https://pages.near.org/wp-content/uploads/2024/01/da-comparison-1536x864.png 1536w,https://pages.near.org/wp-content/uploads/2024/01/da-comparison.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">As of December 2023, 231 kB of calldata on <a href="https://nearblocks.io/txns/HCA1dMLjYE9bTMNUpTG4sbcwhC9X1tXRtpUSxUEhjhLm">NEAR costs $0.0016</a>, while the same calldata on<a href="https://etherscan.io/tx/0x53a0d93d88e0dc050ca86ab45b26c952a79aa0116825a9e3a5276a36fa897bbe"> Ethereum L1 costs users $140.54</a>  and on <a href="https://celestia.explorers.guru/transaction/BFF52A4E7A2B523657710F36A4A917669973E3E2B8425AB21C65299BD6A90A0E">Celestia costs users $0.046</a>.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/01/da-comparison-1024x576.png" alt="" class="wp-image-21165" srcset="/wp-content/uploads/2024/01/da-comparison-1024x576.png 1024w, /wp-content/uploads/2024/01/da-comparison-300x169.png 300w, /wp-content/uploads/2024/01/da-comparison-768x432.png 768w, /wp-content/uploads/2024/01/da-comparison-1536x864.png 1536w, /wp-content/uploads/2024/01/da-comparison.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">As of December 2023, 231 kB of calldata on <a href="https://nearblocks.io/txns/HCA1dMLjYE9bTMNUpTG4sbcwhC9X1tXRtpUSxUEhjhLm">NEAR costs $0.0016</a>, while the same calldata on<a href="https://etherscan.io/tx/0x53a0d93d88e0dc050ca86ab45b26c952a79aa0116825a9e3a5276a36fa897bbe"> Ethereum L1 costs users $140.54</a>  and on <a href="https://celestia.explorers.guru/transaction/BFF52A4E7A2B523657710F36A4A917669973E3E2B8425AB21C65299BD6A90A0E">Celestia costs users $0.046</a>.</figcaption></figure>
 
 
 
@@ -649,7 +779,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w,https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w,https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w,https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -657,7 +787,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="644" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w,https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w,https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w,https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="644" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -826,207 +956,6 @@
 
 <p>To sum up, Vistara&#8217;s user-friendly, multi-chain rollup deployment capabilities on the BOS will have a huge impact on the NEAR ecosystem and beyond. The integration will take much of the complexity out of rollup deployment for anyone, helping Web3 creators, builders, and developers bring their applications to life faster than ever.</p>
 <p>The post <a href="/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEAR Teams With Google Cloud to Accelerate Web3 Startups</title>
-		<link>/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 12:02:24 +0000</pubDate>
-				<category><![CDATA[Developers]]></category>
-		<category><![CDATA[Infrastructure]]></category>
-		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">/?p=18589</guid>
-
-					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership between Google Cloud and NEAR Protocol. Going forward, Google Cloud will …</p>
-<p>The post <a href="/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/">NEAR Teams With Google Cloud to Accelerate Web3 Startups</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>NEAR Foundation is excited to announce a new partnership between Google Cloud and NEAR Protocol. Going forward, Google Cloud will provide technical support for NEAR grant recipients. Open and developer-friendly, Google Cloud will support devs as they build and scale their Web3 projects and dApps.</p>
-
-
-
-<p>If you’re developing on NEAR, this is great news—the partnership will supercharge blockchain innovations. Developers will even more easily create without limits as they build dApps and help onboard the masses into Web3.&nbsp;</p>
-
-
-
-<p>“We are thrilled to be collaborating with those who pioneered the Internet as we know it,” says Marieke Flament, CEO of the NEAR Foundation. “This partnership marks a new chapter for us as we continue to offer the best support possible for the next generation of visionaries choosing to build on the NEAR protocol.”</p>
-
-
-
-<h2 class="wp-block-heading" id="h-powering-near-developers-with-google-cloud">Powering NEAR developers with Google Cloud</h2>
-
-
-
-<p>In the last year, NEAR has grown exponentially thanks to its super-fast, incredibly secure, and infinitely scalable protocol. There are now over 20 million accounts, 200 million transactions to date, and 300,000 to 400,000 transactions per day on the NEAR network. Building upon the momentum of NEARCON 2022, which showcased the NEAR ecosystem’s vibrancy, <a href="http://awesomenear.com/">800 projects</a> are now building on the protocol.&nbsp;</p>
-
-
-
-<p>How will the hundreds of projects currently building on NEAR benefit from the Google Cloud partnership?&nbsp;</p>
-
-
-
-<p>Google Cloud provides the infrastructure for NEAR’s Remote Procedure Call (RPC) node provider to <a href="https://www.pagoda.co/">Pagoda</a>, NEAR’s Web3 startup platform. This allows developers to deploy code quickly, securely, and seamlessly. Pagoda helps developers easily and rapidly launch dApps on NEAR through a library of pre-audited templates and auto-generated contract user interfaces.</p>
-
-
-
-<p>&nbsp;“We will be supporting NEAR and giving Web3 developers the most secure, reliable, and sustainable cloud infrastructure on which they can build and scale,” Carlos Arena, Director of&nbsp;<a href="https://cloud.google.com/blog/topics/financial-services/google-cloud-launches-dedicated-digital-asset-team">Digital Assets</a> at Google Cloud. “We continue to support tomorrow’s leaders in creating new products and services on blockchain-based platforms.”</p>
-
-
-
-<p>For more information on how Google Cloud is working to support Web3 innovation, check out <a href="https://cloud.google.com/blog/topics/financial-services/google-cloud-launches-dedicated-digital-asset-team">Google Cloud’s Digital Assets blog</a>.&nbsp;</p>
-<p>The post <a href="/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/">NEAR Teams With Google Cloud to Accelerate Web3 Startups</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Hacking a New World with MetaBUILD III</title>
-		<link>/blog/hacking-a-new-world-with-metabuild-iii/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 20:55:58 +0000</pubDate>
-				<category><![CDATA[Developers]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">/?p=18193</guid>
-
-					<description><![CDATA[<p>UPDATE: MetaBUILD III&#8217;s Pre-Accelerator Program has some new details. Scroll down to the &#8220;After the Hack&#8221; section for more information.   …</p>
-<p>The post <a href="/blog/hacking-a-new-world-with-metabuild-iii/">Hacking a New World with MetaBUILD III</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>UPDATE:</strong><em> MetaBUILD III&#8217;s Pre-Accelerator Program has some new details. Scroll down to the &#8220;After the Hack&#8221; section for more information.  </em></p>
-
-
-
-<p>Six months ago, NEAR wrapped up the <a href="https://medium.com/nearprotocol/metabuilding-the-history-of-near-2719ce71acbf">MetaBUILD 2 hackathon</a> just as the world shut down. New challenges emerged, both inside and outside the NEAR ecosystem. The crypto market itself was seemingly falling apart, and everyone was talking about the looming “Crypto winter”. It was clear that in order to continue, a new, creative approach would be necessary.</p>
-
-
-
-<p>NEAR was founded during some of the gloomiest times of the previous “Crypto winter”, so at least some of this was already familiar territory. In fact, NEAR’s resilient design was informed by the uncertainty in the markets surrounding its release. This resilience is not just evident in the technology, but it can also be seen throughout the ecosystem.&nbsp;</p>
-
-
-
-<p>To maintain the health of its vibrant community, NEAR focused the aim of its hackathons towards a broader, more ambitious journey for participants—what if these hackathons could foster each team from ideation all the way to forming a Web3 start-up with a market-ready product?</p>
-
-
-
-<h2 class="wp-block-heading" id="h-metabuild-iii-a-bigger-better-impact">MetaBUILD III: A Bigger, Better Impact</h2>
-
-
-
-<p>MetaBUILD is considered <a href="https://metabuildii.devpost.com/">one of the biggest hackathons</a> in the blockchain community. With a $1 million in prizes pool, nearly 4,000 participants, and more than 350 submissions from across the world, it has helped realize ideas from streaming tokens to metaverse worlds. In fact, some of these winners will be featured at <a href="https://nearcon.org/">NEARCON in September</a>, so the community can listen to their stories and learn from their challenges.</p>
-
-
-
-<p>This year, <strong>MetaBUILD III</strong> returns with its $1 million in prizes, with registrations opening today and submissions starting September 23rd. But participants should expect to see the hackathon’s format evolve. It’s shaping it up to become an <strong>8-week product-oriented incubation program, hosted by Pagoda,</strong> focused on supporting teams beyond the prize money, towards securing funding, and producing a market-ready prototype. Here’s what else is new:</p>
-
-
-
-<ul><li>Instead of the Welcome track (for newly created projects), a <strong>Web2 track </strong>will be established to help existing teams integrate NEAR blockchain into their current products.</li><li>Only <strong>newly created or substantively modified projects </strong>are allowed to enter the Native track to ensure that participants are committed to remaining in the ecosystem even after they win. Proofs of concept projects built during <a href="https://nearcon-irl-hackathon.devpost.com/">NEARCON’s 48hs IRL hackathon</a> are welcome to join MetaBUILD.&nbsp;</li><li><strong>Challenges instead of bounties</strong>: MetaBUILD III is looking for sustained product teams who understand their market and are committed to building solutions addressing some of the most pressing challenges of today: rising unemployment, the energy crisis, refugee crises, climate change, access to education and other resources, media censorship, etc.</li></ul>
-
-
-
-<p>This shift in perspective centers on an understanding of how impactful $1 million could be in the right hands. It is not only about proving great ideas, but growing them as products that can make a long-term impact in the ecosystem and beyond!</p>
-
-
-
-<h2 class="wp-block-heading" id="h-ways-to-metabuild">Ways to MetaBUILD</h2>
-
-
-
-<p>Whether you are a solo hacker or an ecosystem partner, there are several ways to participate in MetaBUILD III:</p>
-
-
-
-<ul><li><strong>As a developer</strong></li></ul>
-
-
-
-<p>Incubate your project from idea to an MVP in 8 weeks. Find some talented teammates, and win $20-60k to continue building.&nbsp;</p>
-
-
-
-<p><a href="https://metabuild.devpost.com/register?flow%5Bdata%5D%5Bchallenge_id%5D=15923&amp;flow%5Bname%5D=register_for_challenge">Learn more &gt;</a></p>
-
-
-
-<ul><li><strong>As a non-technical person</strong></li></ul>
-
-
-
-<p>Pivot your career into Web3, and join one of the teams as a designer, bizdev expert, product manager, or copywriter to build a winning project together.</p>
-
-
-
-<ul><li><strong>As a NEAR community member</strong></li></ul>
-
-
-
-<p>Host a workshop, share your success story, or provide mentorship to participants.&nbsp;</p>
-
-
-
-<p><a href="https://forms.gle/esmF2QTPcrcwRLiu9">Learn more &gt;</a></p>
-
-
-
-<ul><li><strong>As a Web3 company or VC</strong></li></ul>
-
-
-
-<p>Spread the word about MetaBUILD in your community, apply to become a mentor or a judge, or host an IRL event to inspire and support the MetaBUILD community.&nbsp;</p>
-
-
-
-<p><a href="https://forms.gle/esmF2QTPcrcwRLiu9">Learn more &gt;</a>&nbsp;</p>
-
-
-
-<p>To help fuel the ideas for the next big wave in Web3, a whole educational program will be added to the incubation process:</p>
-
-
-
-<ul><li><strong>The Education team</strong> behind <a href="https://www.near.university/">NEAR University</a> will provide self-paced NEAR workshops.</li><li><strong>Team Docs </strong>will present their <a href="https://docs.near.org/tutorials/welcome">Zero to Hero</a> tutorials<strong> </strong>to make sure the onboarding process is streamlined for everyone.&nbsp;</li><li><strong>The Pagoda team</strong> is already hosting monthly <a href="http://near.ai/tooling-meetings">Developer Tooling</a> meetings to demonstrate the features and capabilities of their latest releases.</li></ul>
-
-
-
-<h2 class="wp-block-heading">After the Hack: Pre-Accelerator Program from Pagoda and Startup Wise Guys</h2>
-
-
-
-<p>This time, MetaBUILD is not just about building a quick project for competition. The new challenge is for developers to join and build a new product that can hit the market and make a long-term impact on the NEAR ecosystem. From MVP in the hack, to a first market release in the pre-accelerator program, MetaBUILD III is designed to get devs the resources they need to get there with a solid foundation.</p>
-
-
-
-<p>Of the winning submissions, 30 MetaBUILD projects will be welcomed to a pre-accelerator program hosted by Pagoda and Startup Wise Guys. Projects will have access to a roster of talented NEAR ecosystem mentors, who will support them in their early stages as projects focus on the key components of their business and idea. NEAR mentors will also help winning submissions develop go-to-market strategies with clear goals and propositions, acquire their first customers, operate sustainably for the long term, and attract investment with our roster of talented NEAR ecosystem partners, amongst other things.&nbsp;</p>
-
-
-
-<p>Ultimately, the pre-accelerator program will help projects prepare to successfully apply for full-time accelerator programs or first-round investment opportunities.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-the-we-in-web3">The “We” in Web3</h2>
-
-
-
-<p>Navigating a bear market is a sobering experience, but it is also an inspiring one, because Web3 is ready to face new challenges, new audiences, and new use cases. All it needs are open minds, ambitious ideas, and a willingness to work together to change the world—one decentralized project at a time.</p>
-
-
-
-<p>Ready to hack the ever changing world? <a href="https://metabuild.devpost.com/">Build your next project on NEAR</a>. MetaBUILD III is here to guide you from idea to market, and beyond. We have the expertise, the funds, and the drive to face new challenges together.</p>
-
-
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://secure.devpost.com/users/register?return_to=https%3A%2F%2Fmetabuild.devpost.com%2Fregister%3Fflow%255Bdata%255D%255Bchallenge_id%255D%3D15923%26flow%255Bname%255D%3Dregister_for_challenge">Register Today</a></div>
-</div>
-<p>The post <a href="/blog/hacking-a-new-world-with-metabuild-iii/">Hacking a New World with MetaBUILD III</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
