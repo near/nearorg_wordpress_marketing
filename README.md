@@ -6,4 +6,4 @@ search: /wp-content/uploads/
 replace: https://pages.near.org/wp-content/uploads/
 
 search: /wp-content/themes/
-replace: https://pages.near.org/wp-content/themes/```
+replace: https://pages.near.org/wp-content/themes/ 
