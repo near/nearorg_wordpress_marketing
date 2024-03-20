@@ -18,4 +18,4 @@ search: =/wp-content/themes
 replace: =https://pages.near.org/wp-content/themes
 
 search: ?paged=
-replace: /page/
+replace: page/
