@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Case Studies Archives &#8211; NEAR Protocol</title>
-	<atom:link href="/blog/category/case-studies/feed/" rel="self" type="application/rss+xml" />
-	<link>/blog/category/case-studies/</link>
+	<atom:link href="https://pages.near.org/blog/category/case-studies/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pages.near.org/blog/category/case-studies/</link>
 	<description></description>
 	<lastBuildDate>Mon, 07 Aug 2023 15:35:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Case Studies Archives &#8211; NEAR Protocol</title>
-	<link>/blog/category/case-studies/</link>
+	<link>https://pages.near.org/blog/category/case-studies/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Case Study: Flipside Crypto on Building an Analytics Platform on the BOS</title>
-		<link>/blog/case-study-flipside-crypto-on-building-an-analytics-platform-on-the-bos/</link>
+		<link>https://pages.near.org/blog/case-study-flipside-crypto-on-building-an-analytics-platform-on-the-bos/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 03 Aug 2023 02:30:00 +0000</pubDate>
 				<category><![CDATA[Case Studies]]></category>
 		<category><![CDATA[BOS]]></category>
 		<category><![CDATA[Flipside]]></category>
-		<guid isPermaLink="false">/?p=20764</guid>
+		<guid isPermaLink="false">https://pages.near.org/?p=20764</guid>
 
 					<description><![CDATA[<p>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR …</p>
-<p>The post <a href="/blog/case-study-flipside-crypto-on-building-an-analytics-platform-on-the-bos/">Case Study: Flipside Crypto on Building an Analytics Platform on the BOS</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/case-study-flipside-crypto-on-building-an-analytics-platform-on-the-bos/">Case Study: Flipside Crypto on Building an Analytics Platform on the BOS</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR to effortlessly create and distribute innovative decentralized apps, while helping build a more open web — free from centralized platforms. In these Case Study videos, NEAR Foundation showcases some of these projects.&nbsp;</em></p>
@@ -61,7 +61,7 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="Case Study: Flipside Crypto on Building an Analytics Platform on the BOS" width="500" height="281" src="https://www.youtube.com/embed/JtYnC3dEIeU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
-<p>The post <a href="/blog/case-study-flipside-crypto-on-building-an-analytics-platform-on-the-bos/">Case Study: Flipside Crypto on Building an Analytics Platform on the BOS</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/case-study-flipside-crypto-on-building-an-analytics-platform-on-the-bos/">Case Study: Flipside Crypto on Building an Analytics Platform on the BOS</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -69,7 +69,7 @@
 			</item>
 		<item>
 		<title>Case Study: Satori&#8217;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy</title>
-		<link>/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/</link>
+		<link>https://pages.near.org/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 31 Jul 2023 14:30:00 +0000</pubDate>
@@ -77,10 +77,10 @@
 		<category><![CDATA[Gig Economy]]></category>
 		<category><![CDATA[NEAR Tasks]]></category>
 		<category><![CDATA[Satori]]></category>
-		<guid isPermaLink="false">/?p=20761</guid>
+		<guid isPermaLink="false">https://pages.near.org/?p=20761</guid>
 
 					<description><![CDATA[<p>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR …</p>
-<p>The post <a href="/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/">Case Study: Satori&#8217;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/">Case Study: Satori&#8217;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR to effortlessly create and distribute innovative decentralized apps, while helping build a more open web — free from centralized platforms. In these Case Study videos, NEAR Foundation showcases some of these projects.&nbsp;</em></p>
@@ -102,7 +102,7 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="Case Study: Satori&#039;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy" width="500" height="281" src="https://www.youtube.com/embed/eAzuG-iQw2o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
-<p>The post <a href="/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/">Case Study: Satori&#8217;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/">Case Study: Satori&#8217;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -110,17 +110,17 @@
 			</item>
 		<item>
 		<title>Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</title>
-		<link>/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/</link>
+		<link>https://pages.near.org/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 26 Jul 2023 16:00:00 +0000</pubDate>
 				<category><![CDATA[Case Studies]]></category>
 		<category><![CDATA[NEAR Horizon]]></category>
 		<category><![CDATA[Web3 Accelerator]]></category>
-		<guid isPermaLink="false">/?p=20758</guid>
+		<guid isPermaLink="false">https://pages.near.org/?p=20758</guid>
 
 					<description><![CDATA[<p>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR …</p>
-<p>The post <a href="/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/">Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/">Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR to effortlessly create and distribute innovative decentralized apps, while helping build a more open web — free from centralized platforms. In these Case Study videos, NEAR Foundation showcases some of these projects.&nbsp;</em></p>
@@ -138,7 +138,7 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="Case Study: NEAR Foundation&#039;s Laura Cunningham on the NEAR Horizon Startup Accelerator" width="500" height="281" src="https://www.youtube.com/embed/8R9rtRuk5Vw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
-<p>The post <a href="/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/">Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/">Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -146,17 +146,17 @@
 			</item>
 		<item>
 		<title>Case Study: Building on the NEAR Blockchain Operating System (BOS)</title>
-		<link>/blog/case-study-building-on-the-near-blockchain-operating-system-bos/</link>
+		<link>https://pages.near.org/blog/case-study-building-on-the-near-blockchain-operating-system-bos/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 24 Jul 2023 17:00:00 +0000</pubDate>
 				<category><![CDATA[Case Studies]]></category>
 		<category><![CDATA[Blockchain Operating System]]></category>
 		<category><![CDATA[BOS]]></category>
-		<guid isPermaLink="false">/?p=20749</guid>
+		<guid isPermaLink="false">https://pages.near.org/?p=20749</guid>
 
 					<description><![CDATA[<p>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR …</p>
-<p>The post <a href="/blog/case-study-building-on-the-near-blockchain-operating-system-bos/">Case Study: Building on the NEAR Blockchain Operating System (BOS)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/case-study-building-on-the-near-blockchain-operating-system-bos/">Case Study: Building on the NEAR Blockchain Operating System (BOS)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR to effortlessly create and distribute innovative decentralized apps, while helping build a more open web — free from centralized platforms. In these Case Study videos, NEAR Foundation showcases some of these projects. </em></p>
@@ -170,7 +170,7 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe loading="lazy" title="Case Study: Building on the NEAR Blockchain Operating System (BOS)" width="500" height="281" src="https://www.youtube.com/embed/lM1DBtkmPMQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
-<p>The post <a href="/blog/case-study-building-on-the-near-blockchain-operating-system-bos/">Case Study: Building on the NEAR Blockchain Operating System (BOS)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/case-study-building-on-the-near-blockchain-operating-system-bos/">Case Study: Building on the NEAR Blockchain Operating System (BOS)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -178,7 +178,7 @@
 			</item>
 		<item>
 		<title>How Solaire is Revolutionizing the Fashion Industry with Web3 Technology and Building the Retail Infrastructure on NEAR</title>
-		<link>/blog/how-solaire-is-revolutionizing-the-fashion-industry-with-web3-technology-and-building-the-retail-infrastructure-on-near/</link>
+		<link>https://pages.near.org/blog/how-solaire-is-revolutionizing-the-fashion-industry-with-web3-technology-and-building-the-retail-infrastructure-on-near/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 30 Mar 2023 13:20:43 +0000</pubDate>
@@ -186,10 +186,10 @@
 		<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[NFTs]]></category>
-		<guid isPermaLink="false">/?p=20346</guid>
+		<guid isPermaLink="false">https://pages.near.org/?p=20346</guid>
 
 					<description><![CDATA[<p>Solaire – an exciting web3 retail platform that merges physical and digital assets – is revolutionizing the way consumers interact …</p>
-<p>The post <a href="/blog/how-solaire-is-revolutionizing-the-fashion-industry-with-web3-technology-and-building-the-retail-infrastructure-on-near/">How Solaire is Revolutionizing the Fashion Industry with Web3 Technology and Building the Retail Infrastructure on NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/how-solaire-is-revolutionizing-the-fashion-industry-with-web3-technology-and-building-the-retail-infrastructure-on-near/">How Solaire is Revolutionizing the Fashion Industry with Web3 Technology and Building the Retail Infrastructure on NEAR</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://www.thespotroom.com/">Solaire</a> – an exciting web3 retail platform that merges physical and digital assets – is revolutionizing the way consumers interact with fashion brands. By harnessing the power of web3 and the NEAR blockchain, Solaire is building out key protocol infrastructure and APIs that will expand decentralized retail and unlock new opportunities for both shoppers and fashion brands alike.</p>
@@ -289,7 +289,7 @@
 
 
 <p>“Together with NEAR, we hope to lay out the Web3 infrastructure for the retail industry to onboard the next billion users into web3,&#8221; concluded Zhang. </p>
-<p>The post <a href="/blog/how-solaire-is-revolutionizing-the-fashion-industry-with-web3-technology-and-building-the-retail-infrastructure-on-near/">How Solaire is Revolutionizing the Fashion Industry with Web3 Technology and Building the Retail Infrastructure on NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/how-solaire-is-revolutionizing-the-fashion-industry-with-web3-technology-and-building-the-retail-infrastructure-on-near/">How Solaire is Revolutionizing the Fashion Industry with Web3 Technology and Building the Retail Infrastructure on NEAR</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -297,17 +297,17 @@
 			</item>
 		<item>
 		<title>Introducing SeatlabNFT: The Web3 Startup Changing the Ticketing Game </title>
-		<link>/blog/introducing-seatlabnft-the-web3-startup-changing-the-ticketing-game/</link>
+		<link>https://pages.near.org/blog/introducing-seatlabnft-the-web3-startup-changing-the-ticketing-game/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 09:38:58 +0000</pubDate>
 				<category><![CDATA[Case Studies]]></category>
 		<category><![CDATA[NFTs]]></category>
 		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">/?p=18720</guid>
+		<guid isPermaLink="false">https://pages.near.org/?p=18720</guid>
 
 					<description><![CDATA[<p>Music, sports, and entertainment ticketing is about to be completely reimagined. SeatlabNFT, an NFT ticketing platform built on the NEAR …</p>
-<p>The post <a href="/blog/introducing-seatlabnft-the-web3-startup-changing-the-ticketing-game/">Introducing SeatlabNFT: The Web3 Startup Changing the Ticketing Game </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/introducing-seatlabnft-the-web3-startup-changing-the-ticketing-game/">Introducing SeatlabNFT: The Web3 Startup Changing the Ticketing Game </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Music, sports, and entertainment ticketing is about to be completely reimagined. <a href="https://www.seatlabnft.com/about">SeatlabNFT</a>, an NFT ticketing platform built on the NEAR blockchain, is bringing fans closer to their favorite artists and sports teams, while also making the ticketing game a lot fairer by reducing scalping and touting.</p>
@@ -401,7 +401,7 @@
 
 
 <p>And even more exciting, integrating NFT technology into the ticketing space opens the door for limitless possibilities in connecting fans with their favorite artists and teams. Linking exclusive digital NFT collectibles and airdrops with tickets is ripe for experimentation, and the Immersive Fan Pass will engage fans on a level never before seen.</p>
-<p>The post <a href="/blog/introducing-seatlabnft-the-web3-startup-changing-the-ticketing-game/">Introducing SeatlabNFT: The Web3 Startup Changing the Ticketing Game </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/introducing-seatlabnft-the-web3-startup-changing-the-ticketing-game/">Introducing SeatlabNFT: The Web3 Startup Changing the Ticketing Game </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -409,15 +409,15 @@
 			</item>
 		<item>
 		<title>Inside the Tech: NFT.HipHop Marketplace</title>
-		<link>/blog/inside-the-tech-nft-hiphop/</link>
+		<link>https://pages.near.org/blog/inside-the-tech-nft-hiphop/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 12 Jul 2021 15:59:46 +0000</pubDate>
 				<category><![CDATA[Case Studies]]></category>
-		<guid isPermaLink="false">/?p=12549</guid>
+		<guid isPermaLink="false">https://pages.near.org/?p=12549</guid>
 
 					<description><![CDATA[<p>The NFT.HipHop marketplace auction of the Hip Hop Heads collection began on Juneteenth and will run for 37 days, until …</p>
-<p>The post <a href="/blog/inside-the-tech-nft-hiphop/">Inside the Tech: NFT.HipHop Marketplace</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/inside-the-tech-nft-hiphop/">Inside the Tech: NFT.HipHop Marketplace</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><span style="font-weight: 400;">The </span><a href="https://nft.hiphop/"><span style="font-weight: 400;">NFT.HipHop</span></a><span style="font-weight: 400;"> marketplace auction of the Hip Hop Heads collection began on Juneteenth and will run for 37 days, until July 25. A celebration of the history of hip hop and its most iconic artists, the pop-up marketplace also highlights some engineering innovations that highlight the advanced NFT developer and user experience on NEAR. NFT.HipHop incorporates seamless NEAR account creation, the ability to purchase NFTs with a credit card, customizable royalty splits that follow NFTs across marketplaces, and the debut of NFTs displaying in the NEAR wallet. </span></p>
 <h3>Inside the User Experience</h3>
@@ -433,7 +433,7 @@
 <p><span style="font-weight: 400;">When the 36-day marketplace draws to a close, every auction winner will see their NFT displayed in their NEAR wallet––in fact, all NEAR NFTs from any marketplace are displayed in a collectibles tab in the wallet. Like art hanging on a gallery wall or in your home, the user’s collection is accessible within a few clicks, and not just within an individual marketplace. </span></p>
 <h3>Inspired? Start Building!</h3>
 <p><span style="font-weight: 400;">Supporting documentation and open source repositories for building NFT marketplaces on NEAR are available to all. Any developer can utilize the concepts in this marketplace and model their dApps on this construct or remix different elements as part of a new idea. Head over to </span><a href="http://nft.hiphop/"><span style="font-weight: 400;">NFT.HipHop</span></a><span style="font-weight: 400;"> to see how NEAR’s seamless and easy tech can empower builders to create accessible, delightful user experiences.</span></p>
-<p>The post <a href="/blog/inside-the-tech-nft-hiphop/">Inside the Tech: NFT.HipHop Marketplace</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/inside-the-tech-nft-hiphop/">Inside the Tech: NFT.HipHop Marketplace</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -441,15 +441,15 @@
 			</item>
 		<item>
 		<title>How blockchain will save the Creator Economy</title>
-		<link>/blog/how-blockchain-will-save-the-creator-economy/</link>
+		<link>https://pages.near.org/blog/how-blockchain-will-save-the-creator-economy/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 07 Jul 2021 16:05:37 +0000</pubDate>
 				<category><![CDATA[Case Studies]]></category>
-		<guid isPermaLink="false">/?p=12505</guid>
+		<guid isPermaLink="false">https://pages.near.org/?p=12505</guid>
 
 					<description><![CDATA[<p>Why NFTs, DAOs and Open Finance will change the world for artists and their communities. Creators are Innovators Creative industries …</p>
-<p>The post <a href="/blog/how-blockchain-will-save-the-creator-economy/">How blockchain will save the Creator Economy</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/how-blockchain-will-save-the-creator-economy/">How blockchain will save the Creator Economy</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><strong><em>Why NFTs, DAOs and Open Finance will change the world for artists and their communities.</em></strong></p>
 <h2>Creators are Innovators</h2>
@@ -556,7 +556,7 @@
 <p>So, the tech has finally arrived to use these tools but we’re still in the explore-and-mix phase. It’s like the first time DJ Kool Herc kept that break beat going between two records &#8212; we just had the major “aha!” moment and now it’s up to the creators and communities of the world to take these tools and get this party started.</p>
 <p>&#8230;and, if you’re ready to do so, reach out!</p>
 <p>For creators or IP holders with massive fanbases, reach out to <a href="mailto:bd@near.org">bd@near.org</a> to see how this can be transformed into an engaging, repeated revenue stream. For community leaders interested in upleveling their community engagement and sustainability, reach out to <a href="mailto:community@near.org">community@near.org</a>. Finally, if you’re a developer who wants to hack on this stuff, check out https://docs.near.org/ and the free 5-day bootcamp at <a href="https://learnnear.club/certified-near-developer-application/">https://learnnear.club/certified-near-developer-application/</a>.</p>
-<p>The post <a href="/blog/how-blockchain-will-save-the-creator-economy/">How blockchain will save the Creator Economy</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/how-blockchain-will-save-the-creator-economy/">How blockchain will save the Creator Economy</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -564,15 +564,15 @@
 			</item>
 		<item>
 		<title>NFT Marketplace for Hip Hop Heads Launches on NEAR</title>
-		<link>/blog/nft-marketplace-for-hip-hop-heads-launches-on-near/</link>
+		<link>https://pages.near.org/blog/nft-marketplace-for-hip-hop-heads-launches-on-near/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Sat, 19 Jun 2021 16:49:04 +0000</pubDate>
 				<category><![CDATA[Case Studies]]></category>
-		<guid isPermaLink="false">/?p=11957</guid>
+		<guid isPermaLink="false">https://pages.near.org/?p=11957</guid>
 
 					<description><![CDATA[<p>Hey NEAR and Hip Hop Heads! Get ready for our first consumer-facing NFT pop-up shop! This project sprang from the …</p>
-<p>The post <a href="/blog/nft-marketplace-for-hip-hop-heads-launches-on-near/">NFT Marketplace for Hip Hop Heads Launches on NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/nft-marketplace-for-hip-hop-heads-launches-on-near/">NFT Marketplace for Hip Hop Heads Launches on NEAR</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<h3>Hey NEAR and Hip Hop Heads!</h3>
 <p>Get ready for our first consumer-facing NFT pop-up shop! This project sprang from the mind of Ed Young, one of the co-founders of the bible of hip-hop: <i>The Source Magazine</i>. He had this crazy idea, our team thought it was rad, and so we built it with him. What did we build? An epic collection of hip hop icons that you can own: <strong>Hip Hop Heads.</strong></p>
@@ -585,7 +585,7 @@
 <p>I’m so pumped to announce this launch. This carries a lot of personal weight for me. I remember the very first time I listened to “Enter the Wu-Tang (36 Chambers).” Hip hop never let me go after that. It’s funny in some ways; imagine an angsty, small-town white kid, chasing his older brother and his surfer punk friends to the beach and singing every word to “C.R.E.A.M.” But in other ways, this was destined to happen because of the work of Ed Young at <em>The Source</em>. Hip hop has been a force pushing culture for almost 50 years, and now it is bridging into what’s been a somewhat fringe technology for the last five. This remix of crypto and hip hop is the first of what I’m sure will be many: a brand-new blend of culture and technology is now becoming possible.</p>
 <p>We built this for people – fans – who know the feeling. Hip hop is so much more than music, and if you want to truly own a piece of its history, you should get on this! Try it out, start bidding, and let us know what you think. You only have 36 chambers…I mean days.</p>
 <p><a class="btn bg-red my-20" href="http://nft.hiphop/">Bid on your favorite Hip Hop Head at NFT.hiphop!</a></p>
-<p>The post <a href="/blog/nft-marketplace-for-hip-hop-heads-launches-on-near/">NFT Marketplace for Hip Hop Heads Launches on NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/nft-marketplace-for-hip-hop-heads-launches-on-near/">NFT Marketplace for Hip Hop Heads Launches on NEAR</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -593,15 +593,15 @@
 			</item>
 		<item>
 		<title>Toward a Better Planet:Green NFTs</title>
-		<link>/blog/toward-a-better-planet-green-nfts/</link>
+		<link>https://pages.near.org/blog/toward-a-better-planet-green-nfts/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 08 Jun 2021 19:18:35 +0000</pubDate>
 				<category><![CDATA[Case Studies]]></category>
-		<guid isPermaLink="false">/?p=11340</guid>
+		<guid isPermaLink="false">https://pages.near.org/?p=11340</guid>
 
 					<description><![CDATA[<p>After the boom of decentralized finance in 2020, the blockchain industry has turned its attention to NFTs. Artists, celebrities, and …</p>
-<p>The post <a href="/blog/toward-a-better-planet-green-nfts/">Toward a Better Planet:&lt;br&gt;Green NFTs</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/toward-a-better-planet-green-nfts/">Toward a Better Planet:&lt;br&gt;Green NFTs</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>After the boom of decentralized finance in 2020, the blockchain industry has turned its attention to NFTs. Artists, celebrities, and blockchain enthusiasts alike are minting, buying, and selling NFTs. But NFTs aren’t without controversy. Many people are against them because:</p>
 <ul>
@@ -613,11 +613,11 @@
 <p>South Pole projects range from protecting a strategic wildlife corridor in Zimbabwe and empowering local communities to generating renewable energy and helping create the circular economy with efficient waste disposal. While cutting carbon is the science underpinning their projects, building a socially just world is at the heart of what they do.</p>
 <p><i>“We need to think about our impact on nature and take decisions that offset our impact. There aren’t that many crypto-art initiatives that are ethical and green, but NEAR and Mintbase fit the bill.” – </i><a href="https://linktr.ee/BarbaraTosti"><i>Barbara Tosti</i></a><i>, artist</i></p>
 <h3>Collaborating For the Greater Good</h3>
-<p>Because <a href="/how-mintbase-made-minting-nfts-cheaper-faster-scalable-and-secure-with-near/">Mintbase is built on NEAR</a>, creating a store and minting NFTs is affordable, fast, and scalable. Anyone can mint NFTs and sell them for whatever price they want, even if that’s less than ten dollars. Previously, gas fees would have made that economically unviable, but NFTs shouldn’t be a rich people’s game.</p>
+<p>Because <a href="https://pages.near.org/how-mintbase-made-minting-nfts-cheaper-faster-scalable-and-secure-with-near/">Mintbase is built on NEAR</a>, creating a store and minting NFTs is affordable, fast, and scalable. Anyone can mint NFTs and sell them for whatever price they want, even if that’s less than ten dollars. Previously, gas fees would have made that economically unviable, but NFTs shouldn’t be a rich people’s game.</p>
 <p>That’s not all. Artist collaborations have become much easier, because Mintbase allows anyone to easily split both the revenue and royalties of a piece of art. All you need to do is define who gets what percentage. The smart contract will do the rest. Consider how this encourages novelists to write a book together, musicians to compose music together, and artists to work together with climate organizations for the greater good.</p>
 <h3>Built on Carbon-Neutral Technology</h3>
-<p>Green NFTs are only possible because the underlying infrastructure is carbon-neutral. The NEAR Foundation has been working together with South Pole to measure and offset its carbon footprint, and South Pole recently awarded the NEAR protocol its <a href="/blog/near-climate-neutral-product/">climate-neutral product label</a>.</p>
-<p>NEAR purchased carbon offsets from South Pole&#8217;s certified climate action projects to compensate for all direct and indirect emissions associated with the blockchain. Importantly, the NEAR protocol uses a <a href="/technology/">proof-of-stake consensus mechanism</a> instead of a proof-of-work consensus mechanism, which means that the NEAR protocol’s carbon emissions only amount to a fraction of any proof-of-work blockchain.</p>
+<p>Green NFTs are only possible because the underlying infrastructure is carbon-neutral. The NEAR Foundation has been working together with South Pole to measure and offset its carbon footprint, and South Pole recently awarded the NEAR protocol its <a href="https://pages.near.org/blog/near-climate-neutral-product/">climate-neutral product label</a>.</p>
+<p>NEAR purchased carbon offsets from South Pole&#8217;s certified climate action projects to compensate for all direct and indirect emissions associated with the blockchain. Importantly, the NEAR protocol uses a <a href="https://pages.near.org/technology/">proof-of-stake consensus mechanism</a> instead of a proof-of-work consensus mechanism, which means that the NEAR protocol’s carbon emissions only amount to a fraction of any proof-of-work blockchain.</p>
 <p>Measuring the carbon footprint of any blockchain is still a new field with many gray areas. Developments and changes to current methodologies can be expected as the field develops over time. But it’s important to start measuring today and iterate until we get it right instead of waiting for the perfect solution.</p>
 <p><i>“The environment should be at the core of any technological product. I lost interest in crypto-art when I learned about its environmental impact, but NEAR is on the right path to dealing with this problem.” – </i><a href="https://www.instagram.com/rccrdtrrs/"><i>Riccardo Torresi</i></a><i>, artist</i></p>
 <h3>A Step in the Right Direction</h3>
@@ -627,7 +627,7 @@
 <p><a class="btn my-20" href="https://www.mintbase.io/store/greennfts.mintbase1.near">View the Green NFT Project on Mintbase</a></p>
 <p><img loading="lazy" decoding="async" class="size-full wp-image-11358 aligncenter" src="https://pages.near.org/wp-content/uploads/2021/06/forest.jpg" alt="" width="1024" height="683" srcset="https://pages.near.org/wp-content/uploads/2021/06/forest.jpg 1024w, https://pages.near.org/wp-content/uploads/2021/06/forest-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2021/06/forest-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
 <p>As well as storing carbon, forests provide innumerable benefits to humans and wildlife alike. This picture shows a sunset over the Kariba Forest Protection project. <i> | Credit: South Pole</i></p>
-<p>The post <a href="/blog/toward-a-better-planet-green-nfts/">Toward a Better Planet:&lt;br&gt;Green NFTs</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+<p>The post <a href="https://pages.near.org/blog/toward-a-better-planet-green-nfts/">Toward a Better Planet:&lt;br&gt;Green NFTs</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
