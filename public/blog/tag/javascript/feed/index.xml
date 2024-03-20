@@ -9,8 +9,8 @@
 
 <channel>
 	<title>JavaScript Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/javascript/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/javascript/</link>
+	<atom:link href="/blog/tag/javascript/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/javascript/</link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Dec 2022 13:44:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>JavaScript Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/javascript/</link>
+	<link>/blog/tag/javascript/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</title>
-		<link>https://pages.near.org/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/</link>
+		<link>/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 08 Aug 2022 23:00:26 +0000</pubDate>
@@ -39,7 +39,7 @@
 		<guid isPermaLink="false">https://neardev.nmcgn.de/?p=17905</guid>
 
 					<description><![CDATA[<p>Blockchain development has just become a whole lot easier for Web2 developers. NEAR is thrilled to unveil its much anticipated …</p>
-<p>The post <a href="https://pages.near.org/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Blockchain development has just become a whole lot easier for Web2 developers. NEAR is thrilled to unveil its much anticipated JavaScript Software Development Kit (JS SDK) at ETHToronto, the official hackathon of the Blockchain Futurist Conference, in a significant move to democratize Web3 development.</p>
@@ -94,12 +94,12 @@
 
 
 
-<p>The JS SDK is developed by Pagoda, the engineering team that builds and maintains NEAR Protocol and some of the most important tools needed for decentralized application (dApp) development. Developers can use the Pagoda suite of tools to build, deploy, test, and interact with smart contracts on NEAR. For more information on the JS SDK, visit&nbsp;<a href="https://www.pagoda.co/jssdk?utm_source=blog&amp;utm_campaign=js-sdk">Pagoda</a>&nbsp;or join the&nbsp;<a href="http://near.chat/">NEAR Discord</a>&nbsp;and checkout the&nbsp;<em>#engineering</em>&nbsp;channels where resources like&nbsp;<a href="https://pages.near.org/office-hours">live support</a>&nbsp;are available every day.&nbsp;</p>
+<p>The JS SDK is developed by Pagoda, the engineering team that builds and maintains NEAR Protocol and some of the most important tools needed for decentralized application (dApp) development. Developers can use the Pagoda suite of tools to build, deploy, test, and interact with smart contracts on NEAR. For more information on the JS SDK, visit&nbsp;<a href="https://www.pagoda.co/jssdk?utm_source=blog&amp;utm_campaign=js-sdk">Pagoda</a>&nbsp;or join the&nbsp;<a href="http://near.chat/">NEAR Discord</a>&nbsp;and checkout the&nbsp;<em>#engineering</em>&nbsp;channels where resources like&nbsp;<a href="/office-hours">live support</a>&nbsp;are available every day.&nbsp;</p>
 
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -107,16 +107,16 @@
 			</item>
 		<item>
 		<title>Armored Kingdom, Brave, JavaScript: Highlights from NEAR @ Consensus</title>
-		<link>https://pages.near.org/blog/armored-kingdom-brave-javascript-highlights-from-near-consensus/</link>
+		<link>/blog/armored-kingdom-brave-javascript-highlights-from-near-consensus/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Sun, 12 Jun 2022 12:48:46 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[JavaScript]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=16691</guid>
+		<guid isPermaLink="false">/?p=16691</guid>
 
 					<description><![CDATA[<p>The NEAR community was busy connecting at the Consensus conference this weekend in Austin, Texas. The NEAR Foundation made its …</p>
-<p>The post <a href="https://pages.near.org/blog/armored-kingdom-brave-javascript-highlights-from-near-consensus/">Armored Kingdom, Brave, JavaScript: Highlights from NEAR @ Consensus</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/armored-kingdom-brave-javascript-highlights-from-near-consensus/">Armored Kingdom, Brave, JavaScript: Highlights from NEAR @ Consensus</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR community was busy connecting at the <a href="https://www.coindesk.com/consensus2022/">Consensus</a> conference this weekend in Austin, Texas. The NEAR Foundation made its presence felt in a variety of ways, from hosting educational developer workshops to panel discussions and speeches from key members of the ecosystem and Foundation.</p>
@@ -216,7 +216,7 @@
 
 
 <p>Between the upcoming JavaScript SDK, Armored Kingdom launching on NEAR, and partnering with Brave, Consensus was extraordinarily eventful, demonstrating the strength and commitment of the entire ecosystem. The NEAR Foundation thanks all community members, builders, and partners that engaged at Consensus Austin, and looks forward to seeing many of the same faces at <a href="https://nearcon.org/">NEARCON this September in Lisbon!</a></p>
-<p>The post <a href="https://pages.near.org/blog/armored-kingdom-brave-javascript-highlights-from-near-consensus/">Armored Kingdom, Brave, JavaScript: Highlights from NEAR @ Consensus</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/armored-kingdom-brave-javascript-highlights-from-near-consensus/">Armored Kingdom, Brave, JavaScript: Highlights from NEAR @ Consensus</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

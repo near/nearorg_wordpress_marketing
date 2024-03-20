@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Web3 B2B Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/web3-b2b/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/web3-b2b/</link>
+	<atom:link href="/blog/tag/web3-b2b/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/web3-b2b/</link>
 	<description></description>
 	<lastBuildDate>Mon, 25 Sep 2023 17:01:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Web3 B2B Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/web3-b2b/</link>
+	<link>/blog/tag/web3-b2b/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation Unlocks Web3 B2B Solutions with SK Inc. C&#038;C Strategic Partnership </title>
-		<link>https://pages.near.org/blog/near-foundation-unlocks-web3-b2b-solutions-with-sk-inc-cc-strategic-partnership/</link>
+		<link>/blog/near-foundation-unlocks-web3-b2b-solutions-with-sk-inc-cc-strategic-partnership/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[SK Inc. C&C]]></category>
 		<category><![CDATA[Web3 B2B]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20903</guid>
+		<guid isPermaLink="false">/?p=20903</guid>
 
 					<description><![CDATA[<p>The NEAR Foundation is joining forces with SK Inc. C&#38;C, a global leader in the IT industry, to help Web3 …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-unlocks-web3-b2b-solutions-with-sk-inc-cc-strategic-partnership/">NEAR Foundation Unlocks Web3 B2B Solutions with SK Inc. C&amp;C Strategic Partnership </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-unlocks-web3-b2b-solutions-with-sk-inc-cc-strategic-partnership/">NEAR Foundation Unlocks Web3 B2B Solutions with SK Inc. C&amp;C Strategic Partnership </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR Foundation is joining forces with <a href="https://www.skcc.com/">SK Inc. C&amp;C</a>, a global leader in the IT industry, to help Web3 businesses expand in the region.&nbsp;</p>
@@ -78,8 +78,8 @@
 
 
 
-<p>The partnership with SK Inc. C&amp;C forms part of a wider strategy to help support Asia’s role in mainstream adoption of Web3 and Open Web technologies. The NEAR Foundation’s support of ecosystems across Asia culminated in its recent <a href="https://pages.near.org/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC conference</a> that took place in Ho Chi Minh City, Vietnam.&nbsp;<br>&#8220;NEAR Protocol is actively making moves to conquer the Korean market. As evidenced by the management team&#8217;s visit to Korea during Korea Blockchain Week (KBW), where discussions were held with leading companies in various industries, we expect significant results initially led by SK Inc. C&amp;C,&#8221; says Scott Lee, General Manager, NEAR Korea.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-unlocks-web3-b2b-solutions-with-sk-inc-cc-strategic-partnership/">NEAR Foundation Unlocks Web3 B2B Solutions with SK Inc. C&amp;C Strategic Partnership </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The partnership with SK Inc. C&amp;C forms part of a wider strategy to help support Asia’s role in mainstream adoption of Web3 and Open Web technologies. The NEAR Foundation’s support of ecosystems across Asia culminated in its recent <a href="/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC conference</a> that took place in Ho Chi Minh City, Vietnam.&nbsp;<br>&#8220;NEAR Protocol is actively making moves to conquer the Korean market. As evidenced by the management team&#8217;s visit to Korea during Korea Blockchain Week (KBW), where discussions were held with leading companies in various industries, we expect significant results initially led by SK Inc. C&amp;C,&#8221; says Scott Lee, General Manager, NEAR Korea.&nbsp;</p>
+<p>The post <a href="/blog/near-foundation-unlocks-web3-b2b-solutions-with-sk-inc-cc-strategic-partnership/">NEAR Foundation Unlocks Web3 B2B Solutions with SK Inc. C&amp;C Strategic Partnership </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

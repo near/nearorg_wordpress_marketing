@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Partners Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/partners/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/partners/</link>
+	<atom:link href="/blog/tag/partners/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/partners/</link>
 	<description></description>
 	<lastBuildDate>Wed, 26 Apr 2023 10:19:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Partners Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/partners/</link>
+	<link>/blog/tag/partners/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation PR Roundup for March</title>
-		<link>https://pages.near.org/blog/near-foundation-pr-roundup-for-march/</link>
+		<link>/blog/near-foundation-pr-roundup-for-march/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 31 Mar 2023 14:29:22 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Community]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Partners]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20350</guid>
+		<guid isPermaLink="false">/?p=20350</guid>
 
 					<description><![CDATA[<p>The NEAR ecosystem is ending March on several extremely high notes, from partnerships and community events to unfolding initiatives.  NEAR …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-march/">NEAR Foundation PR Roundup for March</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-pr-roundup-for-march/">NEAR Foundation PR Roundup for March</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR ecosystem is ending March on several extremely high notes, from partnerships and community events to unfolding initiatives. </p>
@@ -99,7 +99,7 @@
 
 
 
-<p>Let&#8217;s also not forget the over 1,000 people in attendance for NEAR Day, a one-day mini-summit for all things NEAR. Other<a href="https://pages.near.org/blog/near-at-ethdenver-highlights/"> big highlights</a> out of ETHDenver included premium NFT platform Few &amp; Far raising $30 million, the very first session unveiling the BOS, and Flowcarbon’s new carbon-market ecosystem built on the NEAR blockchain.</p>
+<p>Let&#8217;s also not forget the over 1,000 people in attendance for NEAR Day, a one-day mini-summit for all things NEAR. Other<a href="/blog/near-at-ethdenver-highlights/"> big highlights</a> out of ETHDenver included premium NFT platform Few &amp; Far raising $30 million, the very first session unveiling the BOS, and Flowcarbon’s new carbon-market ecosystem built on the NEAR blockchain.</p>
 
 
 
@@ -107,7 +107,7 @@
 
 
 
-<p>March also saw the<a href="https://pages.near.org/blog/arpit-sharma-joins-near-as-managing-director-for-india-asia-and-middle-east-expansion/"> appointment of Arpit Sharma</a> as the Managing Director for India, South East Asia, and the Middle East regions. His focus will be on expanding the NEAR ecosystem&#8217;s presence in those regions, bringing a wealth of experience and expertise from a wide array of industries, solutions, and use cases.</p>
+<p>March also saw the<a href="/blog/arpit-sharma-joins-near-as-managing-director-for-india-asia-and-middle-east-expansion/"> appointment of Arpit Sharma</a> as the Managing Director for India, South East Asia, and the Middle East regions. His focus will be on expanding the NEAR ecosystem&#8217;s presence in those regions, bringing a wealth of experience and expertise from a wide array of industries, solutions, and use cases.</p>
 
 
 
@@ -155,7 +155,7 @@
 
 
 
-<p>Finally, small-to-medium-sized business owners are about to get exciting new tools for customer engagement using web3 and NEAR. Popp, a web3 customer engagement solution-as-a-service,<a href="https://pages.near.org/blog/near-and-popp-partner-on-customer-engagement-for-small-businesses/"> announced that it will launch</a> its white-label service exclusively on NEAR.</p>
+<p>Finally, small-to-medium-sized business owners are about to get exciting new tools for customer engagement using web3 and NEAR. Popp, a web3 customer engagement solution-as-a-service,<a href="/blog/near-and-popp-partner-on-customer-engagement-for-small-businesses/"> announced that it will launch</a> its white-label service exclusively on NEAR.</p>
 
 
 
@@ -172,7 +172,7 @@
 
 
 <p>March was certainly a whirlwind month for NEAR, with the BOS taking the ecosystem into the next era of web3 usability. And not to mention NEAR Day at ETHDenver being a rousing success. NEAR will continue to forge ahead at full steam in April, but if we missed anything that happened in March the community should hear about, don’t hesitate to let us know!</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-march/">NEAR Foundation PR Roundup for March</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-pr-roundup-for-march/">NEAR Foundation PR Roundup for March</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -180,17 +180,17 @@
 			</item>
 		<item>
 		<title>NEAR and Popp Partner on Customer Engagement for Small Businesses</title>
-		<link>https://pages.near.org/blog/near-and-popp-partner-on-customer-engagement-for-small-businesses/</link>
+		<link>/blog/near-and-popp-partner-on-customer-engagement-for-small-businesses/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 24 Mar 2023 16:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Partners]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20311</guid>
+		<guid isPermaLink="false">/?p=20311</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership with Popp, a company helping small businesses generate better customer engagement …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-popp-partner-on-customer-engagement-for-small-businesses/">NEAR and Popp Partner on Customer Engagement for Small Businesses</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-popp-partner-on-customer-engagement-for-small-businesses/">NEAR and Popp Partner on Customer Engagement for Small Businesses</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce a new partnership with Popp, a company helping small businesses generate better customer engagement using Web3 technology. </p>
@@ -262,7 +262,7 @@
 
 
 <p>Head over to <a href="https://www.joinpopp.com/">Popp</a> to explore the company’s customer rewards ecosystem. Popp’s closed beta is now live and e-commerce brands should head over to the website now to join the waitlist!&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-popp-partner-on-customer-engagement-for-small-businesses/">NEAR and Popp Partner on Customer Engagement for Small Businesses</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-popp-partner-on-customer-engagement-for-small-businesses/">NEAR and Popp Partner on Customer Engagement for Small Businesses</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -270,7 +270,7 @@
 			</item>
 		<item>
 		<title>NEAR Foundation PR Roundup for February</title>
-		<link>https://pages.near.org/blog/near-foundation-pr-roundup-for-february/</link>
+		<link>/blog/near-foundation-pr-roundup-for-february/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 28 Feb 2023 20:15:32 +0000</pubDate>
@@ -278,10 +278,10 @@
 		<category><![CDATA[Community]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Partners]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19788</guid>
+		<guid isPermaLink="false">/?p=19788</guid>
 
 					<description><![CDATA[<p>As February draws to a close, NEAR Foundation wanted to share some of the best news headlines from the Near …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-february/">NEAR Foundation PR Roundup for February</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-pr-roundup-for-february/">NEAR Foundation PR Roundup for February</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>As February draws to a close, NEAR Foundation wanted to share some of the best news headlines from the Near ecosystem and community. </p>
@@ -377,7 +377,7 @@
 
 
 <p>That’s all for February. If NEAR Foundation missed anything or you would like to share anything for next month’s roundup, please get in touch!</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-february/">NEAR Foundation PR Roundup for February</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-pr-roundup-for-february/">NEAR Foundation PR Roundup for February</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

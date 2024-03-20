@@ -9,8 +9,8 @@
 
 <channel>
 	<title>TheFunPass™ Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/thefunpass/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/thefunpass/</link>
+	<atom:link href="/blog/tag/thefunpass/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/thefunpass/</link>
 	<description></description>
 	<lastBuildDate>Mon, 17 Jul 2023 20:22:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>TheFunPass™ Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/thefunpass/</link>
+	<link>/blog/tag/thefunpass/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</title>
-		<link>https://pages.near.org/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/</link>
+		<link>/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 13 Jul 2023 22:00:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Richmond Night Market]]></category>
 		<category><![CDATA[the littles]]></category>
 		<category><![CDATA[TheFunPass™]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20721</guid>
+		<guid isPermaLink="false">/?p=20721</guid>
 
 					<description><![CDATA[<p>Everyone’s a winner playing carnival games thanks to TheFunPass™, a groundbreaking leap in Web3 that will redefine loyalty rewards and …</p>
-<p>The post <a href="https://pages.near.org/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/">TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/">TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Everyone’s a winner playing carnival games thanks to TheFunPass™, a groundbreaking leap in Web3 that will redefine loyalty rewards and transform the way we engage and connect with events and experiences. From the popular Web3 project, <a href="https://twitter.com/thelittlesnft">the littles</a>, this innovative Web3 rewards app on the NEAR blockchain offers a solution that will transform the event landscape, that benefits event-goers but also empowers event operators.&nbsp;</p>
@@ -137,7 +137,7 @@
 
 
 <p>TheFunPass™ presents a unique convergence of loyalty rewards, immersive experiences, and Web3 technology. As we step into the future of truly phygital experiences, every event-goer can look forward to a redefined, gamified, and winning event experience like never before.</p>
-<p>The post <a href="https://pages.near.org/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/">TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/">TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

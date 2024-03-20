@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Analytics Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/analytics/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/analytics/</link>
+	<atom:link href="/blog/tag/analytics/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/analytics/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Apr 2023 19:07:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Analytics Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/analytics/</link>
+	<link>/blog/tag/analytics/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR and Nansen Partner on On-Chain Analytics for Founders and Investors</title>
-		<link>https://pages.near.org/blog/near-and-nansen-partner-on-on-chain-analytics-for-founders-and-investors/</link>
+		<link>/blog/near-and-nansen-partner-on-on-chain-analytics-for-founders-and-investors/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 18 Apr 2023 14:10:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Analytics]]></category>
 		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20447</guid>
+		<guid isPermaLink="false">/?p=20447</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership with Nansen, a blockchain analytics firm, on advanced tools for dApp …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-nansen-partner-on-on-chain-analytics-for-founders-and-investors/">NEAR and Nansen Partner on On-Chain Analytics for Founders and Investors</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-nansen-partner-on-on-chain-analytics-for-founders-and-investors/">NEAR and Nansen Partner on On-Chain Analytics for Founders and Investors</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce a new partnership with <a href="https://www.nansen.ai/">Nansen</a>, a blockchain analytics firm, on advanced tools for dApp developers and investors. Led by the <a href="https://nearbalkans.org/">NEAR Balkans Hub</a>, the partnership with Nansen will give developers and investors new insights and data-driven solutions, like real-time data on transactions, addresses, and network activity.</p>
@@ -71,7 +71,7 @@
 
 
 <p>As NEAR evolves into the Blockchain Operating System, a common layer for browsing and discovering open web experiences, compatible with all blockchains, this collaboration will help drive innovation on NEAR and onboard many new developers, investors, and end users into Web3.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-nansen-partner-on-on-chain-analytics-for-founders-and-investors/">NEAR and Nansen Partner on On-Chain Analytics for Founders and Investors</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-nansen-partner-on-on-chain-analytics-for-founders-and-investors/">NEAR and Nansen Partner on On-Chain Analytics for Founders and Investors</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

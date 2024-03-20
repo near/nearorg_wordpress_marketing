@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Funding Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/funding/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/funding/</link>
+	<atom:link href="/blog/tag/funding/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/funding/</link>
 	<description></description>
 	<lastBuildDate>Mon, 10 Apr 2023 20:57:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Funding Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/funding/</link>
+	<link>/blog/tag/funding/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Update on Near Decentralized Funding, DAOs, and Accelerator</title>
-		<link>https://pages.near.org/blog/update-on-near-decentralized-funding-daos-and-accelerator/</link>
+		<link>/blog/update-on-near-decentralized-funding-daos-and-accelerator/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 24 Feb 2023 16:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[DAOs]]></category>
 		<category><![CDATA[Funding]]></category>
 		<category><![CDATA[Web3 Accelerator]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19785</guid>
+		<guid isPermaLink="false">/?p=19785</guid>
 
 					<description><![CDATA[<p>Hello Nearians, We are more than halfway through the first quarter of 2023 and wanted to share a quick update …</p>
-<p>The post <a href="https://pages.near.org/blog/update-on-near-decentralized-funding-daos-and-accelerator/">Update on Near Decentralized Funding, DAOs, and Accelerator</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/update-on-near-decentralized-funding-daos-and-accelerator/">Update on Near Decentralized Funding, DAOs, and Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Hello Nearians,</p>
@@ -59,7 +59,7 @@
 
 
 
-<p>Important <a href="https://pages.near.org/blog/refining-near-foundations-grant-approach/">changes in the grant program</a> were announced at the start of January, highlighting the Foundation’s goal for a more decentralized funding process by handing over decision making to community DAOs. What follows is the status of the initial DAOs.&nbsp;</p>
+<p>Important <a href="/blog/refining-near-foundations-grant-approach/">changes in the grant program</a> were announced at the start of January, highlighting the Foundation’s goal for a more decentralized funding process by handing over decision making to community DAOs. What follows is the status of the initial DAOs.&nbsp;</p>
 
 
 
@@ -174,7 +174,7 @@
 
 
 <ol start="2">
-<li>We recently made <a href="https://pages.near.org/blog/open-call-for-near-accelerator-partners/">an open call to partner with accelerator programs</a> that can help us fast track support needs for projects. We will be releasing additional open calls in the coming weeks as we continue building out the support network available for founders. These open calls will be for:
+<li>We recently made <a href="/blog/open-call-for-near-accelerator-partners/">an open call to partner with accelerator programs</a> that can help us fast track support needs for projects. We will be releasing additional open calls in the coming weeks as we continue building out the support network available for founders. These open calls will be for:
 <ol>
 <li>Engineering support resources</li>
 
@@ -218,7 +218,7 @@
 
 
 <p>And again, if your project is building on NEAR or interested in doing so and you are in need of some immediate support, fill out this <a href="https://airtable.com/shrQk2yWacIj2QA3E">Project Support Form</a>. NEAR Foundation will connect you with the appropriate person or organization who can assist.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/update-on-near-decentralized-funding-daos-and-accelerator/">Update on Near Decentralized Funding, DAOs, and Accelerator</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/update-on-near-decentralized-funding-daos-and-accelerator/">Update on Near Decentralized Funding, DAOs, and Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

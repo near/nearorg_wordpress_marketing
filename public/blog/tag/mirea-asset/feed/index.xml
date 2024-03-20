@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mirea Asset Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/mirea-asset/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/mirea-asset/</link>
+	<atom:link href="/blog/tag/mirea-asset/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/mirea-asset/</link>
 	<description></description>
 	<lastBuildDate>Fri, 09 Jun 2023 09:04:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Mirea Asset Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/mirea-asset/</link>
+	<link>/blog/tag/mirea-asset/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation Joins Forces with Mirae Asset for the Next Leap in Web3 Finance</title>
-		<link>https://pages.near.org/blog/near-foundation-joins-forces-with-mirae-asset-for-the-next-leap-in-web3-finance/</link>
+		<link>/blog/near-foundation-joins-forces-with-mirae-asset-for-the-next-leap-in-web3-finance/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Mirea Asset]]></category>
 		<category><![CDATA[Web3 Finance]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20574</guid>
+		<guid isPermaLink="false">/?p=20574</guid>
 
 					<description><![CDATA[<p>In a pivotal partnership for the blockchain industry, NEAR Foundation is joining forces with Mirae Asset — a subsidiary of …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-joins-forces-with-mirae-asset-for-the-next-leap-in-web3-finance/">NEAR Foundation Joins Forces with Mirae Asset for the Next Leap in Web3 Finance</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-joins-forces-with-mirae-asset-for-the-next-leap-in-web3-finance/">NEAR Foundation Joins Forces with Mirae Asset for the Next Leap in Web3 Finance</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>In a pivotal partnership for the blockchain industry, NEAR Foundation is joining forces with <a href="https://english.securities.miraeasset.com/">Mirae Asset </a>— a subsidiary of Asia&#8217;s largest financial group Mirae Asset Global — to help bridge the gap between trad-fi and Web3. This collaborative endeavor will thrust Web3 into the spotlight in the traditional finance market in South Korea and the larger Asian region, driving innovation and growth in the sector.</p>
@@ -58,7 +58,7 @@
 
 
 
-<p>NEAR is a global Layer 1 protocol with a strong emphasis on usability (NEAR Protocol). With its new Blockchain Operating System (BOS) feature <a href="https://pages.near.org/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/?_gl=1%2Av0gtmm%2A_up%2AMQ..%2A_ga%2AMTQzNDA5ODU0OC4xNjg1OTQ4OTI4%2A_ga_9GWCXQJ62J%2AMTY4NTk0ODkyNi4xLjAuMTY4NTk0ODkyNi4wLjAuMA..">FastAuth</a>, NEAR offers a user-friendly gateway into the world of Web3, mirroring the simplicity of email login. By presenting accessible solutions through <a href="https://near.org/blog/near-blockchain-operating-system-is-now-live-on-near-org/">BOS</a>, it eases the transition for traditional businesses and developers. This ease of entry into Web3 fosters an environment conducive to the growth of innovative financial services.</p>
+<p>NEAR is a global Layer 1 protocol with a strong emphasis on usability (NEAR Protocol). With its new Blockchain Operating System (BOS) feature <a href="/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/?_gl=1%2Av0gtmm%2A_up%2AMQ..%2A_ga%2AMTQzNDA5ODU0OC4xNjg1OTQ4OTI4%2A_ga_9GWCXQJ62J%2AMTY4NTk0ODkyNi4xLjAuMTY4NTk0ODkyNi4wLjAuMA..">FastAuth</a>, NEAR offers a user-friendly gateway into the world of Web3, mirroring the simplicity of email login. By presenting accessible solutions through <a href="https://near.org/blog/near-blockchain-operating-system-is-now-live-on-near-org/">BOS</a>, it eases the transition for traditional businesses and developers. This ease of entry into Web3 fosters an environment conducive to the growth of innovative financial services.</p>
 
 
 
@@ -91,7 +91,7 @@
 
 
 <p>In essence, this alliance between NEAR Foundation and Mirae Asset marks a turning point in the realm of Web3 finance, firmly rooted in the innovative and scalable infrastructure of the NEAR Protocol, NEAR Foundation, and ecosystem.</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-joins-forces-with-mirae-asset-for-the-next-leap-in-web3-finance/">NEAR Foundation Joins Forces with Mirae Asset for the Next Leap in Web3 Finance</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-joins-forces-with-mirae-asset-for-the-next-leap-in-web3-finance/">NEAR Foundation Joins Forces with Mirae Asset for the Next Leap in Web3 Finance</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

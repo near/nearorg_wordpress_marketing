@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Gaming Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/gaming/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/gaming/</link>
+	<atom:link href="/blog/tag/gaming/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/gaming/</link>
 	<description></description>
 	<lastBuildDate>Tue, 12 Sep 2023 07:21:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Gaming Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/gaming/</link>
+	<link>/blog/tag/gaming/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</title>
-		<link>https://pages.near.org/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/</link>
+		<link>/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Sat, 09 Sep 2023 12:14:36 +0000</pubDate>
@@ -41,10 +41,10 @@
 		<category><![CDATA[Events]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[NEAR APAC]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20835</guid>
+		<guid isPermaLink="false">/?p=20835</guid>
 
 					<description><![CDATA[<p>After many months in the making, the inaugural NEAR APAC conference kicked off today in Ho Chi Min City, Vietnam. …</p>
-<p>The post <a href="https://pages.near.org/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>After many months in the making, the inaugural NEAR APAC conference kicked off today in Ho Chi Min City, Vietnam. Held in conjunction with the <a href="https://nearvietnamhub.org/">NEAR Vietnam community</a> and NEAR Foundation, NEAR APAC is showcasing the vibrant crypto and Web3 community across the region as well as the potential of the B.O.S. and Open Web both locally and globally.</p>
@@ -140,7 +140,7 @@
 
 
 <p>If Day One was any indication, the NEAR community’s growth, presence, and development in APAC will only continue accelerating through 2023 and beyond!</p>
-<p>The post <a href="https://pages.near.org/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -148,7 +148,7 @@
 			</item>
 		<item>
 		<title>NEAR Foundation PR Roundup for June</title>
-		<link>https://pages.near.org/blog/near-foundation-pr-roundup-for-june/</link>
+		<link>/blog/near-foundation-pr-roundup-for-june/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
@@ -158,10 +158,10 @@
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Partnerships]]></category>
 		<category><![CDATA[Press]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20694</guid>
+		<guid isPermaLink="false">/?p=20694</guid>
 
 					<description><![CDATA[<p>As June comes to a close, summer in the NEAR ecosystem is heating up with a wave of new announcements, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-june/">NEAR Foundation PR Roundup for June</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-pr-roundup-for-june/">NEAR Foundation PR Roundup for June</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>As June comes to a close, summer in the NEAR ecosystem is heating up with a wave of new announcements, events, media appearances, and more. Not to mention a few notable celebrities bringing some star power into NEAR’s orbit. Here’s a rundown of all the newsworthy NEAR happenings over the past month.</p>
@@ -249,7 +249,7 @@
 
 
 <p>That’s all for this month. If we missed anything or want to share anything for next month’s roundup, get in touch!</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-june/">NEAR Foundation PR Roundup for June</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-pr-roundup-for-june/">NEAR Foundation PR Roundup for June</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -257,7 +257,7 @@
 			</item>
 		<item>
 		<title>NEAR Foundation Partners with Vortex Gaming, a Web3 Subsidiary of Korea’s Largest Gaming Community INVEN</title>
-		<link>https://pages.near.org/blog/near-foundation-partners-with-vortex-gaming-a-web3-subsidiary-of-koreas-largest-gaming-community-inven/</link>
+		<link>/blog/near-foundation-partners-with-vortex-gaming-a-web3-subsidiary-of-koreas-largest-gaming-community-inven/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
@@ -266,10 +266,10 @@
 		<category><![CDATA[INVEN]]></category>
 		<category><![CDATA[NEAR Korea Hub]]></category>
 		<category><![CDATA[Vortex Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20658</guid>
+		<guid isPermaLink="false">/?p=20658</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership with Vortex Gaming, a Web3 subsidiary of the leading game industry …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-partners-with-vortex-gaming-a-web3-subsidiary-of-koreas-largest-gaming-community-inven/">NEAR Foundation Partners with Vortex Gaming, a Web3 Subsidiary of Korea’s Largest Gaming Community INVEN</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-partners-with-vortex-gaming-a-web3-subsidiary-of-koreas-largest-gaming-community-inven/">NEAR Foundation Partners with Vortex Gaming, a Web3 Subsidiary of Korea’s Largest Gaming Community INVEN</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce a new partnership with <a href="https://vortexgaming.io/">Vortex Gaming</a>, a Web3 subsidiary of the leading game industry <a href="https://www.google.com/search?q=inven%20korea">INVEN</a>. INVEN is the largest game media·community in Korea, with a monthly active user (MAU) count of 7.2 million.</p>
@@ -313,7 +313,7 @@
 
 
 <p>&#8220;While the strong content competitiveness of leading companies plays a crucial role in attracting many users to the NEAR ecosystem, community is the key driving force in maintaining this competitiveness,”said&nbsp; Scott Lee, Co-CEO of NEAR Korea. &#8220;The synergy effects resulting from the onboarding of Vortex Gaming will further strengthen NEAR&#8217;s position as the optimal mainnet in the Web3 game ecosystem, accelerating ecosystem development.&#8221;</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-partners-with-vortex-gaming-a-web3-subsidiary-of-koreas-largest-gaming-community-inven/">NEAR Foundation Partners with Vortex Gaming, a Web3 Subsidiary of Korea’s Largest Gaming Community INVEN</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-partners-with-vortex-gaming-a-web3-subsidiary-of-koreas-largest-gaming-community-inven/">NEAR Foundation Partners with Vortex Gaming, a Web3 Subsidiary of Korea’s Largest Gaming Community INVEN</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -321,7 +321,7 @@
 			</item>
 		<item>
 		<title>NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</title>
-		<link>https://pages.near.org/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/</link>
+		<link>/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 31 May 2023 13:00:00 +0000</pubDate>
@@ -329,10 +329,10 @@
 		<category><![CDATA[ARterra Labs]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20547</guid>
+		<guid isPermaLink="false">/?p=20547</guid>
 
 					<description><![CDATA[<p>The ever-expanding gaming landscape faces significant challenges such as engagement and identity fragmentation. As fans navigate platforms like Twitch, Discord, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/">NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/">NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The ever-expanding gaming landscape faces significant challenges such as engagement and identity fragmentation. As fans navigate platforms like Twitch, Discord, and YouTube, brands and creators struggle to monetize their fan bases effectively. This is where <a href="https://arterra.co/">ARterra Labs</a> steps in — a company on a mission to revolutionize fan engagement and unlock Web3 fandom for the gaming industry.</p>
@@ -396,7 +396,7 @@
 
 
 <p>Amplifying the open web gaming journey with Battle Pass, metaverse realities, and the fan passport, ARterra Labs and NEAR Foundation don&#8217;t merely enhance the experience — they define a new standard. It&#8217;s a game-changing era in Web3 and fans are just barely unlocking the first level.</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/">NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/">NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -404,7 +404,7 @@
 			</item>
 		<item>
 		<title>NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</title>
-		<link>https://pages.near.org/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/</link>
+		<link>/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 02 May 2023 14:00:00 +0000</pubDate>
@@ -412,10 +412,10 @@
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Pipeflare]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20468</guid>
+		<guid isPermaLink="false">/?p=20468</guid>
 
 					<description><![CDATA[<p>NEAR Foundation and PipeFlare, a trailblazing play-to-earn (P2E) platform, are partnering to reshape Web3 gaming by building on Aurora, NEAR&#8217;s …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/">NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/">NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation and <a href="https://pipeflare.io/">PipeFlare</a>, a trailblazing play-to-earn (P2E) platform, are partnering to reshape Web3 gaming by building on Aurora, NEAR&#8217;s Ethereum-compatible layer. As Web3 gaming on NEAR accelerates, PipeFlare will enable gamers to play, earn crypto, and engage socially in a decentralized environment. Collaborating with NEAR Foundation, PipeFlare aims to redefine scalability, security, and sheer enjoyment in Web3 by leveraging the EVM-compatible development capabilities of Aurora.</p>
@@ -485,7 +485,7 @@
 
 
 <p>The collaboration also marks substantial progress for the Web3 gaming industry, demonstrating that key players recognize NEAR’s potential. It also signals NEAR’s strong positioning to emerge as the premier blockchain for novel gaming experiences.</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/">NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/">NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -493,7 +493,7 @@
 			</item>
 		<item>
 		<title>NEAR and WEMADE Team Up to Accelerate Mainstream Web3 Adoption</title>
-		<link>https://pages.near.org/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/</link>
+		<link>/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 23 Mar 2023 13:00:00 +0000</pubDate>
@@ -501,10 +501,10 @@
 		<category><![CDATA[GameFI]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20318</guid>
+		<guid isPermaLink="false">/?p=20318</guid>
 
 					<description><![CDATA[<p>The Near Foundation is excited to announce that it’s partnering with WEMADE, one of the largest publicly-listed gaming companies in …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/">NEAR and WEMADE Team Up to Accelerate Mainstream Web3 Adoption</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/">NEAR and WEMADE Team Up to Accelerate Mainstream Web3 Adoption</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The Near Foundation is excited to announce that it’s partnering with WEMADE, one of the largest publicly-listed gaming companies in South Korea. A leading game developer in South Korea for over 20 years, WEMADE will be vital in Near’s push toward mainstream adoption of Web3.</p>
@@ -560,7 +560,7 @@
 
 
 <p>The Near-WEMADE partnership marks the second major Web3 gaming partnership from the Near Korea Hub. The first, a partnership with BORA — the Web3 GameFi platform of Kakao Games — will also be vital in accelerating the mainstream adoption of Web3.&nbsp;&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/">NEAR and WEMADE Team Up to Accelerate Mainstream Web3 Adoption</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/">NEAR and WEMADE Team Up to Accelerate Mainstream Web3 Adoption</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -568,7 +568,7 @@
 			</item>
 		<item>
 		<title>Near Partners with BORA, Web3 GameFi Platform of Kakao Games</title>
-		<link>https://pages.near.org/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/</link>
+		<link>/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 06 Mar 2023 14:00:00 +0000</pubDate>
@@ -578,10 +578,10 @@
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Kakao Games]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20253</guid>
+		<guid isPermaLink="false">/?p=20253</guid>
 
 					<description><![CDATA[<p>Near is excited to announce a new strategic partnership with BORA, a Web3&#160; gaming subsidiary of METABORA. Near and BORA …</p>
-<p>The post <a href="https://pages.near.org/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">Near Partners with BORA, Web3 GameFi Platform of Kakao Games</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">Near Partners with BORA, Web3 GameFi Platform of Kakao Games</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Near is excited to announce a new strategic partnership with BORA, a Web3&nbsp; gaming subsidiary of METABORA. Near and BORA will support each other in spreading local brand awareness, invest in research and collaboration on cross-chain, host events, and generate Web3 opportunities in Korea.&nbsp;</p>
@@ -601,7 +601,7 @@
 
 
 <p>“One of the big ambitions of the hub&nbsp; is&nbsp; to tap into the country’s active gaming community, and to&nbsp; bring&nbsp; amazing projects and creators to the Near ecosystem.” said Robbie Lim, GM, Partners &amp; International at Near. “ The partnership with BORA is our first major win &#8211; and a big step forward for NEAR as it accelerates its ambition to become the go to layer 1 for the Web3 gaming community.”&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">Near Partners with BORA, Web3 GameFi Platform of Kakao Games</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">Near Partners with BORA, Web3 GameFi Platform of Kakao Games</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -609,7 +609,7 @@
 			</item>
 		<item>
 		<title>NEAR 2022: A Year in Review</title>
-		<link>https://pages.near.org/blog/near-2022-a-year-in-review/</link>
+		<link>/blog/near-2022-a-year-in-review/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 23 Dec 2022 15:00:00 +0000</pubDate>
@@ -618,13 +618,13 @@
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[NFTs]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19607</guid>
+		<guid isPermaLink="false">/?p=19607</guid>
 
 					<description><![CDATA[<p>It’s been a whirlwind year for NEAR – and it’s hard to believe that 2022 is coming to an end. …</p>
-<p>The post <a href="https://pages.near.org/blog/near-2022-a-year-in-review/">NEAR 2022: A Year in Review</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-2022-a-year-in-review/">NEAR 2022: A Year in Review</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>It’s been a whirlwind year for NEAR – and it’s hard to believe that 2022 is coming to an end. It’s been a year filled with massive milestones and achievements, including the <a href="https://pages.near.org/blog/nearcon-2022-highlights-talks-and-videos/">biggest NEARCON ever</a>, record-breaking new wallet creation, and much more.</p>
+<p>It’s been a whirlwind year for NEAR – and it’s hard to believe that 2022 is coming to an end. It’s been a year filled with massive milestones and achievements, including the <a href="/blog/nearcon-2022-highlights-talks-and-videos/">biggest NEARCON ever</a>, record-breaking new wallet creation, and much more.</p>
 
 
 
@@ -644,7 +644,7 @@
 
 
 
-<p>NEAR introduced the brand <a href="https://pages.near.org/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">new JavaScript SDK</a>, enabling developers to build on NEAR using the most popular programming language in the world. Brendan Eiche, the inventor of JavaScript and co-founder of privacy-first browser Brave, even <a href="https://twitter.com/brave/status/1569339841023774720?s=20&amp;t=tKNzwhC4SgNOPC4iw2mhpw">joined a panel at NEARCON</a> to discuss the new SDK, Brave’s new support of Aurora, and why he’s excited about NEAR.</p>
+<p>NEAR introduced the brand <a href="/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">new JavaScript SDK</a>, enabling developers to build on NEAR using the most popular programming language in the world. Brendan Eiche, the inventor of JavaScript and co-founder of privacy-first browser Brave, even <a href="https://twitter.com/brave/status/1569339841023774720?s=20&amp;t=tKNzwhC4SgNOPC4iw2mhpw">joined a panel at NEARCON</a> to discuss the new SDK, Brave’s new support of Aurora, and why he’s excited about NEAR.</p>
 
 
 
@@ -652,7 +652,7 @@
 
 
 
-<p><a href="https://pages.near.org/blog/join-stake-wars-to-become-a-chunk-only-producer/">Stake Wars</a>’ latest iteration also began in 2022, marking another step towards decentralizing the network. Stake Wars will increase the total number of validators as chunk-only producers for the next phases of sharding. The chunk-only producer role will be more accessible to new validators who don’t have sufficient $NEAR to run a Block Producer node.</p>
+<p><a href="/blog/join-stake-wars-to-become-a-chunk-only-producer/">Stake Wars</a>’ latest iteration also began in 2022, marking another step towards decentralizing the network. Stake Wars will increase the total number of validators as chunk-only producers for the next phases of sharding. The chunk-only producer role will be more accessible to new validators who don’t have sufficient $NEAR to run a Block Producer node.</p>
 
 
 
@@ -676,15 +676,15 @@
 
 
 
-<p>A thriving NEAR ecosystem requires resources and trust, both of which made major strides. The birth of Transparency Reports assured the community that all core stakeholders in NEAR are operating in good faith and from a position of financial strength. These reports provide important information about the health of the protocol and ecosystem, including <a href="https://pages.near.org/blog/near-transparency-report-the-state-of-staking/">staking distribution</a>, <a href="https://pages.near.org/blog/near-transparency-report-november-25/">daily transactions</a>, and <a href="https://pages.near.org/blog/near-transparency-report-december-2/">new accounts created</a>. (Read the <a href="https://pages.near.org/blog/near-foundation-transparency-report-q3-2022/">Q3 Transparency Report</a>.)</p>
+<p>A thriving NEAR ecosystem requires resources and trust, both of which made major strides. The birth of Transparency Reports assured the community that all core stakeholders in NEAR are operating in good faith and from a position of financial strength. These reports provide important information about the health of the protocol and ecosystem, including <a href="/blog/near-transparency-report-the-state-of-staking/">staking distribution</a>, <a href="/blog/near-transparency-report-november-25/">daily transactions</a>, and <a href="/blog/near-transparency-report-december-2/">new accounts created</a>. (Read the <a href="/blog/near-foundation-transparency-report-q3-2022/">Q3 Transparency Report</a>.)</p>
 
 
 
-<p>NEAR Foundation CEO Marieke Flament also hosted a <a href="https://twitter.com/NEARFoundation/status/1592572448263716864?s=20&amp;t=xlPS6Xic0JA26GzvyaZzXwhttps://twitter.com/NEARFoundation/status/1592572448263716864?s=20&amp;t=xlPS6Xic0JA26GzvyaZzXwhttps://twitter.com/NEARFoundation/status/1592572448263716864?s=20&amp;t=xlPS6Xic0JA26GzvyaZzXw">post-FTX AMA</a>, re-assuring the ecosystem of NEAR’s runway and explaining why the current bear market is a <a href="https://pages.near.org/blog/a-time-for-conviction/">time for a conviction</a> to build.</p>
+<p>NEAR Foundation CEO Marieke Flament also hosted a <a href="https://twitter.com/NEARFoundation/status/1592572448263716864?s=20&amp;t=xlPS6Xic0JA26GzvyaZzXwhttps://twitter.com/NEARFoundation/status/1592572448263716864?s=20&amp;t=xlPS6Xic0JA26GzvyaZzXwhttps://twitter.com/NEARFoundation/status/1592572448263716864?s=20&amp;t=xlPS6Xic0JA26GzvyaZzXw">post-FTX AMA</a>, re-assuring the ecosystem of NEAR’s runway and explaining why the current bear market is a <a href="/blog/a-time-for-conviction/">time for a conviction</a> to build.</p>
 
 
 
-<p>To see how NEAR Foundation and other ecosystem funding projects have been distributing portions of the $800M in funding throughout 2022, check out <a href="https://pages.near.org/blog/near-foundation-transparency-report/">Q1/Q2</a> and <a href="https://pages.near.org/blog/near-foundation-transparency-report-q3-2022/">Q3 Transparency Reports</a>. Key areas of funding include Proximity Labs and DeFi, DAOs, NFT infrastructure, and Regional Hubs. The <a href="https://pages.near.org/blog/evolving-near-foundations-funding-strategy/">NEAR Digital Collective (NDC)</a> was also announced and launched at NEARCON, with one of the goals being to further decentralize and democratize grants giving and decision-making processes.</p>
+<p>To see how NEAR Foundation and other ecosystem funding projects have been distributing portions of the $800M in funding throughout 2022, check out <a href="/blog/near-foundation-transparency-report/">Q1/Q2</a> and <a href="/blog/near-foundation-transparency-report-q3-2022/">Q3 Transparency Reports</a>. Key areas of funding include Proximity Labs and DeFi, DAOs, NFT infrastructure, and Regional Hubs. The <a href="/blog/evolving-near-foundations-funding-strategy/">NEAR Digital Collective (NDC)</a> was also announced and launched at NEARCON, with one of the goals being to further decentralize and democratize grants giving and decision-making processes.</p>
 
 
 
@@ -704,7 +704,7 @@
 
 
 
-<p>One of the biggest catalysts for new NEAR wallet and account creation was the <a href="https://pages.near.org/blog/sweatcoin-partners-with-near-foundation-to-create-a-new-movement-economy/">partnership with Sweatcoin</a>. The $SWEAT token rewards users for every step they take throughout the day, encouraging users to live healthy lifestyles. Sweatcoin migrating to NEAR pushed total wallets from 2 million at the beginning of the year to <a href="https://pages.near.org/blog/near-wallet-rockets-to-over-20-million-users-with-sweat-partnership/">over 20 million</a> by November. As Flament pointed out during the Sweatcoin keynote at NEARCON, the movement economy is in its infancy, and NEAR is poised to be a leader in the space with the help of Sweatcoin.</p>
+<p>One of the biggest catalysts for new NEAR wallet and account creation was the <a href="/blog/sweatcoin-partners-with-near-foundation-to-create-a-new-movement-economy/">partnership with Sweatcoin</a>. The $SWEAT token rewards users for every step they take throughout the day, encouraging users to live healthy lifestyles. Sweatcoin migrating to NEAR pushed total wallets from 2 million at the beginning of the year to <a href="/blog/near-wallet-rockets-to-over-20-million-users-with-sweat-partnership/">over 20 million</a> by November. As Flament pointed out during the Sweatcoin keynote at NEARCON, the movement economy is in its infancy, and NEAR is poised to be a leader in the space with the help of Sweatcoin.</p>
 
 
 
@@ -712,7 +712,7 @@
 
 
 
-<p>Another huge addition to the NEAR ecosystem was the world-renowned boat racing league, <a href="https://pages.near.org/blog/near-and-sailgp-partner-on-ground-breaking-new-sports-dao/">SailGP</a>. SailGP partnered with NEAR to pioneer the intersection of sports, Web3, and Decentralized Autonomous Organizations (DAOs). In addition to offering NFT collectibles on the NEAR blockchain to fans, SailGP will use AstroDAO tooling to create the <a href="https://pages.near.org/blog/first-fan-owned-team-launches-on-near/">first fan-owned team as a DAO</a>. In addition to the growth of ecosystem projects like <a href="https://awesomenear.com/kin-dao">Kin DAO</a> for equity and inclusion, it was a banner year for NEAR and DAOs.</p>
+<p>Another huge addition to the NEAR ecosystem was the world-renowned boat racing league, <a href="/blog/near-and-sailgp-partner-on-ground-breaking-new-sports-dao/">SailGP</a>. SailGP partnered with NEAR to pioneer the intersection of sports, Web3, and Decentralized Autonomous Organizations (DAOs). In addition to offering NFT collectibles on the NEAR blockchain to fans, SailGP will use AstroDAO tooling to create the <a href="/blog/first-fan-owned-team-launches-on-near/">first fan-owned team as a DAO</a>. In addition to the growth of ecosystem projects like <a href="https://awesomenear.com/kin-dao">Kin DAO</a> for equity and inclusion, it was a banner year for NEAR and DAOs.</p>
 
 
 
@@ -720,7 +720,7 @@
 
 
 
-<p>You may not have noticed, but 2022 saw a massive surge in interest about music and Web3. And one of the most innovative projects in this area was in the NEAR ecosystem, with the <a href="https://pages.near.org/blog/introducing-endlesss-gamifying-music-creation-with-nfts/">launch of Endlesss</a>. The music creation, marketing, and community development platform’s NEAR integration went live in the summer as a virtual gathering place blending social media features with music production tools. Endlesss enables musicians of all skill levels to conduct “jam sessions” on the NEAR blockchain and mint their music as NFTs.&nbsp;</p>
+<p>You may not have noticed, but 2022 saw a massive surge in interest about music and Web3. And one of the most innovative projects in this area was in the NEAR ecosystem, with the <a href="/blog/introducing-endlesss-gamifying-music-creation-with-nfts/">launch of Endlesss</a>. The music creation, marketing, and community development platform’s NEAR integration went live in the summer as a virtual gathering place blending social media features with music production tools. Endlesss enables musicians of all skill levels to conduct “jam sessions” on the NEAR blockchain and mint their music as NFTs.&nbsp;</p>
 
 
 
@@ -728,7 +728,7 @@
 
 
 
-<p>The NEAR ecosystem got a huge dose of star power with the unveiling of <a href="https://pages.near.org/blog/armored-kingdom-launches-new-scifi-fantasy-media-platform-on-near/">Armored Kingdom</a>. Backed by Hollywood star Mila Kunis, Armored Kingdom will be an immersive gaming, NFT, storytelling, and metaverse experience built on the NEAR blockchain. The project kicked off with a first edition NFT comic book airdrop at Consensus, Austin. NEAR also announced the launch of the <a href="https://pages.near.org/blog/near-boosts-web3-gaming-with-new-south-korea-regional-hub-launch/">South Korea Regional Hub</a> with a focus on bringing the NEAR blockchain to the massive local game development community.&nbsp;</p>
+<p>The NEAR ecosystem got a huge dose of star power with the unveiling of <a href="/blog/armored-kingdom-launches-new-scifi-fantasy-media-platform-on-near/">Armored Kingdom</a>. Backed by Hollywood star Mila Kunis, Armored Kingdom will be an immersive gaming, NFT, storytelling, and metaverse experience built on the NEAR blockchain. The project kicked off with a first edition NFT comic book airdrop at Consensus, Austin. NEAR also announced the launch of the <a href="/blog/near-boosts-web3-gaming-with-new-south-korea-regional-hub-launch/">South Korea Regional Hub</a> with a focus on bringing the NEAR blockchain to the massive local game development community.&nbsp;</p>
 
 
 
@@ -740,7 +740,7 @@
 
 
 
-<p>With core NFT infrastructure maturing in the NEAR ecosystem, 2022 was a year of innovative use cases and groundbreaking projects. NEARCON saw the announcement of a <a href="https://medium.com/few-and-far/near-foundation-announces-partnership-with-few-and-far-to-grow-the-near-nft-ecosystem-b567075b2fe9">key grant to Few and Far,</a> a premium NFT marketplace on NEAR with a seamless UX and simple minting solutions. One of NEAR’s biggest NFT projects, Mintbase, <a href="https://pages.near.org/press-releases/mintbase-raises-7-5-million-in-series-a-and-5-million-grant-pool-to-pioneer-nft-infrastructure/">received over $12 million</a> in funding this August. Mintbase empowers niche creators with the ability to mint NFTs of any type with little technical know-how, exemplifying NEAR’s commitment to making Web3 easy for everyone.</p>
+<p>With core NFT infrastructure maturing in the NEAR ecosystem, 2022 was a year of innovative use cases and groundbreaking projects. NEARCON saw the announcement of a <a href="https://medium.com/few-and-far/near-foundation-announces-partnership-with-few-and-far-to-grow-the-near-nft-ecosystem-b567075b2fe9">key grant to Few and Far,</a> a premium NFT marketplace on NEAR with a seamless UX and simple minting solutions. One of NEAR’s biggest NFT projects, Mintbase, <a href="/press-releases/mintbase-raises-7-5-million-in-series-a-and-5-million-grant-pool-to-pioneer-nft-infrastructure/">received over $12 million</a> in funding this August. Mintbase empowers niche creators with the ability to mint NFTs of any type with little technical know-how, exemplifying NEAR’s commitment to making Web3 easy for everyone.</p>
 
 
 
@@ -753,7 +753,7 @@
 
 
 <p>Looking forward, NEAR will continue to champion Web3 as a catalyst for change, in addition to environmental sustainability as a carbon-neutral blockchain. In 2023, the NEAR community can expect even more partnerships that push boundaries and support projects that will enhance and empower a prosperous NEAR ecosystem.</p>
-<p>The post <a href="https://pages.near.org/blog/near-2022-a-year-in-review/">NEAR 2022: A Year in Review</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-2022-a-year-in-review/">NEAR 2022: A Year in Review</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -761,17 +761,17 @@
 			</item>
 		<item>
 		<title>NEAR and Press Start Team to Level Up Web3 Gaming </title>
-		<link>https://pages.near.org/blog/near-and-press-start-team-to-level-up-web3-gaming/</link>
+		<link>/blog/near-and-press-start-team-to-level-up-web3-gaming/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 09 Dec 2022 15:00:12 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Press Start]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19535</guid>
+		<guid isPermaLink="false">/?p=19535</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership with Press Start Capital, a seed stage venture fund focused on …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-press-start-team-to-level-up-web3-gaming/">NEAR and Press Start Team to Level Up Web3 Gaming </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-press-start-team-to-level-up-web3-gaming/">NEAR and Press Start Team to Level Up Web3 Gaming </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce a new partnership with <a href="https://twitter.com/pressstartcap">Press Start Capital</a>, a seed stage venture fund focused on full-stack Web3 gaming, metaverse, and entertainment. This follows the <a href="https://twitter.com/pressstartcap/status/1583496878867349515">Press Start x  Orange DAO Web3 Fellowship</a> announced earlier this year. </p>
@@ -835,7 +835,7 @@
 
 
 <p>There is already potential for a co-sponsored accelerator and events centered on Web3 gaming and entertainment.&nbsp;&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-press-start-team-to-level-up-web3-gaming/">NEAR and Press Start Team to Level Up Web3 Gaming </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-press-start-team-to-level-up-web3-gaming/">NEAR and Press Start Team to Level Up Web3 Gaming </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Transparency Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/transparency/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/transparency/</link>
+	<atom:link href="/blog/tag/transparency/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/transparency/</link>
 	<description></description>
 	<lastBuildDate>Tue, 25 Apr 2023 16:54:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Transparency Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/transparency/</link>
+	<link>/blog/tag/transparency/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation Transparency Report: Q1 2023</title>
-		<link>https://pages.near.org/blog/near-foundation-transparency-report-q1-2023/</link>
+		<link>/blog/near-foundation-transparency-report-q1-2023/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 14:17:15 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Community]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Transparency]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20385</guid>
+		<guid isPermaLink="false">/?p=20385</guid>
 
 					<description><![CDATA[<p>Hello, NEAR World! Welcome to NEAR Foundation’s newly reformatted “Transparency Report”. Published quarterly, NEAR Foundation’s Transparency Report explores the NEAR …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-transparency-report-q1-2023/">NEAR Foundation Transparency Report: Q1 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-transparency-report-q1-2023/">NEAR Foundation Transparency Report: Q1 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Hello, NEAR World! Welcome to NEAR Foundation’s newly reformatted “Transparency Report”. Published quarterly, NEAR Foundation’s Transparency Report explores the NEAR Foundation’s progress towards&nbsp; its OKRs, as well as the latest technology news and updates from the NEAR ecosystem.</p>
@@ -76,7 +76,7 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" data-id="20395" src="https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new-1024x538.png" alt="" class="wp-image-20395" srcset="https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new-300x158.png 300w, https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new-768x403.png 768w, https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" data-id="20395" src="/wp-content/uploads/2023/04/near-2023-bowtie-new-1024x538.png" alt="" class="wp-image-20395" srcset="/wp-content/uploads/2023/04/near-2023-bowtie-new-1024x538.png 1024w, /wp-content/uploads/2023/04/near-2023-bowtie-new-300x158.png 300w, /wp-content/uploads/2023/04/near-2023-bowtie-new-768x403.png 768w, /wp-content/uploads/2023/04/near-2023-bowtie-new.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 
 
@@ -93,7 +93,7 @@
 
 
 
-<p>In 2023, NEAR Foundation is focused on two different approaches to bringing more users to the NEAR protocol and the BOS. It begins with the NEAR Foundation’s top-down approach to partnerships, led by a world-class business development team. By working with major applications and brands with substantial, established communities, the NEAR Foundation is partnering on real use cases that drive engagement on the NEAR protocol, like ticketing and earning. High-traction focus verticals for these partnerships include sports, entertainment, and loyalty. Major partnerships in recent months include <a href="https://pages.near.org/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/">Grupo Nutresa</a>, <a href="https://pages.near.org/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/">Google Cloud</a>, and <a href="https://pages.near.org/blog/near-wallet-rockets-to-over-20-million-users-with-sweat-partnership/">Sweat Economy</a>.&nbsp;</p>
+<p>In 2023, NEAR Foundation is focused on two different approaches to bringing more users to the NEAR protocol and the BOS. It begins with the NEAR Foundation’s top-down approach to partnerships, led by a world-class business development team. By working with major applications and brands with substantial, established communities, the NEAR Foundation is partnering on real use cases that drive engagement on the NEAR protocol, like ticketing and earning. High-traction focus verticals for these partnerships include sports, entertainment, and loyalty. Major partnerships in recent months include <a href="/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/">Grupo Nutresa</a>, <a href="/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/">Google Cloud</a>, and <a href="/blog/near-wallet-rockets-to-over-20-million-users-with-sweat-partnership/">Sweat Economy</a>.&nbsp;</p>
 
 
 
@@ -181,7 +181,7 @@
 
 
 
-<p>At <a href="https://www.youtube.com/watch?v=Z3mVpZiy_gc">ETHDenver</a>, it was announced that the NEAR protocol announced that it is becoming the <a href="https://pages.near.org/blog/near-announces-the-blockchain-operating-system/">Blockchain Operating System </a>— a common layer for discovering and creating Open Web experiences, across all blockchains. As part of that announcement, NEAR protocol launched Alpha.nearpages.wpengine.com, a composable frontend for Web3 allowing end users to easily and frictionlessly discover all of Web3’s possibilities in one seamless experience. It also enables developers to create and code interfaces in a single environment with the ability to fork a host of components to build apps faster, and more efficiently than ever before.</p>
+<p>At <a href="https://www.youtube.com/watch?v=Z3mVpZiy_gc">ETHDenver</a>, it was announced that the NEAR protocol announced that it is becoming the <a href="/blog/near-announces-the-blockchain-operating-system/">Blockchain Operating System </a>— a common layer for discovering and creating Open Web experiences, across all blockchains. As part of that announcement, NEAR protocol launched Alpha.nearpages.wpengine.com, a composable frontend for Web3 allowing end users to easily and frictionlessly discover all of Web3’s possibilities in one seamless experience. It also enables developers to create and code interfaces in a single environment with the ability to fork a host of components to build apps faster, and more efficiently than ever before.</p>
 
 
 
@@ -205,7 +205,7 @@
 
 
 
-<p>The next big update on the Blockchain Operating System will be at Consensus. You can find out more about NEAR’s presence at Consensus <a href="https://pages.near.org/consensus">here</a>.</p>
+<p>The next big update on the Blockchain Operating System will be at Consensus. You can find out more about NEAR’s presence at Consensus <a href="/consensus">here</a>.</p>
 
 
 
@@ -225,7 +225,7 @@
 
 
 
-<p>The NDC initiative was <a href="https://pages.near.org/blog/august-in-review-javascript-sdk-near-digital-collective-launch-and-nearcon-updates/">announced</a> towards the end of last year, and has grown to become a grassroots movement with hundreds of participants, including users, projects, and other stakeholders. The NDC is focused on self-governance, aiming to empower the ecosystem to collectively make decisions in a robust and decentralized way on everything from funding to elected representatives and more.&nbsp;</p>
+<p>The NDC initiative was <a href="/blog/august-in-review-javascript-sdk-near-digital-collective-launch-and-nearcon-updates/">announced</a> towards the end of last year, and has grown to become a grassroots movement with hundreds of participants, including users, projects, and other stakeholders. The NDC is focused on self-governance, aiming to empower the ecosystem to collectively make decisions in a robust and decentralized way on everything from funding to elected representatives and more.&nbsp;</p>
 
 
 
@@ -289,7 +289,7 @@
 
 
 
-<p>The team is launching a series of RFPs (the first <a href="https://pages.near.org/blog/open-call-for-near-accelerator-partners/">RFP</a> was released in Feb 2023) to create partnerships with people and organizations who are well positioned to help Founders. In early Q2, the NEAR Horizon team will be releasing additional open calls for:</p>
+<p>The team is launching a series of RFPs (the first <a href="/blog/open-call-for-near-accelerator-partners/">RFP</a> was released in Feb 2023) to create partnerships with people and organizations who are well positioned to help Founders. In early Q2, the NEAR Horizon team will be releasing additional open calls for:</p>
 
 
 
@@ -339,7 +339,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-1024x538.png" alt="" class="wp-image-20393" srcset="https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-300x158.png 300w, https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-768x403.png 768w, https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-1024x538.png" alt="" class="wp-image-20393" srcset="/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-1024x538.png 1024w, /wp-content/uploads/2023/04/transparency-q1-2023-flywheel-300x158.png 300w, /wp-content/uploads/2023/04/transparency-q1-2023-flywheel-768x403.png 768w, /wp-content/uploads/2023/04/transparency-q1-2023-flywheel.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -360,19 +360,19 @@
 
 
 <ul>
-<li><a href="https://pages.near.org/blog/near-and-dropt-to-revolutionize-loyalty-and-engagement/">Dropt</a> — By using Dropt, teams and enterprises can now easily and seamlessly introduce blockchain-powered loyalty and engagement mechanics into their customer journey. These Web3 features will help increase engagement, retention, and lifetime value without customers ever even knowing they are interacting with the blockchain.</li>
+<li><a href="/blog/near-and-dropt-to-revolutionize-loyalty-and-engagement/">Dropt</a> — By using Dropt, teams and enterprises can now easily and seamlessly introduce blockchain-powered loyalty and engagement mechanics into their customer journey. These Web3 features will help increase engagement, retention, and lifetime value without customers ever even knowing they are interacting with the blockchain.</li>
 </ul>
 
 
 
 <ul>
-<li><a href="https://pages.near.org/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">BORA (Kakao games)</a> — An affiliate of Kakao Games and its parent company BORANETWORK, BORA is focused on game development and blockchain-based gaming ecosystems. NEAR and BORA will support each other in spreading local brand awareness, invest in research and collaboration on cross-chain, host events, and generate Web3 opportunities in Korea.</li>
+<li><a href="/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">BORA (Kakao games)</a> — An affiliate of Kakao Games and its parent company BORANETWORK, BORA is focused on game development and blockchain-based gaming ecosystems. NEAR and BORA will support each other in spreading local brand awareness, invest in research and collaboration on cross-chain, host events, and generate Web3 opportunities in Korea.</li>
 </ul>
 
 
 
 <ul>
-<li><a href="https://pages.near.org/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/">WEMADE</a>&nbsp; &#8211; As one of the largest publicly-listed gaming companies in South Korea and a leading game developer in South Korea for over 20 years, WEMADE will be vital in NEAR’s push toward mainstream adoption of Web3. NEAR and WEMADE will support the development of blockchain apps in Korea as well as other markets.</li>
+<li><a href="/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/">WEMADE</a>&nbsp; &#8211; As one of the largest publicly-listed gaming companies in South Korea and a leading game developer in South Korea for over 20 years, WEMADE will be vital in NEAR’s push toward mainstream adoption of Web3. NEAR and WEMADE will support the development of blockchain apps in Korea as well as other markets.</li>
 </ul>
 
 
@@ -394,12 +394,12 @@
 
 
 
-<li><a href="https://pages.near.org/blog/near-foundation-backs-hydra-ventures-to-create-web3s-first-fund-of-funds-investment-dao/">Hydra Ventures</a> &#8211; A first in the Web3 space, Hydra Ventures is designed to help other investment DAOs get off the ground. This partnership will open the door to the eventual launch of the first investment DAO in the Near ecosystem, with the goal of helping to provide critical funding to purpose-driven, socially impactful web3 startups.</li>
+<li><a href="/blog/near-foundation-backs-hydra-ventures-to-create-web3s-first-fund-of-funds-investment-dao/">Hydra Ventures</a> &#8211; A first in the Web3 space, Hydra Ventures is designed to help other investment DAOs get off the ground. This partnership will open the door to the eventual launch of the first investment DAO in the Near ecosystem, with the goal of helping to provide critical funding to purpose-driven, socially impactful web3 startups.</li>
 </ul>
 
 
 
-<p>NEAR Foundation is also excited to partner with <a href="https://www.flowcarbon.com/knowcarbon/near-protocol-partners-with-flowcarbon">Flow Carbon</a> (tokenized carbon credits market), <a href="https://starchaingazer.io/">Starchain Gazer</a> (play and own gaming), <a href="https://viztadgtl.com/">Vizta Digital</a> (fashion metaverse), and <a href="https://pages.near.org/blog/near-and-popp-partner-on-customer-engagement-for-small-businesses/">Popp</a> (customer engagement for SMBs) to continue expanding the NEAR ecosystem. The NEAR Foundation’s BD team remains committed to bringing the best Web2 and Web3 builders to NEAR, and look forward to sharing next quarter’s list of partnerships.</p>
+<p>NEAR Foundation is also excited to partner with <a href="https://www.flowcarbon.com/knowcarbon/near-protocol-partners-with-flowcarbon">Flow Carbon</a> (tokenized carbon credits market), <a href="https://starchaingazer.io/">Starchain Gazer</a> (play and own gaming), <a href="https://viztadgtl.com/">Vizta Digital</a> (fashion metaverse), and <a href="/blog/near-and-popp-partner-on-customer-engagement-for-small-businesses/">Popp</a> (customer engagement for SMBs) to continue expanding the NEAR ecosystem. The NEAR Foundation’s BD team remains committed to bringing the best Web2 and Web3 builders to NEAR, and look forward to sharing next quarter’s list of partnerships.</p>
 
 
 
@@ -451,15 +451,15 @@
 
 
 
-<p><a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-january/">NEAR Foundation PR Roundup for January&nbsp;</a></p>
+<p><a href="/blog/near-foundation-pr-roundup-for-january/">NEAR Foundation PR Roundup for January&nbsp;</a></p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-february/">NEAR Foundation PR Roundup for February</a></p>
+<p><a href="/blog/near-foundation-pr-roundup-for-february/">NEAR Foundation PR Roundup for February</a></p>
 
 
 
-<p><br><a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-march/">NEAR Foundation PR Roundup for March</a></p>
+<p><br><a href="/blog/near-foundation-pr-roundup-for-march/">NEAR Foundation PR Roundup for March</a></p>
 
 
 
@@ -618,7 +618,7 @@
 
 
 
-<li>NEAR Foundation, in partnership with Developer Governance, Proximity Labs and Aurora Labs, sponsored over $36,000 worth of <a href="https://pages.near.org/blog/near-at-ethdenver-hackathon-bounty-winners/">bounties at ETHDenver</a>, and there were a number of great submissions. There will be many more hackathons coming up this year, so be on the lookout for announcements so you don’t miss out.</li>
+<li>NEAR Foundation, in partnership with Developer Governance, Proximity Labs and Aurora Labs, sponsored over $36,000 worth of <a href="/blog/near-at-ethdenver-hackathon-bounty-winners/">bounties at ETHDenver</a>, and there were a number of great submissions. There will be many more hackathons coming up this year, so be on the lookout for announcements so you don’t miss out.</li>
 
 
 
@@ -644,7 +644,7 @@
 
 
 <p><em>The NEAR Foundation, its affiliates, directors, employees, and agents, shall not be held liable for any errors, omissions, or inaccuracies in the information provided herein. NEAR Foundation reserves the right to update, modify, or amend any information contained in this Report without prior notice. This Report is not intended to provide financial, investment, legal, tax, or any other professional advice. Readers should consult with their own professional advisors before making any decisions based on the information contained in this Report.</em></p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-transparency-report-q1-2023/">NEAR Foundation Transparency Report: Q1 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-transparency-report-q1-2023/">NEAR Foundation Transparency Report: Q1 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

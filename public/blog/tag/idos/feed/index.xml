@@ -9,8 +9,8 @@
 
 <channel>
 	<title>idOS Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/idos/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/idos/</link>
+	<atom:link href="/blog/tag/idos/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/idos/</link>
 	<description></description>
 	<lastBuildDate>Thu, 09 Nov 2023 13:12:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>idOS Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/idos/</link>
+	<link>/blog/tag/idos/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</title>
-		<link>https://pages.near.org/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/</link>
+		<link>/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 09 Nov 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[idOS]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21069</guid>
+		<guid isPermaLink="false">/?p=21069</guid>
 
 					<description><![CDATA[<p>In the ever-evolving landscape of web3, DeFi has stood apart as a driver of innovation, promising a decentralized financial future. …</p>
-<p>The post <a href="https://pages.near.org/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/">Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/">Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>In the ever-evolving landscape of web3, DeFi has stood apart as a driver of innovation, promising a decentralized financial future. But for developers and founders, the challenge has always been integrating real-world applications with the decentralized world, ensuring compliance, and providing a seamless user experience. Enter the idOS on NEAR, a solution — built with Fractal — that bridges this gap and brings the Open Web closer to mainstream adoption.</p>
@@ -99,7 +99,7 @@
 
 
 <p>Join the revolution and explore how the <a href="https://idos.network/">idOS</a> can redefine your DeFi applications and enhance user identity verification on NEAR.</p>
-<p>The post <a href="https://pages.near.org/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/">Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/">Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

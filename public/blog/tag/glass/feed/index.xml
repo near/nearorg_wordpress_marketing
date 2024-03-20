@@ -9,8 +9,8 @@
 
 <channel>
 	<title>GLASS Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/glass/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/glass/</link>
+	<atom:link href="/blog/tag/glass/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/glass/</link>
 	<description></description>
 	<lastBuildDate>Wed, 09 Aug 2023 16:23:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>GLASS Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/glass/</link>
+	<link>/blog/tag/glass/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How GLASS is Uncorking Adult Beverage Loyalty with Web3 and NEAR </title>
-		<link>https://pages.near.org/blog/how-glass-is-uncorking-adult-beverage-loyalty-with-web3-and-near/</link>
+		<link>/blog/how-glass-is-uncorking-adult-beverage-loyalty-with-web3-and-near/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 10 Aug 2023 14:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[GLASS]]></category>
 		<category><![CDATA[Loyalty]]></category>
 		<category><![CDATA[rewards]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20794</guid>
+		<guid isPermaLink="false">/?p=20794</guid>
 
 					<description><![CDATA[<p>GLASS, the world&#8217;s first compliant Web3 community and loyalty platform for the $1.6 trillion alcohol industry, is deploying on the …</p>
-<p>The post <a href="https://pages.near.org/blog/how-glass-is-uncorking-adult-beverage-loyalty-with-web3-and-near/">How GLASS is Uncorking Adult Beverage Loyalty with Web3 and NEAR </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/how-glass-is-uncorking-adult-beverage-loyalty-with-web3-and-near/">How GLASS is Uncorking Adult Beverage Loyalty with Web3 and NEAR </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://www.glass.fun/brands">GLASS</a>, the world&#8217;s first compliant Web3 community and loyalty platform for the $1.6 trillion alcohol industry, is deploying on the NEAR blockchain to engage social drinkers. Founded by Zoe Leavitt, who formerly led early-stage social and entertainment investing for the VC arm of AB InBev, the world’s largest beer company, and serial blockchain entrepreneur and compliance tech expert Calvin Pak, GLASS redefines the ways alcohol brands connect with consumers during social occasions.</p>
@@ -76,7 +76,7 @@
 
 
 <p>GLASS will continue to announce new brand partnerships and roll out new features throughout the summer and fall. Consumers can sign up directly at <a href="http://www.glass.fun/">www.glass.fun</a> to start earning tokens today.</p>
-<p>The post <a href="https://pages.near.org/blog/how-glass-is-uncorking-adult-beverage-loyalty-with-web3-and-near/">How GLASS is Uncorking Adult Beverage Loyalty with Web3 and NEAR </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/how-glass-is-uncorking-adult-beverage-loyalty-with-web3-and-near/">How GLASS is Uncorking Adult Beverage Loyalty with Web3 and NEAR </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

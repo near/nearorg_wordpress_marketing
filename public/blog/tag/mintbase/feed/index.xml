@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mintbase Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/mintbase/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/mintbase/</link>
+	<atom:link href="/blog/tag/mintbase/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/mintbase/</link>
 	<description></description>
 	<lastBuildDate>Fri, 01 Sep 2023 15:20:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Mintbase Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/mintbase/</link>
+	<link>/blog/tag/mintbase/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mintbase Brings New Open Web Wallet Tech to Families Celebrating Raksha Bandhan</title>
-		<link>https://pages.near.org/blog/mintbase-brings-new-open-web-wallet-tech-to-families-celebrating-raksha-bandhan/</link>
+		<link>/blog/mintbase-brings-new-open-web-wallet-tech-to-families-celebrating-raksha-bandhan/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 29 Aug 2023 17:31:03 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[FastAuth]]></category>
 		<category><![CDATA[Mintbase]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20820</guid>
+		<guid isPermaLink="false">/?p=20820</guid>
 
 					<description><![CDATA[<p>Mintbase, a leading NFT platform that allows users to mint, buy, and sell digital assets has partnered with the NEAR …</p>
-<p>The post <a href="https://pages.near.org/blog/mintbase-brings-new-open-web-wallet-tech-to-families-celebrating-raksha-bandhan/">Mintbase Brings New Open Web Wallet Tech to Families Celebrating Raksha Bandhan</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/mintbase-brings-new-open-web-wallet-tech-to-families-celebrating-raksha-bandhan/">Mintbase Brings New Open Web Wallet Tech to Families Celebrating Raksha Bandhan</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://www.mintbase.xyz/">Mintbase</a>, a leading NFT platform that allows users to mint, buy, and sell digital assets has partnered with the NEAR Foundation to help friends and family celebrate the traditional Indian festival, Raksha Bandhan, with Open Web technology.</p>
@@ -62,7 +62,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="529" src="https://pages.near.org/wp-content/uploads/2023/08/F4tjg_0X0AUj8Fr-1024x529.jpeg" alt="" class="wp-image-20826" srcset="https://pages.near.org/wp-content/uploads/2023/08/F4tjg_0X0AUj8Fr-1024x529.jpeg 1024w, https://pages.near.org/wp-content/uploads/2023/08/F4tjg_0X0AUj8Fr-300x155.jpeg 300w, https://pages.near.org/wp-content/uploads/2023/08/F4tjg_0X0AUj8Fr-768x396.jpeg 768w, https://pages.near.org/wp-content/uploads/2023/08/F4tjg_0X0AUj8Fr.jpeg 1199w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="529" src="/wp-content/uploads/2023/08/F4tjg_0X0AUj8Fr-1024x529.jpeg" alt="" class="wp-image-20826" srcset="/wp-content/uploads/2023/08/F4tjg_0X0AUj8Fr-1024x529.jpeg 1024w, /wp-content/uploads/2023/08/F4tjg_0X0AUj8Fr-300x155.jpeg 300w, /wp-content/uploads/2023/08/F4tjg_0X0AUj8Fr-768x396.jpeg 768w, /wp-content/uploads/2023/08/F4tjg_0X0AUj8Fr.jpeg 1199w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -91,7 +91,7 @@
 
 
 <p>For more details, please visit <a href="https://rakhi.mintbase.xyz/">https://rakhi.mintbase.xyz/</a>. Participate, share, and make this Raksha Bandhan more memorable with Mintbase and NEAR Foundation.</p>
-<p>The post <a href="https://pages.near.org/blog/mintbase-brings-new-open-web-wallet-tech-to-families-celebrating-raksha-bandhan/">Mintbase Brings New Open Web Wallet Tech to Families Celebrating Raksha Bandhan</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/mintbase-brings-new-open-web-wallet-tech-to-families-celebrating-raksha-bandhan/">Mintbase Brings New Open Web Wallet Tech to Families Celebrating Raksha Bandhan</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

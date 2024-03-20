@@ -9,8 +9,8 @@
 
 <channel>
 	<title>I-AM-HUMAN Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/i-am-human/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/i-am-human/</link>
+	<atom:link href="/blog/tag/i-am-human/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/i-am-human/</link>
 	<description></description>
 	<lastBuildDate>Tue, 20 Jun 2023 13:52:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>I-AM-HUMAN Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/i-am-human/</link>
+	<link>/blog/tag/i-am-human/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Digital Collective’s I-AM-HUMAN Welcomes Its First 1000 Verified Humans</title>
-		<link>https://pages.near.org/blog/near-digital-collectives-i-am-human-welcomes-its-first-1000-verified-humans/</link>
+		<link>/blog/near-digital-collectives-i-am-human-welcomes-its-first-1000-verified-humans/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 16 Jun 2023 21:29:01 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[I-AM-HUMAN]]></category>
 		<category><![CDATA[NDC]]></category>
 		<category><![CDATA[NEAR Digital Collective]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20648</guid>
+		<guid isPermaLink="false">/?p=20648</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is thrilled to share some inspiring news today. The I-AM-HUMAN project, a cornerstone proof-of-humanity initiative of the NEAR …</p>
-<p>The post <a href="https://pages.near.org/blog/near-digital-collectives-i-am-human-welcomes-its-first-1000-verified-humans/">NEAR Digital Collective’s I-AM-HUMAN Welcomes Its First 1000 Verified Humans</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-digital-collectives-i-am-human-welcomes-its-first-1000-verified-humans/">NEAR Digital Collective’s I-AM-HUMAN Welcomes Its First 1000 Verified Humans</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is thrilled to share some inspiring news today. The <a href="https://i-am-human.app/">I-AM-HUMAN project</a>, a cornerstone proof-of-humanity initiative of the NEAR Digital Collective (NDC), just achieved a significant landmark of welcoming 1,000 verified community members to our growing ecosystem.&nbsp;</p>
@@ -100,7 +100,7 @@
 
 
 <p>The NDC extends its deepest gratitude to each and every one of you for taking the opportunity to unlock elections, governance, and community treasury with us. These first 1,000 users are opening the door for thousands more to come.&nbsp;<br>For updates, follow <a href="https://medium.com/@neardigitalcollective">NDC on Medium</a> and stay connected with us on this revolutionary journey!</p>
-<p>The post <a href="https://pages.near.org/blog/near-digital-collectives-i-am-human-welcomes-its-first-1000-verified-humans/">NEAR Digital Collective’s I-AM-HUMAN Welcomes Its First 1000 Verified Humans</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-digital-collectives-i-am-human-welcomes-its-first-1000-verified-humans/">NEAR Digital Collective’s I-AM-HUMAN Welcomes Its First 1000 Verified Humans</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>EigenLayer Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/eigenlayer/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/eigenlayer/</link>
+	<atom:link href="/blog/tag/eigenlayer/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/eigenlayer/</link>
 	<description></description>
 	<lastBuildDate>Thu, 16 Nov 2023 08:51:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>EigenLayer Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/eigenlayer/</link>
+	<link>/blog/tag/eigenlayer/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</title>
-		<link>https://pages.near.org/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/</link>
+		<link>/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 16 Nov 2023 13:00:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[EigenLayer]]></category>
 		<category><![CDATA[NEAR DA Layer]]></category>
 		<category><![CDATA[NEARCON ‘23]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21092</guid>
+		<guid isPermaLink="false">/?p=21092</guid>
 
 					<description><![CDATA[<p>Over the course of three epic days, the NEAR ecosystem showed up and showed out to make NEARCON ‘23 the …</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/">NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/">NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Over the course of three epic days, the NEAR ecosystem showed up and showed out to make NEARCON ‘23 the most iconic edition yet. Groundbreaking partnerships were announced, new bonds forged, and a new vision for AI and the open web was unveiled by some of the brightest minds in the blockchain business.</p>
@@ -98,7 +98,7 @@
 
 
 
-<p>By far the biggest news of Day One was NEAR <a href="https://pages.near.org/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/?_gl=1%2Ak9zc45%2A_up%2AMQ..%2A_ga%2AMTA3NDE2NTgxOS4xNzAwMDM4OTU2%2A_ga_9GWCXQJ62J%2AMTcwMDAzODk1Mi4xLjAuMTcwMDAzODk1Mi4wLjAuMA..">unveiling the NEAR Data Availability Layer (NEAR DA)</a>, offering robust, low-cost blockchain data to developers for modular open web development. NEAR DA will help developers reduce costs and enhance the reliability of rollups, while keeping the security of Ethereum. NEAR DA is a key part of tomorrow&#8217;s open web development stack, with early users including StarkNet, Caldera, Movement Labs, and others.&nbsp;</p>
+<p>By far the biggest news of Day One was NEAR <a href="/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/?_gl=1%2Ak9zc45%2A_up%2AMQ..%2A_ga%2AMTA3NDE2NTgxOS4xNzAwMDM4OTU2%2A_ga_9GWCXQJ62J%2AMTcwMDAzODk1Mi4xLjAuMTcwMDAzODk1Mi4wLjAuMA..">unveiling the NEAR Data Availability Layer (NEAR DA)</a>, offering robust, low-cost blockchain data to developers for modular open web development. NEAR DA will help developers reduce costs and enhance the reliability of rollups, while keeping the security of Ethereum. NEAR DA is a key part of tomorrow&#8217;s open web development stack, with early users including StarkNet, Caldera, Movement Labs, and others.&nbsp;</p>
 
 
 
@@ -110,7 +110,7 @@
 
 
 
-<p>NEAR Foundation announced its <a href="https://pages.near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/?_gl=1%2Abb1vlz%2A_up%2AMQ..%2A_ga%2AMTA3NDE2NTgxOS4xNzAwMDM4OTU2%2A_ga_9GWCXQJ62J%2AMTcwMDAzODk1Mi4xLjAuMTcwMDAzODk1Mi4wLjAuMA..">partnership with EigenLayer</a>, which will speed&nbsp; up transaction times and slashing costs on the Ethereum blockchain. The collaboration will introduce a fast finality layer to Ethereum rollups, boosting their efficiency and scalability. The fast finality layer showcases the strengths of NEAR’s technology while making the open web more usable.</p>
+<p>NEAR Foundation announced its <a href="/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/?_gl=1%2Abb1vlz%2A_up%2AMQ..%2A_ga%2AMTA3NDE2NTgxOS4xNzAwMDM4OTU2%2A_ga_9GWCXQJ62J%2AMTcwMDAzODk1Mi4xLjAuMTcwMDAzODk1Mi4wLjAuMA..">partnership with EigenLayer</a>, which will speed&nbsp; up transaction times and slashing costs on the Ethereum blockchain. The collaboration will introduce a fast finality layer to Ethereum rollups, boosting their efficiency and scalability. The fast finality layer showcases the strengths of NEAR’s technology while making the open web more usable.</p>
 
 
 
@@ -213,7 +213,7 @@
 
 
 <p>Anyone who built furiously at the HackerHQ or clinked a cocktail at the Glass Movers &amp; Shakers Happy Hour will likely tell you something similar: that NEARCON ‘23 showed the importance of a truly open web — and how together we can all achieve it.</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/">NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/">NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -221,17 +221,17 @@
 			</item>
 		<item>
 		<title>NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</title>
-		<link>https://pages.near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/</link>
+		<link>/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 10 Nov 2023 13:30:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Eigen Labs]]></category>
 		<category><![CDATA[EigenLayer]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21085</guid>
+		<guid isPermaLink="false">/?p=21085</guid>
 
 					<description><![CDATA[<p>EigenLabs, one of the leaders in building scaling solutions on Ethereum, is partnering with the NEAR Foundation to create an …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://www.eigenlayer.xyz/about">EigenLabs</a>, one of the leaders in building scaling solutions on Ethereum, is partnering with the NEAR Foundation to create an industry first partnership designed to foster faster, cheaper transactions for Layer 2 projects building on Ethereum.&nbsp;</p>
@@ -287,7 +287,7 @@
 
 
 <p>A testnet is expected to launch in Q1 2024, and more details will be shared around that time.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

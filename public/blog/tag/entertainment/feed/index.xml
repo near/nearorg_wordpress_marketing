@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Entertainment Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/entertainment/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/entertainment/</link>
+	<atom:link href="/blog/tag/entertainment/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/entertainment/</link>
 	<description></description>
 	<lastBuildDate>Tue, 02 May 2023 12:36:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Entertainment Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/entertainment/</link>
+	<link>/blog/tag/entertainment/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Shemaroo and NEAR Foundation Accelerate Web3 Adoption in Indian Media and Entertainment </title>
-		<link>https://pages.near.org/blog/shemaroo-and-near-foundation-accelerate-web3-adoption-in-indian-media-and-entertainment/</link>
+		<link>/blog/shemaroo-and-near-foundation-accelerate-web3-adoption-in-indian-media-and-entertainment/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 02 May 2023 12:34:53 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Media]]></category>
 		<category><![CDATA[Shemaroo]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20464</guid>
+		<guid isPermaLink="false">/?p=20464</guid>
 
 					<description><![CDATA[<p>Shemaroo Entertainment, a prominent Indian content powerhouse with a diverse library of over 3,700 movie titles, a subscriber userbase of …</p>
-<p>The post <a href="https://pages.near.org/blog/shemaroo-and-near-foundation-accelerate-web3-adoption-in-indian-media-and-entertainment/">Shemaroo and NEAR Foundation Accelerate Web3 Adoption in Indian Media and Entertainment </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/shemaroo-and-near-foundation-accelerate-web3-adoption-in-indian-media-and-entertainment/">Shemaroo and NEAR Foundation Accelerate Web3 Adoption in Indian Media and Entertainment </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Shemaroo Entertainment, a prominent Indian content powerhouse with a diverse library of over 3,700 movie titles, a subscriber userbase of over 200 million people, and a vast global distribution network, is forging a strategic partnership with the NEAR Foundation to foster Web3 innovation in the media and entertainment industry — across&nbsp; India and beyond. The partnership also paints an even brighter picture for NEAR and the entertainment sector.</p>
@@ -104,7 +104,7 @@
 
 
 <p>The partnership between Shemaroo Entertainment and NEAR Foundation is an important step towards unlocking the full potential of blockchain technology in the world of media and entertainment. Using the Indian region as a breeding ground for innovation via Sheramoo’s Web3 cell, they’ll be setting a new standard for new forms of content for existing libraries.</p>
-<p>The post <a href="https://pages.near.org/blog/shemaroo-and-near-foundation-accelerate-web3-adoption-in-indian-media-and-entertainment/">Shemaroo and NEAR Foundation Accelerate Web3 Adoption in Indian Media and Entertainment </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/shemaroo-and-near-foundation-accelerate-web3-adoption-in-indian-media-and-entertainment/">Shemaroo and NEAR Foundation Accelerate Web3 Adoption in Indian Media and Entertainment </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

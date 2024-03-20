@@ -9,8 +9,8 @@
 
 <channel>
 	<title>B.O.S Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/b-o-s/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/b-o-s/</link>
+	<atom:link href="/blog/tag/b-o-s/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/b-o-s/</link>
 	<description></description>
 	<lastBuildDate>Thu, 12 Oct 2023 13:08:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>B.O.S Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/b-o-s/</link>
+	<link>/blog/tag/b-o-s/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Query API Beta Is Now Open for Apps Building on B.O.S</title>
-		<link>https://pages.near.org/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/</link>
+		<link>/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 12 Oct 2023 14:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[B.O.S]]></category>
 		<category><![CDATA[Javascript dApps]]></category>
 		<category><![CDATA[NEAR Query API]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20967</guid>
+		<guid isPermaLink="false">/?p=20967</guid>
 
 					<description><![CDATA[<p>Pagoda has officially opened the Beta version of NEAR Query API, a fully managed serverless infrastructure offering NEAR blockchain #indexers, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/">NEAR Query API Beta Is Now Open for Apps Building on B.O.S</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/">NEAR Query API Beta Is Now Open for Apps Building on B.O.S</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Pagoda has officially opened the Beta version of NEAR Query API, a fully managed serverless infrastructure offering NEAR blockchain #indexers, storage, and GraphQL endpoints. Developers can now build indexers for any smart contract using JavaScript and the<a href="https://www.npmjs.com/package/@near-lake/primitives"> NEAR Lake Primitives library</a>, and store data in custom SQL schemas, all without needing to manage any infrastructure. This approach significantly simplifies the way developers interact with blockchain data and empowers them to build B.O.S applications with great user experiences.</p>
@@ -144,7 +144,7 @@
 
 
 <p>Join in this exciting new chapter of full-stack JavaScript dApps with NEAR B.O.S. and NEAR Query API!</p>
-<p>The post <a href="https://pages.near.org/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/">NEAR Query API Beta Is Now Open for Apps Building on B.O.S</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/">NEAR Query API Beta Is Now Open for Apps Building on B.O.S</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -152,7 +152,7 @@
 			</item>
 		<item>
 		<title>Announcing Web Push Notifications on B.O.S</title>
-		<link>https://pages.near.org/blog/announcing-web-push-notifications-on-b-o-s/</link>
+		<link>/blog/announcing-web-push-notifications-on-b-o-s/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 04 Oct 2023 18:12:01 +0000</pubDate>
@@ -160,10 +160,10 @@
 		<category><![CDATA[B.O.S]]></category>
 		<category><![CDATA[B.O.S web push notifications]]></category>
 		<category><![CDATA[Blockchain Operating System]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20948</guid>
+		<guid isPermaLink="false">/?p=20948</guid>
 
 					<description><![CDATA[<p>Starting today, developers can better engage with their users thanks to Web Push Notifications on both desktop and mobile for …</p>
-<p>The post <a href="https://pages.near.org/blog/announcing-web-push-notifications-on-b-o-s/">Announcing Web Push Notifications on B.O.S</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/announcing-web-push-notifications-on-b-o-s/">Announcing Web Push Notifications on B.O.S</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>Starting today, developers can better engage with their users thanks to Web Push Notifications on both desktop and mobile for applications built on B.O.S.</em></p>
@@ -237,7 +237,7 @@
 
 
 <p>Stay tuned! Pagoda plans to release additional notification features later this year, including support for more granular notification settings and safeguards to manage notification volume for users on near.org. They will also be exploring support for near.org notifications via email.</p>
-<p>The post <a href="https://pages.near.org/blog/announcing-web-push-notifications-on-b-o-s/">Announcing Web Push Notifications on B.O.S</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/announcing-web-push-notifications-on-b-o-s/">Announcing Web Push Notifications on B.O.S</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -245,7 +245,7 @@
 			</item>
 		<item>
 		<title>FastAuth SDK Beta Now Available</title>
-		<link>https://pages.near.org/blog/fastauth-sdk-beta-now-available/</link>
+		<link>/blog/fastauth-sdk-beta-now-available/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 02 Oct 2023 16:30:00 +0000</pubDate>
@@ -253,10 +253,10 @@
 		<category><![CDATA[B.O.S]]></category>
 		<category><![CDATA[FastAuth]]></category>
 		<category><![CDATA[FastAuth SDK]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20940</guid>
+		<guid isPermaLink="false">/?p=20940</guid>
 
 					<description><![CDATA[<p>Developers can now start integrating FastAuth into their dApps for a seamless, intuitive onboarding experience with the FastAuth SDK, now …</p>
-<p>The post <a href="https://pages.near.org/blog/fastauth-sdk-beta-now-available/">FastAuth SDK Beta Now Available</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/fastauth-sdk-beta-now-available/">FastAuth SDK Beta Now Available</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>Developers can now start integrating FastAuth into their dApps for a seamless, intuitive onboarding experience with the FastAuth SDK, now in Beta.</em></p>
@@ -308,7 +308,7 @@
 
 
 <p>Pagoda is planning to release some additional key features later this year, including the ability to &#8220;white-label&#8221; the sign-up and sign-in flows, as well as multi-chain support.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/fastauth-sdk-beta-now-available/">FastAuth SDK Beta Now Available</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/fastauth-sdk-beta-now-available/">FastAuth SDK Beta Now Available</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -316,7 +316,7 @@
 			</item>
 		<item>
 		<title>Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</title>
-		<link>https://pages.near.org/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/</link>
+		<link>/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 20 Sep 2023 13:00:00 +0000</pubDate>
@@ -325,10 +325,10 @@
 		<category><![CDATA[Blockchain Operating System]]></category>
 		<category><![CDATA[Ethereum]]></category>
 		<category><![CDATA[Mantle]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20896</guid>
+		<guid isPermaLink="false">/?p=20896</guid>
 
 					<description><![CDATA[<p>An ecosystem gateway for Mantle, the layer-2 scaling solution built on Ethereum, has launched on the NEAR Blockchain Operating System …</p>
-<p>The post <a href="https://pages.near.org/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/">Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/">Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>An<a href="https://bos.fusionx.finance/"> ecosystem gateway for Mantle</a>, the layer-2 scaling solution built on Ethereum, has launched on the NEAR Blockchain Operating System (B.O.S) to offer a unified point of entry into the Mantle ecosystem.&nbsp;</p>
@@ -364,7 +364,7 @@
 
 
 <p>Developers can quickly build composable apps for the open web from thousands of flexible components, as well as seamlessly onboard users and increase discoverability across Web3 since every application utilising B.O.S is visible on a common interface. This collaboration brings new capabilities to developers and lets them build apps that can quickly reach more users.</p>
-<p>The post <a href="https://pages.near.org/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/">Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/">Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

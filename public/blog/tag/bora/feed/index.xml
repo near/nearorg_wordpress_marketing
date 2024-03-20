@@ -9,8 +9,8 @@
 
 <channel>
 	<title>BORA Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/bora/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/bora/</link>
+	<atom:link href="/blog/tag/bora/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/bora/</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Mar 2023 18:50:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>BORA Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/bora/</link>
+	<link>/blog/tag/bora/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Near Partners with BORA, Web3 GameFi Platform of Kakao Games</title>
-		<link>https://pages.near.org/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/</link>
+		<link>/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 06 Mar 2023 14:00:00 +0000</pubDate>
@@ -39,10 +39,10 @@
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Kakao Games]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20253</guid>
+		<guid isPermaLink="false">/?p=20253</guid>
 
 					<description><![CDATA[<p>Near is excited to announce a new strategic partnership with BORA, a Web3&#160; gaming subsidiary of METABORA. Near and BORA …</p>
-<p>The post <a href="https://pages.near.org/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">Near Partners with BORA, Web3 GameFi Platform of Kakao Games</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">Near Partners with BORA, Web3 GameFi Platform of Kakao Games</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Near is excited to announce a new strategic partnership with BORA, a Web3&nbsp; gaming subsidiary of METABORA. Near and BORA will support each other in spreading local brand awareness, invest in research and collaboration on cross-chain, host events, and generate Web3 opportunities in Korea.&nbsp;</p>
@@ -62,7 +62,7 @@
 
 
 <p>“One of the big ambitions of the hub&nbsp; is&nbsp; to tap into the country’s active gaming community, and to&nbsp; bring&nbsp; amazing projects and creators to the Near ecosystem.” said Robbie Lim, GM, Partners &amp; International at Near. “ The partnership with BORA is our first major win &#8211; and a big step forward for NEAR as it accelerates its ambition to become the go to layer 1 for the Web3 gaming community.”&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">Near Partners with BORA, Web3 GameFi Platform of Kakao Games</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">Near Partners with BORA, Web3 GameFi Platform of Kakao Games</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

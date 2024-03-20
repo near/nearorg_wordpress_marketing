@@ -9,8 +9,8 @@
 
 <channel>
 	<title>OKRs Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/okrs/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/okrs/</link>
+	<atom:link href="/blog/tag/okrs/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/okrs/</link>
 	<description></description>
 	<lastBuildDate>Fri, 13 Jan 2023 15:53:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>OKRs Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/okrs/</link>
+	<link>/blog/tag/okrs/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation &#038; Pagoda Goals and Target Metrics for 2023</title>
-		<link>https://pages.near.org/blog/near-foundation-pagoda-goals-and-target-metrics-for-2023/</link>
+		<link>/blog/near-foundation-pagoda-goals-and-target-metrics-for-2023/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 13 Jan 2023 15:53:04 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[OKRs]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19718</guid>
+		<guid isPermaLink="false">/?p=19718</guid>
 
 					<description><![CDATA[<p>Building on the 2023 strategy for NEAR Foundation and Pagoda shared here at the end of last year, the goal …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-pagoda-goals-and-target-metrics-for-2023/">NEAR Foundation &amp; Pagoda Goals and Target Metrics for 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-pagoda-goals-and-target-metrics-for-2023/">NEAR Foundation &amp; Pagoda Goals and Target Metrics for 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Building on the 2023 strategy for NEAR Foundation and Pagoda <a href="https://pages.near.org/blog/near-strategic-update-and-outlook-for-2023/">shared here</a> at the end of last year, the goal of this post is to share the specific objectives and target metrics that will make this vision a reality.&nbsp;</p>
+<p>Building on the 2023 strategy for NEAR Foundation and Pagoda <a href="/blog/near-strategic-update-and-outlook-for-2023/">shared here</a> at the end of last year, the goal of this post is to share the specific objectives and target metrics that will make this vision a reality.&nbsp;</p>
 
 
 
@@ -191,7 +191,7 @@
 
 
 <p>Watch on Twitter and NEAR Social for progress updates on these goals in Q1 as well as a public dashboard for easier tracking of target metrics soon.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-pagoda-goals-and-target-metrics-for-2023/">NEAR Foundation &amp; Pagoda Goals and Target Metrics for 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-pagoda-goals-and-target-metrics-for-2023/">NEAR Foundation &amp; Pagoda Goals and Target Metrics for 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

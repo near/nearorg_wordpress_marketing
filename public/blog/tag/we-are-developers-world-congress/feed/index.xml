@@ -9,8 +9,8 @@
 
 <channel>
 	<title>We Are Developers World Congress Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/we-are-developers-world-congress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/we-are-developers-world-congress/</link>
+	<atom:link href="/blog/tag/we-are-developers-world-congress/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/we-are-developers-world-congress/</link>
 	<description></description>
 	<lastBuildDate>Tue, 25 Jul 2023 19:40:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>We Are Developers World Congress Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/we-are-developers-world-congress/</link>
+	<link>/blog/tag/we-are-developers-world-congress/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR at We Are Developers World Congress 2023: Build with BOS in Berlin</title>
-		<link>https://pages.near.org/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/</link>
+		<link>/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 25 Jul 2023 13:56:09 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR Balkans]]></category>
 		<category><![CDATA[We Are Developers World Congress]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20754</guid>
+		<guid isPermaLink="false">/?p=20754</guid>
 
 					<description><![CDATA[<p>NEAR is&#160; gearing up for a big presence at the We Are Developers World Congress 2023. It’s an exciting opportunity …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/">NEAR at We Are Developers World Congress 2023: Build with BOS in Berlin</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/">NEAR at We Are Developers World Congress 2023: Build with BOS in Berlin</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR is&nbsp; gearing up for a big presence at the <a href="https://www.wearedevelopers.com/world-congress">We Are Developers World Congress 2023</a>. It’s an exciting opportunity to demonstrate the power of the Blockchain Operating System (BOS), fostering a wave of innovation and expanding horizons for developers in Germany, the Balkans, and beyond.</p>
@@ -99,7 +99,7 @@
 
 
 <p>Mark your calendars for this awesome&nbsp; event, and join us in the hip and modern city of Berlin on 27th and 28th July. From engaging workshops to in-depth discussions, come on down to the We Are Developers World Congress begin Berlin BOS building.</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/">NEAR at We Are Developers World Congress 2023: Build with BOS in Berlin</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/">NEAR at We Are Developers World Congress 2023: Build with BOS in Berlin</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

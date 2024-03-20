@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR DA Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-da/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-da/</link>
+	<atom:link href="/blog/tag/near-da/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-da/</link>
 	<description></description>
 	<lastBuildDate>Thu, 30 Nov 2023 13:33:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR DA Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-da/</link>
+	<link>/blog/tag/near-da/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation Launches NEAR DA to Offer Secure, Cost-Effective Data Availability for ETH Rollups and Ethereum Developers </title>
-		<link>https://pages.near.org/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/</link>
+		<link>/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 08 Nov 2023 14:32:28 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR DA]]></category>
 		<category><![CDATA[NEAR Data Availability Layer]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21056</guid>
+		<guid isPermaLink="false">/?p=21056</guid>
 
 					<description><![CDATA[<p>NEAR Foundation just announced the rollout of the NEAR Data Availability (NEAR DA) layer. Part of the NEAR Open Web …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/">NEAR Foundation Launches NEAR DA to Offer Secure, Cost-Effective Data Availability for ETH Rollups and Ethereum Developers </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/">NEAR Foundation Launches NEAR DA to Offer Secure, Cost-Effective Data Availability for ETH Rollups and Ethereum Developers </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://near.foundation/">NEAR Foundation</a> just announced the rollout of the NEAR Data Availability (NEAR DA) layer. Part of the NEAR Open Web Stack, NEAR DA is a groundbreaking innovation that offers robust, cost-efficient data availability for ETH rollups and Ethereum developers.</p>
@@ -97,7 +97,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/">NEAR Foundation Launches NEAR DA to Offer Secure, Cost-Effective Data Availability for ETH Rollups and Ethereum Developers </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/">NEAR Foundation Launches NEAR DA to Offer Secure, Cost-Effective Data Availability for ETH Rollups and Ethereum Developers </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

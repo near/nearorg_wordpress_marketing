@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEARCON Highlights Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/nearcon-highlights/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/nearcon-highlights/</link>
+	<atom:link href="/blog/tag/nearcon-highlights/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/nearcon-highlights/</link>
 	<description></description>
 	<lastBuildDate>Thu, 09 Nov 2023 09:28:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEARCON Highlights Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/nearcon-highlights/</link>
+	<link>/blog/tag/nearcon-highlights/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEARCON ‘23 Day One: Major Announcements and Insightful Panels in Focus</title>
-		<link>https://pages.near.org/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/</link>
+		<link>/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 08 Nov 2023 17:48:09 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEARCON ‘23]]></category>
 		<category><![CDATA[NEARCON Highlights]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21061</guid>
+		<guid isPermaLink="false">/?p=21061</guid>
 
 					<description><![CDATA[<p>As the sun set on Lisbon, the first day of an already iconic NEARCON ‘23 drew to a close, the …</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/">NEARCON ‘23 Day One: Major Announcements and Insightful Panels in Focus</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/">NEARCON ‘23 Day One: Major Announcements and Insightful Panels in Focus</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>As the sun set on Lisbon, the first day of an already iconic NEARCON ‘23 drew to a close, the excitement and momentum of the entire ecosystem was on full display. The morning kicked off with insightful sessions on open web interoperability and AI, all leading up to NEAR co-founder and newly announced NEAR Foundation CEO Illia Polosukhin unveiling some exciting announcements.</p>
@@ -90,7 +90,7 @@
 
 
 
-<p>Perhaps the biggest announcement of the day was Illia lifting the curtain on <a href="https://pages.near.org/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/">NEAR DA</a>, offering Ethereum developers a low-cost, secure data availability layer. NEAR DA opens the door for enhanced modular blockchain solutions, ensuring scalability and cost-efficiency for developers in the NEAR ecosystem and beyond.</p>
+<p>Perhaps the biggest announcement of the day was Illia lifting the curtain on <a href="/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/">NEAR DA</a>, offering Ethereum developers a low-cost, secure data availability layer. NEAR DA opens the door for enhanced modular blockchain solutions, ensuring scalability and cost-efficiency for developers in the NEAR ecosystem and beyond.</p>
 
 
 
@@ -159,7 +159,7 @@
 
 
 <p>Thanks to everyone who attended Day One, and if you weren’t able to attend, rest assured that it’s just the beginning of a NEARCON ‘23 that will only grow to be more iconic over the next few days.</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/">NEARCON ‘23 Day One: Major Announcements and Insightful Panels in Focus</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/">NEARCON ‘23 Day One: Major Announcements and Insightful Panels in Focus</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

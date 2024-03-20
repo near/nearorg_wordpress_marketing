@@ -9,8 +9,8 @@
 
 <channel>
 	<title>We Are Developers Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/we-are-developers/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/we-are-developers/</link>
+	<atom:link href="/blog/tag/we-are-developers/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/we-are-developers/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Jul 2023 19:02:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>We Are Developers Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/we-are-developers/</link>
+	<link>/blog/tag/we-are-developers/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR&#8217;s BOS Impact at We Are Developers 2023 World Congress</title>
-		<link>https://pages.near.org/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/</link>
+		<link>/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 27 Jul 2023 16:45:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR Balkans]]></category>
 		<category><![CDATA[We Are Developers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20770</guid>
+		<guid isPermaLink="false">/?p=20770</guid>
 
 					<description><![CDATA[<p>The excitement is palpable as NEAR hits the ground in the vibrant city of Berlin for the We Are Developers …</p>
-<p>The post <a href="https://pages.near.org/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/">NEAR&#8217;s BOS Impact at We Are Developers 2023 World Congress</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/">NEAR&#8217;s BOS Impact at We Are Developers 2023 World Congress</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The excitement is palpable as NEAR hits the ground in the vibrant city of Berlin for the <a href="https://www.wearedevelopers.com/world-congress">We Are Developers World Congress 2023</a>. With a packed agenda and a bustling venue, the stage is set for a memorable exploration into the Blockchain Operating System (BOS).</p>
@@ -54,7 +54,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="682" src="https://pages.near.org/wp-content/uploads/2023/07/IMG_2718-1024x682.jpg" alt="" class="wp-image-20778" srcset="https://pages.near.org/wp-content/uploads/2023/07/IMG_2718-1024x682.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2718-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2718-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2718.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="682" src="/wp-content/uploads/2023/07/IMG_2718-1024x682.jpg" alt="" class="wp-image-20778" srcset="/wp-content/uploads/2023/07/IMG_2718-1024x682.jpg 1024w, /wp-content/uploads/2023/07/IMG_2718-300x200.jpg 300w, /wp-content/uploads/2023/07/IMG_2718-768x512.jpg 768w, /wp-content/uploads/2023/07/IMG_2718.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-1024x768.jpg" alt="" class="wp-image-20776" srcset="https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-1024x768.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-300x225.jpg 300w, https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-768x576.jpg 768w, https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-1024x768.jpg" alt="" class="wp-image-20776" srcset="/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-1024x768.jpg 1024w, /wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-300x225.jpg 300w, /wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-768x576.jpg 768w, /wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="https://pages.near.org/wp-content/uploads/2023/07/IMG_2716-1024x682.jpg" alt="" class="wp-image-20779" srcset="https://pages.near.org/wp-content/uploads/2023/07/IMG_2716-1024x682.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2716-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2716-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2716.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="/wp-content/uploads/2023/07/IMG_2716-1024x682.jpg" alt="" class="wp-image-20779" srcset="/wp-content/uploads/2023/07/IMG_2716-1024x682.jpg 1024w, /wp-content/uploads/2023/07/IMG_2716-300x200.jpg 300w, /wp-content/uploads/2023/07/IMG_2716-768x512.jpg 768w, /wp-content/uploads/2023/07/IMG_2716.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -94,7 +94,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://pages.near.org/wp-content/uploads/2023/07/IMG_2709-1024x682.jpg" alt="" class="wp-image-20780" srcset="https://pages.near.org/wp-content/uploads/2023/07/IMG_2709-1024x682.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2709-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2709-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2709.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="/wp-content/uploads/2023/07/IMG_2709-1024x682.jpg" alt="" class="wp-image-20780" srcset="/wp-content/uploads/2023/07/IMG_2709-1024x682.jpg 1024w, /wp-content/uploads/2023/07/IMG_2709-300x200.jpg 300w, /wp-content/uploads/2023/07/IMG_2709-768x512.jpg 768w, /wp-content/uploads/2023/07/IMG_2709.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -107,7 +107,7 @@
 
 
 <p>There&#8217;s plenty more to explore and experience as the event unfolds. If you haven&#8217;t yet visited the NEAR booth or attended our sessions, seize the opportunity to dive into BOS and discover its revolutionary impact on the application-building process. And don’t forget to partake in all the fun and rewards, like a chance to win NEARCON tickets with Tekuno PODs.</p>
-<p>The post <a href="https://pages.near.org/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/">NEAR&#8217;s BOS Impact at We Are Developers 2023 World Congress</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/">NEAR&#8217;s BOS Impact at We Are Developers 2023 World Congress</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

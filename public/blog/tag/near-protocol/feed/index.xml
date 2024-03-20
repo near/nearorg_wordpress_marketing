@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Protocol Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-protocol/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-protocol/</link>
+	<atom:link href="/blog/tag/near-protocol/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-protocol/</link>
 	<description></description>
 	<lastBuildDate>Thu, 14 Sep 2023 17:29:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Protocol Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-protocol/</link>
+	<link>/blog/tag/near-protocol/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</title>
-		<link>https://pages.near.org/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/</link>
+		<link>/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 14 Sep 2023 17:29:04 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[NEAR Protocol]]></category>
 		<category><![CDATA[Validator Delegation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20890</guid>
+		<guid isPermaLink="false">/?p=20890</guid>
 
 					<description><![CDATA[<p>Validators are the backbone of the NEAR Protocol, playing an integral role in upholding the network&#8217;s core values now and …</p>
-<p>The post <a href="https://pages.near.org/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/">Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/">Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Validators are the backbone of the NEAR Protocol, playing an integral role in upholding the network&#8217;s core values now and into the future. Validators ensure that NEAR Protocol remains scalable, user-friendly, secure, trustworthy, and most importantly, decentralized.&nbsp;</p>
@@ -85,7 +85,7 @@
 
 
 <p>Many thanks for your continued support to improve the validator experience and help secure the NEAR Protocol.&nbsp;&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/">Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/">Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -93,17 +93,17 @@
 			</item>
 		<item>
 		<title>NEAR Q2 Protocol Roadmap Update</title>
-		<link>https://pages.near.org/blog/near-q2-protocol-roadmap-update/</link>
+		<link>/blog/near-q2-protocol-roadmap-update/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 09 Aug 2023 16:00:00 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[NEAR Protocol]]></category>
 		<category><![CDATA[Protocol Roadmap]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20793</guid>
+		<guid isPermaLink="false">/?p=20793</guid>
 
 					<description><![CDATA[<p>The Q1 protocol roadmap update was well received by the community. Pagoda committed to&#160; continuing to share quarterly roadmap updates, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-q2-protocol-roadmap-update/">NEAR Q2 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q2-protocol-roadmap-update/">NEAR Q2 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The <a href="https://near.org/s/p?a=pagodaplatform.near&amp;b=88979940">Q1 protocol roadmap update</a> was well received by the community. Pagoda committed to&nbsp; continuing to share quarterly roadmap updates, so here is the update for Q2 2023.</p>
@@ -155,7 +155,7 @@
 
 
 <p>To stay up to date with protocol changes as they happen, or to participate in protocol governance, please join <a href="https://t.me/NEAR_Protocol_Community_Group">the protocol community group</a> and follow <a href="https://github.com/orgs/near/projects/51/views/3">the NEAR Enhancement Proposal (NEP) process</a>.</p>
-<p>The post <a href="https://pages.near.org/blog/near-q2-protocol-roadmap-update/">NEAR Q2 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q2-protocol-roadmap-update/">NEAR Q2 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

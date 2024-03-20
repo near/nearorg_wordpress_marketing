@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Erica Kang Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/erica-kang/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/erica-kang/</link>
+	<atom:link href="/blog/tag/erica-kang/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/erica-kang/</link>
 	<description></description>
 	<lastBuildDate>Tue, 03 Oct 2023 16:05:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Erica Kang Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/erica-kang/</link>
+	<link>/blog/tag/erica-kang/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Women in Web3 Changemakers: Erica Kang</title>
-		<link>https://pages.near.org/blog/women-in-web3-changemakers-erica-kang/</link>
+		<link>/blog/women-in-web3-changemakers-erica-kang/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 03 Oct 2023 16:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Erica Kang]]></category>
 		<category><![CDATA[Women in Web3 Changemakers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20944</guid>
+		<guid isPermaLink="false">/?p=20944</guid>
 
 					<description><![CDATA[<p>“The space needs more women,” says Erica Kang, the CEO and founder of KryptoSeoul, a community building team focused on …</p>
-<p>The post <a href="https://pages.near.org/blog/women-in-web3-changemakers-erica-kang/">Women in Web3 Changemakers: Erica Kang</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/women-in-web3-changemakers-erica-kang/">Women in Web3 Changemakers: Erica Kang</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>“The space needs more women,” says Erica Kang, the CEO and founder of <a href="http://kryptoseoul.com/">KryptoSeoul</a>, a community building team focused on highlighting projects that are actively building in the space, connecting audiences in Asia and beyond. </p>
@@ -125,7 +125,7 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="Women in Web3 Changemakers: Erica Kang" width="500" height="281" src="https://www.youtube.com/embed/SnqfeX4viRk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
-<p>The post <a href="https://pages.near.org/blog/women-in-web3-changemakers-erica-kang/">Women in Web3 Changemakers: Erica Kang</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/women-in-web3-changemakers-erica-kang/">Women in Web3 Changemakers: Erica Kang</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

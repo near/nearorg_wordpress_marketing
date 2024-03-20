@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Data Availability Layer Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-data-availability-layer/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-data-availability-layer/</link>
+	<atom:link href="/blog/tag/near-data-availability-layer/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-data-availability-layer/</link>
 	<description></description>
 	<lastBuildDate>Fri, 26 Jan 2024 16:28:31 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Data Availability Layer Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-data-availability-layer/</link>
+	<link>/blog/tag/near-data-availability-layer/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Why NEAR Data Availability?</title>
-		<link>https://pages.near.org/blog/why-near-data-availability/</link>
+		<link>/blog/why-near-data-availability/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 26 Jan 2024 16:28:31 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Ethereum Rollups]]></category>
 		<category><![CDATA[Modularity]]></category>
 		<category><![CDATA[NEAR Data Availability Layer]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21194</guid>
+		<guid isPermaLink="false">/?p=21194</guid>
 
 					<description><![CDATA[<p>NEAR Protocol is built to onboard 1B+ users to Web3. Since its mainnet launch in October 2020, NEAR Protocol has …</p>
-<p>The post <a href="https://pages.near.org/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Protocol is built to onboard 1B+ users to Web3. Since its mainnet launch in October 2020, NEAR Protocol has achieved 100% uptime with 4 shards and has onboarded 35M accounts, of which 16M are monthly active accounts.</p>
@@ -68,7 +68,7 @@
 
 
 
-<p>The NEAR ecosystem’s focus for 2024 is expanding <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> across more chains &amp; ecosystems, with the goal of abstracting the blockchain away from the user &amp; developer experience. While the modular Ethereum ecosystem has made Ethereum more scalable in some ways, it’s also resulted in a lot of incompatible infrastructure and fractured liquidity that places a huge burden on app builders and end users to manage. The chain abstraction vision is that apps should just work with all chains, onboarding should be seamless, and things like gas fees and bridging should become invisible to end users.&nbsp;</p>
+<p>The NEAR ecosystem’s focus for 2024 is expanding <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> across more chains &amp; ecosystems, with the goal of abstracting the blockchain away from the user &amp; developer experience. While the modular Ethereum ecosystem has made Ethereum more scalable in some ways, it’s also resulted in a lot of incompatible infrastructure and fractured liquidity that places a huge burden on app builders and end users to manage. The chain abstraction vision is that apps should just work with all chains, onboarding should be seamless, and things like gas fees and bridging should become invisible to end users.&nbsp;</p>
 
 
 
@@ -147,7 +147,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -155,17 +155,17 @@
 			</item>
 		<item>
 		<title>NEAR Foundation Launches NEAR DA to Offer Secure, Cost-Effective Data Availability for ETH Rollups and Ethereum Developers </title>
-		<link>https://pages.near.org/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/</link>
+		<link>/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 08 Nov 2023 14:32:28 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR DA]]></category>
 		<category><![CDATA[NEAR Data Availability Layer]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21056</guid>
+		<guid isPermaLink="false">/?p=21056</guid>
 
 					<description><![CDATA[<p>NEAR Foundation just announced the rollout of the NEAR Data Availability (NEAR DA) layer. Part of the NEAR Open Web …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/">NEAR Foundation Launches NEAR DA to Offer Secure, Cost-Effective Data Availability for ETH Rollups and Ethereum Developers </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/">NEAR Foundation Launches NEAR DA to Offer Secure, Cost-Effective Data Availability for ETH Rollups and Ethereum Developers </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://near.foundation/">NEAR Foundation</a> just announced the rollout of the NEAR Data Availability (NEAR DA) layer. Part of the NEAR Open Web Stack, NEAR DA is a groundbreaking innovation that offers robust, cost-efficient data availability for ETH rollups and Ethereum developers.</p>
@@ -223,7 +223,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/">NEAR Foundation Launches NEAR DA to Offer Secure, Cost-Effective Data Availability for ETH Rollups and Ethereum Developers </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/">NEAR Foundation Launches NEAR DA to Offer Secure, Cost-Effective Data Availability for ETH Rollups and Ethereum Developers </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>DeFi Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/defi/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/defi/</link>
+	<atom:link href="/blog/tag/defi/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/defi/</link>
 	<description></description>
 	<lastBuildDate>Thu, 09 Nov 2023 13:12:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>DeFi Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/defi/</link>
+	<link>/blog/tag/defi/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</title>
-		<link>https://pages.near.org/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/</link>
+		<link>/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 09 Nov 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[idOS]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21069</guid>
+		<guid isPermaLink="false">/?p=21069</guid>
 
 					<description><![CDATA[<p>In the ever-evolving landscape of web3, DeFi has stood apart as a driver of innovation, promising a decentralized financial future. …</p>
-<p>The post <a href="https://pages.near.org/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/">Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/">Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>In the ever-evolving landscape of web3, DeFi has stood apart as a driver of innovation, promising a decentralized financial future. But for developers and founders, the challenge has always been integrating real-world applications with the decentralized world, ensuring compliance, and providing a seamless user experience. Enter the idOS on NEAR, a solution — built with Fractal — that bridges this gap and brings the Open Web closer to mainstream adoption.</p>
@@ -99,7 +99,7 @@
 
 
 <p>Join the revolution and explore how the <a href="https://idos.network/">idOS</a> can redefine your DeFi applications and enhance user identity verification on NEAR.</p>
-<p>The post <a href="https://pages.near.org/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/">Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/unlocking-the-future-of-defi-with-the-idos-on-near-a-developers-guide/">Unlocking the Future of DeFi with the idOS on NEAR: A Developer&#8217;s Guide</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -107,7 +107,7 @@
 			</item>
 		<item>
 		<title>Coin98 Launches Decentralized Dapp Store for its 7 Million Users on NEAR’s Blockchain Operating System (B.O.S)</title>
-		<link>https://pages.near.org/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/</link>
+		<link>/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 02 Nov 2023 13:00:00 +0000</pubDate>
@@ -115,10 +115,10 @@
 		<category><![CDATA[Coin98 super app]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[NEAR]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21028</guid>
+		<guid isPermaLink="false">/?p=21028</guid>
 
 					<description><![CDATA[<p>Coin98, the multichain wallet and DeFi platform, has today launched a decentralized dapp store for its 7 million users across …</p>
-<p>The post <a href="https://pages.near.org/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/">Coin98 Launches Decentralized Dapp Store for its 7 Million Users on NEAR’s Blockchain Operating System (B.O.S)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/">Coin98 Launches Decentralized Dapp Store for its 7 Million Users on NEAR’s Blockchain Operating System (B.O.S)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://coin98.com/">Coin98</a>, the multichain wallet and DeFi platform, has today launched a decentralized dapp store for its 7 million users across 170 countries, built on NEAR.&nbsp;</p>
@@ -157,12 +157,12 @@
 
 
 
-<p>Coin98’s decentralized app store offering follows the launches of major B.O.S gateways by <a href="https://pages.near.org/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/">Polygon zkEVM</a> and <a href="https://pages.near.org/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/?_gl=1%2A7ub265%2A_up%2AMQ..%2A_ga%2ANTkxMzY4NDg1LjE2OTg2ODA1NTQ.%2A_ga_9GWCXQJ62J%2AMTY5ODY4MDU1MS4xLjEuMTY5ODY4MDY1Mi4wLjAuMA..">Mantle</a>, two top L2 ecosystems. The success of these wallet gateway partners highlights the benefits that B.O.S helps Web3 founders deliver to end-users, demonstrating NEAR&#8217;s commitment to enabling products that simplify the blockchain experience and globally expand access to the Open Web.</p>
+<p>Coin98’s decentralized app store offering follows the launches of major B.O.S gateways by <a href="/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/">Polygon zkEVM</a> and <a href="/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/?_gl=1%2A7ub265%2A_up%2AMQ..%2A_ga%2ANTkxMzY4NDg1LjE2OTg2ODA1NTQ.%2A_ga_9GWCXQJ62J%2AMTY5ODY4MDU1MS4xLjEuMTY5ODY4MDY1Mi4wLjAuMA..">Mantle</a>, two top L2 ecosystems. The success of these wallet gateway partners highlights the benefits that B.O.S helps Web3 founders deliver to end-users, demonstrating NEAR&#8217;s commitment to enabling products that simplify the blockchain experience and globally expand access to the Open Web.</p>
 
 
 
 <p>Want to try the new B.O.S integration? Download the mobile app on <a href="https://apps.apple.com/us/app/coin98-super-wallet/id1561969966">Apple</a> or <a href="https://play.google.com/store/apps/details?id=coin98.crypto.finance.media&amp;hl=en_US&amp;gl=US">Google Play </a>store today.</p>
-<p>The post <a href="https://pages.near.org/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/">Coin98 Launches Decentralized Dapp Store for its 7 Million Users on NEAR’s Blockchain Operating System (B.O.S)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/">Coin98 Launches Decentralized Dapp Store for its 7 Million Users on NEAR’s Blockchain Operating System (B.O.S)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

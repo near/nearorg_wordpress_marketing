@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Cosmose AI Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/cosmose-ai/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/cosmose-ai/</link>
+	<atom:link href="/blog/tag/cosmose-ai/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/cosmose-ai/</link>
 	<description></description>
 	<lastBuildDate>Thu, 14 Sep 2023 08:37:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Cosmose AI Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/cosmose-ai/</link>
+	<link>/blog/tag/cosmose-ai/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Cosmose AI Harnesses the Open Web and NEAR with KAIKAINOW </title>
-		<link>https://pages.near.org/blog/cosmose-ai-harnesses-the-open-web-and-near-with-kaikainow/</link>
+		<link>/blog/cosmose-ai-harnesses-the-open-web-and-near-with-kaikainow/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Cosmose AI]]></category>
 		<category><![CDATA[KAIKAINOW]]></category>
 		<category><![CDATA[Open Web]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20877</guid>
+		<guid isPermaLink="false">/?p=20877</guid>
 
 					<description><![CDATA[<p>Cosmose AI, the global platform that uses AI to predict and influence how people shop offline is launching a new …</p>
-<p>The post <a href="https://pages.near.org/blog/cosmose-ai-harnesses-the-open-web-and-near-with-kaikainow/">Cosmose AI Harnesses the Open Web and NEAR with KAIKAINOW </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/cosmose-ai-harnesses-the-open-web-and-near-with-kaikainow/">Cosmose AI Harnesses the Open Web and NEAR with KAIKAINOW </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://cosmose.ai/web3">Cosmose AI</a>, the global platform that uses AI to predict and influence how people shop offline is launching a new piece of technology designed to disrupt the smartphone lock screen experience.&nbsp;</p>
@@ -101,7 +101,7 @@
 
 
 <p>NEAR is helping partners like Cosmose AI harness these tools to create better products that serve customers and partners equally.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/cosmose-ai-harnesses-the-open-web-and-near-with-kaikainow/">Cosmose AI Harnesses the Open Web and NEAR with KAIKAINOW </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/cosmose-ai-harnesses-the-open-web-and-near-with-kaikainow/">Cosmose AI Harnesses the Open Web and NEAR with KAIKAINOW </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -109,7 +109,7 @@
 			</item>
 		<item>
 		<title>Cosmose and NEAR Foundation Set To Revolutionize Retail with Web3 and AI</title>
-		<link>https://pages.near.org/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/</link>
+		<link>/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 24 Apr 2023 07:46:00 +0000</pubDate>
@@ -117,10 +117,10 @@
 		<category><![CDATA[Cosmose AI]]></category>
 		<category><![CDATA[KaiKai]]></category>
 		<category><![CDATA[Retail]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20441</guid>
+		<guid isPermaLink="false">/?p=20441</guid>
 
 					<description><![CDATA[<p>The Artificial Intelligence (AI) wave is touching just about every corner of commerce and culture, and retail is no exception. …</p>
-<p>The post <a href="https://pages.near.org/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/">Cosmose and NEAR Foundation Set To Revolutionize Retail with Web3 and AI</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/">Cosmose and NEAR Foundation Set To Revolutionize Retail with Web3 and AI</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The Artificial Intelligence (AI) wave is touching just about every corner of commerce and culture, and retail is no exception. <a href="https://cosmose.co/">Cosmose AI</a>, one of the leaders in AI and retail, has received a strategic investment from NEAR Foundation to create Web3, mobile, and retail experiences that enhance personalization without sacrificing privacy or security.</p>
@@ -222,7 +222,7 @@
 
 
 <p>“Together we’ll build a future where one billion users benefit from the ecosystem they’re part of, with complete control of their data and superior AI-driven personalization,” said Mironiuk.</p>
-<p>The post <a href="https://pages.near.org/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/">Cosmose and NEAR Foundation Set To Revolutionize Retail with Web3 and AI</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/">Cosmose and NEAR Foundation Set To Revolutionize Retail with Web3 and AI</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

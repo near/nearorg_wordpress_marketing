@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Query API Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-query-api/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-query-api/</link>
+	<atom:link href="/blog/tag/near-query-api/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-query-api/</link>
 	<description></description>
 	<lastBuildDate>Thu, 12 Oct 2023 13:08:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Query API Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-query-api/</link>
+	<link>/blog/tag/near-query-api/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Query API Beta Is Now Open for Apps Building on B.O.S</title>
-		<link>https://pages.near.org/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/</link>
+		<link>/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 12 Oct 2023 14:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[B.O.S]]></category>
 		<category><![CDATA[Javascript dApps]]></category>
 		<category><![CDATA[NEAR Query API]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20967</guid>
+		<guid isPermaLink="false">/?p=20967</guid>
 
 					<description><![CDATA[<p>Pagoda has officially opened the Beta version of NEAR Query API, a fully managed serverless infrastructure offering NEAR blockchain #indexers, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/">NEAR Query API Beta Is Now Open for Apps Building on B.O.S</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/">NEAR Query API Beta Is Now Open for Apps Building on B.O.S</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Pagoda has officially opened the Beta version of NEAR Query API, a fully managed serverless infrastructure offering NEAR blockchain #indexers, storage, and GraphQL endpoints. Developers can now build indexers for any smart contract using JavaScript and the<a href="https://www.npmjs.com/package/@near-lake/primitives"> NEAR Lake Primitives library</a>, and store data in custom SQL schemas, all without needing to manage any infrastructure. This approach significantly simplifies the way developers interact with blockchain data and empowers them to build B.O.S applications with great user experiences.</p>
@@ -144,7 +144,7 @@
 
 
 <p>Join in this exciting new chapter of full-stack JavaScript dApps with NEAR B.O.S. and NEAR Query API!</p>
-<p>The post <a href="https://pages.near.org/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/">NEAR Query API Beta Is Now Open for Apps Building on B.O.S</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-query-api-beta-is-now-open-for-apps-building-on-b-o-s/">NEAR Query API Beta Is Now Open for Apps Building on B.O.S</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

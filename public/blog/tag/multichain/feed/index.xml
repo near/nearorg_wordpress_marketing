@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Multichain Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/multichain/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/multichain/</link>
+	<atom:link href="/blog/tag/multichain/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/multichain/</link>
 	<description></description>
 	<lastBuildDate>Wed, 24 Jan 2024 19:55:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Multichain Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/multichain/</link>
+	<link>/blog/tag/multichain/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Why Chain Abstraction Is the Next Frontier for Web3</title>
-		<link>https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</link>
+		<link>/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</link>
 		
 		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
 		<pubDate>Wed, 24 Jan 2024 19:55:01 +0000</pubDate>
@@ -38,17 +38,17 @@
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Mission & vision]]></category>
 		<category><![CDATA[Multichain]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21182</guid>
+		<guid isPermaLink="false">/?p=21182</guid>
 
 					<description><![CDATA[<p>Most of today’s dapps are not actually dapps, i.e. decentralized applications. If you need to leave the app in order …</p>
-<p>The post <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Most of today’s dapps are not actually dapps, i.e. <em>decentralized applications. </em>If you need to leave the app in order to start using it, it’s not really an app––it’s just a frontend. If users have to manually onboard themselves through exchanges and manage multiple accounts and gas fees and bridges, did you even build an app? I think not––which may explain why only a few million people in the world are using dapps.&nbsp;</p>
 
 
 
-<p>If we want to see mainstream adoption of Web3 because we believe a more open, decentralized internet that supports self-sovereignty for all people is <a href="https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem">better for the world</a>, then we will need to do better.</p>
+<p>If we want to see mainstream adoption of Web3 because we believe a more open, decentralized internet that supports self-sovereignty for all people is <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem">better for the world</a>, then we will need to do better.</p>
 
 
 
@@ -179,7 +179,7 @@
 
 
 <p>Let’s make chain abstraction a movement. The NEAR ecosystem invites builders from across Web3 to take advantage of the solutions we’re offering and to collaborate with us to build more chain abstraction solutions together. Stay tuned for more news on collaborations as well as details on an exciting event that NEAR Foundation will co-host at ETHDenver 2024.<br><br><em>Special thanks to Zaki Manian for conversations that led to this post as well as for his review.</em></p>
-<p>The post <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -187,17 +187,17 @@
 			</item>
 		<item>
 		<title>Case Study: Indexer&#8217;s Mary Korch on Building a Multichain Indexing Platform</title>
-		<link>https://pages.near.org/blog/case-study-indexers-mary-korch-on-building-a-multichain-indexing-platform/</link>
+		<link>/blog/case-study-indexers-mary-korch-on-building-a-multichain-indexing-platform/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 18 Aug 2023 17:15:04 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Indexer]]></category>
 		<category><![CDATA[Multichain]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20804</guid>
+		<guid isPermaLink="false">/?p=20804</guid>
 
 					<description><![CDATA[<p>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR …</p>
-<p>The post <a href="https://pages.near.org/blog/case-study-indexers-mary-korch-on-building-a-multichain-indexing-platform/">Case Study: Indexer&#8217;s Mary Korch on Building a Multichain Indexing Platform</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/case-study-indexers-mary-korch-on-building-a-multichain-indexing-platform/">Case Study: Indexer&#8217;s Mary Korch on Building a Multichain Indexing Platform</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR to effortlessly create and distribute innovative decentralized apps, while helping build a more open web — free from centralized platforms. In these Case Study videos, NEAR Foundation showcases some of these projects.&nbsp;</em></p>
@@ -215,7 +215,7 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="Case Study: Indexer&#039;s Mary Korch on Building a Multichain Indexing Platform" width="500" height="281" src="https://www.youtube.com/embed/MDGVG0SuiLU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
-<p>The post <a href="https://pages.near.org/blog/case-study-indexers-mary-korch-on-building-a-multichain-indexing-platform/">Case Study: Indexer&#8217;s Mary Korch on Building a Multichain Indexing Platform</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/case-study-indexers-mary-korch-on-building-a-multichain-indexing-platform/">Case Study: Indexer&#8217;s Mary Korch on Building a Multichain Indexing Platform</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

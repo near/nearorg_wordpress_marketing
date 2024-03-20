@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Ethereum Rollups Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/ethereum-rollups/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/ethereum-rollups/</link>
+	<atom:link href="/blog/tag/ethereum-rollups/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/ethereum-rollups/</link>
 	<description></description>
 	<lastBuildDate>Fri, 26 Jan 2024 16:28:31 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Ethereum Rollups Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/ethereum-rollups/</link>
+	<link>/blog/tag/ethereum-rollups/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Why NEAR Data Availability?</title>
-		<link>https://pages.near.org/blog/why-near-data-availability/</link>
+		<link>/blog/why-near-data-availability/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 26 Jan 2024 16:28:31 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Ethereum Rollups]]></category>
 		<category><![CDATA[Modularity]]></category>
 		<category><![CDATA[NEAR Data Availability Layer]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21194</guid>
+		<guid isPermaLink="false">/?p=21194</guid>
 
 					<description><![CDATA[<p>NEAR Protocol is built to onboard 1B+ users to Web3. Since its mainnet launch in October 2020, NEAR Protocol has …</p>
-<p>The post <a href="https://pages.near.org/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Protocol is built to onboard 1B+ users to Web3. Since its mainnet launch in October 2020, NEAR Protocol has achieved 100% uptime with 4 shards and has onboarded 35M accounts, of which 16M are monthly active accounts.</p>
@@ -68,7 +68,7 @@
 
 
 
-<p>The NEAR ecosystem’s focus for 2024 is expanding <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> across more chains &amp; ecosystems, with the goal of abstracting the blockchain away from the user &amp; developer experience. While the modular Ethereum ecosystem has made Ethereum more scalable in some ways, it’s also resulted in a lot of incompatible infrastructure and fractured liquidity that places a huge burden on app builders and end users to manage. The chain abstraction vision is that apps should just work with all chains, onboarding should be seamless, and things like gas fees and bridging should become invisible to end users.&nbsp;</p>
+<p>The NEAR ecosystem’s focus for 2024 is expanding <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> across more chains &amp; ecosystems, with the goal of abstracting the blockchain away from the user &amp; developer experience. While the modular Ethereum ecosystem has made Ethereum more scalable in some ways, it’s also resulted in a lot of incompatible infrastructure and fractured liquidity that places a huge burden on app builders and end users to manage. The chain abstraction vision is that apps should just work with all chains, onboarding should be seamless, and things like gas fees and bridging should become invisible to end users.&nbsp;</p>
 
 
 
@@ -147,7 +147,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -155,17 +155,17 @@
 			</item>
 		<item>
 		<title>Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </title>
-		<link>https://pages.near.org/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/</link>
+		<link>/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 21 Dec 2023 15:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Arbitrum]]></category>
 		<category><![CDATA[Ethereum Rollups]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21140</guid>
+		<guid isPermaLink="false">/?p=21140</guid>
 
 					<description><![CDATA[<p>The NEAR Data Availability layer (NEAR DA) was one of the most exciting announcements to come out of NEARCON ‘23. …</p>
-<p>The post <a href="https://pages.near.org/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/">Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/">Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The <a href="https://near.org/data-availability">NEAR Data Availability layer</a> (NEAR DA) was one of the most exciting announcements to come out of NEARCON ‘23. Unveiled by NEAR Protocol co-founder and new NEAR Foundation CEO, Illia Polosukhin, NEAR DA is a highly efficient and robust data availability layer, designed to help Ethereum rollup builders simplify their network and lower costs, while ensuring they can scale like the NEAR Protocol.</p>
@@ -221,7 +221,7 @@
 
 
 <p>“NEAR’s L1 has been live with 100% uptime for more than three years, so it can offer true reliability to projects looking for secure DA while also being cost-effective,” Polosukhin added. “NEAR provides great solutions to developers no matter which stack they’re building on and now that includes the Ethereum modular blockchain landscape.”<br>Interested teams who want to work with NEAR DA are invited to fill out <a href="https://forms.gle/LWJoTpTiCbSheUL26">this form</a>, with information about your project and how you would like to integrate with NEAR DA.</p>
-<p>The post <a href="https://pages.near.org/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/">Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/">Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

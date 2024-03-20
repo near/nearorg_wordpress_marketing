@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near/</link>
+	<atom:link href="/blog/tag/near/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near/</link>
 	<description></description>
 	<lastBuildDate>Wed, 08 Nov 2023 06:51:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near/</link>
+	<link>/blog/tag/near/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Enter the Black Dragon: NEAR Co-Founder Joins the NEAR Foundation as CEO</title>
-		<link>https://pages.near.org/blog/enter-the-black-dragon-near-co-founder-joins-the-near-foundation-as-ceo/</link>
+		<link>/blog/enter-the-black-dragon-near-co-founder-joins-the-near-foundation-as-ceo/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 07 Nov 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Illia Polosukhin]]></category>
 		<category><![CDATA[NEAR]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21045</guid>
+		<guid isPermaLink="false">/?p=21045</guid>
 
 					<description><![CDATA[<p>The NEAR Foundation announced today that Illia Polosukhin, co-founder of NEAR Protocol, has been appointed NEAR Foundation CEO to lead …</p>
-<p>The post <a href="https://pages.near.org/blog/enter-the-black-dragon-near-co-founder-joins-the-near-foundation-as-ceo/">Enter the Black Dragon: NEAR Co-Founder Joins the NEAR Foundation as CEO</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/enter-the-black-dragon-near-co-founder-joins-the-near-foundation-as-ceo/">Enter the Black Dragon: NEAR Co-Founder Joins the NEAR Foundation as CEO</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR Foundation announced today that Illia Polosukhin, co-founder of NEAR Protocol, has been appointed NEAR Foundation CEO to lead the NEAR ecosystem into the next phase of building an open web. As the person who has driven the vision for NEAR from the very beginning, there is no one better to oversee the growth of the NEAR Open Web Ecosystem and guide the constellation of teams building on NEAR to work together towards that common vision. From the earliest days of NEAR, Illia’s vision of an open web has guided the development of the ecosystem and served as a north star for the Foundation. In his new role as CEO, he will be able to realize that vision in a more direct and streamlined way.&nbsp;</p>
@@ -59,7 +59,7 @@
 
 
 <p>With a clear vision, strong leadership, an engaged ecosystem, and a passionate community all building towards a common vision, NEAR is poised to take its next bold step into an open web. All members of the NEAR community are invited to join this week for the biggest, most exciting NEARCON ever in Lisbon, or tune in virtually at nearcon.org starting Wednesday, November 8. You won’t want to miss the chance to hear exciting announcements and strategy updates from Illia, demos from top projects across the ecosystem, and leading perspectives from the Web3 industry during three days of talks, hackathons, and celebration.&nbsp;&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/enter-the-black-dragon-near-co-founder-joins-the-near-foundation-as-ceo/">Enter the Black Dragon: NEAR Co-Founder Joins the NEAR Foundation as CEO</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/enter-the-black-dragon-near-co-founder-joins-the-near-foundation-as-ceo/">Enter the Black Dragon: NEAR Co-Founder Joins the NEAR Foundation as CEO</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -67,7 +67,7 @@
 			</item>
 		<item>
 		<title>Coin98 Launches Decentralized Dapp Store for its 7 Million Users on NEAR’s Blockchain Operating System (B.O.S)</title>
-		<link>https://pages.near.org/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/</link>
+		<link>/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 02 Nov 2023 13:00:00 +0000</pubDate>
@@ -75,10 +75,10 @@
 		<category><![CDATA[Coin98 super app]]></category>
 		<category><![CDATA[DeFi]]></category>
 		<category><![CDATA[NEAR]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21028</guid>
+		<guid isPermaLink="false">/?p=21028</guid>
 
 					<description><![CDATA[<p>Coin98, the multichain wallet and DeFi platform, has today launched a decentralized dapp store for its 7 million users across …</p>
-<p>The post <a href="https://pages.near.org/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/">Coin98 Launches Decentralized Dapp Store for its 7 Million Users on NEAR’s Blockchain Operating System (B.O.S)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/">Coin98 Launches Decentralized Dapp Store for its 7 Million Users on NEAR’s Blockchain Operating System (B.O.S)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://coin98.com/">Coin98</a>, the multichain wallet and DeFi platform, has today launched a decentralized dapp store for its 7 million users across 170 countries, built on NEAR.&nbsp;</p>
@@ -117,12 +117,12 @@
 
 
 
-<p>Coin98’s decentralized app store offering follows the launches of major B.O.S gateways by <a href="https://pages.near.org/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/">Polygon zkEVM</a> and <a href="https://pages.near.org/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/?_gl=1%2A7ub265%2A_up%2AMQ..%2A_ga%2ANTkxMzY4NDg1LjE2OTg2ODA1NTQ.%2A_ga_9GWCXQJ62J%2AMTY5ODY4MDU1MS4xLjEuMTY5ODY4MDY1Mi4wLjAuMA..">Mantle</a>, two top L2 ecosystems. The success of these wallet gateway partners highlights the benefits that B.O.S helps Web3 founders deliver to end-users, demonstrating NEAR&#8217;s commitment to enabling products that simplify the blockchain experience and globally expand access to the Open Web.</p>
+<p>Coin98’s decentralized app store offering follows the launches of major B.O.S gateways by <a href="/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/">Polygon zkEVM</a> and <a href="/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/?_gl=1%2A7ub265%2A_up%2AMQ..%2A_ga%2ANTkxMzY4NDg1LjE2OTg2ODA1NTQ.%2A_ga_9GWCXQJ62J%2AMTY5ODY4MDU1MS4xLjEuMTY5ODY4MDY1Mi4wLjAuMA..">Mantle</a>, two top L2 ecosystems. The success of these wallet gateway partners highlights the benefits that B.O.S helps Web3 founders deliver to end-users, demonstrating NEAR&#8217;s commitment to enabling products that simplify the blockchain experience and globally expand access to the Open Web.</p>
 
 
 
 <p>Want to try the new B.O.S integration? Download the mobile app on <a href="https://apps.apple.com/us/app/coin98-super-wallet/id1561969966">Apple</a> or <a href="https://play.google.com/store/apps/details?id=coin98.crypto.finance.media&amp;hl=en_US&amp;gl=US">Google Play </a>store today.</p>
-<p>The post <a href="https://pages.near.org/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/">Coin98 Launches Decentralized Dapp Store for its 7 Million Users on NEAR’s Blockchain Operating System (B.O.S)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/">Coin98 Launches Decentralized Dapp Store for its 7 Million Users on NEAR’s Blockchain Operating System (B.O.S)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -130,17 +130,17 @@
 			</item>
 		<item>
 		<title>NEAR at Collision: Expand into the Open Web with the Blockchain Operating System</title>
-		<link>https://pages.near.org/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/</link>
+		<link>/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 24 May 2023 07:00:46 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Collision]]></category>
 		<category><![CDATA[NEAR]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20524</guid>
+		<guid isPermaLink="false">/?p=20524</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce that NEAR is heading to the 2023 edition of Collision from June 26-29 in …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/">NEAR at Collision: Expand into the Open Web with the Blockchain Operating System</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/">NEAR at Collision: Expand into the Open Web with the Blockchain Operating System</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce that NEAR is heading to the 2023 edition of <a href="https://near.org/collision">Collision</a> from June 26-29 in Toronto, Ontario. </p>
@@ -224,7 +224,7 @@
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.eventbrite.com/e/near-horizon-pitch-networking-collision-2023-tickets-637516598307"><strong>RSVP to Horizon Pitch and Networking Event</strong></a></div>
 </div>
-<p>The post <a href="https://pages.near.org/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/">NEAR at Collision: Expand into the Open Web with the Blockchain Operating System</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/">NEAR at Collision: Expand into the Open Web with the Blockchain Operating System</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -232,7 +232,7 @@
 			</item>
 		<item>
 		<title>NEAR at Consensus Highlights</title>
-		<link>https://pages.near.org/blog/near-at-consensus-highlights/</link>
+		<link>/blog/near-at-consensus-highlights/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 27 Apr 2023 20:18:30 +0000</pubDate>
@@ -241,10 +241,10 @@
 		<category><![CDATA[Consensus]]></category>
 		<category><![CDATA[NEAR]]></category>
 		<category><![CDATA[NEAR Horizon]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20451</guid>
+		<guid isPermaLink="false">/?p=20451</guid>
 
 					<description><![CDATA[<p>NEAR has a monolithic mega-booth at Consensus 2023, where there have been a number of awesome NEAR announcements, talks, and …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-consensus-highlights/">NEAR at Consensus Highlights</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-consensus-highlights/">NEAR at Consensus Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR has a monolithic mega-booth at Consensus 2023, where there have been a number of awesome NEAR announcements, talks, and events, including the big news out: the <a href="https://near.org/blog/near-announces-the-blockchain-operating-system/">Blockchain Operating System</a> is now live on Near.org and the NEAR Horizon accelerator is open for business. If you haven&#8217;t stopped by yet to meet our NEAR experts or are unable to attend, we’ve got you covered with all of the highlights. </p>
@@ -259,7 +259,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/bos-blog-1024x512.png" alt="" class="wp-image-20432" srcset="https://pages.near.org/wp-content/uploads/2023/04/bos-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/bos-blog-1024x512.png" alt="" class="wp-image-20432" srcset="/wp-content/uploads/2023/04/bos-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/bos-blog-300x150.png 300w, /wp-content/uploads/2023/04/bos-blog-768x384.png 768w, /wp-content/uploads/2023/04/bos-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -279,7 +279,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-1024x512.png" alt="" class="wp-image-20430" srcset="https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/horizon-blog-1024x512.png" alt="" class="wp-image-20430" srcset="/wp-content/uploads/2023/04/horizon-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/horizon-blog-300x150.png 300w, /wp-content/uploads/2023/04/horizon-blog-768x384.png 768w, /wp-content/uploads/2023/04/horizon-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -303,7 +303,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-1024x512.png" alt="" class="wp-image-20455" srcset="https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/ww3-blog-1024x512.png" alt="" class="wp-image-20455" srcset="/wp-content/uploads/2023/04/ww3-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/ww3-blog-300x150.png 300w, /wp-content/uploads/2023/04/ww3-blog-768x384.png 768w, /wp-content/uploads/2023/04/ww3-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -375,7 +375,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-1024x512.png" alt="" class="wp-image-20454" srcset="https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/gcloud-blog-1024x512.png" alt="" class="wp-image-20454" srcset="/wp-content/uploads/2023/04/gcloud-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/gcloud-blog-300x150.png 300w, /wp-content/uploads/2023/04/gcloud-blog-768x384.png 768w, /wp-content/uploads/2023/04/gcloud-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -437,7 +437,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png" alt="" class="wp-image-20462" srcset="https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-300x158.png 300w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-768x403.png 768w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png" alt="" class="wp-image-20462" srcset="/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png 1024w, /wp-content/uploads/2023/04/around-ecosystem-social-300x158.png 300w, /wp-content/uploads/2023/04/around-ecosystem-social-768x403.png 768w, /wp-content/uploads/2023/04/around-ecosystem-social.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -498,7 +498,7 @@
 
 
 <p>Wombi is now publicly available to all dApps fully live or building on the NEAR Blockchain Operating System or Protocol. All developers get free product and marketing analytics, making NEAR the first Layer 1 with a live attribution product.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-consensus-highlights/">NEAR at Consensus Highlights</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-consensus-highlights/">NEAR at Consensus Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Developer relations Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/dev-rel/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/dev-rel/</link>
+	<atom:link href="/blog/tag/dev-rel/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/dev-rel/</link>
 	<description></description>
 	<lastBuildDate>Tue, 12 Sep 2023 07:21:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Developer relations Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/dev-rel/</link>
+	<link>/blog/tag/dev-rel/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</title>
-		<link>https://pages.near.org/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/</link>
+		<link>/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Sat, 09 Sep 2023 12:14:36 +0000</pubDate>
@@ -41,10 +41,10 @@
 		<category><![CDATA[Events]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[NEAR APAC]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20835</guid>
+		<guid isPermaLink="false">/?p=20835</guid>
 
 					<description><![CDATA[<p>After many months in the making, the inaugural NEAR APAC conference kicked off today in Ho Chi Min City, Vietnam. …</p>
-<p>The post <a href="https://pages.near.org/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>After many months in the making, the inaugural NEAR APAC conference kicked off today in Ho Chi Min City, Vietnam. Held in conjunction with the <a href="https://nearvietnamhub.org/">NEAR Vietnam community</a> and NEAR Foundation, NEAR APAC is showcasing the vibrant crypto and Web3 community across the region as well as the potential of the B.O.S. and Open Web both locally and globally.</p>
@@ -140,7 +140,7 @@
 
 
 <p>If Day One was any indication, the NEAR community’s growth, presence, and development in APAC will only continue accelerating through 2023 and beyond!</p>
-<p>The post <a href="https://pages.near.org/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -148,17 +148,17 @@
 			</item>
 		<item>
 		<title>Introducing Wallet Selector: A New Tool for the NEAR Ecosystem</title>
-		<link>https://pages.near.org/blog/introducing-wallet-selector-a-new-tool-for-the-near-ecosystem/</link>
+		<link>/blog/introducing-wallet-selector-a-new-tool-for-the-near-ecosystem/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 07 Apr 2022 13:45:33 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Developer relations]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=16254</guid>
+		<guid isPermaLink="false">/?p=16254</guid>
 
 					<description><![CDATA[<p>Web3 users looking for an easy way to interact with the NEAR blockchain using their wallet of choice now have …</p>
-<p>The post <a href="https://pages.near.org/blog/introducing-wallet-selector-a-new-tool-for-the-near-ecosystem/">Introducing Wallet Selector: A New Tool for the NEAR Ecosystem</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/introducing-wallet-selector-a-new-tool-for-the-near-ecosystem/">Introducing Wallet Selector: A New Tool for the NEAR Ecosystem</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Web3 users looking for an easy way to interact with the NEAR blockchain using their wallet of choice now have a slew of options. <a href="https://github.com/near/wallet-selector">Wallet Selector</a>, a new easy-to-navigate pop-up allows users to select their preferred wallet to easily interact with the NEAR protocol.&nbsp;</p>
@@ -173,7 +173,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="512" height="283" src="https://pages.near.org/wp-content/uploads/2022/04/unnamed-2.png" alt="" class="wp-image-16256" srcset="https://pages.near.org/wp-content/uploads/2022/04/unnamed-2.png 512w, https://pages.near.org/wp-content/uploads/2022/04/unnamed-2-300x166.png 300w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>NEAR Wallet Selector</figcaption></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="512" height="283" src="/wp-content/uploads/2022/04/unnamed-2.png" alt="" class="wp-image-16256" srcset="/wp-content/uploads/2022/04/unnamed-2.png 512w, /wp-content/uploads/2022/04/unnamed-2-300x166.png 300w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>NEAR Wallet Selector</figcaption></figure>
 
 
 
@@ -194,7 +194,7 @@
 
 
 <p>Developers looking to add their wallets, there is documentation and instructions on the <a href="https://github.com/near/wallet-selector">NEAR Github repository.</a></p>
-<p>The post <a href="https://pages.near.org/blog/introducing-wallet-selector-a-new-tool-for-the-near-ecosystem/">Introducing Wallet Selector: A New Tool for the NEAR Ecosystem</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/introducing-wallet-selector-a-new-tool-for-the-near-ecosystem/">Introducing Wallet Selector: A New Tool for the NEAR Ecosystem</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -202,7 +202,7 @@
 			</item>
 		<item>
 		<title>NEAR’s Road to Decentralization: A Deep Dive into Aurora</title>
-		<link>https://pages.near.org/blog/near-decentralization-aurora-evm/</link>
+		<link>/blog/near-decentralization-aurora-evm/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 07 Mar 2022 14:01:23 +0000</pubDate>
@@ -211,10 +211,10 @@
 		<category><![CDATA[Core protocol]]></category>
 		<category><![CDATA[Developer relations]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15973</guid>
+		<guid isPermaLink="false">/?p=15973</guid>
 
 					<description><![CDATA[<p>One of NEAR Foundation’s core missions has been to create a network that empowers users to take control of their …</p>
-<p>The post <a href="https://pages.near.org/blog/near-decentralization-aurora-evm/">NEAR’s Road to Decentralization: A Deep Dive into Aurora</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-decentralization-aurora-evm/">NEAR’s Road to Decentralization: A Deep Dive into Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>One of NEAR Foundation’s core missions has been to create a network that empowers users to take control of their data, their finances, and the tools to govern.&nbsp;</p>
@@ -225,7 +225,7 @@
 
 
 
-<p>The NEAR Foundation has been steadily progressing in this mission, from the growing <a href="https://pages.near.org/blog/near-validators-upgrade-decentralization/">number of validators</a> to the flourishing <a href="https://pages.near.org/use-cases/dao/">DAO community</a>. But NEAR isn’t alone on this journey. It relies on projects in and around the ecosystem to help accelerate this mission. Enter <a href="https://aurora.dev/">Aurora</a>.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>The NEAR Foundation has been steadily progressing in this mission, from the growing <a href="/blog/near-validators-upgrade-decentralization/">number of validators</a> to the flourishing <a href="/use-cases/dao/">DAO community</a>. But NEAR isn’t alone on this journey. It relies on projects in and around the ecosystem to help accelerate this mission. Enter <a href="https://aurora.dev/">Aurora</a>.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 
 
@@ -306,7 +306,7 @@
 
 
 <p>All this and more will help those wanting to take advantage of NEAR’s super fast and extremely cost-effective network, and help the dream of a truly decentralized world become a reality. </p>
-<p>The post <a href="https://pages.near.org/blog/near-decentralization-aurora-evm/">NEAR’s Road to Decentralization: A Deep Dive into Aurora</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-decentralization-aurora-evm/">NEAR’s Road to Decentralization: A Deep Dive into Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -314,7 +314,7 @@
 			</item>
 		<item>
 		<title>Zero to Hero NFT Series: Happy Holidays from DevRel!</title>
-		<link>https://pages.near.org/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/</link>
+		<link>/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/</link>
 		
 		<dc:creator><![CDATA[Dev Rel]]></dc:creator>
 		<pubDate>Fri, 17 Dec 2021 17:09:08 +0000</pubDate>
@@ -322,13 +322,13 @@
 		<category><![CDATA[Core protocol]]></category>
 		<category><![CDATA[Developer relations]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15527</guid>
+		<guid isPermaLink="false">/?p=15527</guid>
 
 					<description><![CDATA[<p>It’s been a great year for the NEAR ecosystem and our developer community. We’ve hosted our first MetaBUIDL hackathon, rocked …</p>
-<p>The post <a href="https://pages.near.org/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/">Zero to Hero NFT Series: Happy Holidays from DevRel!</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/">Zero to Hero NFT Series: Happy Holidays from DevRel!</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>It’s been a great year for the NEAR ecosystem and our developer community. We’ve hosted our first <a href="https://pages.near.org/blog/metabuidl-launch-highlights/">MetaBUIDL hackathon</a>, rocked the crypto-boat in Portugal with the <a href="https://medium.com/nearprotocol/near-con-highlights-talks-videos-be6139d20498">NEARCON</a>, enjoyed a daily dose of Q&amp;A on our <a href="https://pages.near.org/office-hours/">Office Hours</a>, and had a coding rush with the <a href="https://nearvember.nearpages.wpengine.com/">NEARvember challenge</a>.</p>
+<p>It’s been a great year for the NEAR ecosystem and our developer community. We’ve hosted our first <a href="/blog/metabuidl-launch-highlights/">MetaBUIDL hackathon</a>, rocked the crypto-boat in Portugal with the <a href="https://medium.com/nearprotocol/near-con-highlights-talks-videos-be6139d20498">NEARCON</a>, enjoyed a daily dose of Q&amp;A on our <a href="/office-hours/">Office Hours</a>, and had a coding rush with the <a href="https://nearvember.nearpages.wpengine.com/">NEARvember challenge</a>.</p>
 
 
 
@@ -384,8 +384,8 @@
 
 
 
-<p>Join us on <a href="http://near.chat/">Discord</a> and let us know in the #development channels. <br>We also host daily <a href="https://pages.near.org/office-hours/">Office Hours</a> live Monday – Friday 11 AM – 12 PM PT (6 PM – 7 PM UTC), where the DevRel team will answer any questions you may have!</p>
-<p>The post <a href="https://pages.near.org/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/">Zero to Hero NFT Series: Happy Holidays from DevRel!</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>Join us on <a href="http://near.chat/">Discord</a> and let us know in the #development channels. <br>We also host daily <a href="/office-hours/">Office Hours</a> live Monday – Friday 11 AM – 12 PM PT (6 PM – 7 PM UTC), where the DevRel team will answer any questions you may have!</p>
+<p>The post <a href="/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/">Zero to Hero NFT Series: Happy Holidays from DevRel!</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -393,16 +393,16 @@
 			</item>
 		<item>
 		<title>near-api-js 0.44.0 Released</title>
-		<link>https://pages.near.org/blog/near-api-js-new-release-javascript/</link>
+		<link>/blog/near-api-js-new-release-javascript/</link>
 		
 		<dc:creator><![CDATA[Dev Rel]]></dc:creator>
 		<pubDate>Fri, 10 Dec 2021 13:18:05 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[Developer relations]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15476</guid>
+		<guid isPermaLink="false">/?p=15476</guid>
 
 					<description><![CDATA[<p>We have just released a new minor version of our JavaScript client library (NEAR-API-JS). v0.44.0 brings some significant changes, so …</p>
-<p>The post <a href="https://pages.near.org/blog/near-api-js-new-release-javascript/">near-api-js 0.44.0 Released</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-api-js-new-release-javascript/">near-api-js 0.44.0 Released</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>We have just released a <a href="https://github.com/near/near-api-js/releases/tag/v0.44.0">new minor version</a> of our<a href="https://docs.near.org/docs/develop/front-end/near-api-js"> JavaScript client library</a> (NEAR-API-JS). v0.44.0 brings some significant changes, so let’s take a moment to go over the changelog and review what’s new.</p>
@@ -486,7 +486,7 @@
 
 
 <p>We also added some fixes and minor changes; if you’re curious, feel free to check them on the <a href="https://github.com/near/near-api-js/releases/tag/v0.44.0">NEAR-API-JS 0.44.0 Official Changelog</a>.</p>
-<p>The post <a href="https://pages.near.org/blog/near-api-js-new-release-javascript/">near-api-js 0.44.0 Released</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-api-js-new-release-javascript/">near-api-js 0.44.0 Released</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -494,16 +494,16 @@
 			</item>
 		<item>
 		<title>Minting Minecraft Blueprints As NFTs</title>
-		<link>https://pages.near.org/blog/minecraft-mint-nft-dev-rel-tutorial-near-how-to/</link>
+		<link>/blog/minecraft-mint-nft-dev-rel-tutorial-near-how-to/</link>
 		
 		<dc:creator><![CDATA[Dev Rel]]></dc:creator>
 		<pubDate>Thu, 09 Dec 2021 15:52:21 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[Developer relations]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15448</guid>
+		<guid isPermaLink="false">/?p=15448</guid>
 
 					<description><![CDATA[<p>Most of the time, when you hear people talking about non-fungible tokens (NFTs), your first thoughts may turn to media …</p>
-<p>The post <a href="https://pages.near.org/blog/minecraft-mint-nft-dev-rel-tutorial-near-how-to/">Minting Minecraft Blueprints As NFTs</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/minecraft-mint-nft-dev-rel-tutorial-near-how-to/">Minting Minecraft Blueprints As NFTs</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Most of the time, when you hear people talking about non-fungible tokens (NFTs), your first thoughts may turn to media files such as images or music. But, actually, NFTs are not limited to such file types. In this article, you’ll discover how the DevRel team created non-fungible tokens based on Minecraft buildings designed inside the game.</p>
@@ -532,7 +532,7 @@
 
 
 
-<p>If you’re interested in seeing how the complete flow works in minting a Minecraft building, check out the <a href="https://docs.near.org/docs/tutorials/contracts/nfts/minecraft-nfts">NFTs tutorial</a> Ben created. It’s simple, fun, and very straightforward (of course, if you have questions, you can ask us during <a href="https://pages.near.org/office-hours/">Office Hours</a>).</p>
+<p>If you’re interested in seeing how the complete flow works in minting a Minecraft building, check out the <a href="https://docs.near.org/docs/tutorials/contracts/nfts/minecraft-nfts">NFTs tutorial</a> Ben created. It’s simple, fun, and very straightforward (of course, if you have questions, you can ask us during <a href="/office-hours/">Office Hours</a>).</p>
 
 
 
@@ -548,8 +548,8 @@
 
 
 
-<p>We also host daily <a href="https://pages.near.org/office-hours/">Office Hours</a> live Monday – Friday 11 AM – 12 PM PT (6 PM – 7 PM UTC), where the DevRel team will answer any questions you may have!</p>
-<p>The post <a href="https://pages.near.org/blog/minecraft-mint-nft-dev-rel-tutorial-near-how-to/">Minting Minecraft Blueprints As NFTs</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>We also host daily <a href="/office-hours/">Office Hours</a> live Monday – Friday 11 AM – 12 PM PT (6 PM – 7 PM UTC), where the DevRel team will answer any questions you may have!</p>
+<p>The post <a href="/blog/minecraft-mint-nft-dev-rel-tutorial-near-how-to/">Minting Minecraft Blueprints As NFTs</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -557,16 +557,16 @@
 			</item>
 		<item>
 		<title>Decentralized Storage for dApp Developers</title>
-		<link>https://pages.near.org/blog/decentralized-storage-for-dapp-developers/</link>
+		<link>/blog/decentralized-storage-for-dapp-developers/</link>
 		
 		<dc:creator><![CDATA[Dev Rel]]></dc:creator>
 		<pubDate>Wed, 08 Dec 2021 17:15:42 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[Developer relations]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15435</guid>
+		<guid isPermaLink="false">/?p=15435</guid>
 
 					<description><![CDATA[<p>While security, speed, and reliable data records are key elements in developing a decentralized app (dApp) in the Web3 ecosystem, …</p>
-<p>The post <a href="https://pages.near.org/blog/decentralized-storage-for-dapp-developers/">Decentralized Storage for dApp Developers</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/decentralized-storage-for-dapp-developers/">Decentralized Storage for dApp Developers</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>While security, speed, and reliable data records are key elements in developing a decentralized app (dApp) in the Web3 ecosystem, the complexity of decentralization is a critical factor that can drive the cost and effort required in deployment.</p>
@@ -581,7 +581,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="512" height="288" src="https://pages.near.org/wp-content/uploads/2021/12/unnamed-9.png" alt="" class="wp-image-15436" srcset="https://pages.near.org/wp-content/uploads/2021/12/unnamed-9.png 512w, https://pages.near.org/wp-content/uploads/2021/12/unnamed-9-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="512" height="288" src="/wp-content/uploads/2021/12/unnamed-9.png" alt="" class="wp-image-15436" srcset="/wp-content/uploads/2021/12/unnamed-9.png 512w, /wp-content/uploads/2021/12/unnamed-9-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -597,8 +597,8 @@
 
 
 
-<p>Join us on <a href="http://near.chat/">Discord</a> and let us know in the #development channels. <br>We also host daily <a href="https://pages.near.org/office-hours/">Office Hours</a> live Monday – Friday 11AM – 12PM PT (6PM – 7PM UTC), where the DevRel team will answer any questions you may have!</p>
-<p>The post <a href="https://pages.near.org/blog/decentralized-storage-for-dapp-developers/">Decentralized Storage for dApp Developers</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>Join us on <a href="http://near.chat/">Discord</a> and let us know in the #development channels. <br>We also host daily <a href="/office-hours/">Office Hours</a> live Monday – Friday 11AM – 12PM PT (6PM – 7PM UTC), where the DevRel team will answer any questions you may have!</p>
+<p>The post <a href="/blog/decentralized-storage-for-dapp-developers/">Decentralized Storage for dApp Developers</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -606,16 +606,16 @@
 			</item>
 		<item>
 		<title>NEAR CLI 3.0.0 Released</title>
-		<link>https://pages.near.org/blog/near-cli-command-line-tool-upgrade-explanation/</link>
+		<link>/blog/near-cli-command-line-tool-upgrade-explanation/</link>
 		
 		<dc:creator><![CDATA[Dev Rel]]></dc:creator>
 		<pubDate>Thu, 02 Dec 2021 21:53:43 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[Developer relations]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15397</guid>
+		<guid isPermaLink="false">/?p=15397</guid>
 
 					<description><![CDATA[<p>Our command-line interface tool just got a new major version release that introduced some big changes. NEAR’s DevRel team would …</p>
-<p>The post <a href="https://pages.near.org/blog/near-cli-command-line-tool-upgrade-explanation/">NEAR CLI 3.0.0 Released</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-cli-command-line-tool-upgrade-explanation/">NEAR CLI 3.0.0 Released</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Our <a href="https://docs.near.org/docs/tools/near-cli">command-line interface tool</a> just got a new <a href="https://github.com/near/near-cli/releases/tag/v3.0.0">major version release</a> that introduced some big changes. NEAR’s DevRel team would like to take a moment to go over these changes to not only show you the changelog but explain <em>why</em> these changes were made. This is a new initiative to give our developer community an insight into our decision-making process as well as a better understanding of how NEAR works.</p>
@@ -655,7 +655,7 @@
 
 
 <p><br>The two big changes introduced with this CLI release are only new for those who are already using scripts to run the above commands (deploy and delete-key). For those who want to upgrade to NEAR CLI 3.0.0 and still use scripting for these commands, we have added the -f or &#8211;force flags to override the warning prompts.<br><br><a href="https://github.com/near/near-cli/releases/tag/v3.0.0">NEAR-CLI 3.0.0 Official Changelog</a></p>
-<p>The post <a href="https://pages.near.org/blog/near-cli-command-line-tool-upgrade-explanation/">NEAR CLI 3.0.0 Released</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-cli-command-line-tool-upgrade-explanation/">NEAR CLI 3.0.0 Released</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

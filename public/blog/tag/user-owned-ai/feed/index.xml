@@ -9,8 +9,8 @@
 
 <channel>
 	<title>User-Owned AI Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/user-owned-ai/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/user-owned-ai/</link>
+	<atom:link href="/blog/tag/user-owned-ai/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/user-owned-ai/</link>
 	<description></description>
 	<lastBuildDate>Fri, 19 Jan 2024 20:19:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>User-Owned AI Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/user-owned-ai/</link>
+	<link>/blog/tag/user-owned-ai/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</title>
-		<link>https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/</link>
+		<link>/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/</link>
 		
 		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
 		<pubDate>Fri, 19 Jan 2024 20:19:02 +0000</pubDate>
@@ -39,10 +39,10 @@
 		<category><![CDATA[NEAR Ecosystem]]></category>
 		<category><![CDATA[Self-Sovereignty]]></category>
 		<category><![CDATA[User-Owned AI]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21170</guid>
+		<guid isPermaLink="false">/?p=21170</guid>
 
 					<description><![CDATA[<p>As a kid growing up in Ukraine in the ’90s after the dissolution of the USSR, I remember we watched …</p>
-<p>The post <a href="https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p></p>
@@ -180,7 +180,7 @@
 
 
 <p>We have the tools to remake how we provide for ourselves, how we work together and govern ourselves, and how we consume and generate information. Without gatekeepers, fair and open to everyone. And this is not a futuristic vision: it’s possible to start experimenting and building now, before our fragile and outdated systems and structures get weaker or fail, before too much centralization leads to the worst outcomes instead of the ones we all design and share together.<br><br>––<em>Illia Polosukhin, Co-Founder of NEAR and CEO of NEAR Foundation</em></p>
-<p>The post <a href="https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

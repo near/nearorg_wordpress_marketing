@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Aurora Cloud Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/aurora-cloud/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/aurora-cloud/</link>
+	<atom:link href="/blog/tag/aurora-cloud/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/aurora-cloud/</link>
 	<description></description>
 	<lastBuildDate>Wed, 16 Aug 2023 18:50:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Aurora Cloud Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/aurora-cloud/</link>
+	<link>/blog/tag/aurora-cloud/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Case Study: Aurora&#8217;s Alex Shevchenko on Scaling Solidity Smart Contracts</title>
-		<link>https://pages.near.org/blog/case-study-auroras-alex-shevchenko-on-scaling-solidity-smart-contracts/</link>
+		<link>/blog/case-study-auroras-alex-shevchenko-on-scaling-solidity-smart-contracts/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 16 Aug 2023 18:50:01 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Aurora Cloud]]></category>
 		<category><![CDATA[Aurora Labs]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20798</guid>
+		<guid isPermaLink="false">/?p=20798</guid>
 
 					<description><![CDATA[<p>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR …</p>
-<p>The post <a href="https://pages.near.org/blog/case-study-auroras-alex-shevchenko-on-scaling-solidity-smart-contracts/">Case Study: Aurora&#8217;s Alex Shevchenko on Scaling Solidity Smart Contracts</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/case-study-auroras-alex-shevchenko-on-scaling-solidity-smart-contracts/">Case Study: Aurora&#8217;s Alex Shevchenko on Scaling Solidity Smart Contracts</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR to effortlessly create and distribute innovative decentralized apps, while helping build a more open web — free from centralized platforms. In these Case Study videos, NEAR Foundation showcases some of these projects.&nbsp;</em></p>
@@ -61,7 +61,7 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="CaseStudy Aurora Alex v2" width="500" height="281" src="https://www.youtube.com/embed/pR5VYilG3_Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
-<p>The post <a href="https://pages.near.org/blog/case-study-auroras-alex-shevchenko-on-scaling-solidity-smart-contracts/">Case Study: Aurora&#8217;s Alex Shevchenko on Scaling Solidity Smart Contracts</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/case-study-auroras-alex-shevchenko-on-scaling-solidity-smart-contracts/">Case Study: Aurora&#8217;s Alex Shevchenko on Scaling Solidity Smart Contracts</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

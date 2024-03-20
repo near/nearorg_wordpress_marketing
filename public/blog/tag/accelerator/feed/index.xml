@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Accelerator Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/accelerator/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/accelerator/</link>
+	<atom:link href="/blog/tag/accelerator/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/accelerator/</link>
 	<description></description>
 	<lastBuildDate>Thu, 04 May 2023 00:02:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Accelerator Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/accelerator/</link>
+	<link>/blog/tag/accelerator/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation Launches NEAR Horizon</title>
-		<link>https://pages.near.org/blog/near-foundation-launches-near-horizon/</link>
+		<link>/blog/near-foundation-launches-near-horizon/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 26 Apr 2023 16:47:54 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Accelerator]]></category>
 		<category><![CDATA[Horizon]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20420</guid>
+		<guid isPermaLink="false">/?p=20420</guid>
 
 					<description><![CDATA[<p>Though there have been recent signs of crypto winter thawing, developers have continued to make the most of the current …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-launches-near-horizon/">NEAR Foundation Launches NEAR Horizon</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-launches-near-horizon/">NEAR Foundation Launches NEAR Horizon</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Though there have been recent signs of crypto winter thawing, developers have continued to make the most of the current builder’s market. NEAR, in particular, has seen significant growth in new projects and increased adoption over the past year.&nbsp;&nbsp;</p>
@@ -99,7 +99,7 @@
 
 <li>Backers: <a href="https://airtable.com/shrMVwUTs4rSxRKIY">Register your interest in partnering here</a>&nbsp;</li>
 </ul>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-launches-near-horizon/">NEAR Foundation Launches NEAR Horizon</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-launches-near-horizon/">NEAR Foundation Launches NEAR Horizon</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -107,7 +107,7 @@
 			</item>
 		<item>
 		<title>Open Call for NEAR Accelerator Service Partners</title>
-		<link>https://pages.near.org/blog/open-call-for-near-accelerator-service-partners/</link>
+		<link>/blog/open-call-for-near-accelerator-service-partners/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 05 Apr 2023 16:38:08 +0000</pubDate>
@@ -115,10 +115,10 @@
 		<category><![CDATA[Accelerator]]></category>
 		<category><![CDATA[Community]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20383</guid>
+		<guid isPermaLink="false">/?p=20383</guid>
 
 					<description><![CDATA[<p>The NEAR blockchain is an open-source, decentralized blockchain protocol that is designed to be scalable, developer-friendly, and able to support …</p>
-<p>The post <a href="https://pages.near.org/blog/open-call-for-near-accelerator-service-partners/">Open Call for NEAR Accelerator Service Partners</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/open-call-for-near-accelerator-service-partners/">Open Call for NEAR Accelerator Service Partners</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR blockchain is an open-source, decentralized blockchain protocol that is designed to be scalable, developer-friendly, and able to support a wide range of decentralized applications (dApps) and smart contracts. NEAR has built the Blockchain Operating System (BOS), a Web3 stack to integrate experiences from across the Open Web and streamline the discovery and onboarding experience for users and developers alike.</p>
@@ -133,7 +133,7 @@
 
 
 
-<p>NEAR Foundation recently announced <a href="https://pages.near.org/blog/update-on-near-decentralized-funding-daos-and-accelerator/">Updates to Decentralized Funding, Development DAO, and the Accelerator</a>, and released an <a href="https://pages.near.org/blog/open-call-for-near-accelerator-partners/">Open Call for NEAR Accelerator Partners</a>. To further assist founders and startups, the NEAR Foundation is looking to partner with existing products, experts, and services to support teams participating in NEAR Accelerator programs in a variety of different functions:</p>
+<p>NEAR Foundation recently announced <a href="/blog/update-on-near-decentralized-funding-daos-and-accelerator/">Updates to Decentralized Funding, Development DAO, and the Accelerator</a>, and released an <a href="/blog/open-call-for-near-accelerator-partners/">Open Call for NEAR Accelerator Partners</a>. To further assist founders and startups, the NEAR Foundation is looking to partner with existing products, experts, and services to support teams participating in NEAR Accelerator programs in a variety of different functions:</p>
 
 
 
@@ -176,7 +176,7 @@
 
 
 <p>We will be assessing proposals based on the requirements outlined in each of the function-specific service partner open calls. Service partners are expected to submit their proposals by Apr 23, 2023. The NEAR Foundation review team will be conducting interviews with selected candidates between May 13-17. The review team will shortlist the service partners between May 20-23 and will communicate further with the selected parties. Final approval will be provided by the NEAR Foundation Counsel.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/open-call-for-near-accelerator-service-partners/">Open Call for NEAR Accelerator Service Partners</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/open-call-for-near-accelerator-service-partners/">Open Call for NEAR Accelerator Service Partners</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -184,7 +184,7 @@
 			</item>
 		<item>
 		<title>NEAR and Startup Wise Guys Partner on MetaBUILD’s Pre-Accelerator Program</title>
-		<link>https://pages.near.org/blog/near-and-startup-wise-guys-partner-on-metabuilds-pre-accelerator-program/</link>
+		<link>/blog/near-and-startup-wise-guys-partner-on-metabuilds-pre-accelerator-program/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 16 Feb 2023 14:01:00 +0000</pubDate>
@@ -192,10 +192,10 @@
 		<category><![CDATA[Accelerator]]></category>
 		<category><![CDATA[MetaBUILD]]></category>
 		<category><![CDATA[Startup Wise Guys]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19756</guid>
+		<guid isPermaLink="false">/?p=19756</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership with Startup Wise Guys — Europe’s biggest startup accelerator, which has …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-startup-wise-guys-partner-on-metabuilds-pre-accelerator-program/">NEAR and Startup Wise Guys Partner on MetaBUILD’s Pre-Accelerator Program</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-startup-wise-guys-partner-on-metabuilds-pre-accelerator-program/">NEAR and Startup Wise Guys Partner on MetaBUILD’s Pre-Accelerator Program</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce a new partnership with <a href="https://startupwiseguys.com/">Startup Wise Guys</a> — Europe’s biggest startup accelerator, which has empowered over 350 projects across the world. Together with SWG, the Foundation will bring&nbsp; 20 winning projects from the <a href="https://metabuild.devpost.com/">MetaBUILD III</a> hackathon into an 8-week pre-acceleration program to grow and prepare these new teams to bring their first product iteration to market.</p>
@@ -210,7 +210,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="578" src="https://pages.near.org/wp-content/uploads/2023/02/image1-1024x578.png" alt="" class="wp-image-19757" srcset="https://pages.near.org/wp-content/uploads/2023/02/image1-1024x578.png 1024w, https://pages.near.org/wp-content/uploads/2023/02/image1-300x169.png 300w, https://pages.near.org/wp-content/uploads/2023/02/image1-768x433.png 768w, https://pages.near.org/wp-content/uploads/2023/02/image1.png 1030w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="578" src="/wp-content/uploads/2023/02/image1-1024x578.png" alt="" class="wp-image-19757" srcset="/wp-content/uploads/2023/02/image1-1024x578.png 1024w, /wp-content/uploads/2023/02/image1-300x169.png 300w, /wp-content/uploads/2023/02/image1-768x433.png 768w, /wp-content/uploads/2023/02/image1.png 1030w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -325,7 +325,7 @@
 
 
 <p>The Foundation will share all progress along the way as we finalize the submission phase of MetaBUILD and move onto judging. So stay tuned and follow all updates on <a href="https://twitter.com/NEARPROTOCOL">Twitter</a>!</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-startup-wise-guys-partner-on-metabuilds-pre-accelerator-program/">NEAR and Startup Wise Guys Partner on MetaBUILD’s Pre-Accelerator Program</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-startup-wise-guys-partner-on-metabuilds-pre-accelerator-program/">NEAR and Startup Wise Guys Partner on MetaBUILD’s Pre-Accelerator Program</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -333,17 +333,17 @@
 			</item>
 		<item>
 		<title>Open Call for NEAR Accelerator Partners</title>
-		<link>https://pages.near.org/blog/open-call-for-near-accelerator-partners/</link>
+		<link>/blog/open-call-for-near-accelerator-partners/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 08 Feb 2023 15:49:11 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Accelerator]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19761</guid>
+		<guid isPermaLink="false">/?p=19761</guid>
 
 					<description><![CDATA[<p>The NEAR blockchain is an open-source, decentralized blockchain protocol designed to be scalable, developer-friendly, and able to support a wide …</p>
-<p>The post <a href="https://pages.near.org/blog/open-call-for-near-accelerator-partners/">Open Call for NEAR Accelerator Partners</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/open-call-for-near-accelerator-partners/">Open Call for NEAR Accelerator Partners</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR blockchain is an open-source, decentralized blockchain protocol designed to be scalable, developer-friendly, and able to support a wide range of decentralized applications (dApps) and smart contracts.</p>
@@ -424,7 +424,7 @@
 
 
 
-<p>The Foundation is focused on pre-seed and seed stage teams. We expect that teams selected for a NEAR sponsored cohort will build on NEAR and leverage NEAR Discovery. More information on NEAR Discovery <a href="https://pages.near.org/blog/near-strategic-update-and-outlook-for-2023/">here</a>.&nbsp;</p>
+<p>The Foundation is focused on pre-seed and seed stage teams. We expect that teams selected for a NEAR sponsored cohort will build on NEAR and leverage NEAR Discovery. More information on NEAR Discovery <a href="/blog/near-strategic-update-and-outlook-for-2023/">here</a>.&nbsp;</p>
 
 
 
@@ -705,7 +705,7 @@
 
 
 <p><em>Participation in our accelerator partners program is subject to the following terms and conditions: (1) Confidentiality: Participants will be required to keep all information and materials shared by the program confidential, unless otherwise agreed to in writing or as required by law. (2) Intellectual Property: All intellectual property created or developed by a participant during the program will remain the property of the participant, unless otherwise agreed to in writing by the participant. (3) Disclaimer of Liability: The program will not be liable for any damages arising out of or in connection with the program or the participation of any participant. (4) Governing Law: These terms and conditions will be governed by and construed in accordance with the laws of Switzerland. By participating in the program, participants agree to be bound by these terms and conditions.</em></p>
-<p>The post <a href="https://pages.near.org/blog/open-call-for-near-accelerator-partners/">Open Call for NEAR Accelerator Partners</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/open-call-for-near-accelerator-partners/">Open Call for NEAR Accelerator Partners</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

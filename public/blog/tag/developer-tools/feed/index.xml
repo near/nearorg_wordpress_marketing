@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Developer tools Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/developer-tools/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/developer-tools/</link>
+	<atom:link href="/blog/tag/developer-tools/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/developer-tools/</link>
 	<description></description>
 	<lastBuildDate>Mon, 10 Jul 2023 22:31:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Developer tools Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/developer-tools/</link>
+	<link>/blog/tag/developer-tools/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</title>
-		<link>https://pages.near.org/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/</link>
+		<link>/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 07 Jul 2023 14:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[BOS]]></category>
 		<category><![CDATA[Developer tools]]></category>
 		<category><![CDATA[Infrastructure]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20704</guid>
+		<guid isPermaLink="false">/?p=20704</guid>
 
 					<description><![CDATA[<p>NEAR is welcoming Vistara, the groundbreaking rollup deployment framework, into the fold. Vistara is set to seamlessly integrate with the …</p>
-<p>The post <a href="https://pages.near.org/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR is welcoming <a href="https://twitter.com/vistaralabs">Vistara</a>, the groundbreaking rollup deployment framework, into the fold. Vistara is set to seamlessly integrate with the BOS for the end-to-end, multi-chain deployment of rollups. This alliance will accelerate the pace of blockchain innovation, making rollup deployment faster, more efficient, and accessible across multiple chains for all developers.</p>
@@ -88,7 +88,7 @@
 
 
 <p>To sum up, Vistara&#8217;s user-friendly, multi-chain rollup deployment capabilities on the BOS will have a huge impact on the NEAR ecosystem and beyond. The integration will take much of the complexity out of rollup deployment for anyone, helping Web3 creators, builders, and developers bring their applications to life faster than ever.</p>
-<p>The post <a href="https://pages.near.org/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -96,7 +96,7 @@
 			</item>
 		<item>
 		<title>NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</title>
-		<link>https://pages.near.org/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/</link>
+		<link>/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 08 Aug 2022 23:00:26 +0000</pubDate>
@@ -106,7 +106,7 @@
 		<guid isPermaLink="false">https://neardev.nmcgn.de/?p=17905</guid>
 
 					<description><![CDATA[<p>Blockchain development has just become a whole lot easier for Web2 developers. NEAR is thrilled to unveil its much anticipated …</p>
-<p>The post <a href="https://pages.near.org/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Blockchain development has just become a whole lot easier for Web2 developers. NEAR is thrilled to unveil its much anticipated JavaScript Software Development Kit (JS SDK) at ETHToronto, the official hackathon of the Blockchain Futurist Conference, in a significant move to democratize Web3 development.</p>
@@ -161,12 +161,12 @@
 
 
 
-<p>The JS SDK is developed by Pagoda, the engineering team that builds and maintains NEAR Protocol and some of the most important tools needed for decentralized application (dApp) development. Developers can use the Pagoda suite of tools to build, deploy, test, and interact with smart contracts on NEAR. For more information on the JS SDK, visit&nbsp;<a href="https://www.pagoda.co/jssdk?utm_source=blog&amp;utm_campaign=js-sdk">Pagoda</a>&nbsp;or join the&nbsp;<a href="http://near.chat/">NEAR Discord</a>&nbsp;and checkout the&nbsp;<em>#engineering</em>&nbsp;channels where resources like&nbsp;<a href="https://pages.near.org/office-hours">live support</a>&nbsp;are available every day.&nbsp;</p>
+<p>The JS SDK is developed by Pagoda, the engineering team that builds and maintains NEAR Protocol and some of the most important tools needed for decentralized application (dApp) development. Developers can use the Pagoda suite of tools to build, deploy, test, and interact with smart contracts on NEAR. For more information on the JS SDK, visit&nbsp;<a href="https://www.pagoda.co/jssdk?utm_source=blog&amp;utm_campaign=js-sdk">Pagoda</a>&nbsp;or join the&nbsp;<a href="http://near.chat/">NEAR Discord</a>&nbsp;and checkout the&nbsp;<em>#engineering</em>&nbsp;channels where resources like&nbsp;<a href="/office-hours">live support</a>&nbsp;are available every day.&nbsp;</p>
 
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">NEAR Releases JavaScript SDK, Bringing Web3 to 20 Million Developers</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -174,17 +174,17 @@
 			</item>
 		<item>
 		<title>NEAR partners with Ceramic on cross-chain identity and dynamic data storage</title>
-		<link>https://pages.near.org/blog/near-partners-with-ceramic/</link>
+		<link>/blog/near-partners-with-ceramic/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 28 May 2021 15:58:07 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Developer tools]]></category>
 		<category><![CDATA[Infrastructure]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=10861</guid>
+		<guid isPermaLink="false">/?p=10861</guid>
 
 					<description><![CDATA[<p>Partnership with Ceramic brings streaming data and cross-chain identity protocols to NEAR developers. Developers building on NEAR Protocol now have …</p>
-<p>The post <a href="https://pages.near.org/blog/near-partners-with-ceramic/">NEAR partners with Ceramic on cross-chain identity and dynamic data storage</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-partners-with-ceramic/">NEAR partners with Ceramic on cross-chain identity and dynamic data storage</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<h3><i><span style="font-weight: 400;">Partnership with Ceramic brings streaming data and cross-chain identity protocols to</span></i><span style="font-weight: 400;"><em> NEAR</em> </span><i><span style="font-weight: 400;">developers.</span></i></h3>
 <p><span style="font-weight: 400;">Developers building on </span><a href="https://docs.near.org/"><span style="font-weight: 400;">NEAR Protocol</span></a><span style="font-weight: 400;"> now have a powerful way to manage user identities and dynamic off-chain data in their applications. </span><a href="https://ceramic.network/"><span style="font-weight: 400;">Ceramic</span></a><span style="font-weight: 400;">, the decentralized network for data stream processing, now supports NEAR wallets.</span></p>
@@ -217,7 +217,7 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Regardless of which option you choose, you should also select 3ID Connect as your DID wallet during the </span><a href="https://developers.ceramic.network/build/authentication/"><span style="font-weight: 400;">authentication</span></a><span style="font-weight: 400;"> process which handles the integration with NEAR wallets.</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">For questions or support, join the </span><a href="https://chat.ceramic.network/"><span style="font-weight: 400;">Ceramic Discord</span></a><span style="font-weight: 400;"> and the </span><a href="https://near.chat/"><span style="font-weight: 400;">NEAR Discord</span></a><span style="font-weight: 400;">.</span></li>
 </ul>
-<p>The post <a href="https://pages.near.org/blog/near-partners-with-ceramic/">NEAR partners with Ceramic on cross-chain identity and dynamic data storage</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-partners-with-ceramic/">NEAR partners with Ceramic on cross-chain identity and dynamic data storage</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Block Explorers Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-block-explorers/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-block-explorers/</link>
+	<atom:link href="/blog/tag/near-block-explorers/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-block-explorers/</link>
 	<description></description>
 	<lastBuildDate>Tue, 24 Oct 2023 19:54:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Block Explorers Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-block-explorers/</link>
+	<link>/blog/tag/near-block-explorers/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>An Update on NEAR Ecosystem Block Explorers </title>
-		<link>https://pages.near.org/blog/an-update-on-near-ecosystem-block-explorers/</link>
+		<link>/blog/an-update-on-near-ecosystem-block-explorers/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 10 Oct 2023 15:28:45 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR Block Explorers]]></category>
 		<category><![CDATA[NEAR Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20962</guid>
+		<guid isPermaLink="false">/?p=20962</guid>
 
 					<description><![CDATA[<p>TLDR:&#160; Pagoda’s core goal is to provide the NEAR community with high-quality, reliable, and innovative tools to build and interact …</p>
-<p>The post <a href="https://pages.near.org/blog/an-update-on-near-ecosystem-block-explorers/">An Update on NEAR Ecosystem Block Explorers </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/an-update-on-near-ecosystem-block-explorers/">An Update on NEAR Ecosystem Block Explorers </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><strong>TLDR:&nbsp;</strong></p>
@@ -131,7 +131,7 @@
 
 
 <p>If you have a product that may be affected by the sunset of Explorer or Explorer DB, please comment on this <a href="https://near.social/mob.near/widget/MainPage.N.Post.Page?accountId=pagodaplatform.near&amp;blockHeight=103046829">NEAR Social post from Pagoda</a> or message @austinbaggio from the Pagoda product team directly on Telegram so they can ensure a smooth transition period.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/an-update-on-near-ecosystem-block-explorers/">An Update on NEAR Ecosystem Block Explorers </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/an-update-on-near-ecosystem-block-explorers/">An Update on NEAR Ecosystem Block Explorers </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

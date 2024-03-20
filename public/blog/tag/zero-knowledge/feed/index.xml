@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Zero-Knowledge Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/zero-knowledge/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/zero-knowledge/</link>
+	<atom:link href="/blog/tag/zero-knowledge/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/zero-knowledge/</link>
 	<description></description>
 	<lastBuildDate>Wed, 17 May 2023 15:43:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Zero-Knowledge Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/zero-knowledge/</link>
+	<link>/blog/tag/zero-knowledge/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Integrates Wormhole to Launch ZK-Enabled Cross-Chain Communication with Ethereum </title>
-		<link>https://pages.near.org/blog/near-integrates-wormhole-to-launch-zk-enabled-cross-chain-communication-with-ethereum/</link>
+		<link>/blog/near-integrates-wormhole-to-launch-zk-enabled-cross-chain-communication-with-ethereum/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 16 May 2023 15:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Wormhole]]></category>
 		<category><![CDATA[Zero-Knowledge]]></category>
 		<category><![CDATA[ZK Proofs]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20492</guid>
+		<guid isPermaLink="false">/?p=20492</guid>
 
 					<description><![CDATA[<p>Driving the evolution of Web3 through innovation and interoperability, bridging technology has become a critical factor in user adoption and …</p>
-<p>The post <a href="https://pages.near.org/blog/near-integrates-wormhole-to-launch-zk-enabled-cross-chain-communication-with-ethereum/">NEAR Integrates Wormhole to Launch ZK-Enabled Cross-Chain Communication with Ethereum </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-integrates-wormhole-to-launch-zk-enabled-cross-chain-communication-with-ethereum/">NEAR Integrates Wormhole to Launch ZK-Enabled Cross-Chain Communication with Ethereum </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Driving the evolution of Web3 through innovation and interoperability, bridging technology has become a critical factor in user adoption and functionality. NEAR Foundation has chosen to bolster its multi-chain interoperability by integrating with <a href="https://wormhole.com/next/">Wormhole</a>, harnessing the power of cutting-edge Zero-Knowledge (ZK) light clients. </p>
@@ -104,7 +104,7 @@
 
 
 <p>With Wormhole, NEAR citizens can engage and interact with other chains in a blink of an eye.</p>
-<p>The post <a href="https://pages.near.org/blog/near-integrates-wormhole-to-launch-zk-enabled-cross-chain-communication-with-ethereum/">NEAR Integrates Wormhole to Launch ZK-Enabled Cross-Chain Communication with Ethereum </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-integrates-wormhole-to-launch-zk-enabled-cross-chain-communication-with-ethereum/">NEAR Integrates Wormhole to Launch ZK-Enabled Cross-Chain Communication with Ethereum </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

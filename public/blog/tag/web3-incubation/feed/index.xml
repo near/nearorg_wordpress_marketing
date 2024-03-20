@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Web3 Incubation Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/web3-incubation/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/web3-incubation/</link>
+	<atom:link href="/blog/tag/web3-incubation/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/web3-incubation/</link>
 	<description></description>
 	<lastBuildDate>Tue, 20 Jun 2023 13:53:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Web3 Incubation Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/web3-incubation/</link>
+	<link>/blog/tag/web3-incubation/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation and Seracle Team to Nurture the Web3 Ecosystem with DevOps Efficiency</title>
-		<link>https://pages.near.org/blog/near-foundation-and-seracle-team-to-nurture-the-web3-ecosystem-with-devops-efficiency/</link>
+		<link>/blog/near-foundation-and-seracle-team-to-nurture-the-web3-ecosystem-with-devops-efficiency/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 07 Jun 2023 13:57:04 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Litenode]]></category>
 		<category><![CDATA[Seracle]]></category>
 		<category><![CDATA[Web3 Incubation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20601</guid>
+		<guid isPermaLink="false">/?p=20601</guid>
 
 					<description><![CDATA[<p>NEAR Foundation and Seracle, a top blockchain cloud platform, have established a partnership to revolutionize the world of Web3 development. …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-seracle-team-to-nurture-the-web3-ecosystem-with-devops-efficiency/">NEAR Foundation and Seracle Team to Nurture the Web3 Ecosystem with DevOps Efficiency</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-seracle-team-to-nurture-the-web3-ecosystem-with-devops-efficiency/">NEAR Foundation and Seracle Team to Nurture the Web3 Ecosystem with DevOps Efficiency</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation and <a href="https://www.seracle.com/">Seracle</a>, a top blockchain cloud platform, have established a partnership to revolutionize the world of Web3 development. This alliance, forged in the name of innovation and cost-efficiency, capitalizes on Seracle&#8217;s unique Litenode architecture.</p>
@@ -88,7 +88,7 @@
 
 
 <p>With such dedication to growth and innovation, the collaboration between NEAR Foundation and Seracle is shaping up to be an inspiring chapter in the evolution of the Web3 ecosystem. Leveraging cost-efficient technology, fostering a vibrant community, and providing robust financial support, this partnership stands as a beacon for the future of Web3 development.</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-seracle-team-to-nurture-the-web3-ecosystem-with-devops-efficiency/">NEAR Foundation and Seracle Team to Nurture the Web3 Ecosystem with DevOps Efficiency</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-seracle-team-to-nurture-the-web3-ecosystem-with-devops-efficiency/">NEAR Foundation and Seracle Team to Nurture the Web3 Ecosystem with DevOps Efficiency</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

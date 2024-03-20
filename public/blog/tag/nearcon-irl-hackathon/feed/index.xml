@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEARCON IRL Hackathon Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/nearcon-irl-hackathon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/nearcon-irl-hackathon/</link>
+	<atom:link href="/blog/tag/nearcon-irl-hackathon/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/nearcon-irl-hackathon/</link>
 	<description></description>
 	<lastBuildDate>Tue, 21 Nov 2023 11:22:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEARCON IRL Hackathon Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/nearcon-irl-hackathon/</link>
+	<link>/blog/tag/nearcon-irl-hackathon/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Meet the 2023 NEARCON IRL Hackathon Winners</title>
-		<link>https://pages.near.org/blog/meet-the-2023-nearcon-irl-hackathon-winners/</link>
+		<link>/blog/meet-the-2023-nearcon-irl-hackathon-winners/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 22 Nov 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEARCON IRL Hackathon]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21104</guid>
+		<guid isPermaLink="false">/?p=21104</guid>
 
 					<description><![CDATA[<p>The wait is over! After a week of intense, dedicated work from the NEARCON hackathon judges, the winners of the …</p>
-<p>The post <a href="https://pages.near.org/blog/meet-the-2023-nearcon-irl-hackathon-winners/">Meet the 2023 NEARCON IRL Hackathon Winners</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/meet-the-2023-nearcon-irl-hackathon-winners/">Meet the 2023 NEARCON IRL Hackathon Winners</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The wait is over! After a week of intense, dedicated work from the NEARCON hackathon judges, the winners of the 2023 NEARCON IRL Hackathon have been chosen.&nbsp;</p>
@@ -234,7 +234,7 @@
 
 
 <p>Keep hacking and building on NEAR.</p>
-<p>The post <a href="https://pages.near.org/blog/meet-the-2023-nearcon-irl-hackathon-winners/">Meet the 2023 NEARCON IRL Hackathon Winners</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/meet-the-2023-nearcon-irl-hackathon-winners/">Meet the 2023 NEARCON IRL Hackathon Winners</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -242,17 +242,17 @@
 			</item>
 		<item>
 		<title>NEARCON IRL Hackathon 2023: Build the Open Web</title>
-		<link>https://pages.near.org/blog/nearcon-irl-hackathon-2023-build-the-open-web/</link>
+		<link>/blog/nearcon-irl-hackathon-2023-build-the-open-web/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 28 Sep 2023 16:03:35 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEARCON 2023]]></category>
 		<category><![CDATA[NEARCON IRL Hackathon]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20931</guid>
+		<guid isPermaLink="false">/?p=20931</guid>
 
 					<description><![CDATA[<p>If you attended NEARCON last year, you know the 48-hour IRL hackathon — “Building Beyond the Hype” was a great …</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-irl-hackathon-2023-build-the-open-web/">NEARCON IRL Hackathon 2023: Build the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-irl-hackathon-2023-build-the-open-web/">NEARCON IRL Hackathon 2023: Build the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>If you attended NEARCON last year, you know the 48-hour IRL hackathon — “Building Beyond the Hype” was a great event, with all sorts of exciting prototypes that helped propel NEAR through the last year.</p>
@@ -330,7 +330,7 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="NEARCON 2023 - Official Trailer" width="500" height="281" src="https://www.youtube.com/embed/5zd2f-5Ob9Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
-<p>The post <a href="https://pages.near.org/blog/nearcon-irl-hackathon-2023-build-the-open-web/">NEARCON IRL Hackathon 2023: Build the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-irl-hackathon-2023-build-the-open-web/">NEARCON IRL Hackathon 2023: Build the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

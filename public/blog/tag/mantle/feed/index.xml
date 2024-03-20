@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mantle Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/mantle/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/mantle/</link>
+	<atom:link href="/blog/tag/mantle/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/mantle/</link>
 	<description></description>
 	<lastBuildDate>Thu, 21 Sep 2023 14:05:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Mantle Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/mantle/</link>
+	<link>/blog/tag/mantle/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</title>
-		<link>https://pages.near.org/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/</link>
+		<link>/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 20 Sep 2023 13:00:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Blockchain Operating System]]></category>
 		<category><![CDATA[Ethereum]]></category>
 		<category><![CDATA[Mantle]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20896</guid>
+		<guid isPermaLink="false">/?p=20896</guid>
 
 					<description><![CDATA[<p>An ecosystem gateway for Mantle, the layer-2 scaling solution built on Ethereum, has launched on the NEAR Blockchain Operating System …</p>
-<p>The post <a href="https://pages.near.org/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/">Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/">Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>An<a href="https://bos.fusionx.finance/"> ecosystem gateway for Mantle</a>, the layer-2 scaling solution built on Ethereum, has launched on the NEAR Blockchain Operating System (B.O.S) to offer a unified point of entry into the Mantle ecosystem.&nbsp;</p>
@@ -77,7 +77,7 @@
 
 
 <p>Developers can quickly build composable apps for the open web from thousands of flexible components, as well as seamlessly onboard users and increase discoverability across Web3 since every application utilising B.O.S is visible on a common interface. This collaboration brings new capabilities to developers and lets them build apps that can quickly reach more users.</p>
-<p>The post <a href="https://pages.near.org/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/">Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/">Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

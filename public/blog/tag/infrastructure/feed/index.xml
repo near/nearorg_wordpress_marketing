@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Infrastructure Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/infrastructure/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/infrastructure/</link>
+	<atom:link href="/blog/tag/infrastructure/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/infrastructure/</link>
 	<description></description>
 	<lastBuildDate>Mon, 10 Jul 2023 22:31:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Infrastructure Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/infrastructure/</link>
+	<link>/blog/tag/infrastructure/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</title>
-		<link>https://pages.near.org/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/</link>
+		<link>/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 07 Jul 2023 14:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[BOS]]></category>
 		<category><![CDATA[Developer tools]]></category>
 		<category><![CDATA[Infrastructure]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20704</guid>
+		<guid isPermaLink="false">/?p=20704</guid>
 
 					<description><![CDATA[<p>NEAR is welcoming Vistara, the groundbreaking rollup deployment framework, into the fold. Vistara is set to seamlessly integrate with the …</p>
-<p>The post <a href="https://pages.near.org/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR is welcoming <a href="https://twitter.com/vistaralabs">Vistara</a>, the groundbreaking rollup deployment framework, into the fold. Vistara is set to seamlessly integrate with the BOS for the end-to-end, multi-chain deployment of rollups. This alliance will accelerate the pace of blockchain innovation, making rollup deployment faster, more efficient, and accessible across multiple chains for all developers.</p>
@@ -88,7 +88,7 @@
 
 
 <p>To sum up, Vistara&#8217;s user-friendly, multi-chain rollup deployment capabilities on the BOS will have a huge impact on the NEAR ecosystem and beyond. The integration will take much of the complexity out of rollup deployment for anyone, helping Web3 creators, builders, and developers bring their applications to life faster than ever.</p>
-<p>The post <a href="https://pages.near.org/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -96,7 +96,7 @@
 			</item>
 		<item>
 		<title>NEAR Foundation Partners with Absolute Labs to Accelerate How Brands Connect with Customers in Web3</title>
-		<link>https://pages.near.org/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/</link>
+		<link>/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 20 Apr 2023 13:29:00 +0000</pubDate>
@@ -104,10 +104,10 @@
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Infrastructure]]></category>
 		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20444</guid>
+		<guid isPermaLink="false">/?p=20444</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership with Absolute Labs, a company revolutionizing Web3’s marketing stack. Its “Wallet …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/">NEAR Foundation Partners with Absolute Labs to Accelerate How Brands Connect with Customers in Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/">NEAR Foundation Partners with Absolute Labs to Accelerate How Brands Connect with Customers in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce a new partnership with <a href="https://absolutelabs.io/">Absolute Labs</a>, a company revolutionizing Web3’s marketing stack. Its “Wallet Relationship Management™ platform can be used by Web2 brands and Web3 startups alike to acquire, convert and retain customers on the Open Web. </p>
@@ -147,7 +147,7 @@
 
 
 <p>DISCLOSURE: <em>Any information shared in this announcement regarding our partnership with Absolute Labs should not be considered as a binding agreement or representation, and may be subject to change without notice. The information presented in this communication is for informational purposes only and should not be construed as investment advice. Any decisions made based on this information are solely the responsibility of the individual or entity making them.</em></p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/">NEAR Foundation Partners with Absolute Labs to Accelerate How Brands Connect with Customers in Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/">NEAR Foundation Partners with Absolute Labs to Accelerate How Brands Connect with Customers in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -155,17 +155,17 @@
 			</item>
 		<item>
 		<title>Binance Custody Adds $NEAR Token and NEP-141 Standard to its Infrastructure</title>
-		<link>https://pages.near.org/blog/binance-custody-adds-near-token-and-nep-141-standard-to-its-infrastructure/</link>
+		<link>/blog/binance-custody-adds-near-token-and-nep-141-standard-to-its-infrastructure/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 07 Nov 2022 17:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Infrastructure]]></category>
 		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=18750</guid>
+		<guid isPermaLink="false">/?p=18750</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to share its newest integration with Binance Custody, an institutional-grade digital asset custody solution. By supporting …</p>
-<p>The post <a href="https://pages.near.org/blog/binance-custody-adds-near-token-and-nep-141-standard-to-its-infrastructure/">Binance Custody Adds $NEAR Token and NEP-141 Standard to its Infrastructure</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/binance-custody-adds-near-token-and-nep-141-standard-to-its-infrastructure/">Binance Custody Adds $NEAR Token and NEP-141 Standard to its Infrastructure</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to share its newest integration with Binance Custody, an institutional-grade digital asset custody solution. By supporting the NEP-141 standard, Binance Custody enables any institutional user with $NEAR holdings to make use of their highly secure storage infrastructure. The integration also makes it easier for Binance Custody to provide future support for any NEP-141 compatible tokens from projects building on NEAR.&nbsp;</p>
@@ -217,7 +217,7 @@
 
 
 <p><strong><em>Legal Disclaimer: </em></strong><em>The information contained in this press release is not directed at nor intended for use by any users, investors or prospective investors, and may not under any circumstances be relied upon when making a decision to invest in any NEAR tokens. Information in this release is not financial/investment advice, please seek independent financial advice.&nbsp;</em></p>
-<p>The post <a href="https://pages.near.org/blog/binance-custody-adds-near-token-and-nep-141-standard-to-its-infrastructure/">Binance Custody Adds $NEAR Token and NEP-141 Standard to its Infrastructure</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/binance-custody-adds-near-token-and-nep-141-standard-to-its-infrastructure/">Binance Custody Adds $NEAR Token and NEP-141 Standard to its Infrastructure</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -225,17 +225,17 @@
 			</item>
 		<item>
 		<title>NEAR Teams With Google Cloud to Accelerate Web3 Startups</title>
-		<link>https://pages.near.org/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/</link>
+		<link>/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 12:02:24 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[Infrastructure]]></category>
 		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=18589</guid>
+		<guid isPermaLink="false">/?p=18589</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership between Google Cloud and NEAR Protocol. Going forward, Google Cloud will …</p>
-<p>The post <a href="https://pages.near.org/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/">NEAR Teams With Google Cloud to Accelerate Web3 Startups</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/">NEAR Teams With Google Cloud to Accelerate Web3 Startups</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce a new partnership between Google Cloud and NEAR Protocol. Going forward, Google Cloud will provide technical support for NEAR grant recipients. Open and developer-friendly, Google Cloud will support devs as they build and scale their Web3 projects and dApps.</p>
@@ -271,7 +271,7 @@
 
 
 <p>For more information on how Google Cloud is working to support Web3 innovation, check out <a href="https://cloud.google.com/blog/topics/financial-services/google-cloud-launches-dedicated-digital-asset-team">Google Cloud’s Digital Assets blog</a>.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/">NEAR Teams With Google Cloud to Accelerate Web3 Startups</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/">NEAR Teams With Google Cloud to Accelerate Web3 Startups</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -279,17 +279,17 @@
 			</item>
 		<item>
 		<title>NEAR and Circle Announce USDC Support for Multi-Chain Ecosystem&#160;</title>
-		<link>https://pages.near.org/blog/near-and-circle-announce-usdc-support-for-multi-chain-ecosystem/</link>
+		<link>/blog/near-and-circle-announce-usdc-support-for-multi-chain-ecosystem/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 28 Sep 2022 18:45:00 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Infrastructure]]></category>
 		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=18568</guid>
+		<guid isPermaLink="false">/?p=18568</guid>
 
 					<description><![CDATA[<p>Big news coming out of the Converge22 conference in San Francisco this week. Circle Internet Financial, a global digital fintech …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-circle-announce-usdc-support-for-multi-chain-ecosystem/">NEAR and Circle Announce USDC Support for Multi-Chain Ecosystem&nbsp;</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-circle-announce-usdc-support-for-multi-chain-ecosystem/">NEAR and Circle Announce USDC Support for Multi-Chain Ecosystem&nbsp;</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Big news coming out of the Converge22 conference in San Francisco this week. <a href="https://www.circle.com/en/usdc">Circle</a> Internet Financial, a global digital fintech firm and the issuer of USD Coin (USDC), announced a partnership with NEAR that will make USDC widely available on the NEAR ecosystem by the end of 2022.&nbsp;</p>
@@ -333,7 +333,7 @@
 
 
 <p><br><em>Visit <a href="https://ref.finance/">ref.finance</a> for more information including the risks associated with&nbsp; investments.</em></p>
-<p>The post <a href="https://pages.near.org/blog/near-and-circle-announce-usdc-support-for-multi-chain-ecosystem/">NEAR and Circle Announce USDC Support for Multi-Chain Ecosystem&nbsp;</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-circle-announce-usdc-support-for-multi-chain-ecosystem/">NEAR and Circle Announce USDC Support for Multi-Chain Ecosystem&nbsp;</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -341,7 +341,7 @@
 			</item>
 		<item>
 		<title>Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</title>
-		<link>https://pages.near.org/blog/aurora-consensys-partnership-metamask-infura/</link>
+		<link>/blog/aurora-consensys-partnership-metamask-infura/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 02 Dec 2021 14:00:08 +0000</pubDate>
@@ -349,17 +349,17 @@
 		<category><![CDATA[Aurora]]></category>
 		<category><![CDATA[Infrastructure]]></category>
 		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15392</guid>
+		<guid isPermaLink="false">/?p=15392</guid>
 
 					<description><![CDATA[<p>Aurora, the Ethereum scaling solution that allows projects built on Ethereum to utilize the cutting-edge technology of the NEAR Protocol, …</p>
-<p>The post <a href="https://pages.near.org/blog/aurora-consensys-partnership-metamask-infura/">Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/aurora-consensys-partnership-metamask-infura/">Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://aurora.dev/">Aurora</a>, the Ethereum scaling solution that allows projects built on Ethereum to utilize the cutting-edge technology of the NEAR Protocol, is partnering with <a href="https://consensys.net/">ConsenSys</a>, the enterprise blockchain company to provide access to its suite of developer tools.&nbsp;</p>
 
 
 
-<p>The partnership aims to empower both the <a href="https://pages.near.org/">NEAR</a> and Ethereum ecosystems by improving developer facilities &#8211; through the availability of the product suite &#8211; with the goal of increasing cross-chain interoperability.&nbsp;</p>
+<p>The partnership aims to empower both the <a href="/">NEAR</a> and Ethereum ecosystems by improving developer facilities &#8211; through the availability of the product suite &#8211; with the goal of increasing cross-chain interoperability.&nbsp;</p>
 
 
 
@@ -400,7 +400,7 @@
 
 
 <ul><li><a href="https://t.me/auroraisnear">Telegram</a></li><li><a href="https://discord.aurora.dev/">Discord</a> </li><li><a href="https://twitter.com/auroraisnear">Twitter</a> </li><li><a href="https://aurora.dev/">Website</a></li></ul>
-<p>The post <a href="https://pages.near.org/blog/aurora-consensys-partnership-metamask-infura/">Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/aurora-consensys-partnership-metamask-infura/">Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -408,7 +408,7 @@
 			</item>
 		<item>
 		<title>NEAR’s Private Shard: Infrastructure for Enterprise, Built on the Open Web</title>
-		<link>https://pages.near.org/blog/near-launches-private-shard-for-enterprise/</link>
+		<link>/blog/near-launches-private-shard-for-enterprise/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 29 Sep 2021 20:57:00 +0000</pubDate>
@@ -417,7 +417,7 @@
 		<guid isPermaLink="false">https://near.flywheelstaging.com/?p=14654</guid>
 
 					<description><![CDATA[<p>For business, privacy is important. Whether it be the transfer of confidential information to partners, or protecting customers’ data. Blockchain …</p>
-<p>The post <a href="https://pages.near.org/blog/near-launches-private-shard-for-enterprise/">NEAR’s Private Shard: Infrastructure for Enterprise, Built on the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-launches-private-shard-for-enterprise/">NEAR’s Private Shard: Infrastructure for Enterprise, Built on the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>For business, privacy is important. Whether it be the transfer of confidential information to partners, or protecting customers’ data. Blockchain has privacy baked into its DNA. But attempts at bringing enterprise and blockchain together have struggled.&nbsp;</p>
@@ -448,7 +448,7 @@
 
 
 
-<figure class="wp-block-image alignnone size-large wp-image-14230 size-full"><img fetchpriority="high" decoding="async" width="1024" height="546" src="https://pages.near.org/wp-content/uploads/2021/10/private-shard-1-1024x546.png" alt="" class="wp-image-14657" srcset="https://pages.near.org/wp-content/uploads/2021/10/private-shard-1-1024x546.png 1024w, https://pages.near.org/wp-content/uploads/2021/10/private-shard-1-300x160.png 300w, https://pages.near.org/wp-content/uploads/2021/10/private-shard-1-768x410.png 768w, https://pages.near.org/wp-content/uploads/2021/10/private-shard-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>In consortium models, blockchains aren&#8217;t interoperable.</figcaption></figure>
+<figure class="wp-block-image alignnone size-large wp-image-14230 size-full"><img fetchpriority="high" decoding="async" width="1024" height="546" src="/wp-content/uploads/2021/10/private-shard-1-1024x546.png" alt="" class="wp-image-14657" srcset="/wp-content/uploads/2021/10/private-shard-1-1024x546.png 1024w, /wp-content/uploads/2021/10/private-shard-1-300x160.png 300w, /wp-content/uploads/2021/10/private-shard-1-768x410.png 768w, /wp-content/uploads/2021/10/private-shard-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>In consortium models, blockchains aren&#8217;t interoperable.</figcaption></figure>
 
 
 
@@ -488,7 +488,7 @@
 
 
 
-<figure class="wp-block-image alignnone size-large wp-image-14229 size-full"><img decoding="async" width="1024" height="546" src="https://pages.near.org/wp-content/uploads/2021/10/private-shard-2-1024x546.png" alt="" class="wp-image-14658" srcset="https://pages.near.org/wp-content/uploads/2021/10/private-shard-2-1024x546.png 1024w, https://pages.near.org/wp-content/uploads/2021/10/private-shard-2-300x160.png 300w, https://pages.near.org/wp-content/uploads/2021/10/private-shard-2-768x410.png 768w, https://pages.near.org/wp-content/uploads/2021/10/private-shard-2.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>In private shards, blockchains can share information without compromising on security.</figcaption></figure>
+<figure class="wp-block-image alignnone size-large wp-image-14229 size-full"><img decoding="async" width="1024" height="546" src="/wp-content/uploads/2021/10/private-shard-2-1024x546.png" alt="" class="wp-image-14658" srcset="/wp-content/uploads/2021/10/private-shard-2-1024x546.png 1024w, /wp-content/uploads/2021/10/private-shard-2-300x160.png 300w, /wp-content/uploads/2021/10/private-shard-2-768x410.png 768w, /wp-content/uploads/2021/10/private-shard-2.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>In private shards, blockchains can share information without compromising on security.</figcaption></figure>
 
 
 
@@ -509,7 +509,7 @@
 
 
 <p>Private Shards is a core part of that mission. It helps create an ecosystem where businesses, users, and partners can interact, and we invite anyone to join us in that mission to create a more open, and inclusive web.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-launches-private-shard-for-enterprise/">NEAR’s Private Shard: Infrastructure for Enterprise, Built on the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-launches-private-shard-for-enterprise/">NEAR’s Private Shard: Infrastructure for Enterprise, Built on the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -517,17 +517,17 @@
 			</item>
 		<item>
 		<title>NEAR partners with Ceramic on cross-chain identity and dynamic data storage</title>
-		<link>https://pages.near.org/blog/near-partners-with-ceramic/</link>
+		<link>/blog/near-partners-with-ceramic/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 28 May 2021 15:58:07 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Developer tools]]></category>
 		<category><![CDATA[Infrastructure]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=10861</guid>
+		<guid isPermaLink="false">/?p=10861</guid>
 
 					<description><![CDATA[<p>Partnership with Ceramic brings streaming data and cross-chain identity protocols to NEAR developers. Developers building on NEAR Protocol now have …</p>
-<p>The post <a href="https://pages.near.org/blog/near-partners-with-ceramic/">NEAR partners with Ceramic on cross-chain identity and dynamic data storage</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-partners-with-ceramic/">NEAR partners with Ceramic on cross-chain identity and dynamic data storage</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<h3><i><span style="font-weight: 400;">Partnership with Ceramic brings streaming data and cross-chain identity protocols to</span></i><span style="font-weight: 400;"><em> NEAR</em> </span><i><span style="font-weight: 400;">developers.</span></i></h3>
 <p><span style="font-weight: 400;">Developers building on </span><a href="https://docs.near.org/"><span style="font-weight: 400;">NEAR Protocol</span></a><span style="font-weight: 400;"> now have a powerful way to manage user identities and dynamic off-chain data in their applications. </span><a href="https://ceramic.network/"><span style="font-weight: 400;">Ceramic</span></a><span style="font-weight: 400;">, the decentralized network for data stream processing, now supports NEAR wallets.</span></p>
@@ -560,7 +560,7 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Regardless of which option you choose, you should also select 3ID Connect as your DID wallet during the </span><a href="https://developers.ceramic.network/build/authentication/"><span style="font-weight: 400;">authentication</span></a><span style="font-weight: 400;"> process which handles the integration with NEAR wallets.</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">For questions or support, join the </span><a href="https://chat.ceramic.network/"><span style="font-weight: 400;">Ceramic Discord</span></a><span style="font-weight: 400;"> and the </span><a href="https://near.chat/"><span style="font-weight: 400;">NEAR Discord</span></a><span style="font-weight: 400;">.</span></li>
 </ul>
-<p>The post <a href="https://pages.near.org/blog/near-partners-with-ceramic/">NEAR partners with Ceramic on cross-chain identity and dynamic data storage</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-partners-with-ceramic/">NEAR partners with Ceramic on cross-chain identity and dynamic data storage</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

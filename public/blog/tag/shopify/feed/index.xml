@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Shopify Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/shopify/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/shopify/</link>
+	<atom:link href="/blog/tag/shopify/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/shopify/</link>
 	<description></description>
 	<lastBuildDate>Wed, 17 May 2023 15:43:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Shopify Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/shopify/</link>
+	<link>/blog/tag/shopify/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Taco Labs and NEAR Foundation to Give Shopify Retailers Next-Gen Customer Loyalty Programs</title>
-		<link>https://pages.near.org/blog/taco-labs-and-near-foundation-to-give-shopify-retailers-next-gen-customer-loyalty-programs/</link>
+		<link>/blog/taco-labs-and-near-foundation-to-give-shopify-retailers-next-gen-customer-loyalty-programs/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 05 May 2023 14:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Shopify]]></category>
 		<category><![CDATA[Taco Labs]]></category>
 		<category><![CDATA[Web3 Loyalty]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20477</guid>
+		<guid isPermaLink="false">/?p=20477</guid>
 
 					<description><![CDATA[<p>E-commerce is entering a new era of customer loyalty as Taco Labs and NEAR Foundation join forces to revolutionize the …</p>
-<p>The post <a href="https://pages.near.org/blog/taco-labs-and-near-foundation-to-give-shopify-retailers-next-gen-customer-loyalty-programs/">Taco Labs and NEAR Foundation to Give Shopify Retailers Next-Gen Customer Loyalty Programs</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/taco-labs-and-near-foundation-to-give-shopify-retailers-next-gen-customer-loyalty-programs/">Taco Labs and NEAR Foundation to Give Shopify Retailers Next-Gen Customer Loyalty Programs</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>E-commerce is entering a new era of customer loyalty as <a href="https://www.taco.xyz/">Taco Labs</a> and NEAR Foundation join forces to revolutionize the way 5.6 million <a href="https://www.shopify.com/">Shopify</a> retailers engage and retain customers. This innovative partnership fosters personalized loyalty experiences that deepen connections between brands and consumers, transcending traditional loyalty program limitations.</p>
@@ -124,7 +124,7 @@
 
 
 <p>From token-gated products to comprehensive analytics, this partnership enables unique, sustainable loyalty programs, blending the strengths of Web3 and Web2 technologies. As the future of customer engagement unfolds, Taco Labs and the NEAR ecosystem are at the forefront.</p>
-<p>The post <a href="https://pages.near.org/blog/taco-labs-and-near-foundation-to-give-shopify-retailers-next-gen-customer-loyalty-programs/">Taco Labs and NEAR Foundation to Give Shopify Retailers Next-Gen Customer Loyalty Programs</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/taco-labs-and-near-foundation-to-give-shopify-retailers-next-gen-customer-loyalty-programs/">Taco Labs and NEAR Foundation to Give Shopify Retailers Next-Gen Customer Loyalty Programs</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

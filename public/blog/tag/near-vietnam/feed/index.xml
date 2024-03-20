@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Vietnam Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-vietnam/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-vietnam/</link>
+	<atom:link href="/blog/tag/near-vietnam/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-vietnam/</link>
 	<description></description>
 	<lastBuildDate>Fri, 01 Sep 2023 15:18:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Vietnam Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-vietnam/</link>
+	<link>/blog/tag/near-vietnam/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How Vietnam Became a Web3 Powerhouse </title>
-		<link>https://pages.near.org/blog/how-vietnam-became-a-web3-powerhouse/</link>
+		<link>/blog/how-vietnam-became-a-web3-powerhouse/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 04 Sep 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[NEAR APAC]]></category>
 		<category><![CDATA[NEAR Vietnam]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20828</guid>
+		<guid isPermaLink="false">/?p=20828</guid>
 
 					<description><![CDATA[<p>Asia is Web3’s engine room. According to a report by Emergen Research, the Web3 global market is expected to be …</p>
-<p>The post <a href="https://pages.near.org/blog/how-vietnam-became-a-web3-powerhouse/">How Vietnam Became a Web3 Powerhouse </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/how-vietnam-became-a-web3-powerhouse/">How Vietnam Became a Web3 Powerhouse </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Asia is Web3’s engine room. According to a report by <a href="https://www.prnewswire.com/news-releases/global-web-3-0-market-size-to-reach-usd-81-5-billion-in-2030--emergen-research-301559192.html">Emergen Research</a>, the Web3 global market is expected to be worth $81.5 billion by 2030, growing at an annual rate of more than 40%. Asia is set to capture most of that growth.&nbsp;&nbsp;</p>
@@ -91,7 +91,7 @@
 
 
 <p>It’s no wonder then that Vietnam <a href="https://vietcetera.com/en/vietnam-leads-global-cryptocurrency-adoption-index-in-2022">ranks first</a> in the Global Cryptocurrency Adoption Index released by Chainalysis, up from 10th place the year before.&nbsp;<br>Vietnam is on the rise, and the NEAR Foundation is here to support it. <a href="https://nearapac.org/">Join us at NEAR APAC on 8-12 September 2023 in Ho Chi Minh City.</a></p>
-<p>The post <a href="https://pages.near.org/blog/how-vietnam-became-a-web3-powerhouse/">How Vietnam Became a Web3 Powerhouse </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/how-vietnam-became-a-web3-powerhouse/">How Vietnam Became a Web3 Powerhouse </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

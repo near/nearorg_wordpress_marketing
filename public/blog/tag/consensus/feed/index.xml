@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Consensus Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/consensus/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/consensus/</link>
+	<atom:link href="/blog/tag/consensus/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/consensus/</link>
 	<description></description>
 	<lastBuildDate>Fri, 28 Apr 2023 23:02:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Consensus Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/consensus/</link>
+	<link>/blog/tag/consensus/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR at Consensus Highlights</title>
-		<link>https://pages.near.org/blog/near-at-consensus-highlights/</link>
+		<link>/blog/near-at-consensus-highlights/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 27 Apr 2023 20:18:30 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Consensus]]></category>
 		<category><![CDATA[NEAR]]></category>
 		<category><![CDATA[NEAR Horizon]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20451</guid>
+		<guid isPermaLink="false">/?p=20451</guid>
 
 					<description><![CDATA[<p>NEAR has a monolithic mega-booth at Consensus 2023, where there have been a number of awesome NEAR announcements, talks, and …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-consensus-highlights/">NEAR at Consensus Highlights</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-consensus-highlights/">NEAR at Consensus Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR has a monolithic mega-booth at Consensus 2023, where there have been a number of awesome NEAR announcements, talks, and events, including the big news out: the <a href="https://near.org/blog/near-announces-the-blockchain-operating-system/">Blockchain Operating System</a> is now live on Near.org and the NEAR Horizon accelerator is open for business. If you haven&#8217;t stopped by yet to meet our NEAR experts or are unable to attend, we’ve got you covered with all of the highlights. </p>
@@ -56,7 +56,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/bos-blog-1024x512.png" alt="" class="wp-image-20432" srcset="https://pages.near.org/wp-content/uploads/2023/04/bos-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/bos-blog-1024x512.png" alt="" class="wp-image-20432" srcset="/wp-content/uploads/2023/04/bos-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/bos-blog-300x150.png 300w, /wp-content/uploads/2023/04/bos-blog-768x384.png 768w, /wp-content/uploads/2023/04/bos-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -76,7 +76,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-1024x512.png" alt="" class="wp-image-20430" srcset="https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/horizon-blog-1024x512.png" alt="" class="wp-image-20430" srcset="/wp-content/uploads/2023/04/horizon-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/horizon-blog-300x150.png 300w, /wp-content/uploads/2023/04/horizon-blog-768x384.png 768w, /wp-content/uploads/2023/04/horizon-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -100,7 +100,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-1024x512.png" alt="" class="wp-image-20455" srcset="https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/ww3-blog-1024x512.png" alt="" class="wp-image-20455" srcset="/wp-content/uploads/2023/04/ww3-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/ww3-blog-300x150.png 300w, /wp-content/uploads/2023/04/ww3-blog-768x384.png 768w, /wp-content/uploads/2023/04/ww3-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -172,7 +172,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-1024x512.png" alt="" class="wp-image-20454" srcset="https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/gcloud-blog-1024x512.png" alt="" class="wp-image-20454" srcset="/wp-content/uploads/2023/04/gcloud-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/gcloud-blog-300x150.png 300w, /wp-content/uploads/2023/04/gcloud-blog-768x384.png 768w, /wp-content/uploads/2023/04/gcloud-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -234,7 +234,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png" alt="" class="wp-image-20462" srcset="https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-300x158.png 300w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-768x403.png 768w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png" alt="" class="wp-image-20462" srcset="/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png 1024w, /wp-content/uploads/2023/04/around-ecosystem-social-300x158.png 300w, /wp-content/uploads/2023/04/around-ecosystem-social-768x403.png 768w, /wp-content/uploads/2023/04/around-ecosystem-social.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -295,7 +295,7 @@
 
 
 <p>Wombi is now publicly available to all dApps fully live or building on the NEAR Blockchain Operating System or Protocol. All developers get free product and marketing analytics, making NEAR the first Layer 1 with a live attribution product.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-consensus-highlights/">NEAR at Consensus Highlights</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-consensus-highlights/">NEAR at Consensus Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -303,7 +303,7 @@
 			</item>
 		<item>
 		<title>NEAR at Consensus: Get Started on the Blockchain Operating System</title>
-		<link>https://pages.near.org/blog/near-at-consensus-get-started-on-the-blockchain-operating-system/</link>
+		<link>/blog/near-at-consensus-get-started-on-the-blockchain-operating-system/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 03 Apr 2023 20:00:00 +0000</pubDate>
@@ -311,10 +311,10 @@
 		<category><![CDATA[Community]]></category>
 		<category><![CDATA[Consensus]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20366</guid>
+		<guid isPermaLink="false">/?p=20366</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce that NEAR is heading to the 2023 edition of Coindesk’s Consensus from April 26-28.&#160; …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-consensus-get-started-on-the-blockchain-operating-system/">NEAR at Consensus: Get Started on the Blockchain Operating System</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-consensus-get-started-on-the-blockchain-operating-system/">NEAR at Consensus: Get Started on the Blockchain Operating System</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce that NEAR is heading to the 2023 edition of Coindesk’s Consensus from April 26-28.&nbsp;</p>
@@ -333,7 +333,7 @@
 
 
 
-<p>If you saw <a href="https://pages.near.org/blog/near-announces-the-blockchain-operating-system/?_gl=1%2A1l4nodm%2A_up%2AMQ..%2A_ga%2AMTY2MDg5OTA4NC4xNjc5Njg5NTUw%2A_ga_9GWCXQJ62J%2AMTY3OTY4OTU0Ny4xLjAuMTY3OTY4OTU0Ny4wLjAuMA..">NEAR’s big announcement</a> out of ETHDenver, NEAR isn’t just a Layer 1 blockchain. It’s a Blockchain Operating System for the Open Web —&nbsp;your easy entry point into Web3.&nbsp;</p>
+<p>If you saw <a href="/blog/near-announces-the-blockchain-operating-system/?_gl=1%2A1l4nodm%2A_up%2AMQ..%2A_ga%2AMTY2MDg5OTA4NC4xNjc5Njg5NTUw%2A_ga_9GWCXQJ62J%2AMTY3OTY4OTU0Ny4xLjAuMTY3OTY4OTU0Ny4wLjAuMA..">NEAR’s big announcement</a> out of ETHDenver, NEAR isn’t just a Layer 1 blockchain. It’s a Blockchain Operating System for the Open Web —&nbsp;your easy entry point into Web3.&nbsp;</p>
 
 
 
@@ -430,7 +430,7 @@
 
 
 <p>Stay updated on the complete slate of confirmed speakers at <a href="https://nearconsensus2023.splashthat.com/">Near.org/Consensus</a>.</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-consensus-get-started-on-the-blockchain-operating-system/">NEAR at Consensus: Get Started on the Blockchain Operating System</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-consensus-get-started-on-the-blockchain-operating-system/">NEAR at Consensus: Get Started on the Blockchain Operating System</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

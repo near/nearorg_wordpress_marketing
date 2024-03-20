@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR in Review Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-in-review/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-in-review/</link>
+	<atom:link href="/blog/tag/near-in-review/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-in-review/</link>
 	<description></description>
 	<lastBuildDate>Wed, 20 Dec 2023 18:20:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR in Review Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-in-review/</link>
+	<link>/blog/tag/near-in-review/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>2023: NEAR In Review</title>
-		<link>https://pages.near.org/blog/2023-near-in-review/</link>
+		<link>/blog/2023-near-in-review/</link>
 		
 		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
 		<pubDate>Wed, 20 Dec 2023 18:10:12 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR 2023]]></category>
 		<category><![CDATA[NEAR in Review]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21133</guid>
+		<guid isPermaLink="false">/?p=21133</guid>
 
 					<description><![CDATA[<p>by Illia Polosukhin While this was a tough year in the market, we’re closing 2023 on a higher note for …</p>
-<p>The post <a href="https://pages.near.org/blog/2023-near-in-review/">2023: NEAR In Review</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/2023-near-in-review/">2023: NEAR In Review</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>by Illia Polosukhin</em></p>
@@ -82,15 +82,15 @@
 
 
 
-<p>The Foundation is working with <a href="https://pages.near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">Eigen Labs</a> to build a fast finality layer for defragmenting Ethereum rollups and also launched <a href="https://near.org/data-availability">NEAR DA</a>, a cost-efficient and data availability layer compatible with L2s offering 11,000x cheaper DA than Ethereum and 30x cheaper than Celestia.</p>
+<p>The Foundation is working with <a href="/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">Eigen Labs</a> to build a fast finality layer for defragmenting Ethereum rollups and also launched <a href="https://near.org/data-availability">NEAR DA</a>, a cost-efficient and data availability layer compatible with L2s offering 11,000x cheaper DA than Ethereum and 30x cheaper than Celestia.</p>
 
 
 
-<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="428" src="https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg" alt="" class="wp-image-21135" style="aspect-ratio:2.392523364485981;width:1287px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-300x125.jpg 300w, https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-768x321.jpg 768w, https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>NEAR reached #1 in daily active users for all of Web3 to close the year, per Artemis.</em></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="428" src="/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg" alt="" class="wp-image-21135" style="aspect-ratio:2.392523364485981;width:1287px;height:auto" srcset="/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg 1024w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-300x125.jpg 300w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-768x321.jpg 768w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>NEAR reached #1 in daily active users for all of Web3 to close the year, per Artemis.</em></figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="458" src="https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png" alt="" class="wp-image-21136" srcset="https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png 1024w, https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-300x134.png 300w, https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-768x343.png 768w, https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1536x687.png 1536w, https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-2048x916.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>4 of the top 10 apps in all of Web3 are built on NEAR &amp; Aurora, per DappRadar&#8217;s 30-day ranking.</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="458" src="/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png" alt="" class="wp-image-21136" srcset="/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png 1024w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-300x134.png 300w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-768x343.png 768w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1536x687.png 1536w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-2048x916.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>4 of the top 10 apps in all of Web3 are built on NEAR &amp; Aurora, per DappRadar&#8217;s 30-day ranking.</em></figcaption></figure>
 
 
 
@@ -127,7 +127,7 @@
 
 
 <p>Stay tuned for more updates and specifics in January 2024. Thank you to every member of the NEAR community for staying the course and believing in our shared Open Web vision. </p>
-<p>The post <a href="https://pages.near.org/blog/2023-near-in-review/">2023: NEAR In Review</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/2023-near-in-review/">2023: NEAR In Review</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

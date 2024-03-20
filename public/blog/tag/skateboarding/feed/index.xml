@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Skateboarding Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/skateboarding/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/skateboarding/</link>
+	<atom:link href="/blog/tag/skateboarding/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/skateboarding/</link>
 	<description></description>
 	<lastBuildDate>Wed, 12 Jul 2023 17:13:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Skateboarding Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/skateboarding/</link>
+	<link>/blog/tag/skateboarding/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Shred Spots and NEAR Foundation: Kick-Flipping Into the Future of Social NFTs</title>
-		<link>https://pages.near.org/blog/shred-spots-and-near-foundation-kick-flipping-into-the-future-of-social-nfts/</link>
+		<link>/blog/shred-spots-and-near-foundation-kick-flipping-into-the-future-of-social-nfts/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 12 Jul 2023 17:30:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[NFTs]]></category>
 		<category><![CDATA[Shred Sports]]></category>
 		<category><![CDATA[Skateboarding]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20718</guid>
+		<guid isPermaLink="false">/?p=20718</guid>
 
 					<description><![CDATA[<p>Action sports such as skateboarding and snowboarding are gaining momentum, especially among Gen Z, and are quickly outpacing traditional sports. …</p>
-<p>The post <a href="https://pages.near.org/blog/shred-spots-and-near-foundation-kick-flipping-into-the-future-of-social-nfts/">Shred Spots and NEAR Foundation: Kick-Flipping Into the Future of Social NFTs</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/shred-spots-and-near-foundation-kick-flipping-into-the-future-of-social-nfts/">Shred Spots and NEAR Foundation: Kick-Flipping Into the Future of Social NFTs</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Action sports such as skateboarding and snowboarding are gaining momentum, especially among Gen Z, and are quickly outpacing traditional sports. Today, Gen Z is one of the <a href="https://www.grandviewresearch.com/industry-analysis/skateboard-market">biggest growth populations</a> in skateboarding, highlighting the relevance of action sports and their surrounding community to the TikTok generation.</p>
@@ -96,7 +96,7 @@
 
 
 <p>The collaboration between NEAR and Shred Spots epitomizes how the open web can enrich user experiences in growing niche communities like skateboarding and action sports. It also illustrates the future confluence of the open web, sports, and real-world achievements. And it’s bringing the blockchain to a whole new generation of action sports enthusiasts.</p>
-<p>The post <a href="https://pages.near.org/blog/shred-spots-and-near-foundation-kick-flipping-into-the-future-of-social-nfts/">Shred Spots and NEAR Foundation: Kick-Flipping Into the Future of Social NFTs</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/shred-spots-and-near-foundation-kick-flipping-into-the-future-of-social-nfts/">Shred Spots and NEAR Foundation: Kick-Flipping Into the Future of Social NFTs</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

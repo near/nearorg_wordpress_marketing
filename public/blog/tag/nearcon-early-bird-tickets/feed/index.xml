@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEARCON Early Bird Tickets Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/nearcon-early-bird-tickets/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/nearcon-early-bird-tickets/</link>
+	<atom:link href="/blog/tag/nearcon-early-bird-tickets/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/nearcon-early-bird-tickets/</link>
 	<description></description>
 	<lastBuildDate>Tue, 20 Jun 2023 13:52:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEARCON Early Bird Tickets Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/nearcon-early-bird-tickets/</link>
+	<link>/blog/tag/nearcon-early-bird-tickets/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEARCON Returns: Here’s Everything You Need to Know So Far</title>
-		<link>https://pages.near.org/blog/nearcon-returns-heres-everything-you-need-to-know-so-far/</link>
+		<link>/blog/nearcon-returns-heres-everything-you-need-to-know-so-far/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 15 Jun 2023 19:56:22 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEARCON 2023]]></category>
 		<category><![CDATA[NEARCON Early Bird Tickets]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20642</guid>
+		<guid isPermaLink="false">/?p=20642</guid>
 
 					<description><![CDATA[<p>Last year’s NEARCON was epic. NEARCON 2023 will be iconic.&#160; While all of you have been diligently building NEAR into …</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-returns-heres-everything-you-need-to-know-so-far/">NEARCON Returns: Here’s Everything You Need to Know So Far</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-returns-heres-everything-you-need-to-know-so-far/">NEARCON Returns: Here’s Everything You Need to Know So Far</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Last year’s NEARCON was epic. NEARCON 2023 will be iconic.&nbsp;</p>
@@ -137,7 +137,7 @@
 
 
 <p>Find more information about the NEARCON 2023 hackathon <a href="https://nearcon-hackathon.devpost.com/">here</a>.</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-returns-heres-everything-you-need-to-know-so-far/">NEARCON Returns: Here’s Everything You Need to Know So Far</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-returns-heres-everything-you-need-to-know-so-far/">NEARCON Returns: Here’s Everything You Need to Know So Far</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

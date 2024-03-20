@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Governance Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/governance/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/governance/</link>
+	<atom:link href="/blog/tag/governance/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/governance/</link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Dec 2022 13:45:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Governance Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/governance/</link>
+	<link>/blog/tag/governance/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation Strengthens Governance with New Talent</title>
-		<link>https://pages.near.org/blog/near-foundation-welcomes-fresh-executive-talent-to-accelerate-its-global-reach/</link>
+		<link>/blog/near-foundation-welcomes-fresh-executive-talent-to-accelerate-its-global-reach/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 16:14:37 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Governance]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19566</guid>
+		<guid isPermaLink="false">/?p=19566</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is happy to announce its newest high-level executive appointments. The Foundation has hired Mary Beth Buchanan as a …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-welcomes-fresh-executive-talent-to-accelerate-its-global-reach/">NEAR Foundation Strengthens Governance with New Talent</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-welcomes-fresh-executive-talent-to-accelerate-its-global-reach/">NEAR Foundation Strengthens Governance with New Talent</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is happy to announce its newest high-level executive appointments. The Foundation has hired Mary Beth Buchanan as a Strategic Advisor, while Sheila Warren and Jason Warner have joined as participants of the NEAR Foundation Council.&nbsp;</p>
@@ -66,7 +66,7 @@
 
 
 <p>Welcoming the appointments, Marieke Flament, CEO of the NEAR Foundation, said: “Changing the world does not happen without great people working together, and we are thrilled to be welcoming this calibre of leader on board as we continue on our goals to put usability at the heart of a global shift towards Web3. Mary Beth, Sheila, and Jason have collectively spent decades creating the infrastructure necessary for society to be ready for this momentum and shift – we could not be more excited to have them join us on our mission.&#8221;<br>These appointments are huge wins for NEAR Foundation and the ecosystem at large. Welcome to the NEAR family, Mary Beth, Sheila, and Jason!</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-welcomes-fresh-executive-talent-to-accelerate-its-global-reach/">NEAR Foundation Strengthens Governance with New Talent</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-welcomes-fresh-executive-talent-to-accelerate-its-global-reach/">NEAR Foundation Strengthens Governance with New Talent</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -74,20 +74,20 @@
 			</item>
 		<item>
 		<title>Evolving NEAR Foundation’s Funding Strategy</title>
-		<link>https://pages.near.org/blog/evolving-near-foundations-funding-strategy/</link>
+		<link>/blog/evolving-near-foundations-funding-strategy/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 21 Nov 2022 16:15:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Governance]]></category>
 		<category><![CDATA[Grants]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19109</guid>
+		<guid isPermaLink="false">/?p=19109</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is publishing a series of blogs on the state of funding, including updates from the Grants Team and …</p>
-<p>The post <a href="https://pages.near.org/blog/evolving-near-foundations-funding-strategy/">Evolving NEAR Foundation’s Funding Strategy</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/evolving-near-foundations-funding-strategy/">Evolving NEAR Foundation’s Funding Strategy</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>NEAR Foundation is publishing a series of blogs on the state of funding, including </em><a href="https://pages.near.org/blog/near-funding-updates-funding-beyond-grants/"><em>updates from the Grants Team</em></a><em> and an upcoming Transparency Report for Q3. This is part of our continued commitment to transparency, as well as more frequent and open communication with the NEAR community.&nbsp;</em></p>
+<p><em>NEAR Foundation is publishing a series of blogs on the state of funding, including </em><a href="/blog/near-funding-updates-funding-beyond-grants/"><em>updates from the Grants Team</em></a><em> and an upcoming Transparency Report for Q3. This is part of our continued commitment to transparency, as well as more frequent and open communication with the NEAR community.&nbsp;</em></p>
 
 
 
@@ -99,11 +99,11 @@
 
 
 
-<p>While the market has created a new reality for the entire Web3 ecosystem, NEAR sees this as a moment of great opportunity and a time to stick to our convictions. We’ve outlined the Foundation’s <a href="https://pages.near.org/blog/a-time-for-conviction/">new strategy</a> around facilitating Web2.5 and making NEAR the de facto bridge from Web2 to Web3.&nbsp;</p>
+<p>While the market has created a new reality for the entire Web3 ecosystem, NEAR sees this as a moment of great opportunity and a time to stick to our convictions. We’ve outlined the Foundation’s <a href="/blog/a-time-for-conviction/">new strategy</a> around facilitating Web2.5 and making NEAR the de facto bridge from Web2 to Web3.&nbsp;</p>
 
 
 
-<p>Staying true to NEAR’s decentralized vision, the NEAR Digital Collective (NDC) was recently launched and led by the Governance Working Group (GWG). We’ve also delegated some decision-making to the community through grassroots DAOs: the <a href="https://pages.near.org/about/network/working-groups/">DeveloperDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/marketing/marketingdao/91">MarketingDAO</a>, and <a href="https://gov.nearpages.wpengine.com/c/creatives/creatives-dao/61">CreativesDAO</a>.&nbsp;</p>
+<p>Staying true to NEAR’s decentralized vision, the NEAR Digital Collective (NDC) was recently launched and led by the Governance Working Group (GWG). We’ve also delegated some decision-making to the community through grassroots DAOs: the <a href="/about/network/working-groups/">DeveloperDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/marketing/marketingdao/91">MarketingDAO</a>, and <a href="https://gov.nearpages.wpengine.com/c/creatives/creatives-dao/61">CreativesDAO</a>.&nbsp;</p>
 
 
 
@@ -131,7 +131,7 @@
 
 
 
-<p>The Foundation also started publishing a regular Transparency Report in the spirit of accountability to the ecosystem. The <a href="https://pages.near.org/blog/near-foundation-transparency-report/">first Transparency report</a>, which came out just before NEARCON, was an important start—but we want to make it even better for the community. The next report will be coming out in a couple of weeks and will include more granularity where possible. You can also check out a recent update from the NEAR Grants team titled “<a href="https://pages.near.org/blog/near-funding-updates-funding-beyond-grants/">Funding Beyond Grants</a>”.&nbsp;</p>
+<p>The Foundation also started publishing a regular Transparency Report in the spirit of accountability to the ecosystem. The <a href="/blog/near-foundation-transparency-report/">first Transparency report</a>, which came out just before NEARCON, was an important start—but we want to make it even better for the community. The next report will be coming out in a couple of weeks and will include more granularity where possible. You can also check out a recent update from the NEAR Grants team titled “<a href="/blog/near-funding-updates-funding-beyond-grants/">Funding Beyond Grants</a>”.&nbsp;</p>
 
 
 
@@ -144,7 +144,7 @@
 
 
 <p>NEAR Foundation is keeping an eye on the long term for the entire NEAR ecosystem. By being fiscally responsible and deploying capital in a sustainable way, the Foundation can ensure that NEAR emerges from this bear market stronger than ever, and well positioned to help builders keep building the future of Web3.</p>
-<p>The post <a href="https://pages.near.org/blog/evolving-near-foundations-funding-strategy/">Evolving NEAR Foundation’s Funding Strategy</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/evolving-near-foundations-funding-strategy/">Evolving NEAR Foundation’s Funding Strategy</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -152,17 +152,17 @@
 			</item>
 		<item>
 		<title>Ecosystem Update on Decentralizing Governance</title>
-		<link>https://pages.near.org/blog/ecosystem-update-on-decentralizing-governance/</link>
+		<link>/blog/ecosystem-update-on-decentralizing-governance/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Sun, 23 Oct 2022 15:28:16 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Governance]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=18648</guid>
+		<guid isPermaLink="false">/?p=18648</guid>
 
 					<description><![CDATA[<p>A&#160;few weeks ago, the NEAR Foundation announced the formation of a new entity designed to help accelerate the decentralization of …</p>
-<p>The post <a href="https://pages.near.org/blog/ecosystem-update-on-decentralizing-governance/">Ecosystem Update on Decentralizing Governance</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/ecosystem-update-on-decentralizing-governance/">Ecosystem Update on Decentralizing Governance</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>A&nbsp;few weeks ago, the NEAR Foundation announced the formation of a new entity designed to help accelerate the decentralization of the NEAR ecosystem (<a href="https://gov.nearpages.wpengine.com/t/formation-of-near-digital-collective-ndc-and-call-for-participation-in-the-community-working-group/27544">you can read this forum post here</a>).&nbsp;</p>
@@ -242,7 +242,7 @@
 
 
 <p>The NEAR Foundation would like to thank the community for your enthusiasm and input throughout this decentralization process. Striking the right balance between moving fast and growing wisely is always a challenge in the fast-paced world of Web3 and it’s more important than ever to work together. NEAR is well-positioned for the next phase of growth and making sure everyone is strategically and operationally aligned now will help achieve much greater success in the future.</p>
-<p>The post <a href="https://pages.near.org/blog/ecosystem-update-on-decentralizing-governance/">Ecosystem Update on Decentralizing Governance</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/ecosystem-update-on-decentralizing-governance/">Ecosystem Update on Decentralizing Governance</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>CEO World Magazine Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/near_coverage_categories/ceo-world-magazine/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/near_coverage_categories/ceo-world-magazine/</link>
+	<atom:link href="/blog/near_coverage_categories/ceo-world-magazine/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/near_coverage_categories/ceo-world-magazine/</link>
 	<description></description>
 	<lastBuildDate>Thu, 03 Nov 2022 08:54:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>CEO World Magazine Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/near_coverage_categories/ceo-world-magazine/</link>
+	<link>/blog/near_coverage_categories/ceo-world-magazine/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Uplift at NEARCON 2022</title>
-		<link>https://pages.near.org/coverages/uplift-at-nearcon-2022/</link>
+		<link>/coverages/uplift-at-nearcon-2022/</link>
 		
 		<dc:creator><![CDATA[Bianca Mormand]]></dc:creator>
 		<pubDate>Thu, 13 Oct 2022 09:27:45 +0000</pubDate>
-				<guid isPermaLink="false">https://pages.near.org/?post_type=near_coverage#038;p=18704</guid>
+				<guid isPermaLink="false">/?post_type=near_coverage#038;p=18704</guid>
 
-					<description><![CDATA[<p>The post <a href="https://pages.near.org/coverages/uplift-at-nearcon-2022/">Uplift at NEARCON 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+					<description><![CDATA[<p>The post <a href="/coverages/uplift-at-nearcon-2022/">Uplift at NEARCON 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>The post <a href="https://pages.near.org/coverages/uplift-at-nearcon-2022/">Uplift at NEARCON 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+										<content:encoded><![CDATA[<p>The post <a href="/coverages/uplift-at-nearcon-2022/">Uplift at NEARCON 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

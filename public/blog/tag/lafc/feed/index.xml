@@ -9,8 +9,8 @@
 
 <channel>
 	<title>LAFC Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/lafc/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/lafc/</link>
+	<atom:link href="/blog/tag/lafc/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/lafc/</link>
 	<description></description>
 	<lastBuildDate>Wed, 20 Sep 2023 14:29:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>LAFC Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/lafc/</link>
+	<link>/blog/tag/lafc/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Los Angeles Football Club and Dropt Rewrite Fan Experience Playbook Utilizing NEAR Protocol</title>
-		<link>https://pages.near.org/blog/los-angeles-football-club-and-dropt-rewrite-fan-experience-playbook-utilizing-near-protocol/</link>
+		<link>/blog/los-angeles-football-club-and-dropt-rewrite-fan-experience-playbook-utilizing-near-protocol/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 19 Sep 2023 19:00:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Fan Engagement]]></category>
 		<category><![CDATA[LAFC]]></category>
 		<category><![CDATA[Los Angeles Football Club]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20892</guid>
+		<guid isPermaLink="false">/?p=20892</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership between Los Angeles Football Club (LAFC) and Dropt — a fan …</p>
-<p>The post <a href="https://pages.near.org/blog/los-angeles-football-club-and-dropt-rewrite-fan-experience-playbook-utilizing-near-protocol/">Los Angeles Football Club and Dropt Rewrite Fan Experience Playbook Utilizing NEAR Protocol</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/los-angeles-football-club-and-dropt-rewrite-fan-experience-playbook-utilizing-near-protocol/">Los Angeles Football Club and Dropt Rewrite Fan Experience Playbook Utilizing NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce a new partnership between <a href="https://www.lafc.com/">Los Angeles Football Club</a> (LAFC) and Dropt — a fan engagement platform built on the NEAR Protocol — supporting the club’s vision to rewrite the playbook on the fan experience. The collaboration kicks off with <a href="https://gold.lafc.com/">LAFC Gold</a> — a Loyalty Club designed to recognize Los Angeles FC’s most devoted fans with a wide range of unprecedented benefits.</p>
@@ -85,7 +85,7 @@
 
 
 <p>LAFC Season Ticket Members are automatically enrolled in the program.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/los-angeles-football-club-and-dropt-rewrite-fan-experience-playbook-utilizing-near-protocol/">Los Angeles Football Club and Dropt Rewrite Fan Experience Playbook Utilizing NEAR Protocol</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/los-angeles-football-club-and-dropt-rewrite-fan-experience-playbook-utilizing-near-protocol/">Los Angeles Football Club and Dropt Rewrite Fan Experience Playbook Utilizing NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

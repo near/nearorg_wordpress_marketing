@@ -9,8 +9,8 @@
 
 <channel>
 	<title>KaiKai Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/kaikai/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/kaikai/</link>
+	<atom:link href="/blog/tag/kaikai/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/kaikai/</link>
 	<description></description>
 	<lastBuildDate>Wed, 06 Sep 2023 16:46:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>KaiKai Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/kaikai/</link>
+	<link>/blog/tag/kaikai/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Cosmose and NEAR Foundation Set To Revolutionize Retail with Web3 and AI</title>
-		<link>https://pages.near.org/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/</link>
+		<link>/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 24 Apr 2023 07:46:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Cosmose AI]]></category>
 		<category><![CDATA[KaiKai]]></category>
 		<category><![CDATA[Retail]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20441</guid>
+		<guid isPermaLink="false">/?p=20441</guid>
 
 					<description><![CDATA[<p>The Artificial Intelligence (AI) wave is touching just about every corner of commerce and culture, and retail is no exception. …</p>
-<p>The post <a href="https://pages.near.org/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/">Cosmose and NEAR Foundation Set To Revolutionize Retail with Web3 and AI</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/">Cosmose and NEAR Foundation Set To Revolutionize Retail with Web3 and AI</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The Artificial Intelligence (AI) wave is touching just about every corner of commerce and culture, and retail is no exception. <a href="https://cosmose.co/">Cosmose AI</a>, one of the leaders in AI and retail, has received a strategic investment from NEAR Foundation to create Web3, mobile, and retail experiences that enhance personalization without sacrificing privacy or security.</p>
@@ -142,7 +142,7 @@
 
 
 <p>“Together we’ll build a future where one billion users benefit from the ecosystem they’re part of, with complete control of their data and superior AI-driven personalization,” said Mironiuk.</p>
-<p>The post <a href="https://pages.near.org/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/">Cosmose and NEAR Foundation Set To Revolutionize Retail with Web3 and AI</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/">Cosmose and NEAR Foundation Set To Revolutionize Retail with Web3 and AI</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

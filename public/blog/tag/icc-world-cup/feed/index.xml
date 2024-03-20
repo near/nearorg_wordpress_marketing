@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ICC World Cup Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/icc-world-cup/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/icc-world-cup/</link>
+	<atom:link href="/blog/tag/icc-world-cup/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/icc-world-cup/</link>
 	<description></description>
 	<lastBuildDate>Thu, 28 Sep 2023 15:28:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>ICC World Cup Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/icc-world-cup/</link>
+	<link>/blog/tag/icc-world-cup/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>International Cricket Council and NEAR Foundation Sign Multiyear Partnership to Boost Global Fan Engagement Through Web3</title>
-		<link>https://pages.near.org/blog/international-cricket-council-and-near-foundation-sign-multiyear-partnership-to-boost-global-fan-engagement-through-web3/</link>
+		<link>/blog/international-cricket-council-and-near-foundation-sign-multiyear-partnership-to-boost-global-fan-engagement-through-web3/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 27 Sep 2023 13:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[ICC]]></category>
 		<category><![CDATA[ICC World Cup]]></category>
 		<category><![CDATA[International Cricket Council]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20927</guid>
+		<guid isPermaLink="false">/?p=20927</guid>
 
 					<description><![CDATA[<p>The International Cricket Council (ICC) and the NEAR Foundation are entering into a groundbreaking new partnership that will utilize Web3 …</p>
-<p>The post <a href="https://pages.near.org/blog/international-cricket-council-and-near-foundation-sign-multiyear-partnership-to-boost-global-fan-engagement-through-web3/">International Cricket Council and NEAR Foundation Sign Multiyear Partnership to Boost Global Fan Engagement Through Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/international-cricket-council-and-near-foundation-sign-multiyear-partnership-to-boost-global-fan-engagement-through-web3/">International Cricket Council and NEAR Foundation Sign Multiyear Partnership to Boost Global Fan Engagement Through Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The <a href="https://www.icc-cricket.com/homepage">International Cricket Council</a> (ICC) and the NEAR Foundation are entering into a groundbreaking new partnership that will utilize Web3 tools built on the NEAR Blockchain to deepen engagement in the sport.</p>
@@ -92,7 +92,7 @@
 
 
 <p>These innovations are all made possible thanks to the B.O.S. With its full stack of Web3 tools and easy onboarding, partners like the ICC can take advantage of the world’s most highly scalable, community-driven, and secure blockchains that deliver proven, best-in-class performance that can support any kind of Web3 strategy.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/international-cricket-council-and-near-foundation-sign-multiyear-partnership-to-boost-global-fan-engagement-through-web3/">International Cricket Council and NEAR Foundation Sign Multiyear Partnership to Boost Global Fan Engagement Through Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/international-cricket-council-and-near-foundation-sign-multiyear-partnership-to-boost-global-fan-engagement-through-web3/">International Cricket Council and NEAR Foundation Sign Multiyear Partnership to Boost Global Fan Engagement Through Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

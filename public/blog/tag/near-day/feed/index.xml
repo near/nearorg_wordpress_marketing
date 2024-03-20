@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Day Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-day/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-day/</link>
+	<atom:link href="/blog/tag/near-day/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-day/</link>
 	<description></description>
 	<lastBuildDate>Fri, 24 Mar 2023 15:41:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Day Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-day/</link>
+	<link>/blog/tag/near-day/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Near at ETHDenver: the Blockchain Operating System, Near Day, and More</title>
-		<link>https://pages.near.org/blog/near-at-ethdenver-the-blockchain-operating-system-near-day-and-more/</link>
+		<link>/blog/near-at-ethdenver-the-blockchain-operating-system-near-day-and-more/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 08 Mar 2023 21:30:00 +0000</pubDate>
@@ -37,13 +37,13 @@
 		<category><![CDATA[Blockchain Operating System]]></category>
 		<category><![CDATA[ETHDenver]]></category>
 		<category><![CDATA[NEAR Day]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20288</guid>
+		<guid isPermaLink="false">/?p=20288</guid>
 
 					<description><![CDATA[<p>Missed Near Day and ETHDenver 2023? We’ve got you covered with content from Near talks and panels. There were also …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethdenver-the-blockchain-operating-system-near-day-and-more/">Near at ETHDenver: the Blockchain Operating System, Near Day, and More</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethdenver-the-blockchain-operating-system-near-day-and-more/">Near at ETHDenver: the Blockchain Operating System, Near Day, and More</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Missed Near Day and ETHDenver 2023? We’ve got you covered with content from Near talks and panels. There were also a number of awesome announcements, including the big news out of ETHDenver — the <a href="https://pages.near.org/blog/near-announces-the-blockchain-operating-system/">Blockchain Operating System</a>. </p>
+<p>Missed Near Day and ETHDenver 2023? We’ve got you covered with content from Near talks and panels. There were also a number of awesome announcements, including the big news out of ETHDenver — the <a href="/blog/near-announces-the-blockchain-operating-system/">Blockchain Operating System</a>. </p>
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" src="https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_NEAR-is-the-BOS_Illia-Polosukhin_030223-1024x575.jpg" alt="" class="wp-image-20291" width="1024" height="575" srcset="https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_NEAR-is-the-BOS_Illia-Polosukhin_030223-1024x575.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_NEAR-is-the-BOS_Illia-Polosukhin_030223-300x168.jpg 300w, https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_NEAR-is-the-BOS_Illia-Polosukhin_030223-768x431.jpg 768w, https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_NEAR-is-the-BOS_Illia-Polosukhin_030223-1536x863.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_NEAR-is-the-BOS_Illia-Polosukhin_030223-2048x1150.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Near co-founder and Pagoda CEO Illia Polosukhin unveiling the Blockchain Operating System.</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" src="/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_NEAR-is-the-BOS_Illia-Polosukhin_030223-1024x575.jpg" alt="" class="wp-image-20291" width="1024" height="575" srcset="/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_NEAR-is-the-BOS_Illia-Polosukhin_030223-1024x575.jpg 1024w, /wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_NEAR-is-the-BOS_Illia-Polosukhin_030223-300x168.jpg 300w, /wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_NEAR-is-the-BOS_Illia-Polosukhin_030223-768x431.jpg 768w, /wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_NEAR-is-the-BOS_Illia-Polosukhin_030223-1536x863.jpg 1536w, /wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_NEAR-is-the-BOS_Illia-Polosukhin_030223-2048x1150.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Near co-founder and Pagoda CEO Illia Polosukhin unveiling the Blockchain Operating System.</figcaption></figure>
 
 
 
@@ -67,11 +67,11 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="575" src="https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_How-to-Build-Decentralized-Storage-on-NEAR_Mark-Collier_030223-1024x575.jpg" alt="" class="wp-image-20293" srcset="https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_How-to-Build-Decentralized-Storage-on-NEAR_Mark-Collier_030223-1024x575.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_How-to-Build-Decentralized-Storage-on-NEAR_Mark-Collier_030223-300x168.jpg 300w, https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_How-to-Build-Decentralized-Storage-on-NEAR_Mark-Collier_030223-768x431.jpg 768w, https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_How-to-Build-Decentralized-Storage-on-NEAR_Mark-Collier_030223-1536x863.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_How-to-Build-Decentralized-Storage-on-NEAR_Mark-Collier_030223-2048x1150.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">OnMachina&#8217;s Mark Collier talking decentralized storage on Near. </figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="575" src="/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_How-to-Build-Decentralized-Storage-on-NEAR_Mark-Collier_030223-1024x575.jpg" alt="" class="wp-image-20293" srcset="/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_How-to-Build-Decentralized-Storage-on-NEAR_Mark-Collier_030223-1024x575.jpg 1024w, /wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_How-to-Build-Decentralized-Storage-on-NEAR_Mark-Collier_030223-300x168.jpg 300w, /wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_How-to-Build-Decentralized-Storage-on-NEAR_Mark-Collier_030223-768x431.jpg 768w, /wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_How-to-Build-Decentralized-Storage-on-NEAR_Mark-Collier_030223-1536x863.jpg 1536w, /wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_How-to-Build-Decentralized-Storage-on-NEAR_Mark-Collier_030223-2048x1150.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">OnMachina&#8217;s Mark Collier talking decentralized storage on Near. </figcaption></figure>
 
 
 
-<p>Keypom, which also recently launched on Near, got some much needed visibility at Near Day. In “Instant Crypto Experiences with Keypom”,&nbsp; Ben Kurrek and Matt Lockyer took the audience on a tour of their Web3 onboarding solution, in which users are given a special type of access key that can be used to experience a crypto application and later be turned into a wallet. (Read more about Keypom <a href="https://pages.near.org/blog/keypom-brings-frictionless-onboarding-to-near-and-web3/">here</a>.)</p>
+<p>Keypom, which also recently launched on Near, got some much needed visibility at Near Day. In “Instant Crypto Experiences with Keypom”,&nbsp; Ben Kurrek and Matt Lockyer took the audience on a tour of their Web3 onboarding solution, in which users are given a special type of access key that can be used to experience a crypto application and later be turned into a wallet. (Read more about Keypom <a href="/blog/keypom-brings-frictionless-onboarding-to-near-and-web3/">here</a>.)</p>
 
 
 
@@ -79,11 +79,11 @@
 
 
 
-<p>In the afternoon, there were a range of talks, starting with Pagoda’s Max Zavershynskyi presentation on creating “high velocity developer communities” via Near DevGov DAO. But the big news on Near Day was the <a href="https://pages.near.org/blog/near-announces-the-blockchain-operating-system/">Blockchain Operating System</a> talk from Near co-founder Illia Polosukhin. After Illia primed the audience, Pagoda’s Chief Product Officer Alex Chiocchi elaborated on how Blockchain Operating System will help in onboarding millions of users to Near, while Pagoda’s Bowen Wang detailed the protocol innovations powering the Blockchain Operating System. </p>
+<p>In the afternoon, there were a range of talks, starting with Pagoda’s Max Zavershynskyi presentation on creating “high velocity developer communities” via Near DevGov DAO. But the big news on Near Day was the <a href="/blog/near-announces-the-blockchain-operating-system/">Blockchain Operating System</a> talk from Near co-founder Illia Polosukhin. After Illia primed the audience, Pagoda’s Chief Product Officer Alex Chiocchi elaborated on how Blockchain Operating System will help in onboarding millions of users to Near, while Pagoda’s Bowen Wang detailed the protocol innovations powering the Blockchain Operating System. </p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="579" src="https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_Crypto-Winter-Bullish-Builders_Marieke-Flament_030223-1024x579.jpg" alt="" class="wp-image-20292" srcset="https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_Crypto-Winter-Bullish-Builders_Marieke-Flament_030223-1024x579.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_Crypto-Winter-Bullish-Builders_Marieke-Flament_030223-300x170.jpg 300w, https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_Crypto-Winter-Bullish-Builders_Marieke-Flament_030223-768x435.jpg 768w, https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_Crypto-Winter-Bullish-Builders_Marieke-Flament_030223-1536x869.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_Crypto-Winter-Bullish-Builders_Marieke-Flament_030223-2048x1159.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Marieke Flament on the ETHDenver main stage for the &#8216;Crypto Winter, Bullish Builders&#8217; panel.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="579" src="/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_Crypto-Winter-Bullish-Builders_Marieke-Flament_030223-1024x579.jpg" alt="" class="wp-image-20292" srcset="/wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_Crypto-Winter-Bullish-Builders_Marieke-Flament_030223-1024x579.jpg 1024w, /wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_Crypto-Winter-Bullish-Builders_Marieke-Flament_030223-300x170.jpg 300w, /wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_Crypto-Winter-Bullish-Builders_Marieke-Flament_030223-768x435.jpg 768w, /wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_Crypto-Winter-Bullish-Builders_Marieke-Flament_030223-1536x869.jpg 1536w, /wp-content/uploads/2023/03/HiRes-ETHDenverDay1_MainStage_Crypto-Winter-Bullish-Builders_Marieke-Flament_030223-2048x1159.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Marieke Flament on the ETHDenver main stage for the &#8216;Crypto Winter, Bullish Builders&#8217; panel.</figcaption></figure>
 
 
 
@@ -99,7 +99,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="575" src="https://pages.near.org/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_NEARs-Vision-for-Layer-1-Infrastructure_Bowen-Wang_01_030423-1024x575.jpg" alt="" class="wp-image-20294" srcset="https://pages.near.org/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_NEARs-Vision-for-Layer-1-Infrastructure_Bowen-Wang_01_030423-1024x575.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_NEARs-Vision-for-Layer-1-Infrastructure_Bowen-Wang_01_030423-300x168.jpg 300w, https://pages.near.org/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_NEARs-Vision-for-Layer-1-Infrastructure_Bowen-Wang_01_030423-768x431.jpg 768w, https://pages.near.org/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_NEARs-Vision-for-Layer-1-Infrastructure_Bowen-Wang_01_030423-1536x863.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_NEARs-Vision-for-Layer-1-Infrastructure_Bowen-Wang_01_030423-2048x1150.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Pagoda&#8217;s Bowen Wang discussing Near&#8217;s vision for Layer 1 infrastructure. </figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="575" src="/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_NEARs-Vision-for-Layer-1-Infrastructure_Bowen-Wang_01_030423-1024x575.jpg" alt="" class="wp-image-20294" srcset="/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_NEARs-Vision-for-Layer-1-Infrastructure_Bowen-Wang_01_030423-1024x575.jpg 1024w, /wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_NEARs-Vision-for-Layer-1-Infrastructure_Bowen-Wang_01_030423-300x168.jpg 300w, /wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_NEARs-Vision-for-Layer-1-Infrastructure_Bowen-Wang_01_030423-768x431.jpg 768w, /wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_NEARs-Vision-for-Layer-1-Infrastructure_Bowen-Wang_01_030423-1536x863.jpg 1536w, /wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_NEARs-Vision-for-Layer-1-Infrastructure_Bowen-Wang_01_030423-2048x1150.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Pagoda&#8217;s Bowen Wang discussing Near&#8217;s vision for Layer 1 infrastructure. </figcaption></figure>
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="575" src="https://pages.near.org/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_Next-gen-blockchain-UX_Alex-Shevchenko_02_030423-1024x575.jpg" alt="" class="wp-image-20295" srcset="https://pages.near.org/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_Next-gen-blockchain-UX_Alex-Shevchenko_02_030423-1024x575.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_Next-gen-blockchain-UX_Alex-Shevchenko_02_030423-300x168.jpg 300w, https://pages.near.org/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_Next-gen-blockchain-UX_Alex-Shevchenko_02_030423-768x431.jpg 768w, https://pages.near.org/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_Next-gen-blockchain-UX_Alex-Shevchenko_02_030423-1536x863.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_Next-gen-blockchain-UX_Alex-Shevchenko_02_030423-2048x1150.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Aurora Labs CEO Alex Shevchenko delivering a talk at ETHDenver.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="575" src="/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_Next-gen-blockchain-UX_Alex-Shevchenko_02_030423-1024x575.jpg" alt="" class="wp-image-20295" srcset="/wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_Next-gen-blockchain-UX_Alex-Shevchenko_02_030423-1024x575.jpg 1024w, /wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_Next-gen-blockchain-UX_Alex-Shevchenko_02_030423-300x168.jpg 300w, /wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_Next-gen-blockchain-UX_Alex-Shevchenko_02_030423-768x431.jpg 768w, /wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_Next-gen-blockchain-UX_Alex-Shevchenko_02_030423-1536x863.jpg 1536w, /wp-content/uploads/2023/03/HiRes_ETHDenverDay3_InfrastructureScalability_Next-gen-blockchain-UX_Alex-Shevchenko_02_030423-2048x1150.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Aurora Labs CEO Alex Shevchenko delivering a talk at ETHDenver.</figcaption></figure>
 
 
 
@@ -123,12 +123,12 @@
 
 
 
-<p>While the <a href="https://pages.near.org/blog/near-announces-the-blockchain-operation-system/?_gl=1%2Ancfu51%2A_up%2AMQ..%2A_ga%2ANTY5OTQyMjAxLjE2NzgwMjk4ODA.%2A_ga_9GWCXQJ62J%2AMTY3ODAyOTg3OC4xLjAuMTY3ODAyOTg3OC4wLjAuMA..">Near is the Blockchain Operating System</a> announcement was the talk of ETHDenver, there were plenty of other announcements. Find the full run-down of Near ecosystem announcements <a href="https://pages.near.org/blog/near-at-ethdenver-highlights/?_gl=1%2Apsni5a%2A_up%2AMQ..%2A_ga%2ANTY5OTQyMjAxLjE2NzgwMjk4ODA.%2A_ga_9GWCXQJ62J%2AMTY3ODAyOTg3OC4xLjAuMTY3ODAyOTg3OC4wLjAuMA..">here</a>.</p>
+<p>While the <a href="/blog/near-announces-the-blockchain-operation-system/?_gl=1%2Ancfu51%2A_up%2AMQ..%2A_ga%2ANTY5OTQyMjAxLjE2NzgwMjk4ODA.%2A_ga_9GWCXQJ62J%2AMTY3ODAyOTg3OC4xLjAuMTY3ODAyOTg3OC4wLjAuMA..">Near is the Blockchain Operating System</a> announcement was the talk of ETHDenver, there were plenty of other announcements. Find the full run-down of Near ecosystem announcements <a href="/blog/near-at-ethdenver-highlights/?_gl=1%2Apsni5a%2A_up%2AMQ..%2A_ga%2ANTY5OTQyMjAxLjE2NzgwMjk4ODA.%2A_ga_9GWCXQJ62J%2AMTY3ODAyOTg3OC4xLjAuMTY3ODAyOTg3OC4wLjAuMA..">here</a>.</p>
 
 
 
 <p>In other news, the Near ecosystem had two wins at ETHVC’s Startup Demo Day during ETHDenver — Niche Protocol, a Web3 social media platform, and Kino, a film financing platform.  </p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethdenver-the-blockchain-operating-system-near-day-and-more/">Near at ETHDenver: the Blockchain Operating System, Near Day, and More</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethdenver-the-blockchain-operating-system-near-day-and-more/">Near at ETHDenver: the Blockchain Operating System, Near Day, and More</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -136,7 +136,7 @@
 			</item>
 		<item>
 		<title>Near at ETHDenver Highlights </title>
-		<link>https://pages.near.org/blog/near-at-ethdenver-highlights/</link>
+		<link>/blog/near-at-ethdenver-highlights/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 02 Mar 2023 16:00:30 +0000</pubDate>
@@ -144,10 +144,10 @@
 		<category><![CDATA[ETHDenver]]></category>
 		<category><![CDATA[Few and Far]]></category>
 		<category><![CDATA[NEAR Day]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20239</guid>
+		<guid isPermaLink="false">/?p=20239</guid>
 
 					<description><![CDATA[<p>Near will see a number of&#160;partnership and project announcements at Near Day and ETHDenver. Over a 1,000 people are attending …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethdenver-highlights/">Near at ETHDenver Highlights </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethdenver-highlights/">Near at ETHDenver Highlights </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Near will see a number of&nbsp;partnership and project announcements at Near Day and ETHDenver. Over a 1,000 people are attending Near Day, with many more visiting the Near booth and dropping in on ETHDenver talks and panels featuring Near ecosystem figures. Beyond the many engaging talks and projects demos, there was also an ecosystem party, side events, a hackathon, and much more.&nbsp;</p>
@@ -182,7 +182,7 @@
 
 
 
-<p><em>Read the full Near Blockchain Operating System announcement <a href="https://pages.near.org/blog/near-announces-the-blockchain-operation-system/">here</a></em></p>
+<p><em>Read the full Near Blockchain Operating System announcement <a href="/blog/near-announces-the-blockchain-operation-system/">here</a></em></p>
 
 
 
@@ -283,7 +283,7 @@
 
 
 <p>“I will continue to be involved with NFC in my capacity as Pagoda CEO,” he added. “From a governance perspective, my departure increases the council’s independence and further decentralizes leadership and decision-making in the NEAR Ecosystem. I welcome Mona’s appointment as the new Chair and Marieke&#8217;s as council member to continue steering the Foundation in its mission of supporting NEAR’s growth.”</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethdenver-highlights/">Near at ETHDenver Highlights </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethdenver-highlights/">Near at ETHDenver Highlights </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -291,24 +291,24 @@
 			</item>
 		<item>
 		<title>NEAR Day at ETHDenver: Ethereum Without Limits</title>
-		<link>https://pages.near.org/blog/near-day-at-ethdenver-ethereum-without-limits/</link>
+		<link>/blog/near-day-at-ethdenver-ethereum-without-limits/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 20 Jan 2023 17:00:00 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[ETHDenver]]></category>
 		<category><![CDATA[NEAR Day]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19730</guid>
+		<guid isPermaLink="false">/?p=19730</guid>
 
 					<description><![CDATA[<p>ETHDenver is once again upon us. NEAR will be there with a full schedule of talks, panels, bounties, after parties, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-day-at-ethdenver-ethereum-without-limits/">NEAR Day at ETHDenver: Ethereum Without Limits</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-day-at-ethdenver-ethereum-without-limits/">NEAR Day at ETHDenver: Ethereum Without Limits</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>ETHDenver is once again upon us. NEAR will be there with a full schedule of talks, panels, bounties, after parties, and more, exploring why NEAR is the place where mainstream adoption of the Open Web will happen.&nbsp;</p>
 
 
 
-<p>NEAR makes building and innovating on Web3 simple, secure, and scalable — all well before “The Merge”. Soon, anyone in the world—devs, founders, creators, and app users — will be able to create without limits. Join us on March 2nd for <a href="https://pages.near.org/denver">NEAR Day</a> at ETHDenver — a 1-day mini summit on all things NEAR. From March 3rd to March 5th, join NEAR at ETHDenver for the Main Event and Hackathon.</p>
+<p>NEAR makes building and innovating on Web3 simple, secure, and scalable — all well before “The Merge”. Soon, anyone in the world—devs, founders, creators, and app users — will be able to create without limits. Join us on March 2nd for <a href="/denver">NEAR Day</a> at ETHDenver — a 1-day mini summit on all things NEAR. From March 3rd to March 5th, join NEAR at ETHDenver for the Main Event and Hackathon.</p>
 
 
 
@@ -337,7 +337,7 @@
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://pages.near.org/denver" target="_blank" rel="noreferrer noopener">Register for NEAR Day</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/denver" target="_blank" rel="noreferrer noopener">Register for NEAR Day</a></div>
 </div>
 
 
@@ -394,8 +394,8 @@
 
 
 
-<p>Learn about our other speakers at the <a href="https://pages.near.org/denver">NEAR Day</a> event page. </p>
-<p>The post <a href="https://pages.near.org/blog/near-day-at-ethdenver-ethereum-without-limits/">NEAR Day at ETHDenver: Ethereum Without Limits</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>Learn about our other speakers at the <a href="/denver">NEAR Day</a> event page. </p>
+<p>The post <a href="/blog/near-day-at-ethdenver-ethereum-without-limits/">NEAR Day at ETHDenver: Ethereum Without Limits</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEARCON ‘23 Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/nearcon-23/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/nearcon-23/</link>
+	<atom:link href="/blog/tag/nearcon-23/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/nearcon-23/</link>
 	<description></description>
 	<lastBuildDate>Thu, 16 Nov 2023 08:51:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEARCON ‘23 Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/nearcon-23/</link>
+	<link>/blog/tag/nearcon-23/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</title>
-		<link>https://pages.near.org/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/</link>
+		<link>/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 16 Nov 2023 13:00:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[EigenLayer]]></category>
 		<category><![CDATA[NEAR DA Layer]]></category>
 		<category><![CDATA[NEARCON ‘23]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21092</guid>
+		<guid isPermaLink="false">/?p=21092</guid>
 
 					<description><![CDATA[<p>Over the course of three epic days, the NEAR ecosystem showed up and showed out to make NEARCON ‘23 the …</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/">NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/">NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Over the course of three epic days, the NEAR ecosystem showed up and showed out to make NEARCON ‘23 the most iconic edition yet. Groundbreaking partnerships were announced, new bonds forged, and a new vision for AI and the open web was unveiled by some of the brightest minds in the blockchain business.</p>
@@ -98,7 +98,7 @@
 
 
 
-<p>By far the biggest news of Day One was NEAR <a href="https://pages.near.org/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/?_gl=1%2Ak9zc45%2A_up%2AMQ..%2A_ga%2AMTA3NDE2NTgxOS4xNzAwMDM4OTU2%2A_ga_9GWCXQJ62J%2AMTcwMDAzODk1Mi4xLjAuMTcwMDAzODk1Mi4wLjAuMA..">unveiling the NEAR Data Availability Layer (NEAR DA)</a>, offering robust, low-cost blockchain data to developers for modular open web development. NEAR DA will help developers reduce costs and enhance the reliability of rollups, while keeping the security of Ethereum. NEAR DA is a key part of tomorrow&#8217;s open web development stack, with early users including StarkNet, Caldera, Movement Labs, and others.&nbsp;</p>
+<p>By far the biggest news of Day One was NEAR <a href="/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/?_gl=1%2Ak9zc45%2A_up%2AMQ..%2A_ga%2AMTA3NDE2NTgxOS4xNzAwMDM4OTU2%2A_ga_9GWCXQJ62J%2AMTcwMDAzODk1Mi4xLjAuMTcwMDAzODk1Mi4wLjAuMA..">unveiling the NEAR Data Availability Layer (NEAR DA)</a>, offering robust, low-cost blockchain data to developers for modular open web development. NEAR DA will help developers reduce costs and enhance the reliability of rollups, while keeping the security of Ethereum. NEAR DA is a key part of tomorrow&#8217;s open web development stack, with early users including StarkNet, Caldera, Movement Labs, and others.&nbsp;</p>
 
 
 
@@ -110,7 +110,7 @@
 
 
 
-<p>NEAR Foundation announced its <a href="https://pages.near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/?_gl=1%2Abb1vlz%2A_up%2AMQ..%2A_ga%2AMTA3NDE2NTgxOS4xNzAwMDM4OTU2%2A_ga_9GWCXQJ62J%2AMTcwMDAzODk1Mi4xLjAuMTcwMDAzODk1Mi4wLjAuMA..">partnership with EigenLayer</a>, which will speed&nbsp; up transaction times and slashing costs on the Ethereum blockchain. The collaboration will introduce a fast finality layer to Ethereum rollups, boosting their efficiency and scalability. The fast finality layer showcases the strengths of NEAR’s technology while making the open web more usable.</p>
+<p>NEAR Foundation announced its <a href="/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/?_gl=1%2Abb1vlz%2A_up%2AMQ..%2A_ga%2AMTA3NDE2NTgxOS4xNzAwMDM4OTU2%2A_ga_9GWCXQJ62J%2AMTcwMDAzODk1Mi4xLjAuMTcwMDAzODk1Mi4wLjAuMA..">partnership with EigenLayer</a>, which will speed&nbsp; up transaction times and slashing costs on the Ethereum blockchain. The collaboration will introduce a fast finality layer to Ethereum rollups, boosting their efficiency and scalability. The fast finality layer showcases the strengths of NEAR’s technology while making the open web more usable.</p>
 
 
 
@@ -213,7 +213,7 @@
 
 
 <p>Anyone who built furiously at the HackerHQ or clinked a cocktail at the Glass Movers &amp; Shakers Happy Hour will likely tell you something similar: that NEARCON ‘23 showed the importance of a truly open web — and how together we can all achieve it.</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/">NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/">NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -221,17 +221,17 @@
 			</item>
 		<item>
 		<title>NEARCON ‘23 Day One: Major Announcements and Insightful Panels in Focus</title>
-		<link>https://pages.near.org/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/</link>
+		<link>/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 08 Nov 2023 17:48:09 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEARCON ‘23]]></category>
 		<category><![CDATA[NEARCON Highlights]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21061</guid>
+		<guid isPermaLink="false">/?p=21061</guid>
 
 					<description><![CDATA[<p>As the sun set on Lisbon, the first day of an already iconic NEARCON ‘23 drew to a close, the …</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/">NEARCON ‘23 Day One: Major Announcements and Insightful Panels in Focus</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/">NEARCON ‘23 Day One: Major Announcements and Insightful Panels in Focus</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>As the sun set on Lisbon, the first day of an already iconic NEARCON ‘23 drew to a close, the excitement and momentum of the entire ecosystem was on full display. The morning kicked off with insightful sessions on open web interoperability and AI, all leading up to NEAR co-founder and newly announced NEAR Foundation CEO Illia Polosukhin unveiling some exciting announcements.</p>
@@ -282,7 +282,7 @@
 
 
 
-<p>Perhaps the biggest announcement of the day was Illia lifting the curtain on <a href="https://pages.near.org/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/">NEAR DA</a>, offering Ethereum developers a low-cost, secure data availability layer. NEAR DA opens the door for enhanced modular blockchain solutions, ensuring scalability and cost-efficiency for developers in the NEAR ecosystem and beyond.</p>
+<p>Perhaps the biggest announcement of the day was Illia lifting the curtain on <a href="/blog/near-foundation-launches-near-da-to-offer-secure-cost-effective-data-availability-for-eth-rollups-and-ethereum-developers/">NEAR DA</a>, offering Ethereum developers a low-cost, secure data availability layer. NEAR DA opens the door for enhanced modular blockchain solutions, ensuring scalability and cost-efficiency for developers in the NEAR ecosystem and beyond.</p>
 
 
 
@@ -351,7 +351,7 @@
 
 
 <p>Thanks to everyone who attended Day One, and if you weren’t able to attend, rest assured that it’s just the beginning of a NEARCON ‘23 that will only grow to be more iconic over the next few days.</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/">NEARCON ‘23 Day One: Major Announcements and Insightful Panels in Focus</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/">NEARCON ‘23 Day One: Major Announcements and Insightful Panels in Focus</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -359,16 +359,16 @@
 			</item>
 		<item>
 		<title>NEARCON ‘23 Lifts Off: Start Your Journey into the Open Web</title>
-		<link>https://pages.near.org/blog/nearcon-23-lifts-off-start-your-journey-into-the-open-web/</link>
+		<link>/blog/nearcon-23-lifts-off-start-your-journey-into-the-open-web/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 08 Nov 2023 08:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEARCON ‘23]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21052</guid>
+		<guid isPermaLink="false">/?p=21052</guid>
 
 					<description><![CDATA[<p>Lisbon is about to light up as NEARCON ‘23 kicks off in the heart of the city. The stars are …</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-23-lifts-off-start-your-journey-into-the-open-web/">NEARCON ‘23 Lifts Off: Start Your Journey into the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-23-lifts-off-start-your-journey-into-the-open-web/">NEARCON ‘23 Lifts Off: Start Your Journey into the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Lisbon is about to light up as NEARCON ‘23 kicks off in the heart of the city. The stars are aligned for Day One to kick things off in spectacular fashion with a wide array of sessions, speakers, and activities you won’t want to miss.</p>
@@ -500,7 +500,7 @@
 
 
 <p>Day One of NEARCON promises to be an amazing kick off to an iconic gathering of minds, builders, and creators in the open web. From interoperability and cryptonomics to drinks and brainstorming well into the night, make sure to mark your calendars for all of the notable speakers and sessions that will make Day One a simply can’t miss.</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-23-lifts-off-start-your-journey-into-the-open-web/">NEARCON ‘23 Lifts Off: Start Your Journey into the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-23-lifts-off-start-your-journey-into-the-open-web/">NEARCON ‘23 Lifts Off: Start Your Journey into the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -508,17 +508,17 @@
 			</item>
 		<item>
 		<title>Introducing NCON and How to Use It at NEARCON ‘23</title>
-		<link>https://pages.near.org/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/</link>
+		<link>/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 06 Nov 2023 22:16:19 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NCON]]></category>
 		<category><![CDATA[NEARCON ‘23]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21042</guid>
+		<guid isPermaLink="false">/?p=21042</guid>
 
 					<description><![CDATA[<p>Hello NEARians, By now many of you are in or are en route to the magical city of Lisbon for …</p>
-<p>The post <a href="https://pages.near.org/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/">Introducing NCON and How to Use It at NEARCON ‘23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/">Introducing NCON and How to Use It at NEARCON ‘23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Hello NEARians,</p>
@@ -570,7 +570,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/">Introducing NCON and How to Use It at NEARCON ‘23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/">Introducing NCON and How to Use It at NEARCON ‘23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -578,16 +578,16 @@
 			</item>
 		<item>
 		<title>Why NEARCON is the Must-See Global Web3 Event of 2023</title>
-		<link>https://pages.near.org/blog/why-nearcon-is-the-must-see-global-web3-event-of-2023/</link>
+		<link>/blog/why-nearcon-is-the-must-see-global-web3-event-of-2023/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 01 Nov 2023 16:44:59 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEARCON ‘23]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21025</guid>
+		<guid isPermaLink="false">/?p=21025</guid>
 
 					<description><![CDATA[<p>Just less than a week until Lisbon rumbles as the epicenter of the NEAR ecosystem. Step into the open web …</p>
-<p>The post <a href="https://pages.near.org/blog/why-nearcon-is-the-must-see-global-web3-event-of-2023/">Why NEARCON is the Must-See Global Web3 Event of 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-nearcon-is-the-must-see-global-web3-event-of-2023/">Why NEARCON is the Must-See Global Web3 Event of 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Just less than a week until Lisbon rumbles as the epicenter of the NEAR ecosystem. Step into the open web at NEARCON ‘23 across three different stunning venues, with the Convento Do Beato being the main hub for things like&nbsp; founder and builder talks. Rua Pereira will pop off with creative and community action, and hardcore dev building will be going down at the Hacker HQ.</p>
@@ -642,7 +642,7 @@
 
 
 
-<p>If you’re a developer, fling yourself into an intense 48-hour <a href="https://nearcon.app/hackathon">NEARCON hackathon</a> where you’ll get the chance to build next-level apps for NEAR and potentially see your project in the spotlight. Developers can also <a href="https://near.org/blog/call-for-founders-and-developers-to-qualify-your-b-o-s-apps-before-nearcon-23/">earn NCON tokens</a> through bounties, redeemable for perks from food to merch. Also, don&#8217;t miss the much anticipated &#8220;<a href="https://pages.near.org/blog/ai-is-near-the-future-of-ai-on-the-open-web-at-nearcon-23/">AI is NEAR</a>&#8221; track led by AI and machine learning OGs Illia Polosukhin and Alex Skidanov, exploring where AI meets the Open Web.</p>
+<p>If you’re a developer, fling yourself into an intense 48-hour <a href="https://nearcon.app/hackathon">NEARCON hackathon</a> where you’ll get the chance to build next-level apps for NEAR and potentially see your project in the spotlight. Developers can also <a href="https://near.org/blog/call-for-founders-and-developers-to-qualify-your-b-o-s-apps-before-nearcon-23/">earn NCON tokens</a> through bounties, redeemable for perks from food to merch. Also, don&#8217;t miss the much anticipated &#8220;<a href="/blog/ai-is-near-the-future-of-ai-on-the-open-web-at-nearcon-23/">AI is NEAR</a>&#8221; track led by AI and machine learning OGs Illia Polosukhin and Alex Skidanov, exploring where AI meets the Open Web.</p>
 
 
 
@@ -654,12 +654,12 @@
 
 
 
-<p>So what are you waiting for? <a href="https://nearcon.app/nearpad.testnet/widget/Index?tab=register">Sign up for NEARCON &#8217;23 now</a> to secure your spot!<br><em>And let’s not forget some special treatment is in store for </em><a href="https://pages.near.org/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."><em>Ukrainians</em></a><em>, students in </em><a href="https://pages.near.org/blog/entradas-gratuitas-a-nearcon-23-para-estudiantes-en-espana/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."><em>Spain</em></a><em> and </em><a href="https://pages.near.org/blog/estudantes-terao-ingressos-gratis-no-nearcon23/?_gl=1%2A1clz06g%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."><em>Portugal</em></a><em>, and </em><a href="https://pages.near.org/blog/nearcon-irl-hackathon-2023-build-the-open-web/?_gl=1%2A1fu2kk1%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."><em>hackathon registrants</em></a><em>. All of the above can head over to those pages and register for a totally free NEARCON ‘23 pass!</em></p>
+<p>So what are you waiting for? <a href="https://nearcon.app/nearpad.testnet/widget/Index?tab=register">Sign up for NEARCON &#8217;23 now</a> to secure your spot!<br><em>And let’s not forget some special treatment is in store for </em><a href="/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."><em>Ukrainians</em></a><em>, students in </em><a href="/blog/entradas-gratuitas-a-nearcon-23-para-estudiantes-en-espana/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."><em>Spain</em></a><em> and </em><a href="/blog/estudantes-terao-ingressos-gratis-no-nearcon23/?_gl=1%2A1clz06g%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."><em>Portugal</em></a><em>, and </em><a href="/blog/nearcon-irl-hackathon-2023-build-the-open-web/?_gl=1%2A1fu2kk1%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."><em>hackathon registrants</em></a><em>. All of the above can head over to those pages and register for a totally free NEARCON ‘23 pass!</em></p>
 
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/why-nearcon-is-the-must-see-global-web3-event-of-2023/">Why NEARCON is the Must-See Global Web3 Event of 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-nearcon-is-the-must-see-global-web3-event-of-2023/">Why NEARCON is the Must-See Global Web3 Event of 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -667,17 +667,17 @@
 			</item>
 		<item>
 		<title>Call for Founders and Developers to Qualify Your B.O.S Apps Before NEARCON ‘23 </title>
-		<link>https://pages.near.org/blog/call-for-founders-and-developers-to-qualify-your-b-o-s-apps-before-nearcon-23/</link>
+		<link>/blog/call-for-founders-and-developers-to-qualify-your-b-o-s-apps-before-nearcon-23/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 30 Oct 2023 16:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NCON Bounties]]></category>
 		<category><![CDATA[NEARCON ‘23]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21013</guid>
+		<guid isPermaLink="false">/?p=21013</guid>
 
 					<description><![CDATA[<p>Dear NEAR B.O.S Developer Community,&#160; This week, the Pagoda product team launched the App Library to help B.O.S founders and …</p>
-<p>The post <a href="https://pages.near.org/blog/call-for-founders-and-developers-to-qualify-your-b-o-s-apps-before-nearcon-23/">Call for Founders and Developers to Qualify Your B.O.S Apps Before NEARCON ‘23 </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/call-for-founders-and-developers-to-qualify-your-b-o-s-apps-before-nearcon-23/">Call for Founders and Developers to Qualify Your B.O.S Apps Before NEARCON ‘23 </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Dear NEAR B.O.S Developer Community,&nbsp;</p>
@@ -825,7 +825,7 @@
 
 
 <p>The primary goal of the App Library is to celebrate the creativity and efforts of NEAR developers and founders. To increase visibility, boost engagement, and get valuable feedback from the whole NEAR community on your app, make sure to register your apps as qualified and participate in the <a href="https://near.org/near/widget/AppLibrary.Nearcon.IndexPage">App Upvoting NCON Bounty</a>.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/call-for-founders-and-developers-to-qualify-your-b-o-s-apps-before-nearcon-23/">Call for Founders and Developers to Qualify Your B.O.S Apps Before NEARCON ‘23 </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/call-for-founders-and-developers-to-qualify-your-b-o-s-apps-before-nearcon-23/">Call for Founders and Developers to Qualify Your B.O.S Apps Before NEARCON ‘23 </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -833,7 +833,7 @@
 			</item>
 		<item>
 		<title>Meet the Builders of the Open Web: Top Speakers at NEARCON &#8217;23</title>
-		<link>https://pages.near.org/blog/meet-the-builders-of-the-open-web-top-speakers-at-nearcon-23/</link>
+		<link>/blog/meet-the-builders-of-the-open-web-top-speakers-at-nearcon-23/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 19 Oct 2023 18:33:00 +0000</pubDate>
@@ -841,10 +841,10 @@
 		<category><![CDATA[NEARCON]]></category>
 		<category><![CDATA[NEARCON ‘23]]></category>
 		<category><![CDATA[NEARCON Speakers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20989</guid>
+		<guid isPermaLink="false">/?p=20989</guid>
 
 					<description><![CDATA[<p>If you thought last year&#8217;s NEARCON was epic, then wait until you see what’s in store for NEARCON &#8217;23 in …</p>
-<p>The post <a href="https://pages.near.org/blog/meet-the-builders-of-the-open-web-top-speakers-at-nearcon-23/">Meet the Builders of the Open Web: Top Speakers at NEARCON &#8217;23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/meet-the-builders-of-the-open-web-top-speakers-at-nearcon-23/">Meet the Builders of the Open Web: Top Speakers at NEARCON &#8217;23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>If you thought last year&#8217;s NEARCON was epic, then wait until you see what’s in store for NEARCON &#8217;23 in Lisbon, kicking off on November 7th. From deep dives into the open web to insightful sessions featuring global leaders in blockchain and the open web, here’s the inside scoop on what to expect at this year’s iconic edition.</p>
@@ -917,7 +917,7 @@
 
 
 
-<p>While the speakers are a definite draw, NEARCON &#8217;23 is more than just speaker sessions. You can also join the <a href="https://pages.near.org/blog/nearcon-irl-hackathon-2023-build-the-open-web/?_gl=1%2A41qcf0%2A_up%2AMQ..%2A_ga%2AOTY3ODAzMDQ2LjE2OTc2NDc0ODk.%2A_ga_9GWCXQJ62J%2AMTY5NzY0NzQ4Ny4xLjEuMTY5NzY0ODExNS4wLjAuMA..">NEARCON IRL Hackathon</a> where developers will have the chance to build directly on the B.O.S and compete for over $140,000 in prizes. In case you didn’t already know, NEARCON is free for hackers participating in the hackathon! At NEARCON ‘23, there’s something for just about everyone.</p>
+<p>While the speakers are a definite draw, NEARCON &#8217;23 is more than just speaker sessions. You can also join the <a href="/blog/nearcon-irl-hackathon-2023-build-the-open-web/?_gl=1%2A41qcf0%2A_up%2AMQ..%2A_ga%2AOTY3ODAzMDQ2LjE2OTc2NDc0ODk.%2A_ga_9GWCXQJ62J%2AMTY5NzY0NzQ4Ny4xLjEuMTY5NzY0ODExNS4wLjAuMA..">NEARCON IRL Hackathon</a> where developers will have the chance to build directly on the B.O.S and compete for over $140,000 in prizes. In case you didn’t already know, NEARCON is free for hackers participating in the hackathon! At NEARCON ‘23, there’s something for just about everyone.</p>
 
 
 
@@ -955,8 +955,8 @@
 
 
 
-<p>So what are you waiting for? <a href="https://tickets.nearcon.org/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=google_events_nearcon_conversion_gl&amp;utm_content=nearcon_non-brand_blockchain-crypto-web3_gl______T1300&amp;gclid=Cj0KCQjwhL6pBhDjARIsAGx8D5-H2EpU3t-EF2qlg6YDwlzx5HgVqTUboWoe5nftEla82nDzSqVG1YUaAuJ9EALw_wcB">Register for NEARCON &#8217;23</a> to secure your spot today. And if you’re a <a href="https://pages.near.org/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/?_gl=1%2A41qcf0%2A_up%2AMQ..%2A_ga%2AOTY3ODAzMDQ2LjE2OTc2NDc0ODk.%2A_ga_9GWCXQJ62J%2AMTY5NzY0NzQ4Ny4xLjEuMTY5NzY0ODExNS4wLjAuMA..">Ukrainian</a> living in Portugal, or a student in <a href="https://pages.near.org/blog/estudantes-terao-ingressos-gratis-no-nearcon23/?_gl=1%2A1897020%2A_up%2AMQ..%2A_ga%2AOTY3ODAzMDQ2LjE2OTc2NDc0ODk.%2A_ga_9GWCXQJ62J%2AMTY5NzY0NzQ4Ny4xLjAuMTY5NzY0NzQ4Ny4wLjAuMA..">Portugal</a> or <a href="https://pages.near.org/blog/entradas-gratuitas-a-nearcon-23-para-estudiantes-en-espana/?_gl=1%2A41qcf0%2A_up%2AMQ..%2A_ga%2AOTY3ODAzMDQ2LjE2OTc2NDc0ODk.%2A_ga_9GWCXQJ62J%2AMTY5NzY0NzQ4Ny4xLjEuMTY5NzY0ODExNS4wLjAuMA..">Spain</a>, click those links for more information on how to register and attend NEARCON ‘23 in Lisbon for absolutely free!</p>
-<p>The post <a href="https://pages.near.org/blog/meet-the-builders-of-the-open-web-top-speakers-at-nearcon-23/">Meet the Builders of the Open Web: Top Speakers at NEARCON &#8217;23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>So what are you waiting for? <a href="https://tickets.nearcon.org/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=google_events_nearcon_conversion_gl&amp;utm_content=nearcon_non-brand_blockchain-crypto-web3_gl______T1300&amp;gclid=Cj0KCQjwhL6pBhDjARIsAGx8D5-H2EpU3t-EF2qlg6YDwlzx5HgVqTUboWoe5nftEla82nDzSqVG1YUaAuJ9EALw_wcB">Register for NEARCON &#8217;23</a> to secure your spot today. And if you’re a <a href="/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/?_gl=1%2A41qcf0%2A_up%2AMQ..%2A_ga%2AOTY3ODAzMDQ2LjE2OTc2NDc0ODk.%2A_ga_9GWCXQJ62J%2AMTY5NzY0NzQ4Ny4xLjEuMTY5NzY0ODExNS4wLjAuMA..">Ukrainian</a> living in Portugal, or a student in <a href="/blog/estudantes-terao-ingressos-gratis-no-nearcon23/?_gl=1%2A1897020%2A_up%2AMQ..%2A_ga%2AOTY3ODAzMDQ2LjE2OTc2NDc0ODk.%2A_ga_9GWCXQJ62J%2AMTY5NzY0NzQ4Ny4xLjAuMTY5NzY0NzQ4Ny4wLjAuMA..">Portugal</a> or <a href="/blog/entradas-gratuitas-a-nearcon-23-para-estudiantes-en-espana/?_gl=1%2A41qcf0%2A_up%2AMQ..%2A_ga%2AOTY3ODAzMDQ2LjE2OTc2NDc0ODk.%2A_ga_9GWCXQJ62J%2AMTY5NzY0NzQ4Ny4xLjEuMTY5NzY0ODExNS4wLjAuMA..">Spain</a>, click those links for more information on how to register and attend NEARCON ‘23 in Lisbon for absolutely free!</p>
+<p>The post <a href="/blog/meet-the-builders-of-the-open-web-top-speakers-at-nearcon-23/">Meet the Builders of the Open Web: Top Speakers at NEARCON &#8217;23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -964,7 +964,7 @@
 			</item>
 		<item>
 		<title>Унікальна можливість для українців: Безкоштовні квитки на NEARCON ‘23</title>
-		<link>https://pages.near.org/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/</link>
+		<link>/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 05 Oct 2023 18:17:28 +0000</pubDate>
@@ -972,10 +972,10 @@
 		<category><![CDATA[NEARCON]]></category>
 		<category><![CDATA[NEARCON ‘23]]></category>
 		<category><![CDATA[Ukraine]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20949</guid>
+		<guid isPermaLink="false">/?p=20949</guid>
 
 					<description><![CDATA[<p>NEARCON &#8217;23 &#8211; це багатоденна конференція, яка збирає найяскравіших представників блокчейн-індустрії з усього світу. Це місце, де ви зможете почути …</p>
-<p>The post <a href="https://pages.near.org/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/">Унікальна можливість для українців: Безкоштовні квитки на NEARCON ‘23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/">Унікальна можливість для українців: Безкоштовні квитки на NEARCON ‘23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEARCON &#8217;23 &#8211; це багатоденна конференція, яка збирає найяскравіших представників блокчейн-індустрії з усього світу. Це місце, де ви зможете почути найсвіжіші ідеї, познайомитися зі світовими експертами та знайти натхнення для вашої майбутньої кар&#8217;єри. NEARCON &#8217;23 пропонує широкий спектр тематик, включаючи штучний інтелект, кібербезпеку, блокчейн, веб-розробку та багато іншого.</p>
@@ -1049,7 +1049,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/">Унікальна можливість для українців: Безкоштовні квитки на NEARCON ‘23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/">Унікальна можливість для українців: Безкоштовні квитки на NEARCON ‘23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

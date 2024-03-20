@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Move to Earn Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/move-to-earn/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/move-to-earn/</link>
+	<atom:link href="/blog/tag/move-to-earn/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/move-to-earn/</link>
 	<description></description>
 	<lastBuildDate>Tue, 17 Oct 2023 13:15:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Move to Earn Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/move-to-earn/</link>
+	<link>/blog/tag/move-to-earn/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Sweat Economy Launches in the USA, Opening the Door to Millions of New Web3 Users </title>
-		<link>https://pages.near.org/blog/sweat-economy-launches-in-the-usa-opening-the-door-to-millions-of-new-web3-users/</link>
+		<link>/blog/sweat-economy-launches-in-the-usa-opening-the-door-to-millions-of-new-web3-users/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 17 Oct 2023 14:00:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Move to Earn]]></category>
 		<category><![CDATA[Sweat Economy]]></category>
 		<category><![CDATA[Sweatcoin]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20973</guid>
+		<guid isPermaLink="false">/?p=20973</guid>
 
 					<description><![CDATA[<p>Sweat Economy, creators of $SWEAT and leaders in helping the world become more active, is launching in the United States …</p>
-<p>The post <a href="https://pages.near.org/blog/sweat-economy-launches-in-the-usa-opening-the-door-to-millions-of-new-web3-users/">Sweat Economy Launches in the USA, Opening the Door to Millions of New Web3 Users </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/sweat-economy-launches-in-the-usa-opening-the-door-to-millions-of-new-web3-users/">Sweat Economy Launches in the USA, Opening the Door to Millions of New Web3 Users </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Sweat Economy, creators of $SWEAT and leaders in helping the world become more active, is launching in the United States for the first time.&nbsp;</p>
@@ -89,7 +89,7 @@
 
 
 <p>If you have yet to join the economy of movement, head to your mobile app store and download the Sweatcoin and Sweat Wallet apps today and see how millions of people are earning crypto just by being physically active. Join NEAR and Sweat Economy in building a healthier collective future!</p>
-<p>The post <a href="https://pages.near.org/blog/sweat-economy-launches-in-the-usa-opening-the-door-to-millions-of-new-web3-users/">Sweat Economy Launches in the USA, Opening the Door to Millions of New Web3 Users </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/sweat-economy-launches-in-the-usa-opening-the-door-to-millions-of-new-web3-users/">Sweat Economy Launches in the USA, Opening the Door to Millions of New Web3 Users </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

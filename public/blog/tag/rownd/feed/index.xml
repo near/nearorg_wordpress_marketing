@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Rownd Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/rownd/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/rownd/</link>
+	<atom:link href="/blog/tag/rownd/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/rownd/</link>
 	<description></description>
 	<lastBuildDate>Wed, 17 May 2023 15:43:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Rownd Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/rownd/</link>
+	<link>/blog/tag/rownd/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Rownd and NEAR Foundation are Cracking the Code of Web3 Onboarding</title>
-		<link>https://pages.near.org/blog/rownd-and-near-foundation-are-cracking-the-code-of-web3-onboarding/</link>
+		<link>/blog/rownd-and-near-foundation-are-cracking-the-code-of-web3-onboarding/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 16 May 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Rownd]]></category>
 		<category><![CDATA[Web3 Onboarding]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20495</guid>
+		<guid isPermaLink="false">/?p=20495</guid>
 
 					<description><![CDATA[<p>One of the main reasons that the NEAR ecosystem exists is to onboard the next billion users to Web3 — …</p>
-<p>The post <a href="https://pages.near.org/blog/rownd-and-near-foundation-are-cracking-the-code-of-web3-onboarding/">Rownd and NEAR Foundation are Cracking the Code of Web3 Onboarding</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/rownd-and-near-foundation-are-cracking-the-code-of-web3-onboarding/">Rownd and NEAR Foundation are Cracking the Code of Web3 Onboarding</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>One of the main reasons that the NEAR ecosystem exists is to onboard the next billion users to Web3 — and that mission has just made significant strides by partnering with <a href="https://rownd.io/">Rownd</a>. An industry leader in digital onboarding and identity, Rownd’s passwordless authentication tech will utilize NEAR for more seamless interaction and onboarding for both Web3 and Web2.</p>
@@ -103,7 +103,7 @@
 
 
 <p>Together, Rownd and the NEAR Foundation demonstrate the transformative potential of integrating state-of-the-art onboarding and passwordless authentication with the revolutionary Web3. By crafting a user-centric onboarding experience, they are making significant strides toward broadening the use of Web3 applications, marking a new era for digital experiences.</p>
-<p>The post <a href="https://pages.near.org/blog/rownd-and-near-foundation-are-cracking-the-code-of-web3-onboarding/">Rownd and NEAR Foundation are Cracking the Code of Web3 Onboarding</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/rownd-and-near-foundation-are-cracking-the-code-of-web3-onboarding/">Rownd and NEAR Foundation are Cracking the Code of Web3 Onboarding</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

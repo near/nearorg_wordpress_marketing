@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ETH Denver Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/eth-denver/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/eth-denver/</link>
+	<atom:link href="/blog/tag/eth-denver/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/eth-denver/</link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Feb 2024 18:19:31 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>ETH Denver Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/eth-denver/</link>
+	<link>/blog/tag/eth-denver/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR at ETHDenver: Get Chain-Abstracted with the Black Dragon</title>
-		<link>https://pages.near.org/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/</link>
+		<link>/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/</link>
 		
 		<dc:creator><![CDATA[David Morrison]]></dc:creator>
 		<pubDate>Thu, 22 Feb 2024 18:19:30 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[ETH Denver]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21249</guid>
+		<guid isPermaLink="false">/?p=21249</guid>
 
 					<description><![CDATA[<p>Ditch the ETHDenver small talk and brace yourself abstractooors! The NEAR Ecosystem is crashing the scene, armed with next-level chain …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/">NEAR at ETHDenver: Get Chain-Abstracted with the Black Dragon</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/">NEAR at ETHDenver: Get Chain-Abstracted with the Black Dragon</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Ditch the ETHDenver small talk and brace yourself abstractooors! The NEAR Ecosystem is crashing the scene, armed with next-level chain abstraction, mind-bending AI, and enough developer swag to make your node blush.</p>
@@ -77,7 +77,7 @@
 
 
 
-<p>Space is limited, and only the most curious minds need apply. So if you&#8217;re a developer dreaming of cross-chain dApps, a creator with an NFT vision spanning universes, or an entrepreneur ready to conquer the multiverse, submit your request to attend ASAP. Don&#8217;t miss your chance to rub shoulders with the brightest minds in the biz and unlock the true power of blockchain, unchained.<br><br>For a comprehensive overview of NEAR&#8217;s presence at ETHDenver, including speaker sessions and networking opportunities, visit our dedicated NEAR at <a href="https://pages.near.org/ethdenver2024/">ETHDenver landing page</a>.</p>
+<p>Space is limited, and only the most curious minds need apply. So if you&#8217;re a developer dreaming of cross-chain dApps, a creator with an NFT vision spanning universes, or an entrepreneur ready to conquer the multiverse, submit your request to attend ASAP. Don&#8217;t miss your chance to rub shoulders with the brightest minds in the biz and unlock the true power of blockchain, unchained.<br><br>For a comprehensive overview of NEAR&#8217;s presence at ETHDenver, including speaker sessions and networking opportunities, visit our dedicated NEAR at <a href="/ethdenver2024/">ETHDenver landing page</a>.</p>
 
 
 
@@ -86,7 +86,7 @@
 
 
 <p>See you on the other side, chain <em>abstractooors</em>!</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/">NEAR at ETHDenver: Get Chain-Abstracted with the Black Dragon</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/">NEAR at ETHDenver: Get Chain-Abstracted with the Black Dragon</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

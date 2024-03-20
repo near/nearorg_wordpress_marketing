@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ARterra Labs Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/arterra-labs/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/arterra-labs/</link>
+	<atom:link href="/blog/tag/arterra-labs/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/arterra-labs/</link>
 	<description></description>
 	<lastBuildDate>Tue, 30 May 2023 14:46:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>ARterra Labs Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/arterra-labs/</link>
+	<link>/blog/tag/arterra-labs/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</title>
-		<link>https://pages.near.org/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/</link>
+		<link>/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 31 May 2023 13:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[ARterra Labs]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20547</guid>
+		<guid isPermaLink="false">/?p=20547</guid>
 
 					<description><![CDATA[<p>The ever-expanding gaming landscape faces significant challenges such as engagement and identity fragmentation. As fans navigate platforms like Twitch, Discord, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/">NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/">NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The ever-expanding gaming landscape faces significant challenges such as engagement and identity fragmentation. As fans navigate platforms like Twitch, Discord, and YouTube, brands and creators struggle to monetize their fan bases effectively. This is where <a href="https://arterra.co/">ARterra Labs</a> steps in — a company on a mission to revolutionize fan engagement and unlock Web3 fandom for the gaming industry.</p>
@@ -104,7 +104,7 @@
 
 
 <p>Amplifying the open web gaming journey with Battle Pass, metaverse realities, and the fan passport, ARterra Labs and NEAR Foundation don&#8217;t merely enhance the experience — they define a new standard. It&#8217;s a game-changing era in Web3 and fans are just barely unlocking the first level.</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/">NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/">NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

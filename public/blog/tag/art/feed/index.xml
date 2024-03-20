@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Art Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/art/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/art/</link>
+	<atom:link href="/blog/tag/art/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/art/</link>
 	<description></description>
 	<lastBuildDate>Wed, 09 Aug 2023 16:24:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Art Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/art/</link>
+	<link>/blog/tag/art/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>With MeshFlux, Multimedia Art and Gaming Explore Blockchain Technology </title>
-		<link>https://pages.near.org/blog/with-meshflux-multimedia-art-and-gaming-explore-blockchain-technology/</link>
+		<link>/blog/with-meshflux-multimedia-art-and-gaming-explore-blockchain-technology/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 10 Aug 2023 12:00:00 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Art]]></category>
 		<category><![CDATA[Blockchain]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20790</guid>
+		<guid isPermaLink="false">/?p=20790</guid>
 
 					<description><![CDATA[<p>The worlds of art and blockchain are no strangers. On NEAR, art can be found on apps like Mintbase, Paras, …</p>
-<p>The post <a href="https://pages.near.org/blog/with-meshflux-multimedia-art-and-gaming-explore-blockchain-technology/">With MeshFlux, Multimedia Art and Gaming Explore Blockchain Technology </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/with-meshflux-multimedia-art-and-gaming-explore-blockchain-technology/">With MeshFlux, Multimedia Art and Gaming Explore Blockchain Technology </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The worlds of art and blockchain are no strangers. On NEAR, art can be found on apps like Mintbase, Paras, and many other ecosystem projects.&nbsp; With the <a href="https://www.meshflux.com/">MeshFlux</a> project, however, Turkish artist and designer <a href="https://www.ubarismutlu.com/">Ufuk Barış Mutlu</a> shows a clear path to how physical artworks can be deeply integrated with the blockchain.&nbsp;</p>
@@ -101,7 +101,7 @@
 
 
 <p>Follow <a href="https://www.instagram.com/ubarismutlu/">Ufuk Barış Mutlu</a> on Instagram.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/with-meshflux-multimedia-art-and-gaming-explore-blockchain-technology/">With MeshFlux, Multimedia Art and Gaming Explore Blockchain Technology </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/with-meshflux-multimedia-art-and-gaming-explore-blockchain-technology/">With MeshFlux, Multimedia Art and Gaming Explore Blockchain Technology </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

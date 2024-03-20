@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Encode Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/encode/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/encode/</link>
+	<atom:link href="/blog/tag/encode/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/encode/</link>
 	<description></description>
 	<lastBuildDate>Wed, 14 Jun 2023 15:35:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Encode Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/encode/</link>
+	<link>/blog/tag/encode/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Encode x NEAR Horizon Bootcamp: Your Mission to Master Web3 Rust Contracts</title>
-		<link>https://pages.near.org/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/</link>
+		<link>/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 14 Jun 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Encode]]></category>
 		<category><![CDATA[NEAR Horizon]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20629</guid>
+		<guid isPermaLink="false">/?p=20629</guid>
 
 					<description><![CDATA[<p>Web3 builders, developers, and founders are gearing up to join the Encode x NEAR Horizon Bootcamp starting July 10th, 2023 …</p>
-<p>The post <a href="https://pages.near.org/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/">Encode x NEAR Horizon Bootcamp: Your Mission to Master Web3 Rust Contracts</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/">Encode x NEAR Horizon Bootcamp: Your Mission to Master Web3 Rust Contracts</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Web3 builders, developers, and founders are gearing up to join the<a href="https://www.encode.club/encode-near-horizon-bootcamp"> Encode x NEAR Horizon Bootcamp</a> starting July 10th, 2023 to upgrade their building, development, and coding skills. Following the <a href="https://pages.near.org/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/?_gl=1%2A11sk0z6%2A_up%2AMQ..%2A_ga%2AODI2MzI2NzAxLjE2ODY1NjEwMzM.%2A_ga_9GWCXQJ62J%2AMTY4NjU2MTAzMC4xLjEuMTY4NjU2MTEwMS4wLjAuMA..">recent partnership</a> between NEAR Horizon and Encode Club, the bootcamp is part of a broader initiative to accelerate blockchain expertise with a focus on developing Rust smart contracts.</p>
+<p>Web3 builders, developers, and founders are gearing up to join the<a href="https://www.encode.club/encode-near-horizon-bootcamp"> Encode x NEAR Horizon Bootcamp</a> starting July 10th, 2023 to upgrade their building, development, and coding skills. Following the <a href="/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/?_gl=1%2A11sk0z6%2A_up%2AMQ..%2A_ga%2AODI2MzI2NzAxLjE2ODY1NjEwMzM.%2A_ga_9GWCXQJ62J%2AMTY4NjU2MTAzMC4xLjEuMTY4NjU2MTEwMS4wLjAuMA..">recent partnership</a> between NEAR Horizon and Encode Club, the bootcamp is part of a broader initiative to accelerate blockchain expertise with a focus on developing Rust smart contracts.</p>
 
 
 
@@ -83,7 +83,7 @@
 
 
 <p>Your mission – should you choose to accept and sign the transaction – is to master Web3 at the NEAR x Encode Club Bootcamp. <a href="https://www.encode.club/encode-near-horizon-bootcamp">Apply now</a> and report for duty on July 10th!</p>
-<p>The post <a href="https://pages.near.org/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/">Encode x NEAR Horizon Bootcamp: Your Mission to Master Web3 Rust Contracts</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/">Encode x NEAR Horizon Bootcamp: Your Mission to Master Web3 Rust Contracts</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

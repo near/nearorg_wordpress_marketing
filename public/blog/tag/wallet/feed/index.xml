@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Wallet Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/wallet/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/wallet/</link>
+	<atom:link href="/blog/tag/wallet/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/wallet/</link>
 	<description></description>
 	<lastBuildDate>Wed, 11 Jan 2023 17:41:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Wallet Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/wallet/</link>
+	<link>/blog/tag/wallet/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Wallet&#8217;s Evolution in 2023</title>
-		<link>https://pages.near.org/blog/near-wallets-evolution-in-2023/</link>
+		<link>/blog/near-wallets-evolution-in-2023/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 11 Jan 2023 17:03:36 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Wallet]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19694</guid>
+		<guid isPermaLink="false">/?p=19694</guid>
 
 					<description><![CDATA[<p>NEAR Foundation and Pagoda, along with the Wallets Working Group, have conducted extensive community discussions over the last several months …</p>
-<p>The post <a href="https://pages.near.org/blog/near-wallets-evolution-in-2023/">NEAR Wallet&#8217;s Evolution in 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-wallets-evolution-in-2023/">NEAR Wallet&#8217;s Evolution in 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation and Pagoda, along with the Wallets Working Group, have conducted extensive community discussions over the last several months about the evolution of wallets in the NEAR ecosystem. In keeping with the Foundation’s goal to empower the community and continue to decentralize the ecosystem over time, the focus since NEARCON has been to expand the wallet offerings to NEAR users and to decentralize the NEAR Wallet.&nbsp;&nbsp;&nbsp;</p>
@@ -59,7 +59,7 @@
 
 
 <p>NEAR’s commitment to serving as the de facto entry point to Web3 remains intact. Building without limits is about continuously improving on industry standards and delivering the best possible experiences to developers and users alike.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-wallets-evolution-in-2023/">NEAR Wallet&#8217;s Evolution in 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-wallets-evolution-in-2023/">NEAR Wallet&#8217;s Evolution in 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

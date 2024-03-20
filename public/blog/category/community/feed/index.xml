@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Community Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/category/community/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/category/community/</link>
+	<atom:link href="/blog/category/community/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/category/community/</link>
 	<description></description>
 	<lastBuildDate>Mon, 18 Mar 2024 13:37:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Community Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/category/community/</link>
+	<link>/blog/category/community/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Ecosystem @ Korea BUIDL Week 2024</title>
-		<link>https://pages.near.org/blog/korea-buidl-week-2024/</link>
+		<link>/blog/korea-buidl-week-2024/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 18 Mar 2024 13:37:17 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21282</guid>
+		<guid isPermaLink="false">/?p=21282</guid>
 
 					<description><![CDATA[<p>MARCH 26 &#8211; APRIL 2, 2024 As the sun rises in the east, a new dawn breaks for NEAR. Fresh …</p>
-<p>The post <a href="https://pages.near.org/blog/korea-buidl-week-2024/">NEAR Ecosystem @ Korea BUIDL Week 2024</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/korea-buidl-week-2024/">NEAR Ecosystem @ Korea BUIDL Week 2024</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>MARCH 26 &#8211; APRIL 2, 2024</p>
@@ -85,7 +85,7 @@
 
 
 <p>Abstractooors, you won’t want to miss the fun!</p>
-<p>The post <a href="https://pages.near.org/blog/korea-buidl-week-2024/">NEAR Ecosystem @ Korea BUIDL Week 2024</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/korea-buidl-week-2024/">NEAR Ecosystem @ Korea BUIDL Week 2024</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -93,16 +93,16 @@
 			</item>
 		<item>
 		<title>The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</title>
-		<link>https://pages.near.org/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/</link>
+		<link>/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 14 Mar 2024 17:03:07 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21275</guid>
+		<guid isPermaLink="false">/?p=21275</guid>
 
 					<description><![CDATA[<p>The Graph Foundation recently announced the inclusion of NEAR into its expansive subgraph support, now encompassing over 40 leading L1 …</p>
-<p>The post <a href="https://pages.near.org/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The Graph Foundation recently announced the inclusion of NEAR into its expansive subgraph support, now encompassing over 40 leading L1 and L2 blockchains including Arbitrum, Base, Fantom, Celo, Optimism, Polygon Labs, and Scroll. By integrating with The Graph, NEAR developers gain access to a decentralized network for streamlined data querying, significantly reducing costs and improving synchronization speeds.&nbsp;</p>
@@ -150,7 +150,7 @@
 
 
 <p>Soon, NEAR devs building on The Graph Network will be able to take advantage of a free query plan, an intuitive subgraph upgrade wizard, and more. The Graph-NEAR Foundation collaboration will further emphasize the shared mission of both teams for a more interconnected and inclusive Web3 ecosystem via Chain Abstraction, enhancing the value of indexing and querying blockchain data.&nbsp;&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -158,16 +158,16 @@
 			</item>
 		<item>
 		<title>FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</title>
-		<link>https://pages.near.org/blog/frax-deploys-decentralized-stablecoin/</link>
+		<link>/blog/frax-deploys-decentralized-stablecoin/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 14 Mar 2024 13:00:00 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21270</guid>
+		<guid isPermaLink="false">/?p=21270</guid>
 
 					<description><![CDATA[<p>Frax Finance announced the launch of FRAX stablecoin on NEAR via Ref Finance and Burrow through FraxFerry and the Rainbow …</p>
-<p>The post <a href="https://pages.near.org/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Frax Finance announced the launch of FRAX stablecoin on NEAR via Ref Finance and Burrow through FraxFerry and the Rainbow Bridge. This marks a significant milestone for Frax as its first major venture into a non-Ethereum Virtual Machine (EVM) ecosystem.&nbsp;</p>
@@ -215,7 +215,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -223,15 +223,15 @@
 			</item>
 		<item>
 		<title>PotLock and NEAR Foundation Partner to Accelerate Public Goods Funding (PGF)</title>
-		<link>https://pages.near.org/blog/potlock-and-near-foundation-partner-to-accelerate-public-goods-funding-pgf/</link>
+		<link>/blog/potlock-and-near-foundation-partner-to-accelerate-public-goods-funding-pgf/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 08 Mar 2024 15:15:08 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21265</guid>
+		<guid isPermaLink="false">/?p=21265</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is proud to announce the inaugural launch of Near Public Goods Funding (NEARPGF) together with PotLock, a new …</p>
-<p>The post <a href="https://pages.near.org/blog/potlock-and-near-foundation-partner-to-accelerate-public-goods-funding-pgf/">PotLock and NEAR Foundation Partner to Accelerate Public Goods Funding (PGF)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/potlock-and-near-foundation-partner-to-accelerate-public-goods-funding-pgf/">PotLock and NEAR Foundation Partner to Accelerate Public Goods Funding (PGF)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is proud to announce the inaugural launch of Near Public Goods Funding (NEARPGF) together with <a href="https://bos.potlock.org/">PotLock</a>, a new quadratic funding (QF) platform on NEAR. NEAR Foundation is allocating $100,000+ in initial funding to pilot funding campaigns conducted through PotLock. This initial contribution aims to empower promising and impactful projects building within the NEAR ecosystem.</p>
@@ -395,7 +395,7 @@
 
 
 <p>All NEAR community members are invited to engage with NEARPGF by <a href="https://docs.potlock.io/user-guides/create-your-project">submitting projects</a> to PotLock that can leverage NEAR technology or by contributing to the funding rounds supporting ecosystem growth. Broad engagement and participation are key to identifying the best projects that will drive innovation on NEAR and expand decision-making about resource allocation to a wider pool of NEAR believers.</p>
-<p>The post <a href="https://pages.near.org/blog/potlock-and-near-foundation-partner-to-accelerate-public-goods-funding-pgf/">PotLock and NEAR Foundation Partner to Accelerate Public Goods Funding (PGF)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/potlock-and-near-foundation-partner-to-accelerate-public-goods-funding-pgf/">PotLock and NEAR Foundation Partner to Accelerate Public Goods Funding (PGF)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -403,15 +403,15 @@
 			</item>
 		<item>
 		<title>NEAR @ ETHDenver Breakdown: We Came, We Saw, We Abstracted!</title>
-		<link>https://pages.near.org/blog/near-ethdenver-round-up/</link>
+		<link>/blog/near-ethdenver-round-up/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 07 Mar 2024 14:59:31 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21261</guid>
+		<guid isPermaLink="false">/?p=21261</guid>
 
 					<description><![CDATA[<p>NEAR&#8217;s presence at ETHDenver was nothing short of a triumph, demonstrating that collaboration is the key to success in the …</p>
-<p>The post <a href="https://pages.near.org/blog/near-ethdenver-round-up/">NEAR @ ETHDenver Breakdown: We Came, We Saw, We Abstracted!</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-ethdenver-round-up/">NEAR @ ETHDenver Breakdown: We Came, We Saw, We Abstracted!</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR&#8217;s presence at ETHDenver was nothing short of a triumph, demonstrating that collaboration is the key to success in the ever-evolving world of cryptocurrency. Forget about going it alone &#8211; NEAR brought the entire ecosystem to the party, and the results were epic.</p>
@@ -503,7 +503,7 @@
 
 
 <p>Till’ next time Abstractooors!</p>
-<p>The post <a href="https://pages.near.org/blog/near-ethdenver-round-up/">NEAR @ ETHDenver Breakdown: We Came, We Saw, We Abstracted!</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-ethdenver-round-up/">NEAR @ ETHDenver Breakdown: We Came, We Saw, We Abstracted!</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -511,7 +511,7 @@
 			</item>
 		<item>
 		<title>ICYMI: Scootering Through Web3 at NEAR APAC&#8217;s Vietnam Showcase </title>
-		<link>https://pages.near.org/blog/icymi-scootering-through-web3-at-near-apacs-vietnam-showcase/</link>
+		<link>/blog/icymi-scootering-through-web3-at-near-apacs-vietnam-showcase/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 18 Sep 2023 16:32:42 +0000</pubDate>
@@ -520,10 +520,10 @@
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Events]]></category>
 		<category><![CDATA[NEAR APAC]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20862</guid>
+		<guid isPermaLink="false">/?p=20862</guid>
 
 					<description><![CDATA[<p>It was an incredible first-ever NEAR APAC, with the NEAR ecosystem scootering through Saigon over the last two days. Vietnam …</p>
-<p>The post <a href="https://pages.near.org/blog/icymi-scootering-through-web3-at-near-apacs-vietnam-showcase/">ICYMI: Scootering Through Web3 at NEAR APAC&#8217;s Vietnam Showcase </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/icymi-scootering-through-web3-at-near-apacs-vietnam-showcase/">ICYMI: Scootering Through Web3 at NEAR APAC&#8217;s Vietnam Showcase </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>It was an incredible first-ever <a href="https://nearapac.org/">NEAR APAC</a>, with the NEAR ecosystem scootering through Saigon over the last two days. Vietnam served as the perfect backdrop for NEAR’s inaugural showcase in Asia-Pacific, with community members, B.O.S. builders, and general Web3 enthusiasts coming together in one of the region&#8217;s most dynamic countries.</p>
@@ -542,7 +542,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg" alt="" class="wp-image-20876" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg" alt="" class="wp-image-20876" srcset="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0065-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0065-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0065-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0065-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -558,7 +558,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg" alt="" class="wp-image-20874" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg" alt="" class="wp-image-20874" srcset="/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0058-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0058-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0058-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0058-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -574,7 +574,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg" alt="" class="wp-image-20871" srcset="https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1536x1024.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg" alt="" class="wp-image-20871" srcset="/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg 1024w, /wp-content/uploads/2023/09/QUR_0011-300x200.jpg 300w, /wp-content/uploads/2023/09/QUR_0011-768x512.jpg 768w, /wp-content/uploads/2023/09/QUR_0011-1536x1024.jpg 1536w, /wp-content/uploads/2023/09/QUR_0011-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -594,7 +594,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg" alt="" class="wp-image-20873" srcset="https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-1536x1024.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg" alt="" class="wp-image-20873" srcset="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg 1024w, /wp-content/uploads/2023/09/QUR_9815-300x200.jpg 300w, /wp-content/uploads/2023/09/QUR_9815-768x512.jpg 768w, /wp-content/uploads/2023/09/QUR_9815-1536x1024.jpg 1536w, /wp-content/uploads/2023/09/QUR_9815-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -614,7 +614,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg" alt="" class="wp-image-20872" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg" alt="" class="wp-image-20872" srcset="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0824-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0824-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0824-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0824-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -626,7 +626,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg" alt="" class="wp-image-20875" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg" alt="" class="wp-image-20875" srcset="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0845-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0845-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0845-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0845-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -635,7 +635,7 @@
 
 
 <p>NEAR APAC was an incredible Web3 Bánh Mì, layering an eclectic mix of speakers, insights, and events to create something completely unique. The NEAR Foundation would like to thank every cook in the kitchen, especially local partners like the NEAR Vietnam Hub who made sure that the first ever NEAR APAC had the perfect mix of sweet, sour, and spicy.</p>
-<p>The post <a href="https://pages.near.org/blog/icymi-scootering-through-web3-at-near-apacs-vietnam-showcase/">ICYMI: Scootering Through Web3 at NEAR APAC&#8217;s Vietnam Showcase </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/icymi-scootering-through-web3-at-near-apacs-vietnam-showcase/">ICYMI: Scootering Through Web3 at NEAR APAC&#8217;s Vietnam Showcase </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -643,17 +643,17 @@
 			</item>
 		<item>
 		<title>Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</title>
-		<link>https://pages.near.org/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/</link>
+		<link>/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 14 Sep 2023 17:29:04 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[NEAR Protocol]]></category>
 		<category><![CDATA[Validator Delegation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20890</guid>
+		<guid isPermaLink="false">/?p=20890</guid>
 
 					<description><![CDATA[<p>Validators are the backbone of the NEAR Protocol, playing an integral role in upholding the network&#8217;s core values now and …</p>
-<p>The post <a href="https://pages.near.org/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/">Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/">Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Validators are the backbone of the NEAR Protocol, playing an integral role in upholding the network&#8217;s core values now and into the future. Validators ensure that NEAR Protocol remains scalable, user-friendly, secure, trustworthy, and most importantly, decentralized.&nbsp;</p>
@@ -699,7 +699,7 @@
 
 
 <p>Many thanks for your continued support to improve the validator experience and help secure the NEAR Protocol.&nbsp;&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/">Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/">Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -707,7 +707,7 @@
 			</item>
 		<item>
 		<title>Cosmose AI Harnesses the Open Web and NEAR with KAIKAINOW </title>
-		<link>https://pages.near.org/blog/cosmose-ai-harnesses-the-open-web-and-near-with-kaikainow/</link>
+		<link>/blog/cosmose-ai-harnesses-the-open-web-and-near-with-kaikainow/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
@@ -716,10 +716,10 @@
 		<category><![CDATA[Cosmose AI]]></category>
 		<category><![CDATA[KAIKAINOW]]></category>
 		<category><![CDATA[Open Web]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20877</guid>
+		<guid isPermaLink="false">/?p=20877</guid>
 
 					<description><![CDATA[<p>Cosmose AI, the global platform that uses AI to predict and influence how people shop offline is launching a new …</p>
-<p>The post <a href="https://pages.near.org/blog/cosmose-ai-harnesses-the-open-web-and-near-with-kaikainow/">Cosmose AI Harnesses the Open Web and NEAR with KAIKAINOW </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/cosmose-ai-harnesses-the-open-web-and-near-with-kaikainow/">Cosmose AI Harnesses the Open Web and NEAR with KAIKAINOW </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://cosmose.ai/web3">Cosmose AI</a>, the global platform that uses AI to predict and influence how people shop offline is launching a new piece of technology designed to disrupt the smartphone lock screen experience.&nbsp;</p>
@@ -779,7 +779,7 @@
 
 
 <p>NEAR is helping partners like Cosmose AI harness these tools to create better products that serve customers and partners equally.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/cosmose-ai-harnesses-the-open-web-and-near-with-kaikainow/">Cosmose AI Harnesses the Open Web and NEAR with KAIKAINOW </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/cosmose-ai-harnesses-the-open-web-and-near-with-kaikainow/">Cosmose AI Harnesses the Open Web and NEAR with KAIKAINOW </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -787,7 +787,7 @@
 			</item>
 		<item>
 		<title>NEAR APAC Day 2 Recap: Asia Gaming Trends, Interoperability, and Web3 for Brands</title>
-		<link>https://pages.near.org/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/</link>
+		<link>/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Sun, 10 Sep 2023 14:28:46 +0000</pubDate>
@@ -797,10 +797,10 @@
 		<category><![CDATA[Events]]></category>
 		<category><![CDATA[NEAR APAC]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20841</guid>
+		<guid isPermaLink="false">/?p=20841</guid>
 
 					<description><![CDATA[<p>It would&#8217;ve been hard to imagine topping a jam-packed Day 1 of NEAR APAC, but Day 2 managed to do …</p>
-<p>The post <a href="https://pages.near.org/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/">NEAR APAC Day 2 Recap: Asia Gaming Trends, Interoperability, and Web3 for Brands</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/">NEAR APAC Day 2 Recap: Asia Gaming Trends, Interoperability, and Web3 for Brands</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>It would&#8217;ve been hard to imagine topping a jam-packed Day 1 of NEAR APAC, but Day 2 managed to do just that. The gorgeous Sunday in Saigon covered a wide range of topics, including significant discussions on the future trends in Web3 such as how brands can hop on board the Web3 bandwagon and a creative proposal to unite all Layer 1&#8217;s for mass adoption.</p>
@@ -887,7 +887,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg" alt="" class="wp-image-20842" srcset="https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg 1024w, https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-300x225.jpeg 300w, https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-768x576.jpeg 768w, https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg" alt="" class="wp-image-20842" srcset="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg 1024w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-300x225.jpeg 300w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-768x576.jpeg 768w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -912,7 +912,7 @@
 
 
 <p>And that’s a wrap for the official Day 2 sessions at NEAR APAC. From gaming and brand adoption to multi-chain standards and collaboration, it was clear that this first-of-its-kind regional event was a rousing success for developers and the NEAR community alike. Sunday in Saigon rolls on with more side events and after-parties, so stay tuned for the full ICYMI tomorrow.</p>
-<p>The post <a href="https://pages.near.org/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/">NEAR APAC Day 2 Recap: Asia Gaming Trends, Interoperability, and Web3 for Brands</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/">NEAR APAC Day 2 Recap: Asia Gaming Trends, Interoperability, and Web3 for Brands</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -920,7 +920,7 @@
 			</item>
 		<item>
 		<title>NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</title>
-		<link>https://pages.near.org/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/</link>
+		<link>/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Sat, 09 Sep 2023 12:14:36 +0000</pubDate>
@@ -932,10 +932,10 @@
 		<category><![CDATA[Events]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[NEAR APAC]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20835</guid>
+		<guid isPermaLink="false">/?p=20835</guid>
 
 					<description><![CDATA[<p>After many months in the making, the inaugural NEAR APAC conference kicked off today in Ho Chi Min City, Vietnam. …</p>
-<p>The post <a href="https://pages.near.org/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>After many months in the making, the inaugural NEAR APAC conference kicked off today in Ho Chi Min City, Vietnam. Held in conjunction with the <a href="https://nearvietnamhub.org/">NEAR Vietnam community</a> and NEAR Foundation, NEAR APAC is showcasing the vibrant crypto and Web3 community across the region as well as the potential of the B.O.S. and Open Web both locally and globally.</p>
@@ -1031,7 +1031,7 @@
 
 
 <p>If Day One was any indication, the NEAR community’s growth, presence, and development in APAC will only continue accelerating through 2023 and beyond!</p>
-<p>The post <a href="https://pages.near.org/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/">NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

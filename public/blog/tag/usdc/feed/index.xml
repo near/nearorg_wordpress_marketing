@@ -9,8 +9,8 @@
 
 <channel>
 	<title>USDC Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/usdc/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/usdc/</link>
+	<atom:link href="/blog/tag/usdc/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/usdc/</link>
 	<description></description>
 	<lastBuildDate>Thu, 14 Sep 2023 13:39:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>USDC Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/usdc/</link>
+	<link>/blog/tag/usdc/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>USDC Launches Natively on the NEAR Protocol </title>
-		<link>https://pages.near.org/blog/usdc-launches-natively-on-the-near-protocol/</link>
+		<link>/blog/usdc-launches-natively-on-the-near-protocol/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 14 Sep 2023 13:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Circle]]></category>
 		<category><![CDATA[USDC]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20883</guid>
+		<guid isPermaLink="false">/?p=20883</guid>
 
 					<description><![CDATA[<p>USDC, the open-source, permissionless protocol and stablecoin that enables any app to send and store digital dollars, is now native …</p>
-<p>The post <a href="https://pages.near.org/blog/usdc-launches-natively-on-the-near-protocol/">USDC Launches Natively on the NEAR Protocol </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/usdc-launches-natively-on-the-near-protocol/">USDC Launches Natively on the NEAR Protocol </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://www.circle.com/en/usdc">USDC</a>, the open-source, permissionless protocol and stablecoin that enables any app to send and store digital dollars, is now native on the NEAR blockchain.&nbsp;</p>
@@ -117,7 +117,7 @@
 
 
 <p>For developers looking for documentation on building with USDC, check out Circle’s <a href="http://developers.circle.com/">developer docs</a>.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/usdc-launches-natively-on-the-near-protocol/">USDC Launches Natively on the NEAR Protocol </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/usdc-launches-natively-on-the-near-protocol/">USDC Launches Natively on the NEAR Protocol </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

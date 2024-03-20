@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Ethereum Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/ethereum/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/ethereum/</link>
+	<atom:link href="/blog/tag/ethereum/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/ethereum/</link>
 	<description></description>
 	<lastBuildDate>Thu, 21 Sep 2023 14:05:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Ethereum Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/ethereum/</link>
+	<link>/blog/tag/ethereum/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</title>
-		<link>https://pages.near.org/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/</link>
+		<link>/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 20 Sep 2023 13:00:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Blockchain Operating System]]></category>
 		<category><![CDATA[Ethereum]]></category>
 		<category><![CDATA[Mantle]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20896</guid>
+		<guid isPermaLink="false">/?p=20896</guid>
 
 					<description><![CDATA[<p>An ecosystem gateway for Mantle, the layer-2 scaling solution built on Ethereum, has launched on the NEAR Blockchain Operating System …</p>
-<p>The post <a href="https://pages.near.org/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/">Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/">Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>An<a href="https://bos.fusionx.finance/"> ecosystem gateway for Mantle</a>, the layer-2 scaling solution built on Ethereum, has launched on the NEAR Blockchain Operating System (B.O.S) to offer a unified point of entry into the Mantle ecosystem.&nbsp;</p>
@@ -77,7 +77,7 @@
 
 
 <p>Developers can quickly build composable apps for the open web from thousands of flexible components, as well as seamlessly onboard users and increase discoverability across Web3 since every application utilising B.O.S is visible on a common interface. This collaboration brings new capabilities to developers and lets them build apps that can quickly reach more users.</p>
-<p>The post <a href="https://pages.near.org/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/">Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/mantle-ecosystem-gateway-launches-on-the-near-blockchain-operating-system-b-o-s/">Mantle Ecosystem Gateway Launches on the NEAR Blockchain Operating System (B.O.S)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -85,17 +85,17 @@
 			</item>
 		<item>
 		<title>NEAR at ETHCC: Step into the Open Web on the BOS</title>
-		<link>https://pages.near.org/blog/near-at-ethcc-step-into-the-open-web-on-the-bos/</link>
+		<link>/blog/near-at-ethcc-step-into-the-open-web-on-the-bos/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 13 Jun 2023 16:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[ETHCC]]></category>
 		<category><![CDATA[Ethereum]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20621</guid>
+		<guid isPermaLink="false">/?p=20621</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce that NEAR will be returning to ETHCC 2023. The Foundation will be hosting a …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethcc-step-into-the-open-web-on-the-bos/">NEAR at ETHCC: Step into the Open Web on the BOS</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethcc-step-into-the-open-web-on-the-bos/">NEAR at ETHCC: Step into the Open Web on the BOS</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce that NEAR will be returning to ETHCC 2023. The Foundation will be hosting a 2-day side event at the Paris tech conference on July 16-17.</p>
@@ -253,7 +253,7 @@
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://near.org/"><strong>Explore the BOS</strong></a></div>
 </div>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethcc-step-into-the-open-web-on-the-bos/">NEAR at ETHCC: Step into the Open Web on the BOS</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethcc-step-into-the-open-web-on-the-bos/">NEAR at ETHCC: Step into the Open Web on the BOS</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

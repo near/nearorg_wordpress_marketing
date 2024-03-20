@@ -9,8 +9,8 @@
 
 <channel>
 	<title>CoinGecko Raffle Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/coingecko-raffle/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/coingecko-raffle/</link>
+	<atom:link href="/blog/tag/coingecko-raffle/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/coingecko-raffle/</link>
 	<description></description>
 	<lastBuildDate>Thu, 18 May 2023 22:12:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>CoinGecko Raffle Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/coingecko-raffle/</link>
+	<link>/blog/tag/coingecko-raffle/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR x CoinGecko Raffle Winner: Terms and Conditions</title>
-		<link>https://pages.near.org/blog/near-x-coingecko-raffle-winner-terms-and-conditions/</link>
+		<link>/blog/near-x-coingecko-raffle-winner-terms-and-conditions/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 17 May 2023 15:41:09 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[CoinGecko Raffle]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20514</guid>
+		<guid isPermaLink="false">/?p=20514</guid>
 
 					<description><![CDATA[<p>The following terms and conditions (the “Terms”) govern the use of the NEAR Foundation Raffle (the “Raffle”) provided by NEAR …</p>
-<p>The post <a href="https://pages.near.org/blog/near-x-coingecko-raffle-winner-terms-and-conditions/">NEAR x CoinGecko Raffle Winner: Terms and Conditions</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-x-coingecko-raffle-winner-terms-and-conditions/">NEAR x CoinGecko Raffle Winner: Terms and Conditions</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <ol>
@@ -174,7 +174,7 @@
 
 
 <p>If you have any questions or comments about these Terms, please contact us at social@near.foundation.</p>
-<p>The post <a href="https://pages.near.org/blog/near-x-coingecko-raffle-winner-terms-and-conditions/">NEAR x CoinGecko Raffle Winner: Terms and Conditions</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-x-coingecko-raffle-winner-terms-and-conditions/">NEAR x CoinGecko Raffle Winner: Terms and Conditions</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

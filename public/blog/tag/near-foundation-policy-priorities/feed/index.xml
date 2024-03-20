@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Foundation Policy Priorities Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-foundation-policy-priorities/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-foundation-policy-priorities/</link>
+	<atom:link href="/blog/tag/near-foundation-policy-priorities/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-foundation-policy-priorities/</link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Jun 2023 18:43:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Foundation Policy Priorities Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-foundation-policy-priorities/</link>
+	<link>/blog/tag/near-foundation-policy-priorities/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation Announces Policy Principles </title>
-		<link>https://pages.near.org/blog/near-foundation-announces-policy-principles/</link>
+		<link>/blog/near-foundation-announces-policy-principles/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 28 Apr 2023 18:11:08 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR Foundation Policy Priorities]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20459</guid>
+		<guid isPermaLink="false">/?p=20459</guid>
 
 					<description><![CDATA[<p>It’s no surprise that the Web3 industry presents many unique challenges for lawmakers and regulators globally. Decentralised, permissionless technology is, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-announces-policy-principles/">NEAR Foundation Announces Policy Principles </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-announces-policy-principles/">NEAR Foundation Announces Policy Principles </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>It’s no surprise that the Web3 industry presents many unique challenges for lawmakers and regulators globally. Decentralised, permissionless technology is, in many ways, at odds with much of current law and regulation that assumes centralised, intermediated and gatekept systems. Adding to this inherent complexity, Web3 technology is borderless by nature, spanning countless jurisdictions and legal/regulatory frameworks.</p>
@@ -330,7 +330,7 @@
 
 					</div>
 </div>
-</div><p>The post <a href="https://pages.near.org/blog/near-foundation-announces-policy-principles/">NEAR Foundation Announces Policy Principles </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+</div><p>The post <a href="/blog/near-foundation-announces-policy-principles/">NEAR Foundation Announces Policy Principles </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

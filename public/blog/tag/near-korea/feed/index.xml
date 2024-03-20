@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Korea Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-korea/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-korea/</link>
+	<atom:link href="/blog/tag/near-korea/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-korea/</link>
 	<description></description>
 	<lastBuildDate>Mon, 03 Jul 2023 15:23:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Korea Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-korea/</link>
+	<link>/blog/tag/near-korea/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Korea Hub: June 2023 Highlights</title>
-		<link>https://pages.near.org/blog/near-korea-hub-june-2023-highlights/</link>
+		<link>/blog/near-korea-hub-june-2023-highlights/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Community]]></category>
 		<category><![CDATA[NEAR Korea]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20685</guid>
+		<guid isPermaLink="false">/?p=20685</guid>
 
 					<description><![CDATA[<p>Since launching in November of 2022, NEAR Korea Hub has hit a number of major milestones in the Korean Web3 …</p>
-<p>The post <a href="https://pages.near.org/blog/near-korea-hub-june-2023-highlights/">NEAR Korea Hub: June 2023 Highlights</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-korea-hub-june-2023-highlights/">NEAR Korea Hub: June 2023 Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Since launching in November of 2022, NEAR Korea Hub has hit a number of major milestones in the Korean Web3 industry. The Hub has significantly contributed to the expansion of the Web3 ecosystem over the past 6 months by forming partnerships with leading domestic game companies, providing generous developer support, and forging long-term relationships with college blockchain clubs.&nbsp;</p>
@@ -54,7 +54,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="903" height="533" src="https://pages.near.org/wp-content/uploads/2023/06/image9.png" alt="" class="wp-image-20687" srcset="https://pages.near.org/wp-content/uploads/2023/06/image9.png 903w, https://pages.near.org/wp-content/uploads/2023/06/image9-300x177.png 300w, https://pages.near.org/wp-content/uploads/2023/06/image9-768x453.png 768w" sizes="(max-width: 903px) 100vw, 903px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="903" height="533" src="/wp-content/uploads/2023/06/image9.png" alt="" class="wp-image-20687" srcset="/wp-content/uploads/2023/06/image9.png 903w, /wp-content/uploads/2023/06/image9-300x177.png 300w, /wp-content/uploads/2023/06/image9-768x453.png 768w" sizes="(max-width: 903px) 100vw, 903px" /></figure>
 
 
 
@@ -108,7 +108,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="602" src="https://pages.near.org/wp-content/uploads/2023/06/image12-1-1024x602.png" alt="" class="wp-image-20689" srcset="https://pages.near.org/wp-content/uploads/2023/06/image12-1-1024x602.png 1024w, https://pages.near.org/wp-content/uploads/2023/06/image12-1-300x176.png 300w, https://pages.near.org/wp-content/uploads/2023/06/image12-1-768x451.png 768w, https://pages.near.org/wp-content/uploads/2023/06/image12-1.png 1098w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="602" src="/wp-content/uploads/2023/06/image12-1-1024x602.png" alt="" class="wp-image-20689" srcset="/wp-content/uploads/2023/06/image12-1-1024x602.png 1024w, /wp-content/uploads/2023/06/image12-1-300x176.png 300w, /wp-content/uploads/2023/06/image12-1-768x451.png 768w, /wp-content/uploads/2023/06/image12-1.png 1098w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -116,7 +116,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="960" height="630" src="https://pages.near.org/wp-content/uploads/2023/06/image2.png" alt="" class="wp-image-20688" srcset="https://pages.near.org/wp-content/uploads/2023/06/image2.png 960w, https://pages.near.org/wp-content/uploads/2023/06/image2-300x197.png 300w, https://pages.near.org/wp-content/uploads/2023/06/image2-768x504.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="960" height="630" src="/wp-content/uploads/2023/06/image2.png" alt="" class="wp-image-20688" srcset="/wp-content/uploads/2023/06/image2.png 960w, /wp-content/uploads/2023/06/image2-300x197.png 300w, /wp-content/uploads/2023/06/image2-768x504.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
 
 
 
@@ -156,7 +156,7 @@
 
 
 
-<p>More information on the NEAR <a href="https://pages.near.org/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">Blog</a> and <a href="https://twitter.com/NEARProtocol/status/1665519681547952128?s=20">Twitter.</a></p>
+<p>More information on the NEAR <a href="/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">Blog</a> and <a href="https://twitter.com/NEARProtocol/status/1665519681547952128?s=20">Twitter.</a></p>
 
 
 
@@ -208,7 +208,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="https://pages.near.org/wp-content/uploads/2023/06/image13-1024x468.png" alt="" class="wp-image-20690" srcset="https://pages.near.org/wp-content/uploads/2023/06/image13-1024x468.png 1024w, https://pages.near.org/wp-content/uploads/2023/06/image13-300x137.png 300w, https://pages.near.org/wp-content/uploads/2023/06/image13-768x351.png 768w, https://pages.near.org/wp-content/uploads/2023/06/image13-1536x702.png 1536w, https://pages.near.org/wp-content/uploads/2023/06/image13.png 1999w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="468" src="/wp-content/uploads/2023/06/image13-1024x468.png" alt="" class="wp-image-20690" srcset="/wp-content/uploads/2023/06/image13-1024x468.png 1024w, /wp-content/uploads/2023/06/image13-300x137.png 300w, /wp-content/uploads/2023/06/image13-768x351.png 768w, /wp-content/uploads/2023/06/image13-1536x702.png 1536w, /wp-content/uploads/2023/06/image13.png 1999w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -228,7 +228,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="588" src="https://pages.near.org/wp-content/uploads/2023/06/image11-1024x588.png" alt="" class="wp-image-20691" srcset="https://pages.near.org/wp-content/uploads/2023/06/image11-1024x588.png 1024w, https://pages.near.org/wp-content/uploads/2023/06/image11-300x172.png 300w, https://pages.near.org/wp-content/uploads/2023/06/image11-768x441.png 768w, https://pages.near.org/wp-content/uploads/2023/06/image11.png 1118w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="588" src="/wp-content/uploads/2023/06/image11-1024x588.png" alt="" class="wp-image-20691" srcset="/wp-content/uploads/2023/06/image11-1024x588.png 1024w, /wp-content/uploads/2023/06/image11-300x172.png 300w, /wp-content/uploads/2023/06/image11-768x441.png 768w, /wp-content/uploads/2023/06/image11.png 1118w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -266,7 +266,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="684" src="https://pages.near.org/wp-content/uploads/2023/06/image8-1024x684.jpg" alt="" class="wp-image-20692" srcset="https://pages.near.org/wp-content/uploads/2023/06/image8-1024x684.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/06/image8-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/06/image8-768x513.jpg 768w, https://pages.near.org/wp-content/uploads/2023/06/image8-1536x1026.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/06/image8.jpg 1999w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="684" src="/wp-content/uploads/2023/06/image8-1024x684.jpg" alt="" class="wp-image-20692" srcset="/wp-content/uploads/2023/06/image8-1024x684.jpg 1024w, /wp-content/uploads/2023/06/image8-300x200.jpg 300w, /wp-content/uploads/2023/06/image8-768x513.jpg 768w, /wp-content/uploads/2023/06/image8-1536x1026.jpg 1536w, /wp-content/uploads/2023/06/image8.jpg 1999w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -282,7 +282,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="659" src="https://pages.near.org/wp-content/uploads/2023/06/image7-1024x659.png" alt="" class="wp-image-20693" srcset="https://pages.near.org/wp-content/uploads/2023/06/image7-1024x659.png 1024w, https://pages.near.org/wp-content/uploads/2023/06/image7-300x193.png 300w, https://pages.near.org/wp-content/uploads/2023/06/image7-768x494.png 768w, https://pages.near.org/wp-content/uploads/2023/06/image7.png 1038w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="659" src="/wp-content/uploads/2023/06/image7-1024x659.png" alt="" class="wp-image-20693" srcset="/wp-content/uploads/2023/06/image7-1024x659.png 1024w, /wp-content/uploads/2023/06/image7-300x193.png 300w, /wp-content/uploads/2023/06/image7-768x494.png 768w, /wp-content/uploads/2023/06/image7.png 1038w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -307,7 +307,7 @@
 
 
 <p>Overall, Illia’s time in Korea along with the hard work of NEAR Korea Hub has greatly enhanced the awareness and influence of NEAR Protocol within Korea. This was made possible through the active support of the NEAR Foundation and the strong collaboration with ecosystem partners.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-korea-hub-june-2023-highlights/">NEAR Korea Hub: June 2023 Highlights</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-korea-hub-june-2023-highlights/">NEAR Korea Hub: June 2023 Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Ledger Live Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/ledger-live/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/ledger-live/</link>
+	<atom:link href="/blog/tag/ledger-live/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/ledger-live/</link>
 	<description></description>
 	<lastBuildDate>Mon, 30 Jan 2023 16:41:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Ledger Live Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/ledger-live/</link>
+	<link>/blog/tag/ledger-live/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Now Integrated into Ledger Live For More Security and Ownership</title>
-		<link>https://pages.near.org/blog/near-now-integrated-into-ledger-live-for-more-security-and-ownership/</link>
+		<link>/blog/near-now-integrated-into-ledger-live-for-more-security-and-ownership/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 30 Jan 2023 16:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Ledger Live]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19747</guid>
+		<guid isPermaLink="false">/?p=19747</guid>
 
 					<description><![CDATA[<p>Wallet security can be intimidating, especially for newcomers. But it just got a whole lot easier for NEAR users. NEAR …</p>
-<p>The post <a href="https://pages.near.org/blog/near-now-integrated-into-ledger-live-for-more-security-and-ownership/">NEAR Now Integrated into Ledger Live For More Security and Ownership</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-now-integrated-into-ledger-live-for-more-security-and-ownership/">NEAR Now Integrated into Ledger Live For More Security and Ownership</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Wallet security can be intimidating, especially for newcomers. But it just got a whole lot easier for NEAR users. NEAR Foundation is excited to announce full integration with <a href="https://www.ledger.com/ledger-live">Ledger Live</a>, making it easier than ever for NEAR holders to secure their assets using Ledger&#8217;s devices and software.&nbsp;</p>
@@ -74,7 +74,7 @@
 
 
 <p><em>DISCLOSURE NOTICE: Investment in cryptocurrency and other digital assets is highly speculative and comes with significant risks. The value of these assets can be highly volatile and may fluctuate significantly in a short period of time. It is important to conduct thorough research and consult with a financial advisor before making any investment decisions. Additionally, it is important to understand the regulatory environment and potential legal implications of investing in cryptocurrency. This disclosure is not a recommendation to buy or sell any particular asset and is for informational purposes only.</em></p>
-<p>The post <a href="https://pages.near.org/blog/near-now-integrated-into-ledger-live-for-more-security-and-ownership/">NEAR Now Integrated into Ledger Live For More Security and Ownership</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-now-integrated-into-ledger-live-for-more-security-and-ownership/">NEAR Now Integrated into Ledger Live For More Security and Ownership</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

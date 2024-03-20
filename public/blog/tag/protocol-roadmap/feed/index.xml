@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Protocol Roadmap Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/protocol-roadmap/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/protocol-roadmap/</link>
+	<atom:link href="/blog/tag/protocol-roadmap/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/protocol-roadmap/</link>
 	<description></description>
 	<lastBuildDate>Fri, 12 Jan 2024 19:23:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Protocol Roadmap Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/protocol-roadmap/</link>
+	<link>/blog/tag/protocol-roadmap/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Q4 Protocol Roadmap Update</title>
-		<link>https://pages.near.org/blog/near-q4-protocol-roadmap-update/</link>
+		<link>/blog/near-q4-protocol-roadmap-update/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 12 Jan 2024 19:23:37 +0000</pubDate>
@@ -39,10 +39,10 @@
 		<category><![CDATA[Nightshade]]></category>
 		<category><![CDATA[Protocol Roadmap]]></category>
 		<category><![CDATA[Sharding]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21155</guid>
+		<guid isPermaLink="false">/?p=21155</guid>
 
 					<description><![CDATA[<p>TLDR: 2023 saw major experience improvements via meta transactions and zero-balance accounts, as well as node performance improvements and optimizations. Preparations are underway for a major upgrade to stateless validation, completing Phase 2 of the sharding roadmap in early 2024.</p>
-<p>The post <a href="https://pages.near.org/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><br><em>By Bowen Wang, Director of Protocol</em> <br><br>In this post, the NEAR Protocol work group would like to provide an update of the protocol roadmap to show what <a href="https://near.org/blog/near-q2-protocol-roadmap-update">we accomplished in 2023</a> and what is planned for 2024.<br></p>
@@ -111,7 +111,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="592" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -119,12 +119,12 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
 <p><br><br>As always, the protocol team is proud to have made several important improvements to the core protocol with zero disruption for users and developers. We look forward to making some major advancements in 2024 to help the entire NEAR ecosystem deliver its vision of mainstream adoption of an Open Web, where all internet users can control their own data, assets, and power of governance. <br><br>We will share more details on Phase 2 advancements and timelines soon. If you’d like to learn more, join the NEAR Protocol <a href="https://twitter.com/nearprotocol">X Spaces</a> on Tuesday, January 16 at 5pm UTC to hear from Director of Protocol Bowen Wang and NEAR Foundation CEO Illia Polosukhin on upcoming protocol developments.<br></p>
-<p>The post <a href="https://pages.near.org/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -132,17 +132,17 @@
 			</item>
 		<item>
 		<title>NEAR Q2 Protocol Roadmap Update</title>
-		<link>https://pages.near.org/blog/near-q2-protocol-roadmap-update/</link>
+		<link>/blog/near-q2-protocol-roadmap-update/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 09 Aug 2023 16:00:00 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[NEAR Protocol]]></category>
 		<category><![CDATA[Protocol Roadmap]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20793</guid>
+		<guid isPermaLink="false">/?p=20793</guid>
 
 					<description><![CDATA[<p>The Q1 protocol roadmap update was well received by the community. Pagoda committed to&#160; continuing to share quarterly roadmap updates, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-q2-protocol-roadmap-update/">NEAR Q2 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q2-protocol-roadmap-update/">NEAR Q2 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The <a href="https://near.org/s/p?a=pagodaplatform.near&amp;b=88979940">Q1 protocol roadmap update</a> was well received by the community. Pagoda committed to&nbsp; continuing to share quarterly roadmap updates, so here is the update for Q2 2023.</p>
@@ -194,7 +194,7 @@
 
 
 <p>To stay up to date with protocol changes as they happen, or to participate in protocol governance, please join <a href="https://t.me/NEAR_Protocol_Community_Group">the protocol community group</a> and follow <a href="https://github.com/orgs/near/projects/51/views/3">the NEAR Enhancement Proposal (NEP) process</a>.</p>
-<p>The post <a href="https://pages.near.org/blog/near-q2-protocol-roadmap-update/">NEAR Q2 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q2-protocol-roadmap-update/">NEAR Q2 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

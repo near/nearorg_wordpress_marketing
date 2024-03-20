@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Pipeflare Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/pipeflare/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/pipeflare/</link>
+	<atom:link href="/blog/tag/pipeflare/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/pipeflare/</link>
 	<description></description>
 	<lastBuildDate>Tue, 02 May 2023 12:57:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Pipeflare Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/pipeflare/</link>
+	<link>/blog/tag/pipeflare/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</title>
-		<link>https://pages.near.org/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/</link>
+		<link>/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 02 May 2023 14:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Pipeflare]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20468</guid>
+		<guid isPermaLink="false">/?p=20468</guid>
 
 					<description><![CDATA[<p>NEAR Foundation and PipeFlare, a trailblazing play-to-earn (P2E) platform, are partnering to reshape Web3 gaming by building on Aurora, NEAR&#8217;s …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/">NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/">NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation and <a href="https://pipeflare.io/">PipeFlare</a>, a trailblazing play-to-earn (P2E) platform, are partnering to reshape Web3 gaming by building on Aurora, NEAR&#8217;s Ethereum-compatible layer. As Web3 gaming on NEAR accelerates, PipeFlare will enable gamers to play, earn crypto, and engage socially in a decentralized environment. Collaborating with NEAR Foundation, PipeFlare aims to redefine scalability, security, and sheer enjoyment in Web3 by leveraging the EVM-compatible development capabilities of Aurora.</p>
@@ -110,7 +110,7 @@
 
 
 <p>The collaboration also marks substantial progress for the Web3 gaming industry, demonstrating that key players recognize NEAR’s potential. It also signals NEAR’s strong positioning to emerge as the premier blockchain for novel gaming experiences.</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/">NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/">NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Encode Club Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/encode-club/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/encode-club/</link>
+	<atom:link href="/blog/tag/encode-club/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/encode-club/</link>
 	<description></description>
 	<lastBuildDate>Tue, 09 May 2023 14:47:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Encode Club Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/encode-club/</link>
+	<link>/blog/tag/encode-club/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Horizon and Encode Club: Accelerating Blockchain Mastery for Builders</title>
-		<link>https://pages.near.org/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/</link>
+		<link>/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 09 May 2023 15:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Encode Club]]></category>
 		<category><![CDATA[NEAR Horizon]]></category>
 		<category><![CDATA[Web3 Accelerator]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20482</guid>
+		<guid isPermaLink="false">/?p=20482</guid>
 
 					<description><![CDATA[<p>NEAR Horizon and Encode Club have joined forces with a singular mission: to simplify the entry into the Web3 sphere. …</p>
-<p>The post <a href="https://pages.near.org/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/">NEAR Horizon and Encode Club: Accelerating Blockchain Mastery for Builders</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/">NEAR Horizon and Encode Club: Accelerating Blockchain Mastery for Builders</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Horizon and Encode Club have joined forces with a singular mission: to simplify the entry into the Web3 sphere. This partnership forms a structured pathway, offering builders and founders a seamless transition into the blockchain world. Anchoring their efforts on practical solutions, NEAR Horizon and Encode Club aim to foster an inclusive and accessible future in the ever-evolving decentralized landscape.</p>
@@ -103,8 +103,8 @@
 
 
 
-<p>To start,&nbsp; create a <a href="http://near.org/horizon">NEAR Horizon project profile</a> and register to the Encode x NEAR Horizon program <a href="https://www.encode.club/near2023">here</a>. Stay updated on Encode Club&#8217;s programs via their <a href="https://www.encode.club/">website</a>, <a href="https://twitter.com/encodeclub">Twitter</a>, and <a href="https://discord.gg/encodeclub">Discord</a>, and join a community that shares your passion for Web3 innovation and growth. NEAR Horizon was recently launched, read the press release <a href="https://pages.near.org/blog/near-foundation-launches-near-horizon/">here</a>, and register in the NEAR Horizon platform <a href="http://near.org/horizon">here</a>.</p>
-<p>The post <a href="https://pages.near.org/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/">NEAR Horizon and Encode Club: Accelerating Blockchain Mastery for Builders</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>To start,&nbsp; create a <a href="http://near.org/horizon">NEAR Horizon project profile</a> and register to the Encode x NEAR Horizon program <a href="https://www.encode.club/near2023">here</a>. Stay updated on Encode Club&#8217;s programs via their <a href="https://www.encode.club/">website</a>, <a href="https://twitter.com/encodeclub">Twitter</a>, and <a href="https://discord.gg/encodeclub">Discord</a>, and join a community that shares your passion for Web3 innovation and growth. NEAR Horizon was recently launched, read the press release <a href="/blog/near-foundation-launches-near-horizon/">here</a>, and register in the NEAR Horizon platform <a href="http://near.org/horizon">here</a>.</p>
+<p>The post <a href="/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/">NEAR Horizon and Encode Club: Accelerating Blockchain Mastery for Builders</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

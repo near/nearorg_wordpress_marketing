@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/category/uncategorized/</link>
+	<atom:link href="/blog/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/category/uncategorized/</link>
 	<description></description>
 	<lastBuildDate>Thu, 22 Feb 2024 18:19:31 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Uncategorized Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/category/uncategorized/</link>
+	<link>/blog/category/uncategorized/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR at ETHDenver: Get Chain-Abstracted with the Black Dragon</title>
-		<link>https://pages.near.org/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/</link>
+		<link>/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/</link>
 		
 		<dc:creator><![CDATA[David Morrison]]></dc:creator>
 		<pubDate>Thu, 22 Feb 2024 18:19:30 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[ETH Denver]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21249</guid>
+		<guid isPermaLink="false">/?p=21249</guid>
 
 					<description><![CDATA[<p>Ditch the ETHDenver small talk and brace yourself abstractooors! The NEAR Ecosystem is crashing the scene, armed with next-level chain …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/">NEAR at ETHDenver: Get Chain-Abstracted with the Black Dragon</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/">NEAR at ETHDenver: Get Chain-Abstracted with the Black Dragon</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Ditch the ETHDenver small talk and brace yourself abstractooors! The NEAR Ecosystem is crashing the scene, armed with next-level chain abstraction, mind-bending AI, and enough developer swag to make your node blush.</p>
@@ -77,7 +77,7 @@
 
 
 
-<p>Space is limited, and only the most curious minds need apply. So if you&#8217;re a developer dreaming of cross-chain dApps, a creator with an NFT vision spanning universes, or an entrepreneur ready to conquer the multiverse, submit your request to attend ASAP. Don&#8217;t miss your chance to rub shoulders with the brightest minds in the biz and unlock the true power of blockchain, unchained.<br><br>For a comprehensive overview of NEAR&#8217;s presence at ETHDenver, including speaker sessions and networking opportunities, visit our dedicated NEAR at <a href="https://pages.near.org/ethdenver2024/">ETHDenver landing page</a>.</p>
+<p>Space is limited, and only the most curious minds need apply. So if you&#8217;re a developer dreaming of cross-chain dApps, a creator with an NFT vision spanning universes, or an entrepreneur ready to conquer the multiverse, submit your request to attend ASAP. Don&#8217;t miss your chance to rub shoulders with the brightest minds in the biz and unlock the true power of blockchain, unchained.<br><br>For a comprehensive overview of NEAR&#8217;s presence at ETHDenver, including speaker sessions and networking opportunities, visit our dedicated NEAR at <a href="/ethdenver2024/">ETHDenver landing page</a>.</p>
 
 
 
@@ -86,7 +86,7 @@
 
 
 <p>See you on the other side, chain <em>abstractooors</em>!</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/">NEAR at ETHDenver: Get Chain-Abstracted with the Black Dragon</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/">NEAR at ETHDenver: Get Chain-Abstracted with the Black Dragon</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -94,7 +94,7 @@
 			</item>
 		<item>
 		<title>NEAR Q4 Protocol Roadmap Update</title>
-		<link>https://pages.near.org/blog/near-q4-protocol-roadmap-update/</link>
+		<link>/blog/near-q4-protocol-roadmap-update/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 12 Jan 2024 19:23:37 +0000</pubDate>
@@ -104,10 +104,10 @@
 		<category><![CDATA[Nightshade]]></category>
 		<category><![CDATA[Protocol Roadmap]]></category>
 		<category><![CDATA[Sharding]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21155</guid>
+		<guid isPermaLink="false">/?p=21155</guid>
 
 					<description><![CDATA[<p>TLDR: 2023 saw major experience improvements via meta transactions and zero-balance accounts, as well as node performance improvements and optimizations. Preparations are underway for a major upgrade to stateless validation, completing Phase 2 of the sharding roadmap in early 2024.</p>
-<p>The post <a href="https://pages.near.org/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><br><em>By Bowen Wang, Director of Protocol</em> <br><br>In this post, the NEAR Protocol work group would like to provide an update of the protocol roadmap to show what <a href="https://near.org/blog/near-q2-protocol-roadmap-update">we accomplished in 2023</a> and what is planned for 2024.<br></p>
@@ -176,7 +176,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="592" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -184,12 +184,12 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
 <p><br><br>As always, the protocol team is proud to have made several important improvements to the core protocol with zero disruption for users and developers. We look forward to making some major advancements in 2024 to help the entire NEAR ecosystem deliver its vision of mainstream adoption of an Open Web, where all internet users can control their own data, assets, and power of governance. <br><br>We will share more details on Phase 2 advancements and timelines soon. If you’d like to learn more, join the NEAR Protocol <a href="https://twitter.com/nearprotocol">X Spaces</a> on Tuesday, January 16 at 5pm UTC to hear from Director of Protocol Bowen Wang and NEAR Foundation CEO Illia Polosukhin on upcoming protocol developments.<br></p>
-<p>The post <a href="https://pages.near.org/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -197,7 +197,7 @@
 			</item>
 		<item>
 		<title>NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</title>
-		<link>https://pages.near.org/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/</link>
+		<link>/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 20 Jul 2023 17:00:00 +0000</pubDate>
@@ -207,13 +207,13 @@
 		<category><![CDATA[ETHCC]]></category>
 		<category><![CDATA[Partnerships]]></category>
 		<category><![CDATA[Sustainability]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20742</guid>
+		<guid isPermaLink="false">/?p=20742</guid>
 
 					<description><![CDATA[<p>Missed out on NEAR’s rendezvous at ETHCC 2023 in Paris? No need to worry. In this roundup, all NEAR enthusiasts …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/">NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/">NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Missed out on NEAR’s rendezvous at ETHCC 2023 in Paris? No need to worry. In this roundup, all NEAR enthusiasts can catch up on the enlightening presentations by BOS, Web3, and blockchain experts. You’re in the perfect place to delve into notable announcements made during the conference, from <a href="https://pages.near.org/blog/near-foundation-signs-up-to-the-ethereum-climate-platform/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">NEAR signing up to the Ethereum Climate Platform</a> to an epic new <a href="https://pages.near.org/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">interactive Polygon zkEVM app dashboard</a>.</p>
+<p>Missed out on NEAR’s rendezvous at ETHCC 2023 in Paris? No need to worry. In this roundup, all NEAR enthusiasts can catch up on the enlightening presentations by BOS, Web3, and blockchain experts. You’re in the perfect place to delve into notable announcements made during the conference, from <a href="/blog/near-foundation-signs-up-to-the-ethereum-climate-platform/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">NEAR signing up to the Ethereum Climate Platform</a> to an epic new <a href="/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">interactive Polygon zkEVM app dashboard</a>.</p>
 
 
 
@@ -225,7 +225,7 @@
 
 
 
-<p>In the most significant partnership announcement of ETHCC, an <a href="https://pages.near.org/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">interactive Polygon zkEVM app dashboard</a> has launched on the Blockchain Operating System (BOS). This integration will not only increase accessibility and discoverability for zkEVM developers and users on the open web but also vastly improve user experience. </p>
+<p>In the most significant partnership announcement of ETHCC, an <a href="/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">interactive Polygon zkEVM app dashboard</a> has launched on the Blockchain Operating System (BOS). This integration will not only increase accessibility and discoverability for zkEVM developers and users on the open web but also vastly improve user experience. </p>
 
 
 
@@ -304,7 +304,7 @@
 
 
 <p>C&#8217;est la vie in Paris as ETHCC 2023 wraps up. As we reflect on these dynamic days, it&#8217;s clear that the future of NEAR and the BOS is exciting and full of potential. From environmental commitments to bold collaborations and fascinating talks, NEAR’s Parisian journey was full of engagement, enlightenment, and enthusiasm for everyone involved.</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/">NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/">NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -312,7 +312,7 @@
 			</item>
 		<item>
 		<title>TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</title>
-		<link>https://pages.near.org/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/</link>
+		<link>/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 13 Jul 2023 22:00:00 +0000</pubDate>
@@ -321,10 +321,10 @@
 		<category><![CDATA[Richmond Night Market]]></category>
 		<category><![CDATA[the littles]]></category>
 		<category><![CDATA[TheFunPass™]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20721</guid>
+		<guid isPermaLink="false">/?p=20721</guid>
 
 					<description><![CDATA[<p>Everyone’s a winner playing carnival games thanks to TheFunPass™, a groundbreaking leap in Web3 that will redefine loyalty rewards and …</p>
-<p>The post <a href="https://pages.near.org/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/">TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/">TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Everyone’s a winner playing carnival games thanks to TheFunPass™, a groundbreaking leap in Web3 that will redefine loyalty rewards and transform the way we engage and connect with events and experiences. From the popular Web3 project, <a href="https://twitter.com/thelittlesnft">the littles</a>, this innovative Web3 rewards app on the NEAR blockchain offers a solution that will transform the event landscape, that benefits event-goers but also empowers event operators.&nbsp;</p>
@@ -420,7 +420,7 @@
 
 
 <p>TheFunPass™ presents a unique convergence of loyalty rewards, immersive experiences, and Web3 technology. As we step into the future of truly phygital experiences, every event-goer can look forward to a redefined, gamified, and winning event experience like never before.</p>
-<p>The post <a href="https://pages.near.org/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/">TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/">TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -428,7 +428,7 @@
 			</item>
 		<item>
 		<title>Get to Know the BOS: FastAuth for Easy, Web2 Style Onboarding and Account Recovery</title>
-		<link>https://pages.near.org/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/</link>
+		<link>/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 30 May 2023 12:53:40 +0000</pubDate>
@@ -436,10 +436,10 @@
 		<category><![CDATA[Blockchain Operating System]]></category>
 		<category><![CDATA[BOS]]></category>
 		<category><![CDATA[FastAuth]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20543</guid>
+		<guid isPermaLink="false">/?p=20543</guid>
 
 					<description><![CDATA[<p>With the recent launch of the NEAR Blockchain Operating system (BOS) on near.org, came one of the first and most …</p>
-<p>The post <a href="https://pages.near.org/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/">Get to Know the BOS: FastAuth for Easy, Web2 Style Onboarding and Account Recovery</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/">Get to Know the BOS: FastAuth for Easy, Web2 Style Onboarding and Account Recovery</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>With the recent launch of the NEAR Blockchain Operating system (BOS) on <a href="http://near.org/">near.org</a>, came one of the first and most powerful features — FastAuth.&nbsp;</p>
@@ -553,7 +553,7 @@
 
 
 <p>Stay tuned to <a href="http://near.org/">near.org</a> for new FastAuth features and upgrades, as they are rolled out.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/">Get to Know the BOS: FastAuth for Easy, Web2 Style Onboarding and Account Recovery</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/">Get to Know the BOS: FastAuth for Easy, Web2 Style Onboarding and Account Recovery</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -561,7 +561,7 @@
 			</item>
 		<item>
 		<title>Refining NEAR Foundation’s Grant Approach</title>
-		<link>https://pages.near.org/blog/refining-near-foundations-grant-approach/</link>
+		<link>/blog/refining-near-foundations-grant-approach/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 03 Jan 2023 15:05:22 +0000</pubDate>
@@ -569,17 +569,17 @@
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Grants]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19669</guid>
+		<guid isPermaLink="false">/?p=19669</guid>
 
 					<description><![CDATA[<p>A few weeks ago, as part of a series of blogs on the state of funding, NEAR Foundation announced it …</p>
-<p>The post <a href="https://pages.near.org/blog/refining-near-foundations-grant-approach/">Refining NEAR Foundation’s Grant Approach</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/refining-near-foundations-grant-approach/">Refining NEAR Foundation’s Grant Approach</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><br>A few weeks ago, as part of a series of blogs on the state of funding, NEAR Foundation announced it would be examining its evolving <a href="https://pages.near.org/blog/evolving-near-foundations-funding-strategy/">funding strategy</a>. This is in line with the Foundation’s&nbsp; goal of providing a clear and concise update to continue to foster transparent communication.&nbsp;</p>
+<p><br>A few weeks ago, as part of a series of blogs on the state of funding, NEAR Foundation announced it would be examining its evolving <a href="/blog/evolving-near-foundations-funding-strategy/">funding strategy</a>. This is in line with the Foundation’s&nbsp; goal of providing a clear and concise update to continue to foster transparent communication.&nbsp;</p>
 
 
 
-<p>At this time, NEAR Foundation is actively working towards a more decentralized model of capital allocation that will initially involve the <a href="https://pages.near.org/about/network/working-groups/">DeveloperDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/marketing/marketingdao/91">MarketingDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/creatives/creatives-dao/61">CreativesDAO</a>, with an additional DAO that will begin formation in Q1 of 2023. This will impact the ecosystem in the following ways:</p>
+<p>At this time, NEAR Foundation is actively working towards a more decentralized model of capital allocation that will initially involve the <a href="/about/network/working-groups/">DeveloperDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/marketing/marketingdao/91">MarketingDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/creatives/creatives-dao/61">CreativesDAO</a>, with an additional DAO that will begin formation in Q1 of 2023. This will impact the ecosystem in the following ways:</p>
 
 
 
@@ -601,8 +601,8 @@
 
 
 
-<p>NEAR Foundation’s goal is to empower the ecosystem to make decisions that support&nbsp; the strategic approach that will drive NEAR&nbsp; to the next phase of its roadmap, with a look ahead at new areas of product and development, as outlined in the <a href="https://pages.near.org/blog/near-strategic-update-and-outlook-for-2023/">NEAR Strategic Update and Outlook for 2023</a>. We will continue to be as transparent as possible about the new funding strategy as it rolls out. The Foundation will communicate as often, and as frequently, as possible. We encourage the community to continue providing meaningful feedback so we can iterate more quickly as we unite to build the NEAR Ecosystem together.</p>
-<p>The post <a href="https://pages.near.org/blog/refining-near-foundations-grant-approach/">Refining NEAR Foundation’s Grant Approach</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>NEAR Foundation’s goal is to empower the ecosystem to make decisions that support&nbsp; the strategic approach that will drive NEAR&nbsp; to the next phase of its roadmap, with a look ahead at new areas of product and development, as outlined in the <a href="/blog/near-strategic-update-and-outlook-for-2023/">NEAR Strategic Update and Outlook for 2023</a>. We will continue to be as transparent as possible about the new funding strategy as it rolls out. The Foundation will communicate as often, and as frequently, as possible. We encourage the community to continue providing meaningful feedback so we can iterate more quickly as we unite to build the NEAR Ecosystem together.</p>
+<p>The post <a href="/blog/refining-near-foundations-grant-approach/">Refining NEAR Foundation’s Grant Approach</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -610,7 +610,7 @@
 			</item>
 		<item>
 		<title>Refer-and-Earn Guidelines Update: Q3 2022</title>
-		<link>https://pages.near.org/blog/refer-and-earn-guidelines-update-q3-2022/</link>
+		<link>/blog/refer-and-earn-guidelines-update-q3-2022/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 09 Dec 2022 17:00:00 +0000</pubDate>
@@ -618,10 +618,10 @@
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Grants]]></category>
 		<category><![CDATA[Refer-and-Earn]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19539</guid>
+		<guid isPermaLink="false">/?p=19539</guid>
 
 					<description><![CDATA[<p>NEAR’s ever-growing and engaged community is one of the ecosystem’s greatest strengths. Remember the NEAR Foundation Grants team’s Refer-and-Earn Program? …</p>
-<p>The post <a href="https://pages.near.org/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR’s ever-growing and engaged community is one of the ecosystem’s greatest strengths. Remember the <a href="https://medium.com/nearprotocol/refer-and-earn-pick-projects-you-love-and-get-up-to-10-000-in-near-981c0c015ba4#:~:text=Refer%20and%20Earn.,for%20nominating%20a%20worthy%20project">NEAR Foundation Grants team’s Refer-and-Earn Program</a>? A number of NEAR community members participated in Refer-and-Earn in early 2022, resulting in grants for dozens of exciting projects currently building on the NEAR ecosystem.&nbsp;&nbsp;</p>
@@ -713,7 +713,7 @@
 
 
 <p>The Grants team has reached out to all Refer-and-Earn referrers. Thanks to your help and support, the Grants team is able to support innovative projects like those listed above. </p>
-<p>The post <a href="https://pages.near.org/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -721,17 +721,17 @@
 			</item>
 		<item>
 		<title>NEAR and Grupo Nutresa Partner for Customer Experience Innovations in Web3</title>
-		<link>https://pages.near.org/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/</link>
+		<link>/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 01 Dec 2022 09:45:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Mass adoption]]></category>
 		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=18608</guid>
+		<guid isPermaLink="false">/?p=18608</guid>
 
 					<description><![CDATA[<p>In a groundbreaking and innovative move, NEAR has partnered with Grupo Nutresa, one of the most important processors of food …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/">NEAR and Grupo Nutresa Partner for Customer Experience Innovations in Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/">NEAR and Grupo Nutresa Partner for Customer Experience Innovations in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>In a groundbreaking and innovative move, NEAR has partnered with <a href="https://gruponutresa.com/">Grupo Nutresa</a>, one of the most important processors of food in South America, to bring Web3 to the grocery industry. This will see Grupo Nutresa building one of the first open-source loyalty points programs on NEAR with long-term aspirations to reach a million users in Colombia and Latin America. The partnership was established through the support of tech firm Peersyst.</p>
@@ -775,7 +775,7 @@
 
 
 <p>NEAR’s sustainability credentials also align with Grupo Nutresa’s own business strategy and deep commitment to create value for society as a whole. According to the 2021 Dow Jones Sustainability Indices, Grupo Nutresa has been voted as the most sustainable food company in the world for two consecutive years, thanks to its effective implementation of social, environmental, and economic practices.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/">NEAR and Grupo Nutresa Partner for Customer Experience Innovations in Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/">NEAR and Grupo Nutresa Partner for Customer Experience Innovations in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

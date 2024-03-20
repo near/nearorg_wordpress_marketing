@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Horizon Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/horizon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/horizon/</link>
+	<atom:link href="/blog/tag/horizon/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/horizon/</link>
 	<description></description>
 	<lastBuildDate>Thu, 04 May 2023 00:02:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Horizon Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/horizon/</link>
+	<link>/blog/tag/horizon/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation Launches NEAR Horizon</title>
-		<link>https://pages.near.org/blog/near-foundation-launches-near-horizon/</link>
+		<link>/blog/near-foundation-launches-near-horizon/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 26 Apr 2023 16:47:54 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Accelerator]]></category>
 		<category><![CDATA[Horizon]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20420</guid>
+		<guid isPermaLink="false">/?p=20420</guid>
 
 					<description><![CDATA[<p>Though there have been recent signs of crypto winter thawing, developers have continued to make the most of the current …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-launches-near-horizon/">NEAR Foundation Launches NEAR Horizon</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-launches-near-horizon/">NEAR Foundation Launches NEAR Horizon</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Though there have been recent signs of crypto winter thawing, developers have continued to make the most of the current builder’s market. NEAR, in particular, has seen significant growth in new projects and increased adoption over the past year.&nbsp;&nbsp;</p>
@@ -99,7 +99,7 @@
 
 <li>Backers: <a href="https://airtable.com/shrMVwUTs4rSxRKIY">Register your interest in partnering here</a>&nbsp;</li>
 </ul>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-launches-near-horizon/">NEAR Foundation Launches NEAR Horizon</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-launches-near-horizon/">NEAR Foundation Launches NEAR Horizon</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

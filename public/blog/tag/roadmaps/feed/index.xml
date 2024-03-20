@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Roadmaps Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/roadmaps/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/roadmaps/</link>
+	<atom:link href="/blog/tag/roadmaps/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/roadmaps/</link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Dec 2022 13:34:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Roadmaps Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/roadmaps/</link>
+	<link>/blog/tag/roadmaps/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</title>
-		<link>https://pages.near.org/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/</link>
+		<link>/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 09 Nov 2022 13:33:43 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Mission & vision]]></category>
 		<category><![CDATA[Roadmaps]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19009</guid>
+		<guid isPermaLink="false">/?p=19009</guid>
 
 					<description><![CDATA[<p>This post, written by Pagoda&#8217;s Head of Protocol Bowen Wang, originally appeared on the Web3 startup platform and main contributor …</p>
-<p>The post <a href="https://pages.near.org/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/">NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/">NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>This post, written by Pagoda&#8217;s Head of Protocol Bowen Wang, originally appeared on the Web3 startup platform and main contributor to the core Protocol</em> <em>Pagoda&#8217;s blog. </em></p>
@@ -63,7 +63,7 @@
 
 
 <p><strong>Head over to the <a href="https://www.pagoda.co/blog/protocol-roadmap-2023-4-the-next-2-years-of-near">Pagoda blog</a> to read the NEAR Protocol Roadmap 2023-4 with infographics.</strong></p>
-<p>The post <a href="https://pages.near.org/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/">NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/">NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

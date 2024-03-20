@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Wallet Migration Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-wallet-migration/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-wallet-migration/</link>
+	<atom:link href="/blog/tag/near-wallet-migration/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-wallet-migration/</link>
 	<description></description>
 	<lastBuildDate>Thu, 26 Oct 2023 14:00:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Wallet Migration Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-wallet-migration/</link>
+	<link>/blog/tag/near-wallet-migration/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Wallet Will Remain Online Until the End of the Year</title>
-		<link>https://pages.near.org/blog/near-wallet-will-remain-online-until-the-end-of-the-year/</link>
+		<link>/blog/near-wallet-will-remain-online-until-the-end-of-the-year/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 14:00:02 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR Wallet]]></category>
 		<category><![CDATA[NEAR Wallet Migration]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21007</guid>
+		<guid isPermaLink="false">/?p=21007</guid>
 
 					<description><![CDATA[<p>To avoid the rush of last minute transfers, and to support the inclusion of new wallets coming into the ecosystem, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-wallet-will-remain-online-until-the-end-of-the-year/">NEAR Wallet Will Remain Online Until the End of the Year</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-wallet-will-remain-online-until-the-end-of-the-year/">NEAR Wallet Will Remain Online Until the End of the Year</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>To avoid the rush of last minute transfers, and to support the inclusion of new wallets coming into the ecosystem, we are delaying the sunset of the NEAR wallet.</p>
@@ -77,7 +77,7 @@
 
 
 <p>Thank you for your continued support and patience as we work hard to improve the user onboarding and transaction experience.</p>
-<p>The post <a href="https://pages.near.org/blog/near-wallet-will-remain-online-until-the-end-of-the-year/">NEAR Wallet Will Remain Online Until the End of the Year</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-wallet-will-remain-online-until-the-end-of-the-year/">NEAR Wallet Will Remain Online Until the End of the Year</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

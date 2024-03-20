@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Other Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/press-releases-categories/other/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/press-releases-categories/other/</link>
+	<atom:link href="/blog/press-releases-categories/other/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/press-releases-categories/other/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Oct 2022 08:39:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Other Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/press-releases-categories/other/</link>
+	<link>/blog/press-releases-categories/other/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mintbase Raises  $7.5 million in Series A and $5 million grant pool to pioneer NFT infrastructure</title>
-		<link>https://pages.near.org/press-releases/mintbase-raises-7-5-million-in-series-a-and-5-million-grant-pool-to-pioneer-nft-infrastructure/</link>
+		<link>/press-releases/mintbase-raises-7-5-million-in-series-a-and-5-million-grant-pool-to-pioneer-nft-infrastructure/</link>
 		
 		<dc:creator><![CDATA[Bianca Mormand]]></dc:creator>
 		<pubDate>Tue, 19 Apr 2022 08:27:59 +0000</pubDate>
-				<guid isPermaLink="false">https://pages.near.org/?post_type=near_press_release#038;p=18728</guid>
+				<guid isPermaLink="false">/?post_type=near_press_release#038;p=18728</guid>
 
-					<description><![CDATA[<p>The post <a href="https://pages.near.org/press-releases/mintbase-raises-7-5-million-in-series-a-and-5-million-grant-pool-to-pioneer-nft-infrastructure/">Mintbase Raises  $7.5 million in Series A and $5 million grant pool to pioneer NFT infrastructure</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+					<description><![CDATA[<p>The post <a href="/press-releases/mintbase-raises-7-5-million-in-series-a-and-5-million-grant-pool-to-pioneer-nft-infrastructure/">Mintbase Raises  $7.5 million in Series A and $5 million grant pool to pioneer NFT infrastructure</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>The post <a href="https://pages.near.org/press-releases/mintbase-raises-7-5-million-in-series-a-and-5-million-grant-pool-to-pioneer-nft-infrastructure/">Mintbase Raises  $7.5 million in Series A and $5 million grant pool to pioneer NFT infrastructure</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+										<content:encoded><![CDATA[<p>The post <a href="/press-releases/mintbase-raises-7-5-million-in-series-a-and-5-million-grant-pool-to-pioneer-nft-infrastructure/">Mintbase Raises  $7.5 million in Series A and $5 million grant pool to pioneer NFT infrastructure</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -45,15 +45,15 @@
 			</item>
 		<item>
 		<title>Marieke Flament appointed CEO of NEAR Foundation</title>
-		<link>https://pages.near.org/press-releases/marieke-flament-appointed-ceo-of-near-foundation/</link>
+		<link>/press-releases/marieke-flament-appointed-ceo-of-near-foundation/</link>
 		
 		<dc:creator><![CDATA[Bianca Mormand]]></dc:creator>
 		<pubDate>Thu, 16 Dec 2021 09:19:28 +0000</pubDate>
-				<guid isPermaLink="false">https://pages.near.org/?post_type=near_press_release#038;p=18727</guid>
+				<guid isPermaLink="false">/?post_type=near_press_release#038;p=18727</guid>
 
-					<description><![CDATA[<p>The post <a href="https://pages.near.org/press-releases/marieke-flament-appointed-ceo-of-near-foundation/">Marieke Flament appointed CEO of NEAR Foundation</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+					<description><![CDATA[<p>The post <a href="/press-releases/marieke-flament-appointed-ceo-of-near-foundation/">Marieke Flament appointed CEO of NEAR Foundation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>The post <a href="https://pages.near.org/press-releases/marieke-flament-appointed-ceo-of-near-foundation/">Marieke Flament appointed CEO of NEAR Foundation</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+										<content:encoded><![CDATA[<p>The post <a href="/press-releases/marieke-flament-appointed-ceo-of-near-foundation/">Marieke Flament appointed CEO of NEAR Foundation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

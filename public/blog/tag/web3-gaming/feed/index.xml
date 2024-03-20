@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Web3 Gaming Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/web3-gaming/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/web3-gaming/</link>
+	<atom:link href="/blog/tag/web3-gaming/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/web3-gaming/</link>
 	<description></description>
 	<lastBuildDate>Tue, 12 Sep 2023 07:27:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Web3 Gaming Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/web3-gaming/</link>
+	<link>/blog/tag/web3-gaming/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR APAC Day 2 Recap: Asia Gaming Trends, Interoperability, and Web3 for Brands</title>
-		<link>https://pages.near.org/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/</link>
+		<link>/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Sun, 10 Sep 2023 14:28:46 +0000</pubDate>
@@ -39,10 +39,10 @@
 		<category><![CDATA[Events]]></category>
 		<category><![CDATA[NEAR APAC]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20841</guid>
+		<guid isPermaLink="false">/?p=20841</guid>
 
 					<description><![CDATA[<p>It would&#8217;ve been hard to imagine topping a jam-packed Day 1 of NEAR APAC, but Day 2 managed to do …</p>
-<p>The post <a href="https://pages.near.org/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/">NEAR APAC Day 2 Recap: Asia Gaming Trends, Interoperability, and Web3 for Brands</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/">NEAR APAC Day 2 Recap: Asia Gaming Trends, Interoperability, and Web3 for Brands</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>It would&#8217;ve been hard to imagine topping a jam-packed Day 1 of NEAR APAC, but Day 2 managed to do just that. The gorgeous Sunday in Saigon covered a wide range of topics, including significant discussions on the future trends in Web3 such as how brands can hop on board the Web3 bandwagon and a creative proposal to unite all Layer 1&#8217;s for mass adoption.</p>
@@ -129,7 +129,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" src="https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg" alt="" class="wp-image-20842" srcset="https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg 1024w, https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-300x225.jpeg 300w, https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-768x576.jpeg 768w, https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg" alt="" class="wp-image-20842" srcset="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg 1024w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-300x225.jpeg 300w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-768x576.jpeg 768w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -154,7 +154,7 @@
 
 
 <p>And that’s a wrap for the official Day 2 sessions at NEAR APAC. From gaming and brand adoption to multi-chain standards and collaboration, it was clear that this first-of-its-kind regional event was a rousing success for developers and the NEAR community alike. Sunday in Saigon rolls on with more side events and after-parties, so stay tuned for the full ICYMI tomorrow.</p>
-<p>The post <a href="https://pages.near.org/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/">NEAR APAC Day 2 Recap: Asia Gaming Trends, Interoperability, and Web3 for Brands</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/">NEAR APAC Day 2 Recap: Asia Gaming Trends, Interoperability, and Web3 for Brands</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -162,17 +162,17 @@
 			</item>
 		<item>
 		<title>NEAR Foundation Partners with Hibiki Run on Open Web Digital Gachapon </title>
-		<link>https://pages.near.org/blog/near-foundation-partners-with-hibiki-run-on-open-web-digital-gachapon/</link>
+		<link>/blog/near-foundation-partners-with-hibiki-run-on-open-web-digital-gachapon/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 05 Jul 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Partnerships]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20699</guid>
+		<guid isPermaLink="false">/?p=20699</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is thrilled to announce a new strategic partnership with Hibiki Run, a platform lying at the nexus of …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-partners-with-hibiki-run-on-open-web-digital-gachapon/">NEAR Foundation Partners with Hibiki Run on Open Web Digital Gachapon </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-partners-with-hibiki-run-on-open-web-digital-gachapon/">NEAR Foundation Partners with Hibiki Run on Open Web Digital Gachapon </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is thrilled to announce a new strategic partnership with Hibiki Run, a platform lying at the nexus of innovation in music streaming and digital collectibles. Hibiki Run is revolutionizing music discovery by melding gaming thrills with crypto-driven Listen-to-Earn&nbsp; (L2E) incentives.&nbsp;</p>
@@ -200,7 +200,7 @@
 
 
 <p>Hibiki Run and NEAR hope that with these types of innovative concepts, blockchain technology, and user-friendly interfaces, a new frontier of digital arts will open up. One that is interactive and immersive for creators and consumers alike. Like NEAR, Hibiki Run is committed to creating a decentralized, fair, and accessible ecosystem for artists.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-partners-with-hibiki-run-on-open-web-digital-gachapon/">NEAR Foundation Partners with Hibiki Run on Open Web Digital Gachapon </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-partners-with-hibiki-run-on-open-web-digital-gachapon/">NEAR Foundation Partners with Hibiki Run on Open Web Digital Gachapon </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -208,7 +208,7 @@
 			</item>
 		<item>
 		<title>Škoda Ventures into NFTs with NEAR to Create the Škodaverse India</title>
-		<link>https://pages.near.org/blog/skoda-ventures-into-nfts-with-near-to-create-the-skodaverse-india/</link>
+		<link>/blog/skoda-ventures-into-nfts-with-near-to-create-the-skodaverse-india/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 20 Jun 2023 05:30:00 +0000</pubDate>
@@ -216,10 +216,10 @@
 		<category><![CDATA[NFTs]]></category>
 		<category><![CDATA[Partnerships]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20652</guid>
+		<guid isPermaLink="false">/?p=20652</guid>
 
 					<description><![CDATA[<p>Škoda India, in collaboration with NEAR Protocol, announces its foray into the world of NFTs and blockchain technology with Škodaverse …</p>
-<p>The post <a href="https://pages.near.org/blog/skoda-ventures-into-nfts-with-near-to-create-the-skodaverse-india/">Škoda Ventures into NFTs with NEAR to Create the Škodaverse India</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/skoda-ventures-into-nfts-with-near-to-create-the-skodaverse-india/">Škoda Ventures into NFTs with NEAR to Create the Škodaverse India</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://www.skoda-auto.co.in/">Škoda India</a>, in collaboration with NEAR Protocol, announces its foray into the world of NFTs and blockchain technology with Škodaverse India. This new platform forms a part of the global Škodaverse initiative and will bring<strong> </strong>a fresh wave of digital innovation to Škoda automobile fans in India.</p>
@@ -267,7 +267,7 @@
 
 
 <p>With the launch of Škodaverse India, Škoda Auto India embraces blockchain technology, signaling a significant move towards Web3 applications. Powered by NEAR Protocol, Škodaverse India will offer engaging, community-building experiences, further solidifying Škoda&#8217;s position as a forward-thinking automobile brand in Web3 and the metaverse.</p>
-<p>The post <a href="https://pages.near.org/blog/skoda-ventures-into-nfts-with-near-to-create-the-skodaverse-india/">Škoda Ventures into NFTs with NEAR to Create the Škodaverse India</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/skoda-ventures-into-nfts-with-near-to-create-the-skodaverse-india/">Škoda Ventures into NFTs with NEAR to Create the Škodaverse India</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -275,7 +275,7 @@
 			</item>
 		<item>
 		<title>NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</title>
-		<link>https://pages.near.org/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/</link>
+		<link>/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Sun, 04 Jun 2023 06:35:49 +0000</pubDate>
@@ -284,10 +284,10 @@
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Partnerships]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20565</guid>
+		<guid isPermaLink="false">/?p=20565</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new strategic partnership with MARBLEX, a blockchain subsidiary of Netmarble Corp, that will …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p></p>
@@ -331,7 +331,7 @@
 
 
 <p>“NEAR Protocol provides a user experience similar to Web2 using Fast Auth account abstraction feature, greatly lowering the initial entry barrier to Web3,” said a spokesperson from NEAR Korea Hub. “We will continue to strongly partner with excellent domestic companies such as MARBLEX to implement a user-centered ecosystem where users can easily enjoy all services.”</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -339,7 +339,7 @@
 			</item>
 		<item>
 		<title>NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</title>
-		<link>https://pages.near.org/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/</link>
+		<link>/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 31 May 2023 13:00:00 +0000</pubDate>
@@ -347,10 +347,10 @@
 		<category><![CDATA[ARterra Labs]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20547</guid>
+		<guid isPermaLink="false">/?p=20547</guid>
 
 					<description><![CDATA[<p>The ever-expanding gaming landscape faces significant challenges such as engagement and identity fragmentation. As fans navigate platforms like Twitch, Discord, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/">NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/">NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The ever-expanding gaming landscape faces significant challenges such as engagement and identity fragmentation. As fans navigate platforms like Twitch, Discord, and YouTube, brands and creators struggle to monetize their fan bases effectively. This is where <a href="https://arterra.co/">ARterra Labs</a> steps in — a company on a mission to revolutionize fan engagement and unlock Web3 fandom for the gaming industry.</p>
@@ -414,7 +414,7 @@
 
 
 <p>Amplifying the open web gaming journey with Battle Pass, metaverse realities, and the fan passport, ARterra Labs and NEAR Foundation don&#8217;t merely enhance the experience — they define a new standard. It&#8217;s a game-changing era in Web3 and fans are just barely unlocking the first level.</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/">NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-arterra-labs-level-up-gaming-fandom-for-the-open-web/">NEAR Foundation and ARterra Labs Level Up Gaming Fandom for the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -422,7 +422,7 @@
 			</item>
 		<item>
 		<title>NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</title>
-		<link>https://pages.near.org/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/</link>
+		<link>/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 02 May 2023 14:00:00 +0000</pubDate>
@@ -430,10 +430,10 @@
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Pipeflare]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20468</guid>
+		<guid isPermaLink="false">/?p=20468</guid>
 
 					<description><![CDATA[<p>NEAR Foundation and PipeFlare, a trailblazing play-to-earn (P2E) platform, are partnering to reshape Web3 gaming by building on Aurora, NEAR&#8217;s …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/">NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/">NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation and <a href="https://pipeflare.io/">PipeFlare</a>, a trailblazing play-to-earn (P2E) platform, are partnering to reshape Web3 gaming by building on Aurora, NEAR&#8217;s Ethereum-compatible layer. As Web3 gaming on NEAR accelerates, PipeFlare will enable gamers to play, earn crypto, and engage socially in a decentralized environment. Collaborating with NEAR Foundation, PipeFlare aims to redefine scalability, security, and sheer enjoyment in Web3 by leveraging the EVM-compatible development capabilities of Aurora.</p>
@@ -503,7 +503,7 @@
 
 
 <p>The collaboration also marks substantial progress for the Web3 gaming industry, demonstrating that key players recognize NEAR’s potential. It also signals NEAR’s strong positioning to emerge as the premier blockchain for novel gaming experiences.</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/">NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-pipeflare-team-up-to-reshape-web3-gaming/">NEAR Foundation and PipeFlare Team Up to Reshape Web3 Gaming</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -511,7 +511,7 @@
 			</item>
 		<item>
 		<title>NEAR and WEMADE Team Up to Accelerate Mainstream Web3 Adoption</title>
-		<link>https://pages.near.org/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/</link>
+		<link>/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 23 Mar 2023 13:00:00 +0000</pubDate>
@@ -519,10 +519,10 @@
 		<category><![CDATA[GameFI]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20318</guid>
+		<guid isPermaLink="false">/?p=20318</guid>
 
 					<description><![CDATA[<p>The Near Foundation is excited to announce that it’s partnering with WEMADE, one of the largest publicly-listed gaming companies in …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/">NEAR and WEMADE Team Up to Accelerate Mainstream Web3 Adoption</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/">NEAR and WEMADE Team Up to Accelerate Mainstream Web3 Adoption</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The Near Foundation is excited to announce that it’s partnering with WEMADE, one of the largest publicly-listed gaming companies in South Korea. A leading game developer in South Korea for over 20 years, WEMADE will be vital in Near’s push toward mainstream adoption of Web3.</p>
@@ -578,7 +578,7 @@
 
 
 <p>The Near-WEMADE partnership marks the second major Web3 gaming partnership from the Near Korea Hub. The first, a partnership with BORA — the Web3 GameFi platform of Kakao Games — will also be vital in accelerating the mainstream adoption of Web3.&nbsp;&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/">NEAR and WEMADE Team Up to Accelerate Mainstream Web3 Adoption</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/">NEAR and WEMADE Team Up to Accelerate Mainstream Web3 Adoption</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -586,7 +586,7 @@
 			</item>
 		<item>
 		<title>Near Partners with BORA, Web3 GameFi Platform of Kakao Games</title>
-		<link>https://pages.near.org/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/</link>
+		<link>/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 06 Mar 2023 14:00:00 +0000</pubDate>
@@ -596,10 +596,10 @@
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Kakao Games]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20253</guid>
+		<guid isPermaLink="false">/?p=20253</guid>
 
 					<description><![CDATA[<p>Near is excited to announce a new strategic partnership with BORA, a Web3&#160; gaming subsidiary of METABORA. Near and BORA …</p>
-<p>The post <a href="https://pages.near.org/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">Near Partners with BORA, Web3 GameFi Platform of Kakao Games</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">Near Partners with BORA, Web3 GameFi Platform of Kakao Games</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Near is excited to announce a new strategic partnership with BORA, a Web3&nbsp; gaming subsidiary of METABORA. Near and BORA will support each other in spreading local brand awareness, invest in research and collaboration on cross-chain, host events, and generate Web3 opportunities in Korea.&nbsp;</p>
@@ -619,7 +619,7 @@
 
 
 <p>“One of the big ambitions of the hub&nbsp; is&nbsp; to tap into the country’s active gaming community, and to&nbsp; bring&nbsp; amazing projects and creators to the Near ecosystem.” said Robbie Lim, GM, Partners &amp; International at Near. “ The partnership with BORA is our first major win &#8211; and a big step forward for NEAR as it accelerates its ambition to become the go to layer 1 for the Web3 gaming community.”&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">Near Partners with BORA, Web3 GameFi Platform of Kakao Games</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">Near Partners with BORA, Web3 GameFi Platform of Kakao Games</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>BigQuery Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/bigquery/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/bigquery/</link>
+	<atom:link href="/blog/tag/bigquery/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/bigquery/</link>
 	<description></description>
 	<lastBuildDate>Fri, 22 Sep 2023 14:39:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>BigQuery Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/bigquery/</link>
+	<link>/blog/tag/bigquery/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Protocol BigQuery Public Dataset</title>
-		<link>https://pages.near.org/blog/near-protocol-bigquery-public-dataset/</link>
+		<link>/blog/near-protocol-bigquery-public-dataset/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 22 Sep 2023 14:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[BigQuery]]></category>
 		<category><![CDATA[NEAR Big Query]]></category>
 		<category><![CDATA[Public Dataset]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20911</guid>
+		<guid isPermaLink="false">/?p=20911</guid>
 
 					<description><![CDATA[<p>NEAR Protocol is a user-friendly, carbon-neutral blockchain, built from the ground up to be performant, secure, and unparalleled scalability. In …</p>
-<p>The post <a href="https://pages.near.org/blog/near-protocol-bigquery-public-dataset/">NEAR Protocol BigQuery Public Dataset</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-protocol-bigquery-public-dataset/">NEAR Protocol BigQuery Public Dataset</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://near.org/">NEAR </a>Protocol is a user-friendly, <a href="https://near.org/blog/near-climate-neutral-product">carbon-neutral </a>blockchain, built from the ground up to be performant, secure, and unparalleled scalability. In technical terms, NEAR is a <a href="https://blockchain-comparison.com/blockchain-protocols/">layer one</a>, <a href="https://near.org/blog/near-launches-nightshade-sharding-paving-the-way-for-mass-adoption">sharded</a>, <a href="https://en.wikipedia.org/wiki/Proof_of_stake">proof-of-stake </a>blockchain built with usability in mind. In simple terms, NEAR is a blockchain for everyone.</p>
@@ -146,7 +146,7 @@
 
 <li><strong>Databricks:</strong> Clayton Martin, and Alice Zhang.</li>
 </ul>
-<p>The post <a href="https://pages.near.org/blog/near-protocol-bigquery-public-dataset/">NEAR Protocol BigQuery Public Dataset</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-protocol-bigquery-public-dataset/">NEAR Protocol BigQuery Public Dataset</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

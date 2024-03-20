@@ -9,8 +9,8 @@
 
 <channel>
 	<title>SPACE ID Voyage Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/space-id-voyage/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/space-id-voyage/</link>
+	<atom:link href="/blog/tag/space-id-voyage/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/space-id-voyage/</link>
 	<description></description>
 	<lastBuildDate>Tue, 20 Jun 2023 13:52:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>SPACE ID Voyage Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/space-id-voyage/</link>
+	<link>/blog/tag/space-id-voyage/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR and Galxe Team Up for SPACE ID Voyage Season 2</title>
-		<link>https://pages.near.org/blog/near-and-galxe-team-up-for-space-id-voyage-season-2/</link>
+		<link>/blog/near-and-galxe-team-up-for-space-id-voyage-season-2/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 08 Jun 2023 16:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Galxe]]></category>
 		<category><![CDATA[SPACE ID Voyage]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20605</guid>
+		<guid isPermaLink="false">/?p=20605</guid>
 
 					<description><![CDATA[<p>NEAR Foundation and Galxe —the&#160; leading platform for Web3 community building —&#160;are joining forces to provide new and existing Web3 …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-galxe-team-up-for-space-id-voyage-season-2/">NEAR and Galxe Team Up for SPACE ID Voyage Season 2</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-galxe-team-up-for-space-id-voyage-season-2/">NEAR and Galxe Team Up for SPACE ID Voyage Season 2</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation and <a href="https://galxe.com/">Galxe</a> —the&nbsp; leading platform for Web3 community building —&nbsp;are joining forces to provide new and existing Web3 users with a seamless onboarding experience for SPACE ID&#8217;s renewed referral program, <a href="https://blog.space.id/its-happening-now-everything-you-need-to-know-about-space-id-voyage-season-2-calling-2dc2426fe442">&#8220;Voyage Season 2 &#8211; Calling</a>”.&nbsp;</p>
@@ -70,7 +70,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="941" height="1024" src="https://pages.near.org/wp-content/uploads/2023/06/image-941x1024.png" alt="" class="wp-image-20606" srcset="https://pages.near.org/wp-content/uploads/2023/06/image-941x1024.png 941w, https://pages.near.org/wp-content/uploads/2023/06/image-276x300.png 276w, https://pages.near.org/wp-content/uploads/2023/06/image-768x835.png 768w, https://pages.near.org/wp-content/uploads/2023/06/image-1412x1536.png 1412w, https://pages.near.org/wp-content/uploads/2023/06/image.png 1471w" sizes="(max-width: 941px) 100vw, 941px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="941" height="1024" src="/wp-content/uploads/2023/06/image-941x1024.png" alt="" class="wp-image-20606" srcset="/wp-content/uploads/2023/06/image-941x1024.png 941w, /wp-content/uploads/2023/06/image-276x300.png 276w, /wp-content/uploads/2023/06/image-768x835.png 768w, /wp-content/uploads/2023/06/image-1412x1536.png 1412w, /wp-content/uploads/2023/06/image.png 1471w" sizes="(max-width: 941px) 100vw, 941px" /></figure>
 
 
 
@@ -87,7 +87,7 @@
 
 
 <p>Stay tuned for more exciting NEAR Foundation and Galxe campaigns to come — powered by BOS!&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-galxe-team-up-for-space-id-voyage-season-2/">NEAR and Galxe Team Up for SPACE ID Voyage Season 2</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-galxe-team-up-for-space-id-voyage-season-2/">NEAR and Galxe Team Up for SPACE ID Voyage Season 2</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

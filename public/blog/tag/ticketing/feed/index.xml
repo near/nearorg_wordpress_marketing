@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Ticketing Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/ticketing/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/ticketing/</link>
+	<atom:link href="/blog/tag/ticketing/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/ticketing/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Apr 2023 19:09:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Ticketing Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/ticketing/</link>
+	<link>/blog/tag/ticketing/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Rove World v2 Simplifies Web3 Ticketing and Loyalty for Brands</title>
-		<link>https://pages.near.org/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/</link>
+		<link>/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 12 Apr 2023 14:12:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Loyalty]]></category>
 		<category><![CDATA[NFTs]]></category>
 		<category><![CDATA[Ticketing]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20449</guid>
+		<guid isPermaLink="false">/?p=20449</guid>
 
 					<description><![CDATA[<p>Rove, one of the most user-friendly entertainment ecosystems in Web3, is now in collaboration with NEAR. Their next release, Rove …</p>
-<p>The post <a href="https://pages.near.org/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/">Rove World v2 Simplifies Web3 Ticketing and Loyalty for Brands</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/">Rove World v2 Simplifies Web3 Ticketing and Loyalty for Brands</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://roveworld.xyz/">Rove</a>, one of the most user-friendly entertainment ecosystems in Web3, is now in collaboration with NEAR. Their next release, Rove World v2, will act as a one-stop mobile-based ticketing solution and loyalty rewards program for brands. The update will also feature an in-app store that will include major brands, sports leagues, and musical artists.</p>
@@ -109,7 +109,7 @@
 
 
 <p>“NEAR’s emphasis on onboarding the next billion users into Web3 with a specialized focus on entertainment, sports, and culture fit identically with our approach,” said Rove’s Desimone. “Not to mention NEAR’s industry-leading technology which enables a seamless migration of the easy-to-use features of the Rove World mobile app onto the NEAR blockchain.”</p>
-<p>The post <a href="https://pages.near.org/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/">Rove World v2 Simplifies Web3 Ticketing and Loyalty for Brands</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/">Rove World v2 Simplifies Web3 Ticketing and Loyalty for Brands</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

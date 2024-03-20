@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Transparency report Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/transparency-report/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/transparency-report/</link>
+	<atom:link href="/blog/tag/transparency-report/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/transparency-report/</link>
 	<description></description>
 	<lastBuildDate>Wed, 12 Jul 2023 17:09:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Transparency report Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/transparency-report/</link>
+	<link>/blog/tag/transparency-report/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation Transparency Report: Q2 2023</title>
-		<link>https://pages.near.org/blog/near-foundation-transparency-report-q2-2023/</link>
+		<link>/blog/near-foundation-transparency-report-q2-2023/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 10 Jul 2023 19:30:34 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Transparency report]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20705</guid>
+		<guid isPermaLink="false">/?p=20705</guid>
 
 					<description><![CDATA[<p>Hello, NEAR World! Welcome to NEAR Foundation’s Transparency Report. Published quarterly, the Transparency Report explores the NEAR ecosystem’s progress, as …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-transparency-report-q2-2023/">NEAR Foundation Transparency Report: Q2 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-transparency-report-q2-2023/">NEAR Foundation Transparency Report: Q2 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Hello, NEAR World! Welcome to NEAR Foundation’s Transparency Report. Published quarterly, the Transparency Report explores the NEAR ecosystem’s progress, as well as the latest technology news and updates from the NEAR ecosystem.&nbsp;</p>
@@ -73,7 +73,7 @@
 
 
 
-<p>Since the Q1 transparency report, the industry has faced some significant headwinds, such as the SEC action against Binance and Coinbase. (You can see our response to the SEC action <a href="https://pages.near.org/blog/near-foundations-response-to-the-coinbase-sec-filing/?_gl=1%2A1j468k7%2A_up%2AMQ..%2A_ga%2AOTc1NDU0OTU2LjE2ODg2Nzc3ODM.%2A_ga_9GWCXQJ62J%2AMTY4ODY3Nzc4MS4xLjEuMTY4ODY3Nzc5OC4wLjAuMA..">here</a>.) Amidst a turbulent market, the NEAR Foundation&#8217;s vision and mission remain the same: we believe in building a better web —&nbsp;the open web — and our mission is to foster the adoption of the open web by supporting the self-sustainable growth of a decentralized NEAR ecosystem.</p>
+<p>Since the Q1 transparency report, the industry has faced some significant headwinds, such as the SEC action against Binance and Coinbase. (You can see our response to the SEC action <a href="/blog/near-foundations-response-to-the-coinbase-sec-filing/?_gl=1%2A1j468k7%2A_up%2AMQ..%2A_ga%2AOTc1NDU0OTU2LjE2ODg2Nzc3ODM.%2A_ga_9GWCXQJ62J%2AMTY4ODY3Nzc4MS4xLjEuMTY4ODY3Nzc5OC4wLjAuMA..">here</a>.) Amidst a turbulent market, the NEAR Foundation&#8217;s vision and mission remain the same: we believe in building a better web —&nbsp;the open web — and our mission is to foster the adoption of the open web by supporting the self-sustainable growth of a decentralized NEAR ecosystem.</p>
 
 
 
@@ -103,7 +103,7 @@
 
 
 
-<p>Q2 saw a flurry of high profile announcements, including <a href="https://pages.near.org/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">MarbleX</a>, <a href="https://timesofindia.indiatimes.com/gadgets-news/shemaroo-partners-with-near-foundation-to-enhance-web3-0-digital-infrastructure-in-media-and-entertainment/articleshow/99941969.cms">Shemaroo</a>, <a href="https://www.coindesk.com/business/2023/06/26/embargo-26th-june-7am-bst-near-foundation-partners-with-alibaba-cloud-to-accelerate-web3-growth/">Alibaba Cloud</a>, <a href="https://pages.near.org/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/">Cosmose</a>, and <a href="https://www.cryptotimes.io/near-protocol-drives-skoda-into-indian-nft-landscape/">Skoda</a>. There has also been a focus on bringing projects from other Web3 ecosystems onto the BOS, and many are leveraging the decentralized frontend component of BOS, including brands like Galxe.</p>
+<p>Q2 saw a flurry of high profile announcements, including <a href="/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">MarbleX</a>, <a href="https://timesofindia.indiatimes.com/gadgets-news/shemaroo-partners-with-near-foundation-to-enhance-web3-0-digital-infrastructure-in-media-and-entertainment/articleshow/99941969.cms">Shemaroo</a>, <a href="https://www.coindesk.com/business/2023/06/26/embargo-26th-june-7am-bst-near-foundation-partners-with-alibaba-cloud-to-accelerate-web3-growth/">Alibaba Cloud</a>, <a href="/blog/cosmose-and-near-foundation-set-to-revolutionize-retail-with-web3-and-ai/">Cosmose</a>, and <a href="https://www.cryptotimes.io/near-protocol-drives-skoda-into-indian-nft-landscape/">Skoda</a>. There has also been a focus on bringing projects from other Web3 ecosystems onto the BOS, and many are leveraging the decentralized frontend component of BOS, including brands like Galxe.</p>
 
 
 
@@ -205,7 +205,7 @@
 
 
 
-<p>The NEAR Protocol itself, the Layer 1, is a core part of the BOS tech stack and continues to be developed as the scalable, cost-effective, and simple backend to any Web3 tech stack.<br>After a strong soft launch for the <a href="https://medium.com/nearprotocol/near-at-ethdenver-highlights-d7041cc57a2">BOS at ETHDenver</a>, in Q2 we saw the <a href="https://pages.near.org/blog/near-at-consensus-highlights/?_gl=1%2Aubv5fj%2A_up%2AMQ..%2A_ga%2AMTI3MTIzMzI0NS4xNjg4Njc4NDQ2%2A_ga_9GWCXQJ62J%2AMTY4ODY3ODQ0My4xLjEuMTY4ODY3ODQ2Ni4wLjAuMA..">BOS launch fully at Consensus</a>,  transforming near.org into a full BOS gateway — meaning that the entire site is now on chain, utilizing the full benefit of the BOS tech stack. The launch was incredibly well received, seeing a solid amount of coverage across media outlets such as <a href="https://news.bloomberglaw.com/crypto/near-launches-blockchain-operating-system-for-fintech-developers">Bloomberg</a>, <a href="https://coinmarketcap.com/community/articles/644a71b90d1ac45ba873d02f">CoinMarketCap</a> and <a href="https://consensus.coindesk.com/agenda/event/-nears-blockchain-operating-system-290">Coindesk</a>, as well as a strong increase in SOV across social platforms. </p>
+<p>The NEAR Protocol itself, the Layer 1, is a core part of the BOS tech stack and continues to be developed as the scalable, cost-effective, and simple backend to any Web3 tech stack.<br>After a strong soft launch for the <a href="https://medium.com/nearprotocol/near-at-ethdenver-highlights-d7041cc57a2">BOS at ETHDenver</a>, in Q2 we saw the <a href="/blog/near-at-consensus-highlights/?_gl=1%2Aubv5fj%2A_up%2AMQ..%2A_ga%2AMTI3MTIzMzI0NS4xNjg4Njc4NDQ2%2A_ga_9GWCXQJ62J%2AMTY4ODY3ODQ0My4xLjEuMTY4ODY3ODQ2Ni4wLjAuMA..">BOS launch fully at Consensus</a>,  transforming near.org into a full BOS gateway — meaning that the entire site is now on chain, utilizing the full benefit of the BOS tech stack. The launch was incredibly well received, seeing a solid amount of coverage across media outlets such as <a href="https://news.bloomberglaw.com/crypto/near-launches-blockchain-operating-system-for-fintech-developers">Bloomberg</a>, <a href="https://coinmarketcap.com/community/articles/644a71b90d1ac45ba873d02f">CoinMarketCap</a> and <a href="https://consensus.coindesk.com/agenda/event/-nears-blockchain-operating-system-290">Coindesk</a>, as well as a strong increase in SOV across social platforms. </p>
 
 
 
@@ -305,7 +305,7 @@
 
 
 
-<p>Horizon has seen significant growth since <a href="https://pages.near.org/blog/near-foundation-launches-near-horizon/?_gl=1%2Axcsne9%2A_up%2AMQ..%2A_ga%2AMTAwMDk5NTQ1Ni4xNjg4NjUxODY5%2A_ga_9GWCXQJ62J%2AMTY4ODY1MTg2Ni4xLjEuMTY4ODY1MjMzMC4wLjAuMA..">launching April 26th, 2023</a>. Over 160 projects and 30 contributors have produced 1,000+ transactions. The newly added service providers (sourced from <a href="https://near.org/blog/open-call-for-near-accelerator-partners/">the initial RFP</a> in Q1) all bring a unique blend of talent, expertise, and innovative solutions, contributing to the diverse and vibrant ecosystem of NEAR Horizon. <br>Another exciting feature of Horizon is the <a href="https://near.org/nearhorizon.near/widget/Index?tab=learn">Learn section</a>. Founders at all stages can take advantage of a curated list of resources to best help where they need it the most, such as: Business Fundamentals, Growth and Marketing, Recruiting and Legal, and Technical areas.<br><br><img fetchpriority="high" decoding="async" width="624" height="251" src="https://lh5.googleusercontent.com/5LezVOdcQVCk1r5rHynN9UWOFL1N3XeWYbVvbAabPoTeqJIXhcEKIpFWTT5zam0zGiTf0Zj4_NmaQrtmv_8SBqqY0NCEd24DrtYYQo5L_hQ6B-h845H0jRg-qKHWElmunWlNfoXHLlVctTMc7NwLLxs"></p>
+<p>Horizon has seen significant growth since <a href="/blog/near-foundation-launches-near-horizon/?_gl=1%2Axcsne9%2A_up%2AMQ..%2A_ga%2AMTAwMDk5NTQ1Ni4xNjg4NjUxODY5%2A_ga_9GWCXQJ62J%2AMTY4ODY1MTg2Ni4xLjEuMTY4ODY1MjMzMC4wLjAuMA..">launching April 26th, 2023</a>. Over 160 projects and 30 contributors have produced 1,000+ transactions. The newly added service providers (sourced from <a href="https://near.org/blog/open-call-for-near-accelerator-partners/">the initial RFP</a> in Q1) all bring a unique blend of talent, expertise, and innovative solutions, contributing to the diverse and vibrant ecosystem of NEAR Horizon. <br>Another exciting feature of Horizon is the <a href="https://near.org/nearhorizon.near/widget/Index?tab=learn">Learn section</a>. Founders at all stages can take advantage of a curated list of resources to best help where they need it the most, such as: Business Fundamentals, Growth and Marketing, Recruiting and Legal, and Technical areas.<br><br><img fetchpriority="high" decoding="async" width="624" height="251" src="https://lh5.googleusercontent.com/5LezVOdcQVCk1r5rHynN9UWOFL1N3XeWYbVvbAabPoTeqJIXhcEKIpFWTT5zam0zGiTf0Zj4_NmaQrtmv_8SBqqY0NCEd24DrtYYQo5L_hQ6B-h845H0jRg-qKHWElmunWlNfoXHLlVctTMc7NwLLxs"></p>
 
 
 
@@ -410,11 +410,11 @@
 
 
 <ul>
-<li><a href="https://pages.near.org/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">Netmarble</a> — One of the largest game publishers worldwide is bringing a suite of Web3 games to NEAR.</li>
+<li><a href="/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">Netmarble</a> — One of the largest game publishers worldwide is bringing a suite of Web3 games to NEAR.</li>
 
 
 
-<li><a href="https://pages.near.org/blog/near-foundation-partners-with-vortex-gaming-a-web3-subsidiary-of-koreas-largest-gaming-community-inven/">Vortex</a> — Web3 subsidiary of INVEN, the “Reddit of Korea” and largest game media community in Korea with over 7M monthly active users is building exclusively on NEAR.</li>
+<li><a href="/blog/near-foundation-partners-with-vortex-gaming-a-web3-subsidiary-of-koreas-largest-gaming-community-inven/">Vortex</a> — Web3 subsidiary of INVEN, the “Reddit of Korea” and largest game media community in Korea with over 7M monthly active users is building exclusively on NEAR.</li>
 
 
 
@@ -450,7 +450,7 @@
 
 
 <ul>
-<li><a href="https://pages.near.org/blog/near-and-alibaba-cloud-team-up-to-grow-the-open-web/?_gl=1%2A1rhxlbf%2A_up%2AMQ..%2A_ga%2AMjEyNzM2NjI0NC4xNjg4NjYyNzM0%2A_ga_9GWCXQJ62J%2AMTY4ODY2MjczMS4xLjAuMTY4ODY2MjczMS4wLjAuMA..">Alibaba Cloud</a> — Alibaba Cloud is collaborating with NEAR Foundation to provide Remote Procedure Call (RPC) as a service to NEAR ecosystem projects. In addition, Alibaba Cloud will focus on multi-chain data indexing which helps drive the adoption of the Blockchain Operating System (BOS) through supporting interoperability across different blockchains.&nbsp;</li>
+<li><a href="/blog/near-and-alibaba-cloud-team-up-to-grow-the-open-web/?_gl=1%2A1rhxlbf%2A_up%2AMQ..%2A_ga%2AMjEyNzM2NjI0NC4xNjg4NjYyNzM0%2A_ga_9GWCXQJ62J%2AMTY4ODY2MjczMS4xLjAuMTY4ODY2MjczMS4wLjAuMA..">Alibaba Cloud</a> — Alibaba Cloud is collaborating with NEAR Foundation to provide Remote Procedure Call (RPC) as a service to NEAR ecosystem projects. In addition, Alibaba Cloud will focus on multi-chain data indexing which helps drive the adoption of the Blockchain Operating System (BOS) through supporting interoperability across different blockchains.&nbsp;</li>
 
 
 
@@ -525,11 +525,11 @@
 
 
 
-<p>We achieved significant progress in Korea with strategic wins, strengthening our position in what we consider a leading blockchain market. In Q1/ Q2, we closed 9 partnerships focused on gaming, entertainment and infrastructure to increase NEAR’s awareness and traction for chain adoption. Gaming is especially interesting in Korea due to the large audience, established game studios and blockchain expertise. Being a key part of the strategy, gaming&nbsp; has strong blockchain use cases with digital ownership, in-game economies and monetization models. We partnered with top Korean gaming industry leaders such as Netmarble’s <a href="https://pages.near.org/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">MARBLEX</a>, the blockchain-powered subsidiary of the well-established developer and&nbsp; publisher of mobile games, and <a href="https://pages.near.org/blog/near-foundation-partners-with-vortex-gaming-a-web3-subsidiary-of-koreas-largest-gaming-community-inven/">Vortex Gaming</a>, the Web3 subsidiary of Korea’s largest gaming community INVEN, to drive future growth.&nbsp;</p>
+<p>We achieved significant progress in Korea with strategic wins, strengthening our position in what we consider a leading blockchain market. In Q1/ Q2, we closed 9 partnerships focused on gaming, entertainment and infrastructure to increase NEAR’s awareness and traction for chain adoption. Gaming is especially interesting in Korea due to the large audience, established game studios and blockchain expertise. Being a key part of the strategy, gaming&nbsp; has strong blockchain use cases with digital ownership, in-game economies and monetization models. We partnered with top Korean gaming industry leaders such as Netmarble’s <a href="/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">MARBLEX</a>, the blockchain-powered subsidiary of the well-established developer and&nbsp; publisher of mobile games, and <a href="/blog/near-foundation-partners-with-vortex-gaming-a-web3-subsidiary-of-koreas-largest-gaming-community-inven/">Vortex Gaming</a>, the Web3 subsidiary of Korea’s largest gaming community INVEN, to drive future growth.&nbsp;</p>
 
 
 
-<p>In addition to gaming, we announced an exciting business partnership with <a href="https://pages.near.org/blog/near-foundation-joins-forces-with-mirae-asset-for-the-next-leap-in-web3-finance/">Mirae Asset</a>, a subsidiary of Asia’s largest financial group, Mirae Asset Global (headquartered in South Korea), to develop Web3 technology. <a href="https://twitter.com/NEARProtocol/status/1654509367683690506">Xangle</a>, a leading South Korean crypto data and research platform, has added metrics for NEAR Protocol and the Sweat Economy to make information on the NEAR ecosystem more accessible in the region. With the deals signed, partnership announcements, community activations and development activities, we are very excited for the future opportunities in Korea.&nbsp;</p>
+<p>In addition to gaming, we announced an exciting business partnership with <a href="/blog/near-foundation-joins-forces-with-mirae-asset-for-the-next-leap-in-web3-finance/">Mirae Asset</a>, a subsidiary of Asia’s largest financial group, Mirae Asset Global (headquartered in South Korea), to develop Web3 technology. <a href="https://twitter.com/NEARProtocol/status/1654509367683690506">Xangle</a>, a leading South Korean crypto data and research platform, has added metrics for NEAR Protocol and the Sweat Economy to make information on the NEAR ecosystem more accessible in the region. With the deals signed, partnership announcements, community activations and development activities, we are very excited for the future opportunities in Korea.&nbsp;</p>
 
 
 
@@ -537,7 +537,7 @@
 
 
 
-<p>In India, we have achieved noteworthy progress on multiple fronts. In Q1/ Q2, we closed 12 partnerships focused on government, sustainability, entertainment, and the infrastructure space. Industry leading  partnerships such as <a href="https://pages.near.org/blog/skoda-ventures-into-nfts-with-near-to-create-the-skodaverse-india/">Skoda</a> and <a href="https://pages.near.org/blog/shemaroo-and-near-foundation-accelerate-web3-adoption-in-indian-media-and-entertainment/">Shemaroo</a>, will act as lighthouse partnerships for the region. In addition to the enterprise use cases, NEAR enabled sustainability and impact projects with <a href="https://www.prnewswire.com/in/news-releases/near-foundation-and-airchains-join-forces-with-sankalptaru-foundation-to-boost-accountability-in-tree-plantations-301822068.html">SankalpTaru</a> and District administration Raigarh (State of Chhattisgarh)  to bring transparency, traceability, and accountability in afforestation initiatives. We continue to engage with the developer community in India and raise awareness about BOS. We achieved substantial media coverage in India, further consolidating the brand awareness. In addition, we are engaging think tanks and government bodies by conducting/participating in Web3 workshops and brainstorming sessions to bridge the awareness gap.  </p>
+<p>In India, we have achieved noteworthy progress on multiple fronts. In Q1/ Q2, we closed 12 partnerships focused on government, sustainability, entertainment, and the infrastructure space. Industry leading  partnerships such as <a href="/blog/skoda-ventures-into-nfts-with-near-to-create-the-skodaverse-india/">Skoda</a> and <a href="/blog/shemaroo-and-near-foundation-accelerate-web3-adoption-in-indian-media-and-entertainment/">Shemaroo</a>, will act as lighthouse partnerships for the region. In addition to the enterprise use cases, NEAR enabled sustainability and impact projects with <a href="https://www.prnewswire.com/in/news-releases/near-foundation-and-airchains-join-forces-with-sankalptaru-foundation-to-boost-accountability-in-tree-plantations-301822068.html">SankalpTaru</a> and District administration Raigarh (State of Chhattisgarh)  to bring transparency, traceability, and accountability in afforestation initiatives. We continue to engage with the developer community in India and raise awareness about BOS. We achieved substantial media coverage in India, further consolidating the brand awareness. In addition, we are engaging think tanks and government bodies by conducting/participating in Web3 workshops and brainstorming sessions to bridge the awareness gap.  </p>
 
 
 
@@ -724,7 +724,7 @@
 
 
 <p><em>The NEAR Foundation, its affiliates, directors, employees, and agents, shall not be held liable for any errors, omissions, or inaccuracies in the information provided herein. NEAR Foundation reserves the right to update, modify, or amend any information contained in this Report without prior notice. This Report is not intended to provide financial, investment, legal, tax, or any other professional advice. Readers should consult with their own professional advisors before making any decisions based on the information contained in this Report.</em></p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-transparency-report-q2-2023/">NEAR Foundation Transparency Report: Q2 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-transparency-report-q2-2023/">NEAR Foundation Transparency Report: Q2 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -732,17 +732,17 @@
 			</item>
 		<item>
 		<title>NEAR Foundation Transparency Report : Q3 2022</title>
-		<link>https://pages.near.org/blog/near-foundation-transparency-report-q3-2022/</link>
+		<link>/blog/near-foundation-transparency-report-q3-2022/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 20 Dec 2022 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Transparency report]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19603</guid>
+		<guid isPermaLink="false">/?p=19603</guid>
 
 					<description><![CDATA[<p>In this second NEAR Foundation Transparency Report covering Q3 of 2022, the Foundation aims to deliver on its commitment to&#160; …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-transparency-report-q3-2022/">NEAR Foundation Transparency Report : Q3 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-transparency-report-q3-2022/">NEAR Foundation Transparency Report : Q3 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>In this second NEAR Foundation Transparency Report covering Q3 of 2022, the Foundation aims to deliver on its commitment to&nbsp; consistent and frequent communication with the NEAR community.&nbsp;</p>
@@ -867,7 +867,7 @@
 
 
 
-<p>In total, the Foundation committed <strong>$39M</strong> during Q3, further contributing to our Q1’21 commitment of&nbsp; an <a href="https://pages.near.org/blog/near-announces-800-million-in-funding-initiatives-to-support-ecosystem-growth/">$800 million ecosystem fund</a>.&nbsp;</p>
+<p>In total, the Foundation committed <strong>$39M</strong> during Q3, further contributing to our Q1’21 commitment of&nbsp; an <a href="/blog/near-announces-800-million-in-funding-initiatives-to-support-ecosystem-growth/">$800 million ecosystem fund</a>.&nbsp;</p>
 
 
 
@@ -977,14 +977,14 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/fund-transparency2-grants-graph-1024x538.png" alt="" class="wp-image-19613" srcset="https://pages.near.org/wp-content/uploads/2022/12/fund-transparency2-grants-graph-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/fund-transparency2-grants-graph-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/fund-transparency2-grants-graph-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/fund-transparency2-grants-graph.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2022/12/fund-transparency2-grants-graph-1024x538.png" alt="" class="wp-image-19613" srcset="/wp-content/uploads/2022/12/fund-transparency2-grants-graph-1024x538.png 1024w, /wp-content/uploads/2022/12/fund-transparency2-grants-graph-300x158.png 300w, /wp-content/uploads/2022/12/fund-transparency2-grants-graph-768x403.png 768w, /wp-content/uploads/2022/12/fund-transparency2-grants-graph.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
 <ul>
 <li><strong>Infrastructure and Integrations </strong>– “Infrastructure” is a catch-all term for key ecosystem partnerships, integrations, and technologies that support access to mainnet and successful development on NEAR. These key components include: frictionless onboarding solutions, wallets, bridges, oracles, custodians, zero-knowledge technologies, privacy tools, and improved tooling for developers. Integrations with the NEAR network are laying the groundwork for the next phase of the community’s growth, which is bringing more users from Web2 into Web3 — what the Foundation calls Web 2.5. The following partnerships have been instrumental in making progress towards this initiative.
 <ul>
-<li><strong><em>Key projects:</em></strong><em> </em><a href="https://aurora.dev/"><strong><em>Aurora</em></strong></a><em>, </em><a href="https://www.pagoda.co/"><strong><em>Pagoda</em></strong></a><em>, </em><a href="https://www.calimero.network/"><strong><em>Calimero</em></strong></a><em>, </em><a href="https://switchboard.xyz/"><strong><em>Switchboard</em></strong></a><em>, </em><a href="https://oct.network/"><strong><em>Octopus</em></strong></a>, <a href="https://brave.com/near-aurora/"><strong><em>Brave</em></strong></a><em>, </em><a href="https://pages.near.org/blog/near-launches-sustainable-learn-and-earn-program-with-coinbase/"><strong><em>Coinbase</em></strong></a><em>, </em><a href="https://pages.near.org/blog/bitgo-becomes-first-qualified-custodian-to-support-near-protocol-and-its-assets/#:~:text=NEAR%20is%20so%20confident%20in,institutional%20investors%20across%2050%2B%20countries."><strong><em>BitGo</em></strong></a><em>, </em><a href="https://pages.near.org/blog/fireblocks-provides-custody-facility-for-institutional-investors-on-near/"><strong><em>Fireblocks</em></strong></a><em>, </em><a href="https://tether.to/"><strong><em>USDT</em></strong></a><em>, USDC, </em><a href="https://tokenterminal.com/"><strong><em>Token Terminal</em></strong></a><em>, </em><strong><em>OnMachina, Keypom</em></strong></li>
+<li><strong><em>Key projects:</em></strong><em> </em><a href="https://aurora.dev/"><strong><em>Aurora</em></strong></a><em>, </em><a href="https://www.pagoda.co/"><strong><em>Pagoda</em></strong></a><em>, </em><a href="https://www.calimero.network/"><strong><em>Calimero</em></strong></a><em>, </em><a href="https://switchboard.xyz/"><strong><em>Switchboard</em></strong></a><em>, </em><a href="https://oct.network/"><strong><em>Octopus</em></strong></a>, <a href="https://brave.com/near-aurora/"><strong><em>Brave</em></strong></a><em>, </em><a href="/blog/near-launches-sustainable-learn-and-earn-program-with-coinbase/"><strong><em>Coinbase</em></strong></a><em>, </em><a href="/blog/bitgo-becomes-first-qualified-custodian-to-support-near-protocol-and-its-assets/#:~:text=NEAR%20is%20so%20confident%20in,institutional%20investors%20across%2050%2B%20countries."><strong><em>BitGo</em></strong></a><em>, </em><a href="/blog/fireblocks-provides-custody-facility-for-institutional-investors-on-near/"><strong><em>Fireblocks</em></strong></a><em>, </em><a href="https://tether.to/"><strong><em>USDT</em></strong></a><em>, USDC, </em><a href="https://tokenterminal.com/"><strong><em>Token Terminal</em></strong></a><em>, </em><strong><em>OnMachina, Keypom</em></strong></li>
 </ul>
 </li>
 
@@ -1050,7 +1050,7 @@
 
 
 <ul>
-<li><a href="https://pages.near.org/blog/near-launches-kenya-regional-hub-to-support-blockchain-projects-and-talent-in-africa/">Kenya Hub</a> (Sankore)&nbsp;</li>
+<li><a href="/blog/near-launches-kenya-regional-hub-to-support-blockchain-projects-and-talent-in-africa/">Kenya Hub</a> (Sankore)&nbsp;</li>
 
 
 
@@ -1158,7 +1158,7 @@
 
 
 <p>Thank you!</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-transparency-report-q3-2022/">NEAR Foundation Transparency Report : Q3 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-transparency-report-q3-2022/">NEAR Foundation Transparency Report : Q3 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1166,31 +1166,31 @@
 			</item>
 		<item>
 		<title>NEAR Transparency Report: December 2</title>
-		<link>https://pages.near.org/blog/near-transparency-report-december-2/</link>
+		<link>/blog/near-transparency-report-december-2/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 02 Dec 2022 14:28:12 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Transparency report]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19468</guid>
+		<guid isPermaLink="false">/?p=19468</guid>
 
 					<description><![CDATA[<p>As part of the Foundation’s commitment to transparency, each week it will publish data to help the NEAR community understand …</p>
-<p>The post <a href="https://pages.near.org/blog/near-transparency-report-december-2/">NEAR Transparency Report: December 2</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-transparency-report-december-2/">NEAR Transparency Report: December 2</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>As part of the Foundation’s commitment to transparency, each week it will publish data to help the NEAR community understand the health of the ecosystem. This will be on top of the quarterly reports, and the now monthly funding reports.&nbsp;</p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-foundation-transparency-report/">You can find the quarterly reports here.</a></p>
+<p><a href="/blog/near-foundation-transparency-report/">You can find the quarterly reports here.</a></p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-foundation-funding-team-report-september-2022/">You can find monthly reports on funding here.</a>&nbsp;&nbsp;</p>
+<p><a href="/blog/near-foundation-funding-team-report-september-2022/">You can find monthly reports on funding here.</a>&nbsp;&nbsp;</p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-transparency-report-november-25/">Last week’s transparency report can be found here. </a></p>
+<p><a href="/blog/near-transparency-report-november-25/">Last week’s transparency report can be found here. </a></p>
 
 
 
@@ -1218,7 +1218,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="487" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.40-1024x487.png" alt="" class="wp-image-19476" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.40-1024x487.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.40-300x143.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.40-768x365.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.40.png 1090w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="487" src="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.40-1024x487.png" alt="" class="wp-image-19476" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.40-1024x487.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.40-300x143.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.40-768x365.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.40.png 1090w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1230,7 +1230,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.10-1024x488.png" alt="" class="wp-image-19474" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.10-1024x488.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.10-300x143.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.10-768x366.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.10.png 1072w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.10-1024x488.png" alt="" class="wp-image-19474" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.10-1024x488.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.10-300x143.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.10-768x366.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.10.png 1072w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1246,7 +1246,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.56-1024x486.png" alt="" class="wp-image-19475" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.56-1024x486.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.56-300x142.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.56-768x364.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.56.png 1071w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="486" src="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.56-1024x486.png" alt="" class="wp-image-19475" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.56-1024x486.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.56-300x142.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.56-768x364.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.14.56.png 1071w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1254,7 +1254,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="478" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.29-1024x478.png" alt="" class="wp-image-19473" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.29-1024x478.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.29-300x140.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.29-768x358.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.29.png 1102w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="478" src="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.29-1024x478.png" alt="" class="wp-image-19473" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.29-1024x478.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.29-300x140.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.29-768x358.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.15.29.png 1102w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1266,11 +1266,11 @@
 
 
 
-<p>Over the last few weeks, the daily amount of gas, expressed here as PetaGas, which is the equivalent of 0.1 $NEAR, has risen. To learn more about Gas on NEAR, there is an excellent explainer in the <a href="https://pages.near.org/papers/the-official-near-white-paper/">NEAR White Paper</a>. The Daily Amount of Used Gas has increased, briefly topping 8,000 PetaGas, before returning to the weekly average of just over 7,000 PetaGas.</p>
+<p>Over the last few weeks, the daily amount of gas, expressed here as PetaGas, which is the equivalent of 0.1 $NEAR, has risen. To learn more about Gas on NEAR, there is an excellent explainer in the <a href="/papers/the-official-near-white-paper/">NEAR White Paper</a>. The Daily Amount of Used Gas has increased, briefly topping 8,000 PetaGas, before returning to the weekly average of just over 7,000 PetaGas.</p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.08-1024x488.png" alt="" class="wp-image-19472" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.08-1024x488.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.08-300x143.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.08-768x366.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.08.png 1077w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.08-1024x488.png" alt="" class="wp-image-19472" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.08-1024x488.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.08-300x143.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.08-768x366.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.08.png 1077w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1278,7 +1278,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="492" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.30-1024x492.png" alt="" class="wp-image-19471" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.30-1024x492.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.30-300x144.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.30-768x369.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.30.png 1075w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="492" src="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.30-1024x492.png" alt="" class="wp-image-19471" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.30-1024x492.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.30-300x144.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.30-768x369.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.30.png 1075w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1290,12 +1290,12 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="489" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.41-1024x489.png" alt="" class="wp-image-19470" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.41-1024x489.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.41-300x143.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.41-768x367.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.41.png 1078w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="489" src="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.41-1024x489.png" alt="" class="wp-image-19470" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.41-1024x489.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.41-300x143.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.41-768x367.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-02-at-12.16.41.png 1078w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
 <p>These reports will be generated each week and published on Friday.</p>
-<p>The post <a href="https://pages.near.org/blog/near-transparency-report-december-2/">NEAR Transparency Report: December 2</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-transparency-report-december-2/">NEAR Transparency Report: December 2</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1303,31 +1303,31 @@
 			</item>
 		<item>
 		<title>NEAR Transparency Report: November 25</title>
-		<link>https://pages.near.org/blog/near-transparency-report-november-25/</link>
+		<link>/blog/near-transparency-report-november-25/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 25 Nov 2022 18:02:23 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Transparency report]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19273</guid>
+		<guid isPermaLink="false">/?p=19273</guid>
 
 					<description><![CDATA[<p>As part of the Foundation’s commitment to transparency, each week it will publish data to help the NEAR community understand …</p>
-<p>The post <a href="https://pages.near.org/blog/near-transparency-report-november-25/">NEAR Transparency Report: November 25</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-transparency-report-november-25/">NEAR Transparency Report: November 25</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>As part of the Foundation’s commitment to transparency, each week it will publish data to help the NEAR community understand the health of the ecosystem. This will be on top of the quarterly reports, and the now monthly funding reports.&nbsp;</p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-foundation-transparency-report/">You can find the quarterly reports here.</a></p>
+<p><a href="/blog/near-foundation-transparency-report/">You can find the quarterly reports here.</a></p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-foundation-funding-team-report-september-2022/">You can find monthly reports on funding here.</a>&nbsp;&nbsp;</p>
+<p><a href="/blog/near-foundation-funding-team-report-september-2022/">You can find monthly reports on funding here.</a>&nbsp;&nbsp;</p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-transparency-report-the-state-of-staking/">Last week’s transparency report can be found here.&nbsp;</a></p>
+<p><a href="/blog/near-transparency-report-the-state-of-staking/">Last week’s transparency report can be found here.&nbsp;</a></p>
 
 
 
@@ -1355,7 +1355,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="895" height="238" src="https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.11.52.png" alt="" class="wp-image-19274" srcset="https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.11.52.png 895w, https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.11.52-300x80.png 300w, https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.11.52-768x204.png 768w" sizes="(max-width: 895px) 100vw, 895px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="895" height="238" src="/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.11.52.png" alt="" class="wp-image-19274" srcset="/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.11.52.png 895w, /wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.11.52-300x80.png 300w, /wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.11.52-768x204.png 768w" sizes="(max-width: 895px) 100vw, 895px" /></figure>
 
 
 
@@ -1363,7 +1363,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.59.06-1024x488.png" alt="" class="wp-image-19297" srcset="https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.59.06-1024x488.png 1024w, https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.59.06-300x143.png 300w, https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.59.06-768x366.png 768w, https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.59.06.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="488" src="/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.59.06-1024x488.png" alt="" class="wp-image-19297" srcset="/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.59.06-1024x488.png 1024w, /wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.59.06-300x143.png 300w, /wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.59.06-768x366.png 768w, /wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.59.06.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1375,7 +1375,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="913" height="556" src="https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.01.png" alt="" class="wp-image-19275" srcset="https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.01.png 913w, https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.01-300x183.png 300w, https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.01-768x468.png 768w" sizes="(max-width: 913px) 100vw, 913px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="913" height="556" src="/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.01.png" alt="" class="wp-image-19275" srcset="/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.01.png 913w, /wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.01-300x183.png 300w, /wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.01-768x468.png 768w" sizes="(max-width: 913px) 100vw, 913px" /></figure>
 
 
 
@@ -1391,7 +1391,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="936" height="513" src="https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.40.png" alt="" class="wp-image-19277" srcset="https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.40.png 936w, https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.40-300x164.png 300w, https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.40-768x421.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="936" height="513" src="/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.40.png" alt="" class="wp-image-19277" srcset="/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.40.png 936w, /wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.40-300x164.png 300w, /wp-content/uploads/2022/11/Screenshot-2022-11-25-at-15.12.40-768x421.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure>
 
 
 
@@ -1407,7 +1407,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="473" src="https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.49.25-1024x473.png" alt="" class="wp-image-19294" srcset="https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.49.25-1024x473.png 1024w, https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.49.25-300x139.png 300w, https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.49.25-768x355.png 768w, https://pages.near.org/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.49.25.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="473" src="/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.49.25-1024x473.png" alt="" class="wp-image-19294" srcset="/wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.49.25-1024x473.png 1024w, /wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.49.25-300x139.png 300w, /wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.49.25-768x355.png 768w, /wp-content/uploads/2022/11/Screenshot-2022-11-25-at-17.49.25.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1416,7 +1416,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/near-transparency-report-november-25/">NEAR Transparency Report: November 25</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-transparency-report-november-25/">NEAR Transparency Report: November 25</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1424,16 +1424,16 @@
 			</item>
 		<item>
 		<title>NEAR Foundation Funding Team Report: October 2022 </title>
-		<link>https://pages.near.org/blog/near-foundation-funding-team-report-october-2022/</link>
+		<link>/blog/near-foundation-funding-team-report-october-2022/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 23 Nov 2022 16:45:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Transparency report]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19108</guid>
+		<guid isPermaLink="false">/?p=19108</guid>
 
 					<description><![CDATA[<p>Welcome to our Funding Team Report that captures and highlights data&#160; for the month of October 2022. The purpose of …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-funding-team-report-october-2022/">NEAR Foundation Funding Team Report: October 2022 </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-funding-team-report-october-2022/">NEAR Foundation Funding Team Report: October 2022 </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to our Funding Team Report that captures and highlights data&nbsp; for the month of October 2022. The purpose of this document is to provide transparency regarding our Funding Team’s activities last month,&nbsp;and is to be shared publicly to the NEAR ecosystem and our investor network.</p>
@@ -1920,8 +1920,8 @@
 
 
 
-<ul><li>explore the NEAR Funding&nbsp; <a href="https://linktr.ee/nearfunding">linktree</a></li><li>visit NF’s website : <a href="https://pages.near.org/">https://pages.near.org/</a></li><li>contact NF Grants : grants.@near.foundation&nbsp;</li></ul>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-funding-team-report-october-2022/">NEAR Foundation Funding Team Report: October 2022 </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<ul><li>explore the NEAR Funding&nbsp; <a href="https://linktr.ee/nearfunding">linktree</a></li><li>visit NF’s website : <a href="/">/</a></li><li>contact NF Grants : grants.@near.foundation&nbsp;</li></ul>
+<p>The post <a href="/blog/near-foundation-funding-team-report-october-2022/">NEAR Foundation Funding Team Report: October 2022 </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1929,27 +1929,27 @@
 			</item>
 		<item>
 		<title>NEAR Transparency Report: the State of Staking</title>
-		<link>https://pages.near.org/blog/near-transparency-report-the-state-of-staking/</link>
+		<link>/blog/near-transparency-report-the-state-of-staking/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 21 Nov 2022 15:05:30 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Transparency report]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19110</guid>
+		<guid isPermaLink="false">/?p=19110</guid>
 
 					<description><![CDATA[<p>As part of the Foundation’s commitment to transparency, each week it will publish data to help the NEAR community understand …</p>
-<p>The post <a href="https://pages.near.org/blog/near-transparency-report-the-state-of-staking/">NEAR Transparency Report: the State of Staking</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-transparency-report-the-state-of-staking/">NEAR Transparency Report: the State of Staking</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>As part of the Foundation’s commitment to transparency, each week it will publish data to help the NEAR community understand the health of the ecosystem. This will be on top of the quarterly report, and the now monthly funding reports.&nbsp;</p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-foundation-transparency-report/">You can find the quarterly reports here.</a></p>
+<p><a href="/blog/near-foundation-transparency-report/">You can find the quarterly reports here.</a></p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-foundation-funding-team-report-september-2022/">You can find monthly reports on funding here.</a>&nbsp;&nbsp;</p>
+<p><a href="/blog/near-foundation-funding-team-report-september-2022/">You can find monthly reports on funding here.</a>&nbsp;&nbsp;</p>
 
 
 
@@ -1961,7 +1961,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="512" height="49" src="https://pages.near.org/wp-content/uploads/2022/11/unnamed-2.png" alt="" class="wp-image-19112" srcset="https://pages.near.org/wp-content/uploads/2022/11/unnamed-2.png 512w, https://pages.near.org/wp-content/uploads/2022/11/unnamed-2-300x29.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="512" height="49" src="/wp-content/uploads/2022/11/unnamed-2.png" alt="" class="wp-image-19112" srcset="/wp-content/uploads/2022/11/unnamed-2.png 512w, /wp-content/uploads/2022/11/unnamed-2-300x29.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -1973,7 +1973,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="320" height="327" src="https://pages.near.org/wp-content/uploads/2022/11/unnamed-3.png" alt="" class="wp-image-19113" srcset="https://pages.near.org/wp-content/uploads/2022/11/unnamed-3.png 320w, https://pages.near.org/wp-content/uploads/2022/11/unnamed-3-294x300.png 294w" sizes="(max-width: 320px) 100vw, 320px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="320" height="327" src="/wp-content/uploads/2022/11/unnamed-3.png" alt="" class="wp-image-19113" srcset="/wp-content/uploads/2022/11/unnamed-3.png 320w, /wp-content/uploads/2022/11/unnamed-3-294x300.png 294w" sizes="(max-width: 320px) 100vw, 320px" /></figure>
 
 
 
@@ -2013,7 +2013,7 @@
 
 
 
-<p>Currently, there are a few well-known consensus mechanisms to keep a blockchain working correctly and resistant to attacks. NEAR Protocol uses a version of Proof-of-Stake, particularly <a href="https://pages.near.org/blog/thresholded-proof-of-stake/">Thresholded Proof of Stake</a>.</p>
+<p>Currently, there are a few well-known consensus mechanisms to keep a blockchain working correctly and resistant to attacks. NEAR Protocol uses a version of Proof-of-Stake, particularly <a href="/blog/thresholded-proof-of-stake/">Thresholded Proof of Stake</a>.</p>
 
 
 
@@ -2054,7 +2054,7 @@
 
 
 <p>These reports will be published each week, and cover different aspects of the ecosystem.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-transparency-report-the-state-of-staking/">NEAR Transparency Report: the State of Staking</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-transparency-report-the-state-of-staking/">NEAR Transparency Report: the State of Staking</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -2062,16 +2062,16 @@
 			</item>
 		<item>
 		<title>NEAR Foundation Transparency Report </title>
-		<link>https://pages.near.org/blog/near-foundation-transparency-report/</link>
+		<link>/blog/near-foundation-transparency-report/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 12 Sep 2022 10:33:47 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Transparency report]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=18379</guid>
+		<guid isPermaLink="false">/?p=18379</guid>
 
 					<description><![CDATA[<p>With this report, the NEAR Foundation would like to expand the consistent and frequent communication with the NEAR community, to …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-transparency-report/">NEAR Foundation Transparency Report </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-transparency-report/">NEAR Foundation Transparency Report </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>With this report, the NEAR Foundation would like to expand the consistent and frequent communication with the NEAR community, to contribute to the long-term health and viability of the ecosystem.</p>
@@ -2106,7 +2106,7 @@
 
 
 
-<p>In Q4 of 2021, the NEAR Foundation announced the <a href="https://pages.near.org/blog/near-announces-800-million-in-funding-initiatives-to-support-ecosystem-growth/">launch of an $800 million ecosystem fund</a>. The fund was to be split into four broad groups:</p>
+<p>In Q4 of 2021, the NEAR Foundation announced the <a href="/blog/near-announces-800-million-in-funding-initiatives-to-support-ecosystem-growth/">launch of an $800 million ecosystem fund</a>. The fund was to be split into four broad groups:</p>
 
 
 
@@ -2174,11 +2174,11 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="512" height="372" src="https://pages.near.org/wp-content/uploads/2022/09/unnamed-15.png" alt="" class="wp-image-18421" srcset="https://pages.near.org/wp-content/uploads/2022/09/unnamed-15.png 512w, https://pages.near.org/wp-content/uploads/2022/09/unnamed-15-300x218.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="512" height="372" src="/wp-content/uploads/2022/09/unnamed-15.png" alt="" class="wp-image-18421" srcset="/wp-content/uploads/2022/09/unnamed-15.png 512w, /wp-content/uploads/2022/09/unnamed-15-300x218.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
-<ul><li><strong>Infrastructure and Integrations </strong>&#8211; Infrastructure is a catch all term for key parts of the ecosystem that are needed to help unlock mass adoption. These include things like wallets, bridges, oracles, zk technologies, privacy tools, and improved tools for developers. Integrations with the NEAR network are crucial to bring more users into web3. The following partnerships have been instrumental in accelerating NEAR’s connection with the rest of web3.<ul><li><strong><em>Key projects:</em></strong><em> </em><a href="https://aurora.dev/"><strong><em>Aurora</em></strong></a><em>, </em><a href="https://www.pagoda.co/"><strong><em>Pagoda</em></strong></a><em>, </em><a href="https://www.calimero.network/"><strong><em>Calimero</em></strong></a><em>, </em><a href="https://switchboard.xyz/"><strong><em>Switchboard</em></strong></a><em>, </em><a href="https://oct.network/"><strong><em>Octopus</em></strong></a>, <a href="https://brave.com/near-aurora/"><strong><em>Brave</em></strong></a><em>, </em><a href="https://pages.near.org/blog/near-launches-sustainable-learn-and-earn-program-with-coinbase/"><strong><em>Coinbase Earn</em></strong></a><em>, </em><a href="https://pages.near.org/blog/bitgo-becomes-first-qualified-custodian-to-support-near-protocol-and-its-assets/#:~:text=NEAR%20is%20so%20confident%20in,institutional%20investors%20across%2050%2B%20countries."><strong><em>BitGo</em></strong></a><em>, </em><a href="https://tether.to/"><strong><em>USDT</em></strong></a><em>, </em><a href="https://pages.near.org/blog/fireblocks-provides-custody-facility-for-institutional-investors-on-near/"><strong><em>Fireblocks</em></strong></a><em>, </em><a href="https://tokenterminal.com/"><strong><em>Token Terminal</em></strong></a><em>, </em><a href="https://copper.co/about"><strong><em>Copper</em></strong></a></li></ul></li></ul>
+<ul><li><strong>Infrastructure and Integrations </strong>&#8211; Infrastructure is a catch all term for key parts of the ecosystem that are needed to help unlock mass adoption. These include things like wallets, bridges, oracles, zk technologies, privacy tools, and improved tools for developers. Integrations with the NEAR network are crucial to bring more users into web3. The following partnerships have been instrumental in accelerating NEAR’s connection with the rest of web3.<ul><li><strong><em>Key projects:</em></strong><em> </em><a href="https://aurora.dev/"><strong><em>Aurora</em></strong></a><em>, </em><a href="https://www.pagoda.co/"><strong><em>Pagoda</em></strong></a><em>, </em><a href="https://www.calimero.network/"><strong><em>Calimero</em></strong></a><em>, </em><a href="https://switchboard.xyz/"><strong><em>Switchboard</em></strong></a><em>, </em><a href="https://oct.network/"><strong><em>Octopus</em></strong></a>, <a href="https://brave.com/near-aurora/"><strong><em>Brave</em></strong></a><em>, </em><a href="/blog/near-launches-sustainable-learn-and-earn-program-with-coinbase/"><strong><em>Coinbase Earn</em></strong></a><em>, </em><a href="/blog/bitgo-becomes-first-qualified-custodian-to-support-near-protocol-and-its-assets/#:~:text=NEAR%20is%20so%20confident%20in,institutional%20investors%20across%2050%2B%20countries."><strong><em>BitGo</em></strong></a><em>, </em><a href="https://tether.to/"><strong><em>USDT</em></strong></a><em>, </em><a href="/blog/fireblocks-provides-custody-facility-for-institutional-investors-on-near/"><strong><em>Fireblocks</em></strong></a><em>, </em><a href="https://tokenterminal.com/"><strong><em>Token Terminal</em></strong></a><em>, </em><a href="https://copper.co/about"><strong><em>Copper</em></strong></a></li></ul></li></ul>
 
 
 
@@ -2258,7 +2258,7 @@
 
 
 
-<ul><li><a href="https://www.nearua.com/">Ukraine Hub</a> (in exile in Lisbon)&nbsp;</li><li><a href="https://pages.near.org/blog/near-launches-kenya-regional-hub-to-support-blockchain-projects-and-talent-in-africa/">Kenya Hub</a> (Sankore)&nbsp;</li><li><a href="https://nearbalkans.org/">Balkans Hub</a></li></ul>
+<ul><li><a href="https://www.nearua.com/">Ukraine Hub</a> (in exile in Lisbon)&nbsp;</li><li><a href="/blog/near-launches-kenya-regional-hub-to-support-blockchain-projects-and-talent-in-africa/">Kenya Hub</a> (Sankore)&nbsp;</li><li><a href="https://nearbalkans.org/">Balkans Hub</a></li></ul>
 
 
 
@@ -2270,7 +2270,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="512" height="273" src="https://pages.near.org/wp-content/uploads/2022/09/unnamed-16.png" alt="" class="wp-image-18422" srcset="https://pages.near.org/wp-content/uploads/2022/09/unnamed-16.png 512w, https://pages.near.org/wp-content/uploads/2022/09/unnamed-16-300x160.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="512" height="273" src="/wp-content/uploads/2022/09/unnamed-16.png" alt="" class="wp-image-18422" srcset="/wp-content/uploads/2022/09/unnamed-16.png 512w, /wp-content/uploads/2022/09/unnamed-16-300x160.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -2294,7 +2294,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="512" height="273" src="https://pages.near.org/wp-content/uploads/2022/09/near-foundation-treasury.png" alt="" class="wp-image-18380" srcset="https://pages.near.org/wp-content/uploads/2022/09/near-foundation-treasury.png 512w, https://pages.near.org/wp-content/uploads/2022/09/near-foundation-treasury-300x160.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="512" height="273" src="/wp-content/uploads/2022/09/near-foundation-treasury.png" alt="" class="wp-image-18380" srcset="/wp-content/uploads/2022/09/near-foundation-treasury.png 512w, /wp-content/uploads/2022/09/near-foundation-treasury-300x160.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -2363,7 +2363,7 @@
 
 
 <p>Thank you!</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-transparency-report/">NEAR Foundation Transparency Report </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-transparency-report/">NEAR Foundation Transparency Report </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

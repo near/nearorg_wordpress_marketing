@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Statistics Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/statistics/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/statistics/</link>
+	<atom:link href="/blog/tag/statistics/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/statistics/</link>
 	<description></description>
 	<lastBuildDate>Fri, 23 Dec 2022 12:31:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,40 +21,40 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Statistics Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/statistics/</link>
+	<link>/blog/tag/statistics/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Weekly On Chain Data Report: December 23</title>
-		<link>https://pages.near.org/blog/near-weekly-on-chain-data-report-december-23/</link>
+		<link>/blog/near-weekly-on-chain-data-report-december-23/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 23 Dec 2022 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Statistics]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19663</guid>
+		<guid isPermaLink="false">/?p=19663</guid>
 
 					<description><![CDATA[<p>Transparency continues to be a core focus of the NEAR Fondation, so every week it will publish data to assess …</p>
-<p>The post <a href="https://pages.near.org/blog/near-weekly-on-chain-data-report-december-23/">NEAR Weekly On Chain Data Report: December 23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-weekly-on-chain-data-report-december-23/">NEAR Weekly On Chain Data Report: December 23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Transparency continues to be a core focus of the NEAR Fondation, so every week it will publish data to assess the health of the ecosystem. This is to aid the NEAR community in understanding the current state of NEAR across key metrics. The Weekly On Chain Data Report will also appear at the top of quarterly reports as well as monthly funding reports.</p>
 
 
 
-<p>Read the <a href="https://pages.near.org/blog/near-foundation-transparency-report/">Quarterly Transparency Reports.</a>&nbsp;</p>
+<p>Read the <a href="/blog/near-foundation-transparency-report/">Quarterly Transparency Reports.</a>&nbsp;</p>
 
 
 
-<p>Read the <a href="https://pages.near.org/blog/near-foundation-transparency-report-q3-2022/">Q3 Transparency Report</a>&nbsp;</p>
+<p>Read the <a href="/blog/near-foundation-transparency-report-q3-2022/">Q3 Transparency Report</a>&nbsp;</p>
 
 
 
-<p>Read Last week’s &nbsp;<a href="https://pages.near.org/blog/near-transparency-report-december-9/">On-Chain Data Report.</a></p>
+<p>Read Last week’s &nbsp;<a href="/blog/near-transparency-report-december-9/">On-Chain Data Report.</a></p>
 
 
 
@@ -151,7 +151,7 @@
 
 
 <p>These reports are generated every week and published on Friday.</p>
-<p>The post <a href="https://pages.near.org/blog/near-weekly-on-chain-data-report-december-23/">NEAR Weekly On Chain Data Report: December 23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-weekly-on-chain-data-report-december-23/">NEAR Weekly On Chain Data Report: December 23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -159,28 +159,28 @@
 			</item>
 		<item>
 		<title>NEAR Weekly On-Chain Data Report: December 16 </title>
-		<link>https://pages.near.org/blog/near-weekly-on-chain-data-report-december-16/</link>
+		<link>/blog/near-weekly-on-chain-data-report-december-16/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 16 Dec 2022 16:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Mass adoption]]></category>
 		<category><![CDATA[Statistics]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19593</guid>
+		<guid isPermaLink="false">/?p=19593</guid>
 
 					<description><![CDATA[<p>As part of the Foundation’s commitment to transparency, each week it will publish data to help the NEAR community understand …</p>
-<p>The post <a href="https://pages.near.org/blog/near-weekly-on-chain-data-report-december-16/">NEAR Weekly On-Chain Data Report: December 16 </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-weekly-on-chain-data-report-december-16/">NEAR Weekly On-Chain Data Report: December 16 </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>As part of the Foundation’s commitment to transparency, each week it will publish data to help the NEAR community understand the health of the ecosystem. This will be on top of the quarterly reports, and the now monthly funding reports.&nbsp;</p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-foundation-transparency-report/">You can find the Quarterly Transparency Reports here.</a> (The Q3 report will be published next week.)</p>
+<p><a href="/blog/near-foundation-transparency-report/">You can find the Quarterly Transparency Reports here.</a> (The Q3 report will be published next week.)</p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-transparency-report-december-9/">Last week’s On-Chain Data Report can be found here.&nbsp;</a></p>
+<p><a href="/blog/near-transparency-report-december-9/">Last week’s On-Chain Data Report can be found here.&nbsp;</a></p>
 
 
 
@@ -208,7 +208,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="537" src="https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-New-Accounts-1024x537.png" alt="" class="wp-image-19595" srcset="https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-New-Accounts-1024x537.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-New-Accounts-300x157.png 300w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-New-Accounts-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-New-Accounts-1536x806.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-New-Accounts-2048x1075.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="537" src="/wp-content/uploads/2022/12/NEAR-Daily-of-New-Accounts-1024x537.png" alt="" class="wp-image-19595" srcset="/wp-content/uploads/2022/12/NEAR-Daily-of-New-Accounts-1024x537.png 1024w, /wp-content/uploads/2022/12/NEAR-Daily-of-New-Accounts-300x157.png 300w, /wp-content/uploads/2022/12/NEAR-Daily-of-New-Accounts-768x403.png 768w, /wp-content/uploads/2022/12/NEAR-Daily-of-New-Accounts-1536x806.png 1536w, /wp-content/uploads/2022/12/NEAR-Daily-of-New-Accounts-2048x1075.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -220,7 +220,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Accounts-1024x538.png" alt="" class="wp-image-19596" srcset="https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Accounts-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Accounts-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Accounts-768x404.png 768w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Accounts-1536x807.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Accounts-2048x1076.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Accounts-1024x538.png" alt="" class="wp-image-19596" srcset="/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Accounts-1024x538.png 1024w, /wp-content/uploads/2022/12/NEAR-Daily-of-Active-Accounts-300x158.png 300w, /wp-content/uploads/2022/12/NEAR-Daily-of-Active-Accounts-768x404.png 768w, /wp-content/uploads/2022/12/NEAR-Daily-of-Active-Accounts-1536x807.png 1536w, /wp-content/uploads/2022/12/NEAR-Daily-of-Active-Accounts-2048x1076.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -236,7 +236,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="532" src="https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-New-Contracts-1024x532.png" alt="" class="wp-image-19597" srcset="https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-New-Contracts-1024x532.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-New-Contracts-300x156.png 300w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-New-Contracts-768x399.png 768w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-New-Contracts-1536x798.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-New-Contracts-2048x1064.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="532" src="/wp-content/uploads/2022/12/NEAR-Daily-of-New-Contracts-1024x532.png" alt="" class="wp-image-19597" srcset="/wp-content/uploads/2022/12/NEAR-Daily-of-New-Contracts-1024x532.png 1024w, /wp-content/uploads/2022/12/NEAR-Daily-of-New-Contracts-300x156.png 300w, /wp-content/uploads/2022/12/NEAR-Daily-of-New-Contracts-768x399.png 768w, /wp-content/uploads/2022/12/NEAR-Daily-of-New-Contracts-1536x798.png 1536w, /wp-content/uploads/2022/12/NEAR-Daily-of-New-Contracts-2048x1064.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -244,7 +244,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="482" src="https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Contracts-1024x482.png" alt="" class="wp-image-19598" srcset="https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Contracts-1024x482.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Contracts-300x141.png 300w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Contracts-768x361.png 768w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Contracts-1536x723.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Contracts-2048x964.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="482" src="/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Contracts-1024x482.png" alt="" class="wp-image-19598" srcset="/wp-content/uploads/2022/12/NEAR-Daily-of-Active-Contracts-1024x482.png 1024w, /wp-content/uploads/2022/12/NEAR-Daily-of-Active-Contracts-300x141.png 300w, /wp-content/uploads/2022/12/NEAR-Daily-of-Active-Contracts-768x361.png 768w, /wp-content/uploads/2022/12/NEAR-Daily-of-Active-Contracts-1536x723.png 1536w, /wp-content/uploads/2022/12/NEAR-Daily-of-Active-Contracts-2048x964.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -256,11 +256,11 @@
 
 
 
-<p>In the last week, Used Gas on NEAR (PetaGas) was measured at a high of 7,569 on December 11th and 6,758 on the 14th. To learn more about Gas on NEAR, check out the <a href="https://pages.near.org/papers/the-official-near-white-paper/">NEAR White Paper</a>. (Rises in gas used can be attributed to many factors, with a common one being increased user activity on the NEAR network.) </p>
+<p>In the last week, Used Gas on NEAR (PetaGas) was measured at a high of 7,569 on December 11th and 6,758 on the 14th. To learn more about Gas on NEAR, check out the <a href="/papers/the-official-near-white-paper/">NEAR White Paper</a>. (Rises in gas used can be attributed to many factors, with a common one being increased user activity on the NEAR network.) </p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-Amount-of-Used-Gas-1024x538.png" alt="" class="wp-image-19599" srcset="https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-Amount-of-Used-Gas-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-Amount-of-Used-Gas-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-Amount-of-Used-Gas-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-Amount-of-Used-Gas-1536x807.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-Amount-of-Used-Gas-2048x1076.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2022/12/NEAR-Daily-Amount-of-Used-Gas-1024x538.png" alt="" class="wp-image-19599" srcset="/wp-content/uploads/2022/12/NEAR-Daily-Amount-of-Used-Gas-1024x538.png 1024w, /wp-content/uploads/2022/12/NEAR-Daily-Amount-of-Used-Gas-300x158.png 300w, /wp-content/uploads/2022/12/NEAR-Daily-Amount-of-Used-Gas-768x403.png 768w, /wp-content/uploads/2022/12/NEAR-Daily-Amount-of-Used-Gas-1536x807.png 1536w, /wp-content/uploads/2022/12/NEAR-Daily-Amount-of-Used-Gas-2048x1076.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -268,7 +268,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="534" src="https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-Gas-Fee-in-NEAR-1024x534.png" alt="" class="wp-image-19600" srcset="https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-Gas-Fee-in-NEAR-1024x534.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-Gas-Fee-in-NEAR-300x156.png 300w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-Gas-Fee-in-NEAR-768x400.png 768w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-Gas-Fee-in-NEAR-1536x801.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/NEAR-Daily-Gas-Fee-in-NEAR-2048x1068.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="534" src="/wp-content/uploads/2022/12/NEAR-Daily-Gas-Fee-in-NEAR-1024x534.png" alt="" class="wp-image-19600" srcset="/wp-content/uploads/2022/12/NEAR-Daily-Gas-Fee-in-NEAR-1024x534.png 1024w, /wp-content/uploads/2022/12/NEAR-Daily-Gas-Fee-in-NEAR-300x156.png 300w, /wp-content/uploads/2022/12/NEAR-Daily-Gas-Fee-in-NEAR-768x400.png 768w, /wp-content/uploads/2022/12/NEAR-Daily-Gas-Fee-in-NEAR-1536x801.png 1536w, /wp-content/uploads/2022/12/NEAR-Daily-Gas-Fee-in-NEAR-2048x1068.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -277,7 +277,7 @@
 
 
 <p>The Daily Number of Transactions illustrates the number of times the blockchain logged a transaction. The data from this week showcases an increase in the number of transactions, which was also the case over the previous week. Daily Number of Transactions hit a weekly high of 439,660 on December 11th before falling to 373,335 on the 14th.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-weekly-on-chain-data-report-december-16/">NEAR Weekly On-Chain Data Report: December 16 </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-weekly-on-chain-data-report-december-16/">NEAR Weekly On-Chain Data Report: December 16 </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -285,32 +285,32 @@
 			</item>
 		<item>
 		<title>NEAR Weekly On Chain Data Report: December 9</title>
-		<link>https://pages.near.org/blog/near-transparency-report-december-9/</link>
+		<link>/blog/near-transparency-report-december-9/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 09 Dec 2022 10:38:36 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Mass adoption]]></category>
 		<category><![CDATA[Statistics]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19508</guid>
+		<guid isPermaLink="false">/?p=19508</guid>
 
 					<description><![CDATA[<p>As part of the Foundation’s commitment to transparency, each week it will publish data to help the NEAR community understand …</p>
-<p>The post <a href="https://pages.near.org/blog/near-transparency-report-december-9/">NEAR Weekly On Chain Data Report: December 9</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-transparency-report-december-9/">NEAR Weekly On Chain Data Report: December 9</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>As part of the Foundation’s commitment to transparency, each week it will publish data to help the NEAR community understand the health of the ecosystem. This will be on top of the quarterly reports, and the now monthly funding reports.&nbsp;</p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-foundation-transparency-report/">You can find the quarterly reports here.</a></p>
+<p><a href="/blog/near-foundation-transparency-report/">You can find the quarterly reports here.</a></p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-foundation-funding-team-report-september-2022/">You can find monthly reports on funding here.</a>&nbsp;&nbsp;</p>
+<p><a href="/blog/near-foundation-funding-team-report-september-2022/">You can find monthly reports on funding here.</a>&nbsp;&nbsp;</p>
 
 
 
-<p><a href="https://pages.near.org/blog/near-transparency-report-december-2/">Last week’s transparency report can be found here.&nbsp;</a></p>
+<p><a href="/blog/near-transparency-report-december-2/">Last week’s transparency report can be found here.&nbsp;</a></p>
 
 
 
@@ -342,7 +342,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="579" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.19.51-1024x579.png" alt="" class="wp-image-19509" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.19.51-1024x579.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.19.51-300x170.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.19.51-768x434.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.19.51-1536x868.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.19.51.png 1808w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="579" src="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.19.51-1024x579.png" alt="" class="wp-image-19509" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.19.51-1024x579.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.19.51-300x170.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.19.51-768x434.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.19.51-1536x868.png 1536w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.19.51.png 1808w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -354,7 +354,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="581" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.28-1024x581.png" alt="" class="wp-image-19510" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.28-1024x581.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.28-300x170.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.28-768x436.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.28-1536x871.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.28.png 1816w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="581" src="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.28-1024x581.png" alt="" class="wp-image-19510" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.28-1024x581.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.28-300x170.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.28-768x436.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.28-1536x871.png 1536w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.28.png 1816w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -370,7 +370,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="579" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.12-1024x579.png" alt="" class="wp-image-19511" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.12-1024x579.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.12-300x170.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.12-768x435.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.12-1536x869.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.12.png 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="579" src="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.12-1024x579.png" alt="" class="wp-image-19511" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.12-1024x579.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.12-300x170.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.12-768x435.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.12-1536x869.png 1536w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.12.png 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -378,7 +378,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="586" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.48-1024x586.png" alt="" class="wp-image-19512" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.48-1024x586.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.48-300x172.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.48-768x440.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.48-1536x879.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.48.png 1806w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="586" src="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.48-1024x586.png" alt="" class="wp-image-19512" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.48-1024x586.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.48-300x172.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.48-768x440.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.48-1536x879.png 1536w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.20.48.png 1806w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -394,11 +394,11 @@
 
 
 
-<p>Over the last week, the daily amount of gas, expressed here as PetaGas, which is the equivalent of 0.1 $NEAR, has maintained a fairly consistent value between 5,949 PetaGas and 6,743 PetaGas. To learn more about Gas on NEAR, there is an excellent explainer in the&nbsp;<a href="https://pages.near.org/papers/the-official-near-white-paper/">NEAR White Paper</a>. Compared with last week, the Daily Amount of Used Gas has decreased, from highs of more than 8,000 PetaGas.</p>
+<p>Over the last week, the daily amount of gas, expressed here as PetaGas, which is the equivalent of 0.1 $NEAR, has maintained a fairly consistent value between 5,949 PetaGas and 6,743 PetaGas. To learn more about Gas on NEAR, there is an excellent explainer in the&nbsp;<a href="/papers/the-official-near-white-paper/">NEAR White Paper</a>. Compared with last week, the Daily Amount of Used Gas has decreased, from highs of more than 8,000 PetaGas.</p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="586" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.17.10-1024x586.png" alt="" class="wp-image-19513" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.17.10-1024x586.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.17.10-300x172.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.17.10-768x440.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.17.10-1536x880.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.17.10.png 1802w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="586" src="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.17.10-1024x586.png" alt="" class="wp-image-19513" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.17.10-1024x586.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.17.10-300x172.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.17.10-768x440.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.17.10-1536x880.png 1536w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.17.10.png 1802w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -406,7 +406,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="585" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-10.20.29-1024x585.png" alt="" class="wp-image-19524" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-10.20.29-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-10.20.29-300x172.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-10.20.29-768x439.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-10.20.29-1536x878.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-10.20.29.png 1840w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="585" src="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-10.20.29-1024x585.png" alt="" class="wp-image-19524" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-10.20.29-1024x585.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-10.20.29-300x172.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-10.20.29-768x439.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-10.20.29-1536x878.png 1536w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-10.20.29.png 1840w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -418,12 +418,12 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="585" src="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.16.39-1024x585.png" alt="" class="wp-image-19516" srcset="https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.16.39-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.16.39-300x171.png 300w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.16.39-768x438.png 768w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.16.39-1536x877.png 1536w, https://pages.near.org/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.16.39.png 1804w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="585" src="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.16.39-1024x585.png" alt="" class="wp-image-19516" srcset="/wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.16.39-1024x585.png 1024w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.16.39-300x171.png 300w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.16.39-768x438.png 768w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.16.39-1536x877.png 1536w, /wp-content/uploads/2022/12/Screenshot-2022-12-09-at-09.16.39.png 1804w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
 <p>These reports will be generated each week and published on Friday.</p>
-<p>The post <a href="https://pages.near.org/blog/near-transparency-report-december-9/">NEAR Weekly On Chain Data Report: December 9</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-transparency-report-december-9/">NEAR Weekly On Chain Data Report: December 9</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -431,17 +431,17 @@
 			</item>
 		<item>
 		<title>NEAR Foundation Funding Team Report: September 2022</title>
-		<link>https://pages.near.org/blog/near-foundation-funding-team-report-september-2022/</link>
+		<link>/blog/near-foundation-funding-team-report-september-2022/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 18 Nov 2022 10:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Grants]]></category>
 		<category><![CDATA[Statistics]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19093</guid>
+		<guid isPermaLink="false">/?p=19093</guid>
 
 					<description><![CDATA[<p>Welcome to the NEAR Foundation Funding Team Report that captures and highlights data for the month of September 2022. The …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-funding-team-report-september-2022/">NEAR Foundation Funding Team Report: September 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-funding-team-report-september-2022/">NEAR Foundation Funding Team Report: September 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to the NEAR Foundation Funding Team Report that captures and highlights data for the month of September 2022. The purpose of this document is to provide transparency regarding what happened during the last month in our Funding Team,&nbsp;and is to be shared publicly to the ecosystem and our investor network.</p>
@@ -864,8 +864,8 @@
 
 
 
-<ul><li>explore the NEAR Funding&nbsp; <a href="https://linktr.ee/nearfunding">linktree</a></li><li>visit NF’s website : <a href="https://pages.near.org/">https://pages.near.org/</a></li><li>contact NF Grants : <a href="grant@near.foundation">grants@near.foundation&nbsp;</a></li></ul>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-funding-team-report-september-2022/">NEAR Foundation Funding Team Report: September 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<ul><li>explore the NEAR Funding&nbsp; <a href="https://linktr.ee/nearfunding">linktree</a></li><li>visit NF’s website : <a href="/">/</a></li><li>contact NF Grants : <a href="grant@near.foundation">grants@near.foundation&nbsp;</a></li></ul>
+<p>The post <a href="/blog/near-foundation-funding-team-report-september-2022/">NEAR Foundation Funding Team Report: September 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -873,16 +873,16 @@
 			</item>
 		<item>
 		<title>Refer-and-Earn 2022 Q2 Report </title>
-		<link>https://pages.near.org/blog/refer-and-earn-2022-q2-report/</link>
+		<link>/blog/refer-and-earn-2022-q2-report/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Statistics]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=18623</guid>
+		<guid isPermaLink="false">/?p=18623</guid>
 
 					<description><![CDATA[<p>NEAR’s ever-growing and engaged community is one of the ecosystem’s greatest strengths. Remember the NEAR Foundation Grants team’s Refer-and-Earn bonus …</p>
-<p>The post <a href="https://pages.near.org/blog/refer-and-earn-2022-q2-report/">Refer-and-Earn 2022 Q2 Report </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/refer-and-earn-2022-q2-report/">Refer-and-Earn 2022 Q2 Report </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR’s ever-growing and engaged community is one of the ecosystem’s greatest strengths. Remember the <a href="https://medium.com/nearprotocol/refer-and-earn-pick-projects-you-love-and-get-up-to-10-000-in-near-981c0c015ba4#:~:text=Refer%20and%20Earn.,for%20nominating%20a%20worthy%20project">NEAR Foundation Grants team’s Refer-and-Earn bonus scheme</a>? A number of NEAR community members participated in Refer-and-Earn in early 2022, resulting in grants for dozens of exciting projects currently building on the NEAR ecosystem.&nbsp;&nbsp;</p>
@@ -930,7 +930,7 @@
 
 
 <p>Please contact grants@near.foundation for additional information or inquiries.</p>
-<p>The post <a href="https://pages.near.org/blog/refer-and-earn-2022-q2-report/">Refer-and-Earn 2022 Q2 Report </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/refer-and-earn-2022-q2-report/">Refer-and-Earn 2022 Q2 Report </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -938,17 +938,17 @@
 			</item>
 		<item>
 		<title>NEAR After NEARCON In Numbers</title>
-		<link>https://pages.near.org/blog/near-after-nearcon-in-numbers/</link>
+		<link>/blog/near-after-nearcon-in-numbers/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 30 Sep 2022 13:00:00 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[NEARCON]]></category>
 		<category><![CDATA[Statistics]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=18573</guid>
+		<guid isPermaLink="false">/?p=18573</guid>
 
 					<description><![CDATA[<p>Anyone who made the trip to Lisbon for NEARCON 2022, or tuned in via the YouTube livestream or Twitter, knew …</p>
-<p>The post <a href="https://pages.near.org/blog/near-after-nearcon-in-numbers/">NEAR After NEARCON In Numbers</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-after-nearcon-in-numbers/">NEAR After NEARCON In Numbers</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Anyone who made the trip to Lisbon for NEARCON 2022, or tuned in via the YouTube livestream or Twitter, knew NEARCON was a smashing success. The vibe was something to behold. From devs and builders to other visionaries and champions of NEAR, NEARCON showcased the ecosystem and community at its very best—with boundless energy for creating without limits.&nbsp;</p>
@@ -1080,7 +1080,7 @@
 
 
 <p>This is what creating without limits looks like. And it’s just the beginning!</p>
-<p>The post <a href="https://pages.near.org/blog/near-after-nearcon-in-numbers/">NEAR After NEARCON In Numbers</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-after-nearcon-in-numbers/">NEAR After NEARCON In Numbers</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

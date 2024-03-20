@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Aurora Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/aurora/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/aurora/</link>
+	<atom:link href="/blog/tag/aurora/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/aurora/</link>
 	<description></description>
 	<lastBuildDate>Mon, 05 Jun 2023 07:03:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Aurora Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/aurora/</link>
+	<link>/blog/tag/aurora/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</title>
-		<link>https://pages.near.org/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/</link>
+		<link>/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Sun, 04 Jun 2023 06:35:49 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Partnerships]]></category>
 		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20565</guid>
+		<guid isPermaLink="false">/?p=20565</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new strategic partnership with MARBLEX, a blockchain subsidiary of Netmarble Corp, that will …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p></p>
@@ -85,7 +85,7 @@
 
 
 <p>“NEAR Protocol provides a user experience similar to Web2 using Fast Auth account abstraction feature, greatly lowering the initial entry barrier to Web3,” said a spokesperson from NEAR Korea Hub. “We will continue to strongly partner with excellent domestic companies such as MARBLEX to implement a user-centered ecosystem where users can easily enjoy all services.”</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -93,17 +93,17 @@
 			</item>
 		<item>
 		<title>NEAR’s Road to Decentralization: Building Bridges</title>
-		<link>https://pages.near.org/blog/near-bridges-decentralization-interconnection/</link>
+		<link>/blog/near-bridges-decentralization-interconnection/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 14 Mar 2022 13:59:10 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Aurora]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=16003</guid>
+		<guid isPermaLink="false">/?p=16003</guid>
 
 					<description><![CDATA[<p>The NEAR community’s big-picture vision has always been straightforward — onboard billions of people into Web3. In this new iteration …</p>
-<p>The post <a href="https://pages.near.org/blog/near-bridges-decentralization-interconnection/">NEAR’s Road to Decentralization: Building Bridges</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-bridges-decentralization-interconnection/">NEAR’s Road to Decentralization: Building Bridges</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR community’s big-picture vision has always been straightforward — onboard billions of people into Web3. In this new iteration of the Internet, blockchain platforms and apps will be decentralized, open-source, transparent, and humane. This Open Web will be full of utility, encouraging maximum participation from developers and end-users.&nbsp;</p>
@@ -122,15 +122,15 @@
 
 
 
-<p>Enter <a href="https://pages.near.org/bridge/">Rainbow Bridge</a>, one of the first fully permissionless, decentralized, and openly accessible bridges in the crypto-sphere. Almost a year after launch, Rainbow Bridge has more than a dozen projects utilizing this technical infrastructure.</p>
+<p>Enter <a href="/bridge/">Rainbow Bridge</a>, one of the first fully permissionless, decentralized, and openly accessible bridges in the crypto-sphere. Almost a year after launch, Rainbow Bridge has more than a dozen projects utilizing this technical infrastructure.</p>
 
 
 
-<p>In connecting NEAR and Ethereum, Rainbow Bridge is a major first step toward the multi-chain future, allowing developers to use NEAR’s fast, simple, and low-cost transaction network to move assets back and forth between the two protocols. Crucially, <a href="https://pages.near.org/bridge/">Rainbow Bridge</a> gives NEAR users access to familiar projects on Ethereum.</p>
+<p>In connecting NEAR and Ethereum, Rainbow Bridge is a major first step toward the multi-chain future, allowing developers to use NEAR’s fast, simple, and low-cost transaction network to move assets back and forth between the two protocols. Crucially, <a href="/bridge/">Rainbow Bridge</a> gives NEAR users access to familiar projects on Ethereum.</p>
 
 
 
-<p>The development of <a href="https://pages.near.org/bridge/">Rainbow Bridge</a> evolved, as many blockchain projects do, out of a necessity to solve an immediate engineering problem: how does a project on a separate blockchain migrate its services to another without having to rebuild the entire product from scratch. Thanks to NEAR&#8217;s Rainbow Bridge, any token or Dapp that uses Ethereum&#8217;s Virtual Machine can run on NEAR. With this capability in place, the NEAR ecosystem is able to integrate ERC20 with native NEAR solutions. Anyone can use NEAR as a technical backend while operating in the Ethereum ecosystem. The NEAR-ETH Rainbow Bridge is entirely permissionless and decentralized. No single entity controls it.</p>
+<p>The development of <a href="/bridge/">Rainbow Bridge</a> evolved, as many blockchain projects do, out of a necessity to solve an immediate engineering problem: how does a project on a separate blockchain migrate its services to another without having to rebuild the entire product from scratch. Thanks to NEAR&#8217;s Rainbow Bridge, any token or Dapp that uses Ethereum&#8217;s Virtual Machine can run on NEAR. With this capability in place, the NEAR ecosystem is able to integrate ERC20 with native NEAR solutions. Anyone can use NEAR as a technical backend while operating in the Ethereum ecosystem. The NEAR-ETH Rainbow Bridge is entirely permissionless and decentralized. No single entity controls it.</p>
 
 
 
@@ -154,7 +154,7 @@
 
 
 
-<p>Pagoda, the <a href="https://pages.near.org/blog/announcing-the-launch-of-pagoda-the-worlds-first-web3-startup-platform/">first-ever Web3 startup platform</a>, gives developers and entrepreneurs access to interactive tutorials, scalable infrastructure, and operational analytics that are Web3 native. Using Pagoda’s Developer Console, tools and resources can be found at every layer of the stack, from the base blockchain protocol all the way up to the application and marketing and distribution layers. <a href="https://aurora.dev/">Aurora</a>, the builders of Rainbow Bridge, also offers a number of resources on their website to developers looking to build atop their EVM.&nbsp;</p>
+<p>Pagoda, the <a href="/blog/announcing-the-launch-of-pagoda-the-worlds-first-web3-startup-platform/">first-ever Web3 startup platform</a>, gives developers and entrepreneurs access to interactive tutorials, scalable infrastructure, and operational analytics that are Web3 native. Using Pagoda’s Developer Console, tools and resources can be found at every layer of the stack, from the base blockchain protocol all the way up to the application and marketing and distribution layers. <a href="https://aurora.dev/">Aurora</a>, the builders of Rainbow Bridge, also offers a number of resources on their website to developers looking to build atop their EVM.&nbsp;</p>
 
 
 
@@ -178,7 +178,7 @@
 
 
 
-<p>A turnkey solution for developers seeking to <a href="https://pages.near.org/blog/aurora-launches-near/">extend their dapps to reach additional markets</a>, Aurora uses a number of NEAR&#8217;s core technologies, including sharding and developer gas fee remuneration.&nbsp;</p>
+<p>A turnkey solution for developers seeking to <a href="/blog/aurora-launches-near/">extend their dapps to reach additional markets</a>, Aurora uses a number of NEAR&#8217;s core technologies, including sharding and developer gas fee remuneration.&nbsp;</p>
 
 
 
@@ -202,7 +202,7 @@
 
 
 
-<p>A <a href="https://pages.near.org/blog/octopus-network-partners-with-near/">decentralized network natively built on NEAR Protocol</a>, Octopus provides out-of-box security, interoperability, and on-chain governance to projects that are creating application-specific blockchains (appchains) for their open web applications.</p>
+<p>A <a href="/blog/octopus-network-partners-with-near/">decentralized network natively built on NEAR Protocol</a>, Octopus provides out-of-box security, interoperability, and on-chain governance to projects that are creating application-specific blockchains (appchains) for their open web applications.</p>
 
 
 
@@ -239,7 +239,7 @@
 
 
 <p>A decentralized future begins with the right infrastructure. NEAR is committed to enabling the tools to ground this vision in reality, right now.</p>
-<p>The post <a href="https://pages.near.org/blog/near-bridges-decentralization-interconnection/">NEAR’s Road to Decentralization: Building Bridges</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-bridges-decentralization-interconnection/">NEAR’s Road to Decentralization: Building Bridges</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -247,7 +247,7 @@
 			</item>
 		<item>
 		<title>NEAR’s Road to Decentralization: A Deep Dive into Aurora</title>
-		<link>https://pages.near.org/blog/near-decentralization-aurora-evm/</link>
+		<link>/blog/near-decentralization-aurora-evm/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 07 Mar 2022 14:01:23 +0000</pubDate>
@@ -256,10 +256,10 @@
 		<category><![CDATA[Core protocol]]></category>
 		<category><![CDATA[Developer relations]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15973</guid>
+		<guid isPermaLink="false">/?p=15973</guid>
 
 					<description><![CDATA[<p>One of NEAR Foundation’s core missions has been to create a network that empowers users to take control of their …</p>
-<p>The post <a href="https://pages.near.org/blog/near-decentralization-aurora-evm/">NEAR’s Road to Decentralization: A Deep Dive into Aurora</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-decentralization-aurora-evm/">NEAR’s Road to Decentralization: A Deep Dive into Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>One of NEAR Foundation’s core missions has been to create a network that empowers users to take control of their data, their finances, and the tools to govern.&nbsp;</p>
@@ -270,7 +270,7 @@
 
 
 
-<p>The NEAR Foundation has been steadily progressing in this mission, from the growing <a href="https://pages.near.org/blog/near-validators-upgrade-decentralization/">number of validators</a> to the flourishing <a href="https://pages.near.org/use-cases/dao/">DAO community</a>. But NEAR isn’t alone on this journey. It relies on projects in and around the ecosystem to help accelerate this mission. Enter <a href="https://aurora.dev/">Aurora</a>.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>The NEAR Foundation has been steadily progressing in this mission, from the growing <a href="/blog/near-validators-upgrade-decentralization/">number of validators</a> to the flourishing <a href="/use-cases/dao/">DAO community</a>. But NEAR isn’t alone on this journey. It relies on projects in and around the ecosystem to help accelerate this mission. Enter <a href="https://aurora.dev/">Aurora</a>.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 
 
@@ -351,7 +351,7 @@
 
 
 <p>All this and more will help those wanting to take advantage of NEAR’s super fast and extremely cost-effective network, and help the dream of a truly decentralized world become a reality. </p>
-<p>The post <a href="https://pages.near.org/blog/near-decentralization-aurora-evm/">NEAR’s Road to Decentralization: A Deep Dive into Aurora</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-decentralization-aurora-evm/">NEAR’s Road to Decentralization: A Deep Dive into Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -359,7 +359,7 @@
 			</item>
 		<item>
 		<title>NEAR 2021: A Year in Review</title>
-		<link>https://pages.near.org/blog/near-2021-a-year-in-review/</link>
+		<link>/blog/near-2021-a-year-in-review/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 28 Dec 2021 10:00:00 +0000</pubDate>
@@ -367,10 +367,10 @@
 		<category><![CDATA[Aurora]]></category>
 		<category><![CDATA[DAOs]]></category>
 		<category><![CDATA[NFTs]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15578</guid>
+		<guid isPermaLink="false">/?p=15578</guid>
 
 					<description><![CDATA[<p>Welcome to the NEAR Retrospective! It’s been quite a year for NEAR Foundation, Near Inc., and, of course, all the …</p>
-<p>The post <a href="https://pages.near.org/blog/near-2021-a-year-in-review/">NEAR 2021: A Year in Review</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-2021-a-year-in-review/">NEAR 2021: A Year in Review</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to the NEAR Retrospective! It’s been quite a year for NEAR Foundation, Near Inc., and, of course, all the incredible projects and community members that make all of this possible.&nbsp;</p>
@@ -431,7 +431,7 @@
 
 
 
-<p>In early 2022, NEAR will move into Nightshade Phase 1, in which <a href="https://pages.near.org/decentralize/">we will introduce the new role</a> of chunk-only producers—those who only validate one shard. They produce chunks (shard blocks) for a specific shard and don’t need expensive hardware to do so—all without sacrificing network security. In Phase 2, currently scheduled for Q3 of 2022, both state and processing will be fully sharded, and validators won’t need to track all shards. And in Q4 of 2022, we will enter Phase 3 (Dynamic Sharding), in which we will enable the network to dynamically split and merge shards based on resource utilization. This will make NEAR almost infinitely scalable and able to handle any short-term spikes in usage.&nbsp;</p>
+<p>In early 2022, NEAR will move into Nightshade Phase 1, in which <a href="/decentralize/">we will introduce the new role</a> of chunk-only producers—those who only validate one shard. They produce chunks (shard blocks) for a specific shard and don’t need expensive hardware to do so—all without sacrificing network security. In Phase 2, currently scheduled for Q3 of 2022, both state and processing will be fully sharded, and validators won’t need to track all shards. And in Q4 of 2022, we will enter Phase 3 (Dynamic Sharding), in which we will enable the network to dynamically split and merge shards based on resource utilization. This will make NEAR almost infinitely scalable and able to handle any short-term spikes in usage.&nbsp;</p>
 
 
 
@@ -447,7 +447,7 @@
 
 
 
-<p>First up, there was the news that the NEAR <a href="https://pages.near.org/blog/near-announces-800-million-in-funding-initiatives-to-support-ecosystem-growth/">ecosystem announced a monumental</a> $800 million in funding initiatives targeted at accelerating growth. While <a href="https://pages.near.org/">NEAR</a> is giving all communities access to this record amount of funding, there will be a special focus on Decentralized Finance (DeFi) teams who are actively revolutionizing and reimagining the way we interact with money.&nbsp;</p>
+<p>First up, there was the news that the NEAR <a href="/blog/near-announces-800-million-in-funding-initiatives-to-support-ecosystem-growth/">ecosystem announced a monumental</a> $800 million in funding initiatives targeted at accelerating growth. While <a href="/">NEAR</a> is giving all communities access to this record amount of funding, there will be a special focus on Decentralized Finance (DeFi) teams who are actively revolutionizing and reimagining the way we interact with money.&nbsp;</p>
 
 
 
@@ -555,7 +555,7 @@
 
 
 
-<p>Also in 2021, NEAR debuted its MetaBUILD series, a hackathon designed to encourage developers to build on NEAR. As the name indicates, building the Metaverse is a major emphasis of this hackathon. The <a href="https://pages.near.org/blog/metabuidl-build-the-metaverse-at-near-hackathon-with-1m-in-prizes/">first MetaBUILD</a> held August 27th to September 19th, and the latest, <a href="https://pages.near.org/blog/near-metabuild-2-join-the-hackathon-and-build-an-app/">MetaBUILD 2</a> (December 22 &#8211; February 10, 2022), both made $1 million in prizes available to developers and teams.</p>
+<p>Also in 2021, NEAR debuted its MetaBUILD series, a hackathon designed to encourage developers to build on NEAR. As the name indicates, building the Metaverse is a major emphasis of this hackathon. The <a href="/blog/metabuidl-build-the-metaverse-at-near-hackathon-with-1m-in-prizes/">first MetaBUILD</a> held August 27th to September 19th, and the latest, <a href="/blog/near-metabuild-2-join-the-hackathon-and-build-an-app/">MetaBUILD 2</a> (December 22 &#8211; February 10, 2022), both made $1 million in prizes available to developers and teams.</p>
 
 
 
@@ -567,7 +567,7 @@
 
 
 
-<p>As noted above, both <a href="https://pages.near.org/blog/near-announces-800-million-in-funding-initiatives-to-support-ecosystem-growth/">NEAR’s $800 million global ecosystem fund</a> and Proximity Labs’ <a href="https://medium.com/nearprotocol/announcing-a-350m-grants-dao-for-near-defi-projects-186668ed427a">$350 million Grants DAO</a> will support DeFi projects and other dapps building on NEAR. <a href="https://pages.near.org/blog/near-launches-nightshade-sharding-paving-the-way-for-mass-adoption/">NEAR’s Nightshade sharding</a> will also supercharge DeFI by expanding the blockchain’s transaction speeds and security.&nbsp;</p>
+<p>As noted above, both <a href="/blog/near-announces-800-million-in-funding-initiatives-to-support-ecosystem-growth/">NEAR’s $800 million global ecosystem fund</a> and Proximity Labs’ <a href="https://medium.com/nearprotocol/announcing-a-350m-grants-dao-for-near-defi-projects-186668ed427a">$350 million Grants DAO</a> will support DeFi projects and other dapps building on NEAR. <a href="/blog/near-launches-nightshade-sharding-paving-the-way-for-mass-adoption/">NEAR’s Nightshade sharding</a> will also supercharge DeFI by expanding the blockchain’s transaction speeds and security.&nbsp;</p>
 
 
 
@@ -611,7 +611,7 @@
 
 
 
-<p>DAO projects are being supplemented by DAO Guilds, which support these and other blockchain sectors with different resources. Various <a href="https://pages.near.org/guilds/">Guilds</a> are even acting as specialized sub-DAOs working in areas like <a href="https://www.nearlegal.com/">legal</a>, <a href="https://inc4.net/near-guild-team/">software development</a>, and <a href="https://gov.nearpages.wpengine.com/t/jusdao-guild-july-2021-report/4259">DeFi</a>. These and other Guilds are there for when app founders and developers want to tap into specific expertise and resources to improve their own project, technology, or DAO.</p>
+<p>DAO projects are being supplemented by DAO Guilds, which support these and other blockchain sectors with different resources. Various <a href="/guilds/">Guilds</a> are even acting as specialized sub-DAOs working in areas like <a href="https://www.nearlegal.com/">legal</a>, <a href="https://inc4.net/near-guild-team/">software development</a>, and <a href="https://gov.nearpages.wpengine.com/t/jusdao-guild-july-2021-report/4259">DeFi</a>. These and other Guilds are there for when app founders and developers want to tap into specific expertise and resources to improve their own project, technology, or DAO.</p>
 
 
 
@@ -628,7 +628,7 @@
 
 
 <p>With NEAR’s $800 million global ecosystem funding initiative, expect to see many more DAOs established as we head into 2022. These funds, alongside Guilds and other blockchain-based expertise and resources, will be vital in helping DAOs succeed and, just as importantly, bringing the masses from Web2 to the Open Web.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-2021-a-year-in-review/">NEAR 2021: A Year in Review</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-2021-a-year-in-review/">NEAR 2021: A Year in Review</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -636,7 +636,7 @@
 			</item>
 		<item>
 		<title>NEAR Sharding Rollout and Aurora IDO Postmortems</title>
-		<link>https://pages.near.org/blog/near-sharding-rollout-and-aurora-ido-postmortems/</link>
+		<link>/blog/near-sharding-rollout-and-aurora-ido-postmortems/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 03 Dec 2021 14:24:47 +0000</pubDate>
@@ -644,10 +644,10 @@
 		<category><![CDATA[Aurora]]></category>
 		<category><![CDATA[Core protocol]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15402</guid>
+		<guid isPermaLink="false">/?p=15402</guid>
 
 					<description><![CDATA[<p>Between November 8th and November 19th, multiple incidents related to Near Inc RPC services caused severe degradation of user experience. …</p>
-<p>The post <a href="https://pages.near.org/blog/near-sharding-rollout-and-aurora-ido-postmortems/">NEAR Sharding Rollout and Aurora IDO Postmortems</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-sharding-rollout-and-aurora-ido-postmortems/">NEAR Sharding Rollout and Aurora IDO Postmortems</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Between November 8th and November 19th, multiple incidents related to Near Inc RPC services caused severe degradation of user experience. The Near Inc team takes this kind of issue seriously and aims to continually improve its services.&nbsp;&nbsp;</p>
@@ -727,7 +727,7 @@
 
 
 <p>We want to be transparent about all past and future issues we face. We believe the community members will understand that “NEAR stands for iteration” and we are doing our best to prevent such incidents from happening in the future.</p>
-<p>The post <a href="https://pages.near.org/blog/near-sharding-rollout-and-aurora-ido-postmortems/">NEAR Sharding Rollout and Aurora IDO Postmortems</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-sharding-rollout-and-aurora-ido-postmortems/">NEAR Sharding Rollout and Aurora IDO Postmortems</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -735,7 +735,7 @@
 			</item>
 		<item>
 		<title>Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</title>
-		<link>https://pages.near.org/blog/aurora-consensys-partnership-metamask-infura/</link>
+		<link>/blog/aurora-consensys-partnership-metamask-infura/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 02 Dec 2021 14:00:08 +0000</pubDate>
@@ -743,17 +743,17 @@
 		<category><![CDATA[Aurora]]></category>
 		<category><![CDATA[Infrastructure]]></category>
 		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15392</guid>
+		<guid isPermaLink="false">/?p=15392</guid>
 
 					<description><![CDATA[<p>Aurora, the Ethereum scaling solution that allows projects built on Ethereum to utilize the cutting-edge technology of the NEAR Protocol, …</p>
-<p>The post <a href="https://pages.near.org/blog/aurora-consensys-partnership-metamask-infura/">Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/aurora-consensys-partnership-metamask-infura/">Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://aurora.dev/">Aurora</a>, the Ethereum scaling solution that allows projects built on Ethereum to utilize the cutting-edge technology of the NEAR Protocol, is partnering with <a href="https://consensys.net/">ConsenSys</a>, the enterprise blockchain company to provide access to its suite of developer tools.&nbsp;</p>
 
 
 
-<p>The partnership aims to empower both the <a href="https://pages.near.org/">NEAR</a> and Ethereum ecosystems by improving developer facilities &#8211; through the availability of the product suite &#8211; with the goal of increasing cross-chain interoperability.&nbsp;</p>
+<p>The partnership aims to empower both the <a href="/">NEAR</a> and Ethereum ecosystems by improving developer facilities &#8211; through the availability of the product suite &#8211; with the goal of increasing cross-chain interoperability.&nbsp;</p>
 
 
 
@@ -794,7 +794,7 @@
 
 
 <ul><li><a href="https://t.me/auroraisnear">Telegram</a></li><li><a href="https://discord.aurora.dev/">Discord</a> </li><li><a href="https://twitter.com/auroraisnear">Twitter</a> </li><li><a href="https://aurora.dev/">Website</a></li></ul>
-<p>The post <a href="https://pages.near.org/blog/aurora-consensys-partnership-metamask-infura/">Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/aurora-consensys-partnership-metamask-infura/">Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

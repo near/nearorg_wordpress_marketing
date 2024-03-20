@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Loyalty Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/loyalty/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/loyalty/</link>
+	<atom:link href="/blog/tag/loyalty/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/loyalty/</link>
 	<description></description>
 	<lastBuildDate>Wed, 09 Aug 2023 16:23:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Loyalty Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/loyalty/</link>
+	<link>/blog/tag/loyalty/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How GLASS is Uncorking Adult Beverage Loyalty with Web3 and NEAR </title>
-		<link>https://pages.near.org/blog/how-glass-is-uncorking-adult-beverage-loyalty-with-web3-and-near/</link>
+		<link>/blog/how-glass-is-uncorking-adult-beverage-loyalty-with-web3-and-near/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 10 Aug 2023 14:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[GLASS]]></category>
 		<category><![CDATA[Loyalty]]></category>
 		<category><![CDATA[rewards]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20794</guid>
+		<guid isPermaLink="false">/?p=20794</guid>
 
 					<description><![CDATA[<p>GLASS, the world&#8217;s first compliant Web3 community and loyalty platform for the $1.6 trillion alcohol industry, is deploying on the …</p>
-<p>The post <a href="https://pages.near.org/blog/how-glass-is-uncorking-adult-beverage-loyalty-with-web3-and-near/">How GLASS is Uncorking Adult Beverage Loyalty with Web3 and NEAR </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/how-glass-is-uncorking-adult-beverage-loyalty-with-web3-and-near/">How GLASS is Uncorking Adult Beverage Loyalty with Web3 and NEAR </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://www.glass.fun/brands">GLASS</a>, the world&#8217;s first compliant Web3 community and loyalty platform for the $1.6 trillion alcohol industry, is deploying on the NEAR blockchain to engage social drinkers. Founded by Zoe Leavitt, who formerly led early-stage social and entertainment investing for the VC arm of AB InBev, the world’s largest beer company, and serial blockchain entrepreneur and compliance tech expert Calvin Pak, GLASS redefines the ways alcohol brands connect with consumers during social occasions.</p>
@@ -76,7 +76,7 @@
 
 
 <p>GLASS will continue to announce new brand partnerships and roll out new features throughout the summer and fall. Consumers can sign up directly at <a href="http://www.glass.fun/">www.glass.fun</a> to start earning tokens today.</p>
-<p>The post <a href="https://pages.near.org/blog/how-glass-is-uncorking-adult-beverage-loyalty-with-web3-and-near/">How GLASS is Uncorking Adult Beverage Loyalty with Web3 and NEAR </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/how-glass-is-uncorking-adult-beverage-loyalty-with-web3-and-near/">How GLASS is Uncorking Adult Beverage Loyalty with Web3 and NEAR </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -84,7 +84,7 @@
 			</item>
 		<item>
 		<title>NEAR Foundation and Sail GP Elevate Mobile Fan Engagement with The Dock</title>
-		<link>https://pages.near.org/blog/near-foundation-and-sail-gp-elevate-mobile-fan-engagement-with-the-dock/</link>
+		<link>/blog/near-foundation-and-sail-gp-elevate-mobile-fan-engagement-with-the-dock/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 20 Jul 2023 14:00:00 +0000</pubDate>
@@ -92,10 +92,10 @@
 		<category><![CDATA[Loyalty]]></category>
 		<category><![CDATA[SailGP]]></category>
 		<category><![CDATA[The Dock]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20736</guid>
+		<guid isPermaLink="false">/?p=20736</guid>
 
 					<description><![CDATA[<p>SailGP and NEAR Foundation are embarking on a daring journey where sports meets blockchain. SailGP’s The Dock platform is ready …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-sail-gp-elevate-mobile-fan-engagement-with-the-dock/">NEAR Foundation and Sail GP Elevate Mobile Fan Engagement with The Dock</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-sail-gp-elevate-mobile-fan-engagement-with-the-dock/">NEAR Foundation and Sail GP Elevate Mobile Fan Engagement with The Dock</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>SailGP and NEAR Foundation are embarking on a daring journey where sports meets blockchain. SailGP’s <a href="https://sailgp.com/dock/">The Dock</a> platform is ready to make waves and redefine fan engagement in both sailing and sports at large. After its maiden voyage as a web-based platform on June 13th, The Dock is now ready to drop anchor with the launch of the new mobile app.</p>
@@ -163,7 +163,7 @@
 
 
 <p>The Dock promises an exciting glimpse into the future of fan engagement and loyalty platforms while bridging the gap between Web2 and Web3 with Oracle and NEAR. <br>Download The Dock mobile app today on the <a href="https://apps.apple.com/gb/app/sailgp/id1445011811">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.sailgp.secondscreen&amp;hl=en_US&amp;pli=1">Google Play</a> and get started on your interactive journey.</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-sail-gp-elevate-mobile-fan-engagement-with-the-dock/">NEAR Foundation and Sail GP Elevate Mobile Fan Engagement with The Dock</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-sail-gp-elevate-mobile-fan-engagement-with-the-dock/">NEAR Foundation and Sail GP Elevate Mobile Fan Engagement with The Dock</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -171,7 +171,7 @@
 			</item>
 		<item>
 		<title>Rove World v2 Simplifies Web3 Ticketing and Loyalty for Brands</title>
-		<link>https://pages.near.org/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/</link>
+		<link>/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 12 Apr 2023 14:12:00 +0000</pubDate>
@@ -180,10 +180,10 @@
 		<category><![CDATA[Loyalty]]></category>
 		<category><![CDATA[NFTs]]></category>
 		<category><![CDATA[Ticketing]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20449</guid>
+		<guid isPermaLink="false">/?p=20449</guid>
 
 					<description><![CDATA[<p>Rove, one of the most user-friendly entertainment ecosystems in Web3, is now in collaboration with NEAR. Their next release, Rove …</p>
-<p>The post <a href="https://pages.near.org/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/">Rove World v2 Simplifies Web3 Ticketing and Loyalty for Brands</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/">Rove World v2 Simplifies Web3 Ticketing and Loyalty for Brands</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://roveworld.xyz/">Rove</a>, one of the most user-friendly entertainment ecosystems in Web3, is now in collaboration with NEAR. Their next release, Rove World v2, will act as a one-stop mobile-based ticketing solution and loyalty rewards program for brands. The update will also feature an in-app store that will include major brands, sports leagues, and musical artists.</p>
@@ -251,7 +251,7 @@
 
 
 <p>“NEAR’s emphasis on onboarding the next billion users into Web3 with a specialized focus on entertainment, sports, and culture fit identically with our approach,” said Rove’s Desimone. “Not to mention NEAR’s industry-leading technology which enables a seamless migration of the easy-to-use features of the Rove World mobile app onto the NEAR blockchain.”</p>
-<p>The post <a href="https://pages.near.org/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/">Rove World v2 Simplifies Web3 Ticketing and Loyalty for Brands</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/">Rove World v2 Simplifies Web3 Ticketing and Loyalty for Brands</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sustainability Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/sustainability/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/sustainability/</link>
+	<atom:link href="/blog/tag/sustainability/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/sustainability/</link>
 	<description></description>
 	<lastBuildDate>Thu, 20 Jul 2023 15:12:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Sustainability Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/sustainability/</link>
+	<link>/blog/tag/sustainability/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</title>
-		<link>https://pages.near.org/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/</link>
+		<link>/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 20 Jul 2023 17:00:00 +0000</pubDate>
@@ -39,13 +39,13 @@
 		<category><![CDATA[ETHCC]]></category>
 		<category><![CDATA[Partnerships]]></category>
 		<category><![CDATA[Sustainability]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20742</guid>
+		<guid isPermaLink="false">/?p=20742</guid>
 
 					<description><![CDATA[<p>Missed out on NEAR’s rendezvous at ETHCC 2023 in Paris? No need to worry. In this roundup, all NEAR enthusiasts …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/">NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/">NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Missed out on NEAR’s rendezvous at ETHCC 2023 in Paris? No need to worry. In this roundup, all NEAR enthusiasts can catch up on the enlightening presentations by BOS, Web3, and blockchain experts. You’re in the perfect place to delve into notable announcements made during the conference, from <a href="https://pages.near.org/blog/near-foundation-signs-up-to-the-ethereum-climate-platform/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">NEAR signing up to the Ethereum Climate Platform</a> to an epic new <a href="https://pages.near.org/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">interactive Polygon zkEVM app dashboard</a>.</p>
+<p>Missed out on NEAR’s rendezvous at ETHCC 2023 in Paris? No need to worry. In this roundup, all NEAR enthusiasts can catch up on the enlightening presentations by BOS, Web3, and blockchain experts. You’re in the perfect place to delve into notable announcements made during the conference, from <a href="/blog/near-foundation-signs-up-to-the-ethereum-climate-platform/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">NEAR signing up to the Ethereum Climate Platform</a> to an epic new <a href="/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">interactive Polygon zkEVM app dashboard</a>.</p>
 
 
 
@@ -57,7 +57,7 @@
 
 
 
-<p>In the most significant partnership announcement of ETHCC, an <a href="https://pages.near.org/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">interactive Polygon zkEVM app dashboard</a> has launched on the Blockchain Operating System (BOS). This integration will not only increase accessibility and discoverability for zkEVM developers and users on the open web but also vastly improve user experience. </p>
+<p>In the most significant partnership announcement of ETHCC, an <a href="/blog/interactive-polygon-zkevm-app-dashboard-launches-on-the-near-blockchain-operating-system/?_gl=1%2A1nco86y%2A_up%2AMQ..%2A_ga%2AMTQ5MTA4NDUzMS4xNjg5Njk0NDEy%2A_ga_9GWCXQJ62J%2AMTY4OTY5NDQxMC4xLjAuMTY4OTY5NDQxMC4wLjAuMA..">interactive Polygon zkEVM app dashboard</a> has launched on the Blockchain Operating System (BOS). This integration will not only increase accessibility and discoverability for zkEVM developers and users on the open web but also vastly improve user experience. </p>
 
 
 
@@ -136,7 +136,7 @@
 
 
 <p>C&#8217;est la vie in Paris as ETHCC 2023 wraps up. As we reflect on these dynamic days, it&#8217;s clear that the future of NEAR and the BOS is exciting and full of potential. From environmental commitments to bold collaborations and fascinating talks, NEAR’s Parisian journey was full of engagement, enlightenment, and enthusiasm for everyone involved.</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/">NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/">NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -144,7 +144,7 @@
 			</item>
 		<item>
 		<title>NEAR Foundation Signs Up to the Ethereum Climate Platform </title>
-		<link>https://pages.near.org/blog/near-foundation-signs-up-to-the-ethereum-climate-platform/</link>
+		<link>/blog/near-foundation-signs-up-to-the-ethereum-climate-platform/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 17 Jul 2023 14:00:00 +0000</pubDate>
@@ -152,10 +152,10 @@
 		<category><![CDATA[Ethereum Climate Alliance]]></category>
 		<category><![CDATA[Ethereum Climate Platform]]></category>
 		<category><![CDATA[Sustainability]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20728</guid>
+		<guid isPermaLink="false">/?p=20728</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is thrilled to announce that it is signed up to the Ethereum Climate Platform. The Foundation has worked …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-signs-up-to-the-ethereum-climate-platform/">NEAR Foundation Signs Up to the Ethereum Climate Platform </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-signs-up-to-the-ethereum-climate-platform/">NEAR Foundation Signs Up to the Ethereum Climate Platform </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is thrilled to announce that it is signed up to the Ethereum Climate Platform. The Foundation has worked on making the NEAR Protocol and open web sustainable from the get-go, and this move is a major demonstration of that continued commitment to Web3 sustainability.&nbsp;</p>
@@ -227,7 +227,7 @@
 
 
 <p>“As a fellow pioneer in the Web3 space, their participation is invaluable,” said Kentrup, “and we&#8217;re sincerely excited about the potential this partnership holds for the future.”</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-signs-up-to-the-ethereum-climate-platform/">NEAR Foundation Signs Up to the Ethereum Climate Platform </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-signs-up-to-the-ethereum-climate-platform/">NEAR Foundation Signs Up to the Ethereum Climate Platform </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

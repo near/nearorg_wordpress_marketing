@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Core protocol Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/core-protocol/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/core-protocol/</link>
+	<atom:link href="/blog/tag/core-protocol/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/core-protocol/</link>
 	<description></description>
 	<lastBuildDate>Tue, 30 Jan 2024 14:33:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Core protocol Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/core-protocol/</link>
+	<link>/blog/tag/core-protocol/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Phase 2 of NEAR Sharding Launches</title>
-		<link>https://pages.near.org/blog/phase-2-of-near-sharding-launches/</link>
+		<link>/blog/phase-2-of-near-sharding-launches/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 30 Jan 2024 14:33:22 +0000</pubDate>
@@ -39,17 +39,17 @@
 		<category><![CDATA[Nightshade]]></category>
 		<category><![CDATA[Sharding]]></category>
 		<category><![CDATA[stateless validation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21200</guid>
+		<guid isPermaLink="false">/?p=21200</guid>
 
 					<description><![CDATA[<p>The NEAR Foundation announced today that the Protocol Work Group will launch testing for Phase 2 of Sharding this week, …</p>
-<p>The post <a href="https://pages.near.org/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR Foundation announced today that the Protocol Work Group will launch testing for Phase 2 of Sharding this week, marking a major milestone in the network’s development roadmap. Phase 2 introduces fundamental upgrades to NEAR’s core protocol architecture, enabling even greater scalability and decentralization for the network. The fourth edition of <a href="https://github.com/near/stakewars-iv">Stake Wars</a>, an incentivized community testing initiative, will kick off on February 1.&nbsp;&nbsp;</p>
 
 
 
-<p>NEAR&#8217;s vision of <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> to facilitate broad adoption of decentralized apps requires an extremely scalable blockchain layer. From the start, NEAR has been designed to scale with demand towards mainstream adoption. A primary benefit of the new sharding implementation will be an up-to-10x speed improvement to NEAR’s already-fast transaction throughput. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” Combined with NEAR already having the lowest transaction fees in Web3, this sharding upgrade positions NEAR at the forefront of Web3 in terms of both performance and scalability. Phase 2 greatly improves the network’s capacity for end user volume and is an important landmark on the road to global-scale usage of Web3. </p>
+<p>NEAR&#8217;s vision of <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> to facilitate broad adoption of decentralized apps requires an extremely scalable blockchain layer. From the start, NEAR has been designed to scale with demand towards mainstream adoption. A primary benefit of the new sharding implementation will be an up-to-10x speed improvement to NEAR’s already-fast transaction throughput. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” Combined with NEAR already having the lowest transaction fees in Web3, this sharding upgrade positions NEAR at the forefront of Web3 in terms of both performance and scalability. Phase 2 greatly improves the network’s capacity for end user volume and is an important landmark on the road to global-scale usage of Web3. </p>
 
 
 
@@ -90,7 +90,7 @@
 
 
 <p>With the launch of Phase 2, NEAR becomes one of the only networks in Web3 to implement stateless validation to improve scaling and paves the way for further network performance and scalability improvements in the future roadmap. A technical paper with more detail about NEAR’s new sharding design is forthcoming later in Q1. Phase 2 is expected to launch on NEAR Mainnet in May 2024.</p>
-<p>The post <a href="https://pages.near.org/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -98,7 +98,7 @@
 			</item>
 		<item>
 		<title>NEAR Q4 Protocol Roadmap Update</title>
-		<link>https://pages.near.org/blog/near-q4-protocol-roadmap-update/</link>
+		<link>/blog/near-q4-protocol-roadmap-update/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 12 Jan 2024 19:23:37 +0000</pubDate>
@@ -108,10 +108,10 @@
 		<category><![CDATA[Nightshade]]></category>
 		<category><![CDATA[Protocol Roadmap]]></category>
 		<category><![CDATA[Sharding]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21155</guid>
+		<guid isPermaLink="false">/?p=21155</guid>
 
 					<description><![CDATA[<p>TLDR: 2023 saw major experience improvements via meta transactions and zero-balance accounts, as well as node performance improvements and optimizations. Preparations are underway for a major upgrade to stateless validation, completing Phase 2 of the sharding roadmap in early 2024.</p>
-<p>The post <a href="https://pages.near.org/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><br><em>By Bowen Wang, Director of Protocol</em> <br><br>In this post, the NEAR Protocol work group would like to provide an update of the protocol roadmap to show what <a href="https://near.org/blog/near-q2-protocol-roadmap-update">we accomplished in 2023</a> and what is planned for 2024.<br></p>
@@ -180,7 +180,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="592" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -188,12 +188,12 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
 <p><br><br>As always, the protocol team is proud to have made several important improvements to the core protocol with zero disruption for users and developers. We look forward to making some major advancements in 2024 to help the entire NEAR ecosystem deliver its vision of mainstream adoption of an Open Web, where all internet users can control their own data, assets, and power of governance. <br><br>We will share more details on Phase 2 advancements and timelines soon. If you’d like to learn more, join the NEAR Protocol <a href="https://twitter.com/nearprotocol">X Spaces</a> on Tuesday, January 16 at 5pm UTC to hear from Director of Protocol Bowen Wang and NEAR Foundation CEO Illia Polosukhin on upcoming protocol developments.<br></p>
-<p>The post <a href="https://pages.near.org/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -201,7 +201,7 @@
 			</item>
 		<item>
 		<title>NEAR Strategic Update and Outlook for 2023</title>
-		<link>https://pages.near.org/blog/near-strategic-update-and-outlook-for-2023/</link>
+		<link>/blog/near-strategic-update-and-outlook-for-2023/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 15 Dec 2022 14:32:27 +0000</pubDate>
@@ -211,10 +211,10 @@
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[NFTs]]></category>
 		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19581</guid>
+		<guid isPermaLink="false">/?p=19581</guid>
 
 					<description><![CDATA[<p>The recent stream of news clearly demonstrates that the world needs Web3. Trust in legacy institutions is breaking down, individual …</p>
-<p>The post <a href="https://pages.near.org/blog/near-strategic-update-and-outlook-for-2023/">NEAR Strategic Update and Outlook for 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-strategic-update-and-outlook-for-2023/">NEAR Strategic Update and Outlook for 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The recent stream of news clearly demonstrates that the world needs Web3. Trust in legacy institutions is breaking down, individual privacy and individual freedom are equally at risk, and the major Web2 platforms we use every day have become monopolies that focus on profit, not people.&nbsp;</p>
@@ -229,7 +229,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-1024x538.png" alt="" class="wp-image-19583" srcset="https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2022/12/near-2023-progress-1024x538.png" alt="" class="wp-image-19583" srcset="/wp-content/uploads/2022/12/near-2023-progress-1024x538.png 1024w, /wp-content/uploads/2022/12/near-2023-progress-300x158.png 300w, /wp-content/uploads/2022/12/near-2023-progress-768x403.png 768w, /wp-content/uploads/2022/12/near-2023-progress.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -246,7 +246,7 @@
 
 
 
-<li><strong>NEAR has world-class talent and ample runway</strong>. From the core teams at the Foundation and Pagoda, to the incredible NEAR Foundation <a href="https://pages.near.org/blog/near-foundation-welcomes-fresh-executive-talent-to-accelerate-its-global-reach/">Council and advisors</a>, to the diverse group of brilliant entrepreneurs building companies, apps, and funds on NEAR, some of the best talent in the world is here on NEAR. And thanks to the Foundation’s <a href="https://twitter.com/NEARFoundation/status/1590417221880532994?s=20&amp;t=ISBccLHJ__Wm2G29oTtWLA">responsible treasury management</a>, core ecosystem operations and funding are well-positioned to run for many years to come.&nbsp;</li>
+<li><strong>NEAR has world-class talent and ample runway</strong>. From the core teams at the Foundation and Pagoda, to the incredible NEAR Foundation <a href="/blog/near-foundation-welcomes-fresh-executive-talent-to-accelerate-its-global-reach/">Council and advisors</a>, to the diverse group of brilliant entrepreneurs building companies, apps, and funds on NEAR, some of the best talent in the world is here on NEAR. And thanks to the Foundation’s <a href="https://twitter.com/NEARFoundation/status/1590417221880532994?s=20&amp;t=ISBccLHJ__Wm2G29oTtWLA">responsible treasury management</a>, core ecosystem operations and funding are well-positioned to run for many years to come.&nbsp;</li>
 
 
 
@@ -263,7 +263,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2-1024x538.png" alt="" class="wp-image-19601" srcset="https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2022/12/near-2023-bowtie2-1024x538.png" alt="" class="wp-image-19601" srcset="/wp-content/uploads/2022/12/near-2023-bowtie2-1024x538.png 1024w, /wp-content/uploads/2022/12/near-2023-bowtie2-300x158.png 300w, /wp-content/uploads/2022/12/near-2023-bowtie2-768x403.png 768w, /wp-content/uploads/2022/12/near-2023-bowtie2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -271,7 +271,7 @@
 
 
 
-<p>Growing usage on NEAR will begin with a top-down approach focused on <strong>partnerships. </strong>The world-class business development team at the Foundation will focus on working with major applications and brands with substantial, established communities to partner with NEAR on real use cases that drive engagement, such as ticketing and earning. High-traction focus verticals include sports, entertainment, and loyalty. Major partnerships in recent months include <a href="https://pages.near.org/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/">Grupo Nutresa</a>, <a href="https://pages.near.org/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/">Google Cloud</a>, and <a href="https://pages.near.org/blog/near-wallet-rockets-to-over-20-million-users-with-sweat-partnership/">Sweat Economy</a>.&nbsp;</p>
+<p>Growing usage on NEAR will begin with a top-down approach focused on <strong>partnerships. </strong>The world-class business development team at the Foundation will focus on working with major applications and brands with substantial, established communities to partner with NEAR on real use cases that drive engagement, such as ticketing and earning. High-traction focus verticals include sports, entertainment, and loyalty. Major partnerships in recent months include <a href="/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/">Grupo Nutresa</a>, <a href="/blog/near-teams-with-google-cloud-to-accelerate-web3-startups/">Google Cloud</a>, and <a href="/blog/near-wallet-rockets-to-over-20-million-users-with-sweat-partnership/">Sweat Economy</a>.&nbsp;</p>
 
 
 
@@ -291,7 +291,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack-1024x538.png" alt="" class="wp-image-19582" srcset="https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2022/12/near-2023-stack-1024x538.png" alt="" class="wp-image-19582" srcset="/wp-content/uploads/2022/12/near-2023-stack-1024x538.png 1024w, /wp-content/uploads/2022/12/near-2023-stack-300x158.png 300w, /wp-content/uploads/2022/12/near-2023-stack-768x403.png 768w, /wp-content/uploads/2022/12/near-2023-stack.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -320,7 +320,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/near-strategic-update-and-outlook-for-2023/">NEAR Strategic Update and Outlook for 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-strategic-update-and-outlook-for-2023/">NEAR Strategic Update and Outlook for 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -328,7 +328,7 @@
 			</item>
 		<item>
 		<title>NEAR’s Road to Decentralization: A Deep Dive into Aurora</title>
-		<link>https://pages.near.org/blog/near-decentralization-aurora-evm/</link>
+		<link>/blog/near-decentralization-aurora-evm/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 07 Mar 2022 14:01:23 +0000</pubDate>
@@ -337,10 +337,10 @@
 		<category><![CDATA[Core protocol]]></category>
 		<category><![CDATA[Developer relations]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15973</guid>
+		<guid isPermaLink="false">/?p=15973</guid>
 
 					<description><![CDATA[<p>One of NEAR Foundation’s core missions has been to create a network that empowers users to take control of their …</p>
-<p>The post <a href="https://pages.near.org/blog/near-decentralization-aurora-evm/">NEAR’s Road to Decentralization: A Deep Dive into Aurora</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-decentralization-aurora-evm/">NEAR’s Road to Decentralization: A Deep Dive into Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>One of NEAR Foundation’s core missions has been to create a network that empowers users to take control of their data, their finances, and the tools to govern.&nbsp;</p>
@@ -351,7 +351,7 @@
 
 
 
-<p>The NEAR Foundation has been steadily progressing in this mission, from the growing <a href="https://pages.near.org/blog/near-validators-upgrade-decentralization/">number of validators</a> to the flourishing <a href="https://pages.near.org/use-cases/dao/">DAO community</a>. But NEAR isn’t alone on this journey. It relies on projects in and around the ecosystem to help accelerate this mission. Enter <a href="https://aurora.dev/">Aurora</a>.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>The NEAR Foundation has been steadily progressing in this mission, from the growing <a href="/blog/near-validators-upgrade-decentralization/">number of validators</a> to the flourishing <a href="/use-cases/dao/">DAO community</a>. But NEAR isn’t alone on this journey. It relies on projects in and around the ecosystem to help accelerate this mission. Enter <a href="https://aurora.dev/">Aurora</a>.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 
 
@@ -432,7 +432,7 @@
 
 
 <p>All this and more will help those wanting to take advantage of NEAR’s super fast and extremely cost-effective network, and help the dream of a truly decentralized world become a reality. </p>
-<p>The post <a href="https://pages.near.org/blog/near-decentralization-aurora-evm/">NEAR’s Road to Decentralization: A Deep Dive into Aurora</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-decentralization-aurora-evm/">NEAR’s Road to Decentralization: A Deep Dive into Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -440,19 +440,19 @@
 			</item>
 		<item>
 		<title>An Update On the NEAR Validator Upgrade</title>
-		<link>https://pages.near.org/blog/an-update-on-the-near-validator-upgrade/</link>
+		<link>/blog/an-update-on-the-near-validator-upgrade/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 28 Jan 2022 17:28:26 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[Core protocol]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15746</guid>
+		<guid isPermaLink="false">/?p=15746</guid>
 
 					<description><![CDATA[<p>At NEAR Foundation, our goal has always been to provide the best experience for validators, delegators, community members, and project …</p>
-<p>The post <a href="https://pages.near.org/blog/an-update-on-the-near-validator-upgrade/">An Update On the NEAR Validator Upgrade</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/an-update-on-the-near-validator-upgrade/">An Update On the NEAR Validator Upgrade</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>At NEAR Foundation, our goal has always been to provide the best experience for validators, delegators, community members, and project builders. As part of NEAR Protocol’s goal to increase the number of validators securing the network and improve decentralization, we invited the community to submit an application through <a href="https://pages.near.org/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/">our call for applications</a> on December 2, 2021.&nbsp;</p>
+<p>At NEAR Foundation, our goal has always been to provide the best experience for validators, delegators, community members, and project builders. As part of NEAR Protocol’s goal to increase the number of validators securing the network and improve decentralization, we invited the community to submit an application through <a href="/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/">our call for applications</a> on December 2, 2021.&nbsp;</p>
 
 
 
@@ -464,7 +464,7 @@
 
 
 
-<p>As NEAR Protocol is<a href="https://pages.near.org/blog/near-climate-neutral-product/"> certified carbon neutral by South Pole</a>, we ask validators to think through how they offset their validator operation’s carbon footprint, and communicate any CO2 offsetting that they implement on their end, such as using a renewable energy source to operate the nodes. An important criteria in the selection for delegation was ecological, and validators who took steps to offset their carbon footprint were selected.</p>
+<p>As NEAR Protocol is<a href="/blog/near-climate-neutral-product/"> certified carbon neutral by South Pole</a>, we ask validators to think through how they offset their validator operation’s carbon footprint, and communicate any CO2 offsetting that they implement on their end, such as using a renewable energy source to operate the nodes. An important criteria in the selection for delegation was ecological, and validators who took steps to offset their carbon footprint were selected.</p>
 
 
 
@@ -480,7 +480,7 @@
 
 
 
-<p>NEAR Protocol will introduce a new type of validator, <a href="https://pages.near.org/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/">Chunk-Only Producer</a>, in mid-2022 to further decentralize NEAR and increase the number of validators on Mainnet from 100 to 300.&nbsp;</p>
+<p>NEAR Protocol will introduce a new type of validator, <a href="/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/">Chunk-Only Producer</a>, in mid-2022 to further decentralize NEAR and increase the number of validators on Mainnet from 100 to 300.&nbsp;</p>
 
 
 
@@ -488,7 +488,7 @@
 
 
 
-<p>For additional information about Chunk-Only Producers, please visit the <a href="https://pages.near.org/decentralize/">Decentralize</a> page. Additional details can be found on the NEAR <a href="https://pages.near.org/blog/near-launches-nightshade-sharding-paving-the-way-for-mass-adoption/">protocol roadmap.</a>&nbsp;</p>
+<p>For additional information about Chunk-Only Producers, please visit the <a href="/decentralize/">Decentralize</a> page. Additional details can be found on the NEAR <a href="/blog/near-launches-nightshade-sharding-paving-the-way-for-mass-adoption/">protocol roadmap.</a>&nbsp;</p>
 
 
 
@@ -497,7 +497,7 @@
 
 
 <p>Please join the Open Shards Alliance server at <a href="https://discord.gg/t9Kgbvf">the OSA Discord.</a></p>
-<p>The post <a href="https://pages.near.org/blog/an-update-on-the-near-validator-upgrade/">An Update On the NEAR Validator Upgrade</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/an-update-on-the-near-validator-upgrade/">An Update On the NEAR Validator Upgrade</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -505,23 +505,23 @@
 			</item>
 		<item>
 		<title>NEAR Enhances Decentralization with Validator Upgrade</title>
-		<link>https://pages.near.org/blog/near-validators-upgrade-decentralization/</link>
+		<link>/blog/near-validators-upgrade-decentralization/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 07 Jan 2022 12:16:53 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[Core protocol]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15611</guid>
+		<guid isPermaLink="false">/?p=15611</guid>
 
 					<description><![CDATA[<p>Since the NEAR Mainnet launch in October 2020, the network has seen a steady increase in the number of validators, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-validators-upgrade-decentralization/">NEAR Enhances Decentralization with Validator Upgrade</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-validators-upgrade-decentralization/">NEAR Enhances Decentralization with Validator Upgrade</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Since the NEAR Mainnet launch in October 2020, the network has seen a steady increase in the number of validators, with many more wanting to participate. Nevertheless, the extremely high threshold of 3.6M $NEAR has made it challenging for new validators to join the network. So much so, the NEAR Foundation has, at times, supported validators with substantial delegations in order to allow for some of the 60 validators to remain active on Mainnet.</p>
 
 
 
-<p>That is why, in December 2021, the NEAR Protocol team released <a href="https://pages.near.org/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/">the updated validator selection algorithm</a>. The new selection algorithm now allows for up to 100 validator nodes on the Mainnet, and reduces the validators’ barrier to entry by bringing down the seat price from 3.6 million $NEAR to 67,000. This lowered seat price makes it easier for them to join the active validator set and to maintain their seats.&nbsp;</p>
+<p>That is why, in December 2021, the NEAR Protocol team released <a href="/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/">the updated validator selection algorithm</a>. The new selection algorithm now allows for up to 100 validator nodes on the Mainnet, and reduces the validators’ barrier to entry by bringing down the seat price from 3.6 million $NEAR to 67,000. This lowered seat price makes it easier for them to join the active validator set and to maintain their seats.&nbsp;</p>
 
 
 
@@ -533,7 +533,7 @@
 
 
 
-<p>Historically, the NEAR Foundation has used delegation <a href="https://pages.near.org/blog/how-the-near-foundation-is-supporting-network-decentralization/">to bootstrap network decentralization</a> by helping new validators enter the active set and build their following but it wasn&#8217;t intended to be a long term grant. Current validators on NEAR Mainnet who had received historical delegation from NEAR Foundation should expect to see current delegations from NEAR Foundation to be withdrawn in the next 48 hours as part of this change.</p>
+<p>Historically, the NEAR Foundation has used delegation <a href="/blog/how-the-near-foundation-is-supporting-network-decentralization/">to bootstrap network decentralization</a> by helping new validators enter the active set and build their following but it wasn&#8217;t intended to be a long term grant. Current validators on NEAR Mainnet who had received historical delegation from NEAR Foundation should expect to see current delegations from NEAR Foundation to be withdrawn in the next 48 hours as part of this change.</p>
 
 
 
@@ -541,7 +541,7 @@
 
 
 
-<p>This change is only the beginning of a number of ecosystem-wide initiatives that will continue increasing the number of validators and improving network decentralization. With the upcoming launch of <a href="https://pages.near.org/blog/near-launches-simple-nightshade-the-first-step-towards-a-sharded-blockchain/">phase 1</a> of sharding in early 2022, we expect another 200 validators to join Mainnet.&nbsp;</p>
+<p>This change is only the beginning of a number of ecosystem-wide initiatives that will continue increasing the number of validators and improving network decentralization. With the upcoming launch of <a href="/blog/near-launches-simple-nightshade-the-first-step-towards-a-sharded-blockchain/">phase 1</a> of sharding in early 2022, we expect another 200 validators to join Mainnet.&nbsp;</p>
 
 
 
@@ -549,8 +549,8 @@
 
 
 
-<p>Please consider joining the NEAR Validator governance process by participating in the <a href="https://pages.near.org/blog/nvab/">NEAR Validator Advisory Board</a> general election in early 2022. Stay tuned for more announcements.</p>
-<p>The post <a href="https://pages.near.org/blog/near-validators-upgrade-decentralization/">NEAR Enhances Decentralization with Validator Upgrade</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>Please consider joining the NEAR Validator governance process by participating in the <a href="/blog/nvab/">NEAR Validator Advisory Board</a> general election in early 2022. Stay tuned for more announcements.</p>
+<p>The post <a href="/blog/near-validators-upgrade-decentralization/">NEAR Enhances Decentralization with Validator Upgrade</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -558,7 +558,7 @@
 			</item>
 		<item>
 		<title>Zero to Hero NFT Series: Happy Holidays from DevRel!</title>
-		<link>https://pages.near.org/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/</link>
+		<link>/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/</link>
 		
 		<dc:creator><![CDATA[Dev Rel]]></dc:creator>
 		<pubDate>Fri, 17 Dec 2021 17:09:08 +0000</pubDate>
@@ -566,13 +566,13 @@
 		<category><![CDATA[Core protocol]]></category>
 		<category><![CDATA[Developer relations]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15527</guid>
+		<guid isPermaLink="false">/?p=15527</guid>
 
 					<description><![CDATA[<p>It’s been a great year for the NEAR ecosystem and our developer community. We’ve hosted our first MetaBUIDL hackathon, rocked …</p>
-<p>The post <a href="https://pages.near.org/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/">Zero to Hero NFT Series: Happy Holidays from DevRel!</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/">Zero to Hero NFT Series: Happy Holidays from DevRel!</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>It’s been a great year for the NEAR ecosystem and our developer community. We’ve hosted our first <a href="https://pages.near.org/blog/metabuidl-launch-highlights/">MetaBUIDL hackathon</a>, rocked the crypto-boat in Portugal with the <a href="https://medium.com/nearprotocol/near-con-highlights-talks-videos-be6139d20498">NEARCON</a>, enjoyed a daily dose of Q&amp;A on our <a href="https://pages.near.org/office-hours/">Office Hours</a>, and had a coding rush with the <a href="https://nearvember.nearpages.wpengine.com/">NEARvember challenge</a>.</p>
+<p>It’s been a great year for the NEAR ecosystem and our developer community. We’ve hosted our first <a href="/blog/metabuidl-launch-highlights/">MetaBUIDL hackathon</a>, rocked the crypto-boat in Portugal with the <a href="https://medium.com/nearprotocol/near-con-highlights-talks-videos-be6139d20498">NEARCON</a>, enjoyed a daily dose of Q&amp;A on our <a href="/office-hours/">Office Hours</a>, and had a coding rush with the <a href="https://nearvember.nearpages.wpengine.com/">NEARvember challenge</a>.</p>
 
 
 
@@ -628,8 +628,8 @@
 
 
 
-<p>Join us on <a href="http://near.chat/">Discord</a> and let us know in the #development channels. <br>We also host daily <a href="https://pages.near.org/office-hours/">Office Hours</a> live Monday – Friday 11 AM – 12 PM PT (6 PM – 7 PM UTC), where the DevRel team will answer any questions you may have!</p>
-<p>The post <a href="https://pages.near.org/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/">Zero to Hero NFT Series: Happy Holidays from DevRel!</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>Join us on <a href="http://near.chat/">Discord</a> and let us know in the #development channels. <br>We also host daily <a href="/office-hours/">Office Hours</a> live Monday – Friday 11 AM – 12 PM PT (6 PM – 7 PM UTC), where the DevRel team will answer any questions you may have!</p>
+<p>The post <a href="/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/">Zero to Hero NFT Series: Happy Holidays from DevRel!</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -637,7 +637,7 @@
 			</item>
 		<item>
 		<title>NEAR Sharding Rollout and Aurora IDO Postmortems</title>
-		<link>https://pages.near.org/blog/near-sharding-rollout-and-aurora-ido-postmortems/</link>
+		<link>/blog/near-sharding-rollout-and-aurora-ido-postmortems/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 03 Dec 2021 14:24:47 +0000</pubDate>
@@ -645,10 +645,10 @@
 		<category><![CDATA[Aurora]]></category>
 		<category><![CDATA[Core protocol]]></category>
 		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15402</guid>
+		<guid isPermaLink="false">/?p=15402</guid>
 
 					<description><![CDATA[<p>Between November 8th and November 19th, multiple incidents related to Near Inc RPC services caused severe degradation of user experience. …</p>
-<p>The post <a href="https://pages.near.org/blog/near-sharding-rollout-and-aurora-ido-postmortems/">NEAR Sharding Rollout and Aurora IDO Postmortems</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-sharding-rollout-and-aurora-ido-postmortems/">NEAR Sharding Rollout and Aurora IDO Postmortems</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Between November 8th and November 19th, multiple incidents related to Near Inc RPC services caused severe degradation of user experience. The Near Inc team takes this kind of issue seriously and aims to continually improve its services.&nbsp;&nbsp;</p>
@@ -728,7 +728,7 @@
 
 
 <p>We want to be transparent about all past and future issues we face. We believe the community members will understand that “NEAR stands for iteration” and we are doing our best to prevent such incidents from happening in the future.</p>
-<p>The post <a href="https://pages.near.org/blog/near-sharding-rollout-and-aurora-ido-postmortems/">NEAR Sharding Rollout and Aurora IDO Postmortems</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-sharding-rollout-and-aurora-ido-postmortems/">NEAR Sharding Rollout and Aurora IDO Postmortems</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -736,23 +736,23 @@
 			</item>
 		<item>
 		<title>NEAR Foundation Launches New Validator Program To Further Decentralize the Network</title>
-		<link>https://pages.near.org/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/</link>
+		<link>/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 02 Dec 2021 16:00:17 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Core protocol]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15389</guid>
+		<guid isPermaLink="false">/?p=15389</guid>
 
 					<description><![CDATA[<p>Since NEAR’s Mainnet launch in October 2020, the NEAR Foundation has helped foster the growth and decentralization of a vibrant …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/">NEAR Foundation Launches New Validator Program To Further Decentralize the Network</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/">NEAR Foundation Launches New Validator Program To Further Decentralize the Network</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><br>Since NEAR’s Mainnet launch in October 2020, the NEAR Foundation has helped foster the growth and decentralization of a vibrant validator community. Historically, to become a validator, you would apply to the Foundation Delegation Pilot Program, ensure you have the right amount of $NEAR, and meet the program requirements. While this process ensured the continued security of the network, the amount of $NEAR required to be eligible to become a validator was around 3.6 million, locking out many aspiring validators.&nbsp;</p>
 
 
 
-<p>NEAR Foundation is happy to announce we’re making some changes to increase the number of validators who can take part in securing the NEAR network. With <a href="https://pages.near.org/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/">the introduction of a validator selection algorithm change</a>, set to go live in mid-December, 2021, we expect the seat price to decrease significantly, allowing more capable validators to join the NEAR validator community.&nbsp;</p>
+<p>NEAR Foundation is happy to announce we’re making some changes to increase the number of validators who can take part in securing the NEAR network. With <a href="/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/">the introduction of a validator selection algorithm change</a>, set to go live in mid-December, 2021, we expect the seat price to decrease significantly, allowing more capable validators to join the NEAR validator community.&nbsp;</p>
 
 
 
@@ -849,7 +849,7 @@
 
 
 <p>As the NEAR Ecosystem rapidly scales to include new developers and users, we are working to quickly decentralize our organization and foster a vibrant validator community. These moves will be absolutely critical in reimagining the way NEAR’s community members can build, gather, innovate, and grow together.    </p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/">NEAR Foundation Launches New Validator Program To Further Decentralize the Network</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/">NEAR Foundation Launches New Validator Program To Further Decentralize the Network</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -857,16 +857,16 @@
 			</item>
 		<item>
 		<title>NEAR Validator Upgrade Allows Hundreds To Help Secure The Network</title>
-		<link>https://pages.near.org/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/</link>
+		<link>/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 29 Nov 2021 17:38:23 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[Core protocol]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=15380</guid>
+		<guid isPermaLink="false">/?p=15380</guid>
 
 					<description><![CDATA[<p>Since the NEAR Mainnet launch in October 2020, we have seen steady growth in the number of validators. Today, NEAR …</p>
-<p>The post <a href="https://pages.near.org/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/">NEAR Validator Upgrade Allows Hundreds To Help Secure The Network</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/">NEAR Validator Upgrade Allows Hundreds To Help Secure The Network</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Since the NEAR Mainnet launch in October 2020, we have seen steady growth in the number of validators. Today, NEAR has roughly <a href="https://near-staking.com/">60 validators on mainnet</a>, with many more wanting to join. Nevertheless, the extremely high threshold of 3.6M $NEAR makes it challenging for new validators to join. </p>
@@ -901,7 +901,7 @@
 
 
 
-<p>This change is only the beginning of a number of ecosystem-wide initiatives that will continue increasing the number of validators and improving network decentralization. With the upcoming launch of <a href="https://pages.near.org/blog/near-launches-simple-nightshade-the-first-step-towards-a-sharded-blockchain/">phase 1</a> of sharding in early 2022, we expect to add another 200 validators to Mainnet.&nbsp;</p>
+<p>This change is only the beginning of a number of ecosystem-wide initiatives that will continue increasing the number of validators and improving network decentralization. With the upcoming launch of <a href="/blog/near-launches-simple-nightshade-the-first-step-towards-a-sharded-blockchain/">phase 1</a> of sharding in early 2022, we expect to add another 200 validators to Mainnet.&nbsp;</p>
 
 
 
@@ -918,7 +918,7 @@
 
 
 <p><em>* The minimal threshold depends on the total amount of stake, which at this point we estimate it to be 67,000 NEAR.</em></p>
-<p>The post <a href="https://pages.near.org/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/">NEAR Validator Upgrade Allows Hundreds To Help Secure The Network</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/">NEAR Validator Upgrade Allows Hundreds To Help Secure The Network</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

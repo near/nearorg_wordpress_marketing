@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Grants Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/grants/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/grants/</link>
+	<atom:link href="/blog/tag/grants/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/grants/</link>
 	<description></description>
 	<lastBuildDate>Tue, 03 Jan 2023 16:45:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Grants Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/grants/</link>
+	<link>/blog/tag/grants/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Refining NEAR Foundation’s Grant Approach</title>
-		<link>https://pages.near.org/blog/refining-near-foundations-grant-approach/</link>
+		<link>/blog/refining-near-foundations-grant-approach/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 03 Jan 2023 15:05:22 +0000</pubDate>
@@ -37,17 +37,17 @@
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Grants]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19669</guid>
+		<guid isPermaLink="false">/?p=19669</guid>
 
 					<description><![CDATA[<p>A few weeks ago, as part of a series of blogs on the state of funding, NEAR Foundation announced it …</p>
-<p>The post <a href="https://pages.near.org/blog/refining-near-foundations-grant-approach/">Refining NEAR Foundation’s Grant Approach</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/refining-near-foundations-grant-approach/">Refining NEAR Foundation’s Grant Approach</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><br>A few weeks ago, as part of a series of blogs on the state of funding, NEAR Foundation announced it would be examining its evolving <a href="https://pages.near.org/blog/evolving-near-foundations-funding-strategy/">funding strategy</a>. This is in line with the Foundation’s&nbsp; goal of providing a clear and concise update to continue to foster transparent communication.&nbsp;</p>
+<p><br>A few weeks ago, as part of a series of blogs on the state of funding, NEAR Foundation announced it would be examining its evolving <a href="/blog/evolving-near-foundations-funding-strategy/">funding strategy</a>. This is in line with the Foundation’s&nbsp; goal of providing a clear and concise update to continue to foster transparent communication.&nbsp;</p>
 
 
 
-<p>At this time, NEAR Foundation is actively working towards a more decentralized model of capital allocation that will initially involve the <a href="https://pages.near.org/about/network/working-groups/">DeveloperDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/marketing/marketingdao/91">MarketingDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/creatives/creatives-dao/61">CreativesDAO</a>, with an additional DAO that will begin formation in Q1 of 2023. This will impact the ecosystem in the following ways:</p>
+<p>At this time, NEAR Foundation is actively working towards a more decentralized model of capital allocation that will initially involve the <a href="/about/network/working-groups/">DeveloperDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/marketing/marketingdao/91">MarketingDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/creatives/creatives-dao/61">CreativesDAO</a>, with an additional DAO that will begin formation in Q1 of 2023. This will impact the ecosystem in the following ways:</p>
 
 
 
@@ -69,8 +69,8 @@
 
 
 
-<p>NEAR Foundation’s goal is to empower the ecosystem to make decisions that support&nbsp; the strategic approach that will drive NEAR&nbsp; to the next phase of its roadmap, with a look ahead at new areas of product and development, as outlined in the <a href="https://pages.near.org/blog/near-strategic-update-and-outlook-for-2023/">NEAR Strategic Update and Outlook for 2023</a>. We will continue to be as transparent as possible about the new funding strategy as it rolls out. The Foundation will communicate as often, and as frequently, as possible. We encourage the community to continue providing meaningful feedback so we can iterate more quickly as we unite to build the NEAR Ecosystem together.</p>
-<p>The post <a href="https://pages.near.org/blog/refining-near-foundations-grant-approach/">Refining NEAR Foundation’s Grant Approach</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>NEAR Foundation’s goal is to empower the ecosystem to make decisions that support&nbsp; the strategic approach that will drive NEAR&nbsp; to the next phase of its roadmap, with a look ahead at new areas of product and development, as outlined in the <a href="/blog/near-strategic-update-and-outlook-for-2023/">NEAR Strategic Update and Outlook for 2023</a>. We will continue to be as transparent as possible about the new funding strategy as it rolls out. The Foundation will communicate as often, and as frequently, as possible. We encourage the community to continue providing meaningful feedback so we can iterate more quickly as we unite to build the NEAR Ecosystem together.</p>
+<p>The post <a href="/blog/refining-near-foundations-grant-approach/">Refining NEAR Foundation’s Grant Approach</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -78,7 +78,7 @@
 			</item>
 		<item>
 		<title>Refer-and-Earn Guidelines Update: Q3 2022</title>
-		<link>https://pages.near.org/blog/refer-and-earn-guidelines-update-q3-2022/</link>
+		<link>/blog/refer-and-earn-guidelines-update-q3-2022/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 09 Dec 2022 17:00:00 +0000</pubDate>
@@ -86,10 +86,10 @@
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Grants]]></category>
 		<category><![CDATA[Refer-and-Earn]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19539</guid>
+		<guid isPermaLink="false">/?p=19539</guid>
 
 					<description><![CDATA[<p>NEAR’s ever-growing and engaged community is one of the ecosystem’s greatest strengths. Remember the NEAR Foundation Grants team’s Refer-and-Earn Program? …</p>
-<p>The post <a href="https://pages.near.org/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR’s ever-growing and engaged community is one of the ecosystem’s greatest strengths. Remember the <a href="https://medium.com/nearprotocol/refer-and-earn-pick-projects-you-love-and-get-up-to-10-000-in-near-981c0c015ba4#:~:text=Refer%20and%20Earn.,for%20nominating%20a%20worthy%20project">NEAR Foundation Grants team’s Refer-and-Earn Program</a>? A number of NEAR community members participated in Refer-and-Earn in early 2022, resulting in grants for dozens of exciting projects currently building on the NEAR ecosystem.&nbsp;&nbsp;</p>
@@ -181,7 +181,7 @@
 
 
 <p>The Grants team has reached out to all Refer-and-Earn referrers. Thanks to your help and support, the Grants team is able to support innovative projects like those listed above. </p>
-<p>The post <a href="https://pages.near.org/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -189,20 +189,20 @@
 			</item>
 		<item>
 		<title>Evolving NEAR Foundation’s Funding Strategy</title>
-		<link>https://pages.near.org/blog/evolving-near-foundations-funding-strategy/</link>
+		<link>/blog/evolving-near-foundations-funding-strategy/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 21 Nov 2022 16:15:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Governance]]></category>
 		<category><![CDATA[Grants]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19109</guid>
+		<guid isPermaLink="false">/?p=19109</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is publishing a series of blogs on the state of funding, including updates from the Grants Team and …</p>
-<p>The post <a href="https://pages.near.org/blog/evolving-near-foundations-funding-strategy/">Evolving NEAR Foundation’s Funding Strategy</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/evolving-near-foundations-funding-strategy/">Evolving NEAR Foundation’s Funding Strategy</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>NEAR Foundation is publishing a series of blogs on the state of funding, including </em><a href="https://pages.near.org/blog/near-funding-updates-funding-beyond-grants/"><em>updates from the Grants Team</em></a><em> and an upcoming Transparency Report for Q3. This is part of our continued commitment to transparency, as well as more frequent and open communication with the NEAR community.&nbsp;</em></p>
+<p><em>NEAR Foundation is publishing a series of blogs on the state of funding, including </em><a href="/blog/near-funding-updates-funding-beyond-grants/"><em>updates from the Grants Team</em></a><em> and an upcoming Transparency Report for Q3. This is part of our continued commitment to transparency, as well as more frequent and open communication with the NEAR community.&nbsp;</em></p>
 
 
 
@@ -214,11 +214,11 @@
 
 
 
-<p>While the market has created a new reality for the entire Web3 ecosystem, NEAR sees this as a moment of great opportunity and a time to stick to our convictions. We’ve outlined the Foundation’s <a href="https://pages.near.org/blog/a-time-for-conviction/">new strategy</a> around facilitating Web2.5 and making NEAR the de facto bridge from Web2 to Web3.&nbsp;</p>
+<p>While the market has created a new reality for the entire Web3 ecosystem, NEAR sees this as a moment of great opportunity and a time to stick to our convictions. We’ve outlined the Foundation’s <a href="/blog/a-time-for-conviction/">new strategy</a> around facilitating Web2.5 and making NEAR the de facto bridge from Web2 to Web3.&nbsp;</p>
 
 
 
-<p>Staying true to NEAR’s decentralized vision, the NEAR Digital Collective (NDC) was recently launched and led by the Governance Working Group (GWG). We’ve also delegated some decision-making to the community through grassroots DAOs: the <a href="https://pages.near.org/about/network/working-groups/">DeveloperDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/marketing/marketingdao/91">MarketingDAO</a>, and <a href="https://gov.nearpages.wpengine.com/c/creatives/creatives-dao/61">CreativesDAO</a>.&nbsp;</p>
+<p>Staying true to NEAR’s decentralized vision, the NEAR Digital Collective (NDC) was recently launched and led by the Governance Working Group (GWG). We’ve also delegated some decision-making to the community through grassroots DAOs: the <a href="/about/network/working-groups/">DeveloperDAO</a>, <a href="https://gov.nearpages.wpengine.com/c/marketing/marketingdao/91">MarketingDAO</a>, and <a href="https://gov.nearpages.wpengine.com/c/creatives/creatives-dao/61">CreativesDAO</a>.&nbsp;</p>
 
 
 
@@ -246,7 +246,7 @@
 
 
 
-<p>The Foundation also started publishing a regular Transparency Report in the spirit of accountability to the ecosystem. The <a href="https://pages.near.org/blog/near-foundation-transparency-report/">first Transparency report</a>, which came out just before NEARCON, was an important start—but we want to make it even better for the community. The next report will be coming out in a couple of weeks and will include more granularity where possible. You can also check out a recent update from the NEAR Grants team titled “<a href="https://pages.near.org/blog/near-funding-updates-funding-beyond-grants/">Funding Beyond Grants</a>”.&nbsp;</p>
+<p>The Foundation also started publishing a regular Transparency Report in the spirit of accountability to the ecosystem. The <a href="/blog/near-foundation-transparency-report/">first Transparency report</a>, which came out just before NEARCON, was an important start—but we want to make it even better for the community. The next report will be coming out in a couple of weeks and will include more granularity where possible. You can also check out a recent update from the NEAR Grants team titled “<a href="/blog/near-funding-updates-funding-beyond-grants/">Funding Beyond Grants</a>”.&nbsp;</p>
 
 
 
@@ -259,7 +259,7 @@
 
 
 <p>NEAR Foundation is keeping an eye on the long term for the entire NEAR ecosystem. By being fiscally responsible and deploying capital in a sustainable way, the Foundation can ensure that NEAR emerges from this bear market stronger than ever, and well positioned to help builders keep building the future of Web3.</p>
-<p>The post <a href="https://pages.near.org/blog/evolving-near-foundations-funding-strategy/">Evolving NEAR Foundation’s Funding Strategy</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/evolving-near-foundations-funding-strategy/">Evolving NEAR Foundation’s Funding Strategy</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -267,17 +267,17 @@
 			</item>
 		<item>
 		<title>NEAR Foundation Funding Team Report: September 2022</title>
-		<link>https://pages.near.org/blog/near-foundation-funding-team-report-september-2022/</link>
+		<link>/blog/near-foundation-funding-team-report-september-2022/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 18 Nov 2022 10:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Grants]]></category>
 		<category><![CDATA[Statistics]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19093</guid>
+		<guid isPermaLink="false">/?p=19093</guid>
 
 					<description><![CDATA[<p>Welcome to the NEAR Foundation Funding Team Report that captures and highlights data for the month of September 2022. The …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-funding-team-report-september-2022/">NEAR Foundation Funding Team Report: September 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-funding-team-report-september-2022/">NEAR Foundation Funding Team Report: September 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to the NEAR Foundation Funding Team Report that captures and highlights data for the month of September 2022. The purpose of this document is to provide transparency regarding what happened during the last month in our Funding Team,&nbsp;and is to be shared publicly to the ecosystem and our investor network.</p>
@@ -700,8 +700,8 @@
 
 
 
-<ul><li>explore the NEAR Funding&nbsp; <a href="https://linktr.ee/nearfunding">linktree</a></li><li>visit NF’s website : <a href="https://pages.near.org/">https://pages.near.org/</a></li><li>contact NF Grants : <a href="grant@near.foundation">grants@near.foundation&nbsp;</a></li></ul>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-funding-team-report-september-2022/">NEAR Foundation Funding Team Report: September 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<ul><li>explore the NEAR Funding&nbsp; <a href="https://linktr.ee/nearfunding">linktree</a></li><li>visit NF’s website : <a href="/">/</a></li><li>contact NF Grants : <a href="grant@near.foundation">grants@near.foundation&nbsp;</a></li></ul>
+<p>The post <a href="/blog/near-foundation-funding-team-report-september-2022/">NEAR Foundation Funding Team Report: September 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -709,16 +709,16 @@
 			</item>
 		<item>
 		<title>NEAR Funding Updates: Funding Beyond Grants</title>
-		<link>https://pages.near.org/blog/near-funding-updates-funding-beyond-grants/</link>
+		<link>/blog/near-funding-updates-funding-beyond-grants/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 09:03:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Grants]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=18581</guid>
+		<guid isPermaLink="false">/?p=18581</guid>
 
 					<description><![CDATA[<p>Welcome to the Funding Team Series that highlights important updates about NEAR Foundation’s Grants program, ecosystem and funding strategy.&#160; Part …</p>
-<p>The post <a href="https://pages.near.org/blog/near-funding-updates-funding-beyond-grants/">NEAR Funding Updates: Funding Beyond Grants</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-funding-updates-funding-beyond-grants/">NEAR Funding Updates: Funding Beyond Grants</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to the Funding Team Series that highlights important updates about NEAR Foundation’s Grants program, ecosystem and funding strategy.&nbsp;</p>
@@ -749,7 +749,7 @@
 
 
 
-<p>NEAR Foundation has been deeply focused on developing other funding programs within the ecosystem since the start of 2022.&nbsp; Since the creation of <a href="https://medium.com/nearprotocol/announcing-a-350m-grants-dao-for-near-defi-projects-186668ed427a">Proximity Labs</a> and <a href="https://pages.near.org/blog/aurora-launches-near/">Aurora</a> and the launch of their own grants program, NEAR Foundation has been redirecting DeFi projects to Proximity and EVM based projects to Aurora.&nbsp;</p>
+<p>NEAR Foundation has been deeply focused on developing other funding programs within the ecosystem since the start of 2022.&nbsp; Since the creation of <a href="https://medium.com/nearprotocol/announcing-a-350m-grants-dao-for-near-defi-projects-186668ed427a">Proximity Labs</a> and <a href="/blog/aurora-launches-near/">Aurora</a> and the launch of their own grants program, NEAR Foundation has been redirecting DeFi projects to Proximity and EVM based projects to Aurora.&nbsp;</p>
 
 
 
@@ -913,12 +913,12 @@
 
 
 
-<ul><li>Explore NEAR Funding Programs: <a href="https://linktr.ee/nearfunding" target="_blank" rel="noreferrer noopener">linktree</a></li><li>Visit the NEAR website : <a href="https://pages.near.org/" target="_blank" rel="noreferrer noopener">https://pages.near.org/</a></li><li>Contact the NEAR Grants team at grants.@near.foundation&nbsp;</li></ul>
+<ul><li>Explore NEAR Funding Programs: <a href="https://linktr.ee/nearfunding" target="_blank" rel="noreferrer noopener">linktree</a></li><li>Visit the NEAR website : <a href="/" target="_blank" rel="noreferrer noopener">/</a></li><li>Contact the NEAR Grants team at grants.@near.foundation&nbsp;</li></ul>
 
 
 
 <p>⌛️ In the next blog post, the NEAR Funding team will reintroduce the NEAR Foundation’s Grant Program, providing grant data and including key updates.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-funding-updates-funding-beyond-grants/">NEAR Funding Updates: Funding Beyond Grants</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-funding-updates-funding-beyond-grants/">NEAR Funding Updates: Funding Beyond Grants</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

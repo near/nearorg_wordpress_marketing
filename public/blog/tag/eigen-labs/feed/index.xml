@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Eigen Labs Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/eigen-labs/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/eigen-labs/</link>
+	<atom:link href="/blog/tag/eigen-labs/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/eigen-labs/</link>
 	<description></description>
 	<lastBuildDate>Fri, 10 Nov 2023 11:51:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Eigen Labs Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/eigen-labs/</link>
+	<link>/blog/tag/eigen-labs/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</title>
-		<link>https://pages.near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/</link>
+		<link>/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 10 Nov 2023 13:30:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Eigen Labs]]></category>
 		<category><![CDATA[EigenLayer]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21085</guid>
+		<guid isPermaLink="false">/?p=21085</guid>
 
 					<description><![CDATA[<p>EigenLabs, one of the leaders in building scaling solutions on Ethereum, is partnering with the NEAR Foundation to create an …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://www.eigenlayer.xyz/about">EigenLabs</a>, one of the leaders in building scaling solutions on Ethereum, is partnering with the NEAR Foundation to create an industry first partnership designed to foster faster, cheaper transactions for Layer 2 projects building on Ethereum.&nbsp;</p>
@@ -95,7 +95,7 @@
 
 
 <p>A testnet is expected to launch in Q1 2024, and more details will be shared around that time.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">NEAR Foundation and Eigen Labs Partner to Enable Faster, Cheaper Web3 Transactions for Ethereum Rollups via EigenLayer</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

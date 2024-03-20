@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Press Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/press/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/press/</link>
+	<atom:link href="/blog/tag/press/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/press/</link>
 	<description></description>
 	<lastBuildDate>Mon, 03 Jul 2023 15:18:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Press Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/press/</link>
+	<link>/blog/tag/press/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation PR Roundup for June</title>
-		<link>https://pages.near.org/blog/near-foundation-pr-roundup-for-june/</link>
+		<link>/blog/near-foundation-pr-roundup-for-june/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
@@ -39,10 +39,10 @@
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Partnerships]]></category>
 		<category><![CDATA[Press]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20694</guid>
+		<guid isPermaLink="false">/?p=20694</guid>
 
 					<description><![CDATA[<p>As June comes to a close, summer in the NEAR ecosystem is heating up with a wave of new announcements, …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-june/">NEAR Foundation PR Roundup for June</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-pr-roundup-for-june/">NEAR Foundation PR Roundup for June</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>As June comes to a close, summer in the NEAR ecosystem is heating up with a wave of new announcements, events, media appearances, and more. Not to mention a few notable celebrities bringing some star power into NEAR’s orbit. Here’s a rundown of all the newsworthy NEAR happenings over the past month.</p>
@@ -130,7 +130,7 @@
 
 
 <p>That’s all for this month. If we missed anything or want to share anything for next month’s roundup, get in touch!</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-june/">NEAR Foundation PR Roundup for June</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-pr-roundup-for-june/">NEAR Foundation PR Roundup for June</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -138,17 +138,17 @@
 			</item>
 		<item>
 		<title>NEAR Foundation PR Roundup for January</title>
-		<link>https://pages.near.org/blog/near-foundation-pr-roundup-for-january/</link>
+		<link>/blog/near-foundation-pr-roundup-for-january/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 01 Feb 2023 22:20:36 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Press]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19755</guid>
+		<guid isPermaLink="false">/?p=19755</guid>
 
 					<description><![CDATA[<p>NEAR Foundation hopes all of you are having a great start to the year. Here are some of the top …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-january/">NEAR Foundation PR Roundup for January</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-pr-roundup-for-january/">NEAR Foundation PR Roundup for January</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation hopes all of you are having a great start to the year. Here are some of the top news stories from the NEAR Foundation and our thriving ecosystem, as well as <a href="https://docs.google.com/spreadsheets/d/1ZtleHzDk86ZO7qZXoT94Ss6Q5VCA8xanYnjrEubPwZo/edit#gid=0">press headlines</a> from around the globe.</p>
@@ -200,7 +200,7 @@
 
 
 <p>That’s all for this month. If we missed anything out or want to share anything for next month’s roundup, get in touch!</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundation-pr-roundup-for-january/">NEAR Foundation PR Roundup for January</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundation-pr-roundup-for-january/">NEAR Foundation PR Roundup for January</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>UK Crypto Asset Consultation Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/uk-crypto-asset-consultation/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/uk-crypto-asset-consultation/</link>
+	<atom:link href="/blog/tag/uk-crypto-asset-consultation/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/uk-crypto-asset-consultation/</link>
 	<description></description>
 	<lastBuildDate>Thu, 04 May 2023 00:49:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>UK Crypto Asset Consultation Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/uk-crypto-asset-consultation/</link>
+	<link>/blog/tag/uk-crypto-asset-consultation/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Foundation&#8217;s Response to the UK Crypto Asset Consultation</title>
-		<link>https://pages.near.org/blog/near-foundations-response-to-the-uk-crypto-asset-consultation/</link>
+		<link>/blog/near-foundations-response-to-the-uk-crypto-asset-consultation/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 04 May 2023 00:49:16 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[UK Crypto Asset Consultation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20475</guid>
+		<guid isPermaLink="false">/?p=20475</guid>
 
 					<description><![CDATA[<p>The NEAR Foundation (the “Foundation”) submits this letter in response to the consultation and call for evidence by His Majesty’s …</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundations-response-to-the-uk-crypto-asset-consultation/">NEAR Foundation&#8217;s Response to the UK Crypto Asset Consultation</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundations-response-to-the-uk-crypto-asset-consultation/">NEAR Foundation&#8217;s Response to the UK Crypto Asset Consultation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <ol start="1">
@@ -742,7 +742,7 @@
 
 
 <p><a href="#ftnt_ref51">[51]</a>&nbsp;Aru Juels et al., &nbsp;<em>Chainlink, Fair Sequencing Services: Enabling a Provably Fair DeFi Ecosystem</em>, 22 September 2020 (available&nbsp;<a href="https://www.google.com/url?q=https://blog.chain.link/chainlink-fair-sequencing-services-enabling-a-provably-fair-defi-ecosystem/&amp;sa=D&amp;source=editors&amp;ust=1683164415948935&amp;usg=AOvVaw3ZcMAMiJfZYAl-mzWzOXQ_">here</a>).</p>
-<p>The post <a href="https://pages.near.org/blog/near-foundations-response-to-the-uk-crypto-asset-consultation/">NEAR Foundation&#8217;s Response to the UK Crypto Asset Consultation</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-foundations-response-to-the-uk-crypto-asset-consultation/">NEAR Foundation&#8217;s Response to the UK Crypto Asset Consultation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

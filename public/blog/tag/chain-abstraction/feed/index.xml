@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Chain Abstraction Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/chain-abstraction/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/chain-abstraction/</link>
+	<atom:link href="/blog/tag/chain-abstraction/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/chain-abstraction/</link>
 	<description></description>
 	<lastBuildDate>Tue, 30 Jan 2024 14:33:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Chain Abstraction Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/chain-abstraction/</link>
+	<link>/blog/tag/chain-abstraction/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Phase 2 of NEAR Sharding Launches</title>
-		<link>https://pages.near.org/blog/phase-2-of-near-sharding-launches/</link>
+		<link>/blog/phase-2-of-near-sharding-launches/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 30 Jan 2024 14:33:22 +0000</pubDate>
@@ -39,17 +39,17 @@
 		<category><![CDATA[Nightshade]]></category>
 		<category><![CDATA[Sharding]]></category>
 		<category><![CDATA[stateless validation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21200</guid>
+		<guid isPermaLink="false">/?p=21200</guid>
 
 					<description><![CDATA[<p>The NEAR Foundation announced today that the Protocol Work Group will launch testing for Phase 2 of Sharding this week, …</p>
-<p>The post <a href="https://pages.near.org/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR Foundation announced today that the Protocol Work Group will launch testing for Phase 2 of Sharding this week, marking a major milestone in the network’s development roadmap. Phase 2 introduces fundamental upgrades to NEAR’s core protocol architecture, enabling even greater scalability and decentralization for the network. The fourth edition of <a href="https://github.com/near/stakewars-iv">Stake Wars</a>, an incentivized community testing initiative, will kick off on February 1.&nbsp;&nbsp;</p>
 
 
 
-<p>NEAR&#8217;s vision of <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> to facilitate broad adoption of decentralized apps requires an extremely scalable blockchain layer. From the start, NEAR has been designed to scale with demand towards mainstream adoption. A primary benefit of the new sharding implementation will be an up-to-10x speed improvement to NEAR’s already-fast transaction throughput. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” Combined with NEAR already having the lowest transaction fees in Web3, this sharding upgrade positions NEAR at the forefront of Web3 in terms of both performance and scalability. Phase 2 greatly improves the network’s capacity for end user volume and is an important landmark on the road to global-scale usage of Web3. </p>
+<p>NEAR&#8217;s vision of <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> to facilitate broad adoption of decentralized apps requires an extremely scalable blockchain layer. From the start, NEAR has been designed to scale with demand towards mainstream adoption. A primary benefit of the new sharding implementation will be an up-to-10x speed improvement to NEAR’s already-fast transaction throughput. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” Combined with NEAR already having the lowest transaction fees in Web3, this sharding upgrade positions NEAR at the forefront of Web3 in terms of both performance and scalability. Phase 2 greatly improves the network’s capacity for end user volume and is an important landmark on the road to global-scale usage of Web3. </p>
 
 
 
@@ -90,7 +90,7 @@
 
 
 <p>With the launch of Phase 2, NEAR becomes one of the only networks in Web3 to implement stateless validation to improve scaling and paves the way for further network performance and scalability improvements in the future roadmap. A technical paper with more detail about NEAR’s new sharding design is forthcoming later in Q1. Phase 2 is expected to launch on NEAR Mainnet in May 2024.</p>
-<p>The post <a href="https://pages.near.org/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -98,7 +98,7 @@
 			</item>
 		<item>
 		<title>Why NEAR Data Availability?</title>
-		<link>https://pages.near.org/blog/why-near-data-availability/</link>
+		<link>/blog/why-near-data-availability/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 26 Jan 2024 16:28:31 +0000</pubDate>
@@ -107,10 +107,10 @@
 		<category><![CDATA[Ethereum Rollups]]></category>
 		<category><![CDATA[Modularity]]></category>
 		<category><![CDATA[NEAR Data Availability Layer]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21194</guid>
+		<guid isPermaLink="false">/?p=21194</guid>
 
 					<description><![CDATA[<p>NEAR Protocol is built to onboard 1B+ users to Web3. Since its mainnet launch in October 2020, NEAR Protocol has …</p>
-<p>The post <a href="https://pages.near.org/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Protocol is built to onboard 1B+ users to Web3. Since its mainnet launch in October 2020, NEAR Protocol has achieved 100% uptime with 4 shards and has onboarded 35M accounts, of which 16M are monthly active accounts.</p>
@@ -137,7 +137,7 @@
 
 
 
-<p>The NEAR ecosystem’s focus for 2024 is expanding <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> across more chains &amp; ecosystems, with the goal of abstracting the blockchain away from the user &amp; developer experience. While the modular Ethereum ecosystem has made Ethereum more scalable in some ways, it’s also resulted in a lot of incompatible infrastructure and fractured liquidity that places a huge burden on app builders and end users to manage. The chain abstraction vision is that apps should just work with all chains, onboarding should be seamless, and things like gas fees and bridging should become invisible to end users.&nbsp;</p>
+<p>The NEAR ecosystem’s focus for 2024 is expanding <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> across more chains &amp; ecosystems, with the goal of abstracting the blockchain away from the user &amp; developer experience. While the modular Ethereum ecosystem has made Ethereum more scalable in some ways, it’s also resulted in a lot of incompatible infrastructure and fractured liquidity that places a huge burden on app builders and end users to manage. The chain abstraction vision is that apps should just work with all chains, onboarding should be seamless, and things like gas fees and bridging should become invisible to end users.&nbsp;</p>
 
 
 
@@ -216,7 +216,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -224,7 +224,7 @@
 			</item>
 		<item>
 		<title>Why Chain Abstraction Is the Next Frontier for Web3</title>
-		<link>https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</link>
+		<link>/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</link>
 		
 		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
 		<pubDate>Wed, 24 Jan 2024 19:55:01 +0000</pubDate>
@@ -233,17 +233,17 @@
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Mission & vision]]></category>
 		<category><![CDATA[Multichain]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21182</guid>
+		<guid isPermaLink="false">/?p=21182</guid>
 
 					<description><![CDATA[<p>Most of today’s dapps are not actually dapps, i.e. decentralized applications. If you need to leave the app in order …</p>
-<p>The post <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Most of today’s dapps are not actually dapps, i.e. <em>decentralized applications. </em>If you need to leave the app in order to start using it, it’s not really an app––it’s just a frontend. If users have to manually onboard themselves through exchanges and manage multiple accounts and gas fees and bridges, did you even build an app? I think not––which may explain why only a few million people in the world are using dapps.&nbsp;</p>
 
 
 
-<p>If we want to see mainstream adoption of Web3 because we believe a more open, decentralized internet that supports self-sovereignty for all people is <a href="https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem">better for the world</a>, then we will need to do better.</p>
+<p>If we want to see mainstream adoption of Web3 because we believe a more open, decentralized internet that supports self-sovereignty for all people is <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem">better for the world</a>, then we will need to do better.</p>
 
 
 
@@ -374,7 +374,7 @@
 
 
 <p>Let’s make chain abstraction a movement. The NEAR ecosystem invites builders from across Web3 to take advantage of the solutions we’re offering and to collaborate with us to build more chain abstraction solutions together. Stay tuned for more news on collaborations as well as details on an exciting event that NEAR Foundation will co-host at ETHDenver 2024.<br><br><em>Special thanks to Zaki Manian for conversations that led to this post as well as for his review.</em></p>
-<p>The post <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -382,7 +382,7 @@
 			</item>
 		<item>
 		<title>Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</title>
-		<link>https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/</link>
+		<link>/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/</link>
 		
 		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
 		<pubDate>Fri, 19 Jan 2024 20:19:02 +0000</pubDate>
@@ -392,10 +392,10 @@
 		<category><![CDATA[NEAR Ecosystem]]></category>
 		<category><![CDATA[Self-Sovereignty]]></category>
 		<category><![CDATA[User-Owned AI]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21170</guid>
+		<guid isPermaLink="false">/?p=21170</guid>
 
 					<description><![CDATA[<p>As a kid growing up in Ukraine in the ’90s after the dissolution of the USSR, I remember we watched …</p>
-<p>The post <a href="https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p></p>
@@ -533,7 +533,7 @@
 
 
 <p>We have the tools to remake how we provide for ourselves, how we work together and govern ourselves, and how we consume and generate information. Without gatekeepers, fair and open to everyone. And this is not a futuristic vision: it’s possible to start experimenting and building now, before our fragile and outdated systems and structures get weaker or fail, before too much centralization leads to the worst outcomes instead of the ones we all design and share together.<br><br>––<em>Illia Polosukhin, Co-Founder of NEAR and CEO of NEAR Foundation</em></p>
-<p>The post <a href="https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

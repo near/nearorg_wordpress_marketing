@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Competition Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/competition/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/competition/</link>
+	<atom:link href="/blog/tag/competition/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/competition/</link>
 	<description></description>
 	<lastBuildDate>Wed, 31 May 2023 17:04:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Competition Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/competition/</link>
+	<link>/blog/tag/competition/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR FastAuth Competition Terms and Conditions</title>
-		<link>https://pages.near.org/blog/near-fastauth-competition-terms-and-conditions/</link>
+		<link>/blog/near-fastauth-competition-terms-and-conditions/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 31 May 2023 15:22:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Competition]]></category>
 		<category><![CDATA[FastAuth]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20552</guid>
+		<guid isPermaLink="false">/?p=20552</guid>
 
 					<description><![CDATA[<p>The following terms and conditions (the “Terms”) govern the use of the NEAR Foundation Fast Auth Competition (the “Competition”) provided …</p>
-<p>The post <a href="https://pages.near.org/blog/near-fastauth-competition-terms-and-conditions/">NEAR FastAuth Competition Terms and Conditions</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-fastauth-competition-terms-and-conditions/">NEAR FastAuth Competition Terms and Conditions</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <ol>
@@ -177,7 +177,7 @@
 
 
 <p>If you have any questions or comments about these Terms, please contact us at social@near.foundation.</p>
-<p>The post <a href="https://pages.near.org/blog/near-fastauth-competition-terms-and-conditions/">NEAR FastAuth Competition Terms and Conditions</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-fastauth-competition-terms-and-conditions/">NEAR FastAuth Competition Terms and Conditions</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

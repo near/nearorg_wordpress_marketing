@@ -9,8 +9,8 @@
 
 <channel>
 	<title>B.O.S web push notifications Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/b-o-s-web-push-notifications/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/b-o-s-web-push-notifications/</link>
+	<atom:link href="/blog/tag/b-o-s-web-push-notifications/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/b-o-s-web-push-notifications/</link>
 	<description></description>
 	<lastBuildDate>Wed, 04 Oct 2023 18:16:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>B.O.S web push notifications Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/b-o-s-web-push-notifications/</link>
+	<link>/blog/tag/b-o-s-web-push-notifications/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Announcing Web Push Notifications on B.O.S</title>
-		<link>https://pages.near.org/blog/announcing-web-push-notifications-on-b-o-s/</link>
+		<link>/blog/announcing-web-push-notifications-on-b-o-s/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 04 Oct 2023 18:12:01 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[B.O.S]]></category>
 		<category><![CDATA[B.O.S web push notifications]]></category>
 		<category><![CDATA[Blockchain Operating System]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20948</guid>
+		<guid isPermaLink="false">/?p=20948</guid>
 
 					<description><![CDATA[<p>Starting today, developers can better engage with their users thanks to Web Push Notifications on both desktop and mobile for …</p>
-<p>The post <a href="https://pages.near.org/blog/announcing-web-push-notifications-on-b-o-s/">Announcing Web Push Notifications on B.O.S</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/announcing-web-push-notifications-on-b-o-s/">Announcing Web Push Notifications on B.O.S</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>Starting today, developers can better engage with their users thanks to Web Push Notifications on both desktop and mobile for applications built on B.O.S.</em></p>
@@ -114,7 +114,7 @@
 
 
 <p>Stay tuned! Pagoda plans to release additional notification features later this year, including support for more granular notification settings and safeguards to manage notification volume for users on near.org. They will also be exploring support for near.org notifications via email.</p>
-<p>The post <a href="https://pages.near.org/blog/announcing-web-push-notifications-on-b-o-s/">Announcing Web Push Notifications on B.O.S</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/announcing-web-push-notifications-on-b-o-s/">Announcing Web Push Notifications on B.O.S</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

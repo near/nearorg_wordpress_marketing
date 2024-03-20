@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Alibaba Cloud Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/alibaba-cloud/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/alibaba-cloud/</link>
+	<atom:link href="/blog/tag/alibaba-cloud/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/alibaba-cloud/</link>
 	<description></description>
 	<lastBuildDate>Fri, 30 Jun 2023 18:24:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Alibaba Cloud Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/alibaba-cloud/</link>
+	<link>/blog/tag/alibaba-cloud/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR at Collision Highlights</title>
-		<link>https://pages.near.org/blog/near-at-collision-highlights/</link>
+		<link>/blog/near-at-collision-highlights/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 30 Jun 2023 13:46:27 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Alibaba Cloud]]></category>
 		<category><![CDATA[Collision]]></category>
 		<category><![CDATA[Women in Web3 Changemakers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20682</guid>
+		<guid isPermaLink="false">/?p=20682</guid>
 
 					<description><![CDATA[<p>Missed NEAR’s booth at Collision? We’ve got you covered with content from NEAR talks and panels. There were also a …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-collision-highlights/">NEAR at Collision Highlights</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-collision-highlights/">NEAR at Collision Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Missed NEAR’s booth at Collision? We’ve got you covered with content from NEAR talks and panels. There were also a number of awesome announcements, including the big news out of Collision: Alibaba Cloud.</p>
@@ -132,7 +132,7 @@
 
 
 <p>So after immersing yourself in Collision 2023, remember to mark your calendars for <a href="https://www.eventbrite.com/e/near-ethcc-tickets-655229297467?aff=oddtdtcreator">NEAR’s presence at ETHCC</a> as well. Here&#8217;s to continuing to make waves in Web3 and expanding into the Open Web – with you as the BOS!</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-collision-highlights/">NEAR at Collision Highlights</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-collision-highlights/">NEAR at Collision Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -140,16 +140,16 @@
 			</item>
 		<item>
 		<title>NEAR and Alibaba Cloud Team Up to Grow the Open Web</title>
-		<link>https://pages.near.org/blog/near-and-alibaba-cloud-team-up-to-grow-the-open-web/</link>
+		<link>/blog/near-and-alibaba-cloud-team-up-to-grow-the-open-web/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 26 Jun 2023 14:05:48 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Alibaba Cloud]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20665</guid>
+		<guid isPermaLink="false">/?p=20665</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a major new partnership with Alibaba Cloud, the digital technology and intelligence backbone of …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-alibaba-cloud-team-up-to-grow-the-open-web/">NEAR and Alibaba Cloud Team Up to Grow the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-alibaba-cloud-team-up-to-grow-the-open-web/">NEAR and Alibaba Cloud Team Up to Grow the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce a major new partnership with Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group.&nbsp;</p>
@@ -189,7 +189,7 @@
 
 
 <p>NEAR Foundation and Alibaba Cloud will continue to expand its partnership together through collaborations at a variety of global Web3 conferences and events.</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-alibaba-cloud-team-up-to-grow-the-open-web/">NEAR and Alibaba Cloud Team Up to Grow the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-alibaba-cloud-team-up-to-grow-the-open-web/">NEAR and Alibaba Cloud Team Up to Grow the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

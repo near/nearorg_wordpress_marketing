@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Nightshade Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/nightshade/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/nightshade/</link>
+	<atom:link href="/blog/tag/nightshade/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/nightshade/</link>
 	<description></description>
 	<lastBuildDate>Tue, 30 Jan 2024 14:33:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Nightshade Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/nightshade/</link>
+	<link>/blog/tag/nightshade/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Phase 2 of NEAR Sharding Launches</title>
-		<link>https://pages.near.org/blog/phase-2-of-near-sharding-launches/</link>
+		<link>/blog/phase-2-of-near-sharding-launches/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 30 Jan 2024 14:33:22 +0000</pubDate>
@@ -39,17 +39,17 @@
 		<category><![CDATA[Nightshade]]></category>
 		<category><![CDATA[Sharding]]></category>
 		<category><![CDATA[stateless validation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21200</guid>
+		<guid isPermaLink="false">/?p=21200</guid>
 
 					<description><![CDATA[<p>The NEAR Foundation announced today that the Protocol Work Group will launch testing for Phase 2 of Sharding this week, …</p>
-<p>The post <a href="https://pages.near.org/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR Foundation announced today that the Protocol Work Group will launch testing for Phase 2 of Sharding this week, marking a major milestone in the network’s development roadmap. Phase 2 introduces fundamental upgrades to NEAR’s core protocol architecture, enabling even greater scalability and decentralization for the network. The fourth edition of <a href="https://github.com/near/stakewars-iv">Stake Wars</a>, an incentivized community testing initiative, will kick off on February 1.&nbsp;&nbsp;</p>
 
 
 
-<p>NEAR&#8217;s vision of <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> to facilitate broad adoption of decentralized apps requires an extremely scalable blockchain layer. From the start, NEAR has been designed to scale with demand towards mainstream adoption. A primary benefit of the new sharding implementation will be an up-to-10x speed improvement to NEAR’s already-fast transaction throughput. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” Combined with NEAR already having the lowest transaction fees in Web3, this sharding upgrade positions NEAR at the forefront of Web3 in terms of both performance and scalability. Phase 2 greatly improves the network’s capacity for end user volume and is an important landmark on the road to global-scale usage of Web3. </p>
+<p>NEAR&#8217;s vision of <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> to facilitate broad adoption of decentralized apps requires an extremely scalable blockchain layer. From the start, NEAR has been designed to scale with demand towards mainstream adoption. A primary benefit of the new sharding implementation will be an up-to-10x speed improvement to NEAR’s already-fast transaction throughput. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” Combined with NEAR already having the lowest transaction fees in Web3, this sharding upgrade positions NEAR at the forefront of Web3 in terms of both performance and scalability. Phase 2 greatly improves the network’s capacity for end user volume and is an important landmark on the road to global-scale usage of Web3. </p>
 
 
 
@@ -90,7 +90,7 @@
 
 
 <p>With the launch of Phase 2, NEAR becomes one of the only networks in Web3 to implement stateless validation to improve scaling and paves the way for further network performance and scalability improvements in the future roadmap. A technical paper with more detail about NEAR’s new sharding design is forthcoming later in Q1. Phase 2 is expected to launch on NEAR Mainnet in May 2024.</p>
-<p>The post <a href="https://pages.near.org/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -98,7 +98,7 @@
 			</item>
 		<item>
 		<title>NEAR Q4 Protocol Roadmap Update</title>
-		<link>https://pages.near.org/blog/near-q4-protocol-roadmap-update/</link>
+		<link>/blog/near-q4-protocol-roadmap-update/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 12 Jan 2024 19:23:37 +0000</pubDate>
@@ -108,10 +108,10 @@
 		<category><![CDATA[Nightshade]]></category>
 		<category><![CDATA[Protocol Roadmap]]></category>
 		<category><![CDATA[Sharding]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21155</guid>
+		<guid isPermaLink="false">/?p=21155</guid>
 
 					<description><![CDATA[<p>TLDR: 2023 saw major experience improvements via meta transactions and zero-balance accounts, as well as node performance improvements and optimizations. Preparations are underway for a major upgrade to stateless validation, completing Phase 2 of the sharding roadmap in early 2024.</p>
-<p>The post <a href="https://pages.near.org/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><br><em>By Bowen Wang, Director of Protocol</em> <br><br>In this post, the NEAR Protocol work group would like to provide an update of the protocol roadmap to show what <a href="https://near.org/blog/near-q2-protocol-roadmap-update">we accomplished in 2023</a> and what is planned for 2024.<br></p>
@@ -180,7 +180,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="592" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -188,12 +188,12 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
 <p><br><br>As always, the protocol team is proud to have made several important improvements to the core protocol with zero disruption for users and developers. We look forward to making some major advancements in 2024 to help the entire NEAR ecosystem deliver its vision of mainstream adoption of an Open Web, where all internet users can control their own data, assets, and power of governance. <br><br>We will share more details on Phase 2 advancements and timelines soon. If you’d like to learn more, join the NEAR Protocol <a href="https://twitter.com/nearprotocol">X Spaces</a> on Tuesday, January 16 at 5pm UTC to hear from Director of Protocol Bowen Wang and NEAR Foundation CEO Illia Polosukhin on upcoming protocol developments.<br></p>
-<p>The post <a href="https://pages.near.org/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -201,17 +201,17 @@
 			</item>
 		<item>
 		<title>Blockchain Scaling Approaches: NEAR Sharding vs. Layer 2s</title>
-		<link>https://pages.near.org/blog/blockchain-scaling-approaches-near-sharding-vs-layer-2s/</link>
+		<link>/blog/blockchain-scaling-approaches-near-sharding-vs-layer-2s/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 14 Jun 2023 15:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Nightshade]]></category>
 		<category><![CDATA[Sharding]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20626</guid>
+		<guid isPermaLink="false">/?p=20626</guid>
 
 					<description><![CDATA[<p>Layer-twos (L2s) have become increasingly popular as a scaling solution for layer one (L1) blockchains in the past several years, …</p>
-<p>The post <a href="https://pages.near.org/blog/blockchain-scaling-approaches-near-sharding-vs-layer-2s/">Blockchain Scaling Approaches: NEAR Sharding vs. Layer 2s</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/blockchain-scaling-approaches-near-sharding-vs-layer-2s/">Blockchain Scaling Approaches: NEAR Sharding vs. Layer 2s</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Layer-twos (L2s) have become increasingly popular as a scaling solution for layer one (L1) blockchains in the past several years, especially after Ethereum decided to scale via a rollup-centric roadmap. A layer-two is a protocol built on top of an existing blockchain to improve its scalability, throughput, or privacy and reduce the congestion and cost of operating on the L1 blockchain. NEAR, on the other hand, chose to scale through a different approach: sharding. In this post, I’ll explain the rationale behind NEAR’s approach and why NEAR does not plan to scale through layer 2.</p>
@@ -251,7 +251,7 @@
 
 
 <p>It is worth noting that NEAR is not just a blockchain protocol, but an operating system that offers a common layer for browsing and discovering open web experiences and is compatible with any blockchain. Despite the differences in protocol design, NEAR as the blockchain operating system allows developers and users from different blockchains, including Ethereum layer 2s, to build and use applications across many different blockchain ecosystems.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/blockchain-scaling-approaches-near-sharding-vs-layer-2s/">Blockchain Scaling Approaches: NEAR Sharding vs. Layer 2s</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/blockchain-scaling-approaches-near-sharding-vs-layer-2s/">Blockchain Scaling Approaches: NEAR Sharding vs. Layer 2s</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

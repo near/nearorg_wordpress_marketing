@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mission &amp; vision Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/mission-vision/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/mission-vision/</link>
+	<atom:link href="/blog/tag/mission-vision/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/mission-vision/</link>
 	<description></description>
 	<lastBuildDate>Wed, 24 Jan 2024 19:55:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Mission &amp; vision Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/mission-vision/</link>
+	<link>/blog/tag/mission-vision/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Why Chain Abstraction Is the Next Frontier for Web3</title>
-		<link>https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</link>
+		<link>/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</link>
 		
 		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
 		<pubDate>Wed, 24 Jan 2024 19:55:01 +0000</pubDate>
@@ -38,17 +38,17 @@
 		<category><![CDATA[Ecosystem]]></category>
 		<category><![CDATA[Mission & vision]]></category>
 		<category><![CDATA[Multichain]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21182</guid>
+		<guid isPermaLink="false">/?p=21182</guid>
 
 					<description><![CDATA[<p>Most of today’s dapps are not actually dapps, i.e. decentralized applications. If you need to leave the app in order …</p>
-<p>The post <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Most of today’s dapps are not actually dapps, i.e. <em>decentralized applications. </em>If you need to leave the app in order to start using it, it’s not really an app––it’s just a frontend. If users have to manually onboard themselves through exchanges and manage multiple accounts and gas fees and bridges, did you even build an app? I think not––which may explain why only a few million people in the world are using dapps.&nbsp;</p>
 
 
 
-<p>If we want to see mainstream adoption of Web3 because we believe a more open, decentralized internet that supports self-sovereignty for all people is <a href="https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem">better for the world</a>, then we will need to do better.</p>
+<p>If we want to see mainstream adoption of Web3 because we believe a more open, decentralized internet that supports self-sovereignty for all people is <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem">better for the world</a>, then we will need to do better.</p>
 
 
 
@@ -179,7 +179,7 @@
 
 
 <p>Let’s make chain abstraction a movement. The NEAR ecosystem invites builders from across Web3 to take advantage of the solutions we’re offering and to collaborate with us to build more chain abstraction solutions together. Stay tuned for more news on collaborations as well as details on an exciting event that NEAR Foundation will co-host at ETHDenver 2024.<br><br><em>Special thanks to Zaki Manian for conversations that led to this post as well as for his review.</em></p>
-<p>The post <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Why Chain Abstraction Is the Next Frontier for Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -187,7 +187,7 @@
 			</item>
 		<item>
 		<title>Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</title>
-		<link>https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/</link>
+		<link>/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/</link>
 		
 		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
 		<pubDate>Fri, 19 Jan 2024 20:19:02 +0000</pubDate>
@@ -197,10 +197,10 @@
 		<category><![CDATA[NEAR Ecosystem]]></category>
 		<category><![CDATA[Self-Sovereignty]]></category>
 		<category><![CDATA[User-Owned AI]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21170</guid>
+		<guid isPermaLink="false">/?p=21170</guid>
 
 					<description><![CDATA[<p>As a kid growing up in Ukraine in the ’90s after the dissolution of the USSR, I remember we watched …</p>
-<p>The post <a href="https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p></p>
@@ -338,7 +338,7 @@
 
 
 <p>We have the tools to remake how we provide for ourselves, how we work together and govern ourselves, and how we consume and generate information. Without gatekeepers, fair and open to everyone. And this is not a futuristic vision: it’s possible to start experimenting and building now, before our fragile and outdated systems and structures get weaker or fail, before too much centralization leads to the worst outcomes instead of the ones we all design and share together.<br><br>––<em>Illia Polosukhin, Co-Founder of NEAR and CEO of NEAR Foundation</em></p>
-<p>The post <a href="https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -346,17 +346,17 @@
 			</item>
 		<item>
 		<title>NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</title>
-		<link>https://pages.near.org/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/</link>
+		<link>/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 09 Nov 2022 13:33:43 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Mission & vision]]></category>
 		<category><![CDATA[Roadmaps]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19009</guid>
+		<guid isPermaLink="false">/?p=19009</guid>
 
 					<description><![CDATA[<p>This post, written by Pagoda&#8217;s Head of Protocol Bowen Wang, originally appeared on the Web3 startup platform and main contributor …</p>
-<p>The post <a href="https://pages.near.org/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/">NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/">NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>This post, written by Pagoda&#8217;s Head of Protocol Bowen Wang, originally appeared on the Web3 startup platform and main contributor to the core Protocol</em> <em>Pagoda&#8217;s blog. </em></p>
@@ -380,7 +380,7 @@
 
 
 <p><strong>Head over to the <a href="https://www.pagoda.co/blog/protocol-roadmap-2023-4-the-next-2-years-of-near">Pagoda blog</a> to read the NEAR Protocol Roadmap 2023-4 with infographics.</strong></p>
-<p>The post <a href="https://pages.near.org/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/">NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/">NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -388,16 +388,16 @@
 			</item>
 		<item>
 		<title>A Commitment to Communication</title>
-		<link>https://pages.near.org/blog/a-commitment-to-communication/</link>
+		<link>/blog/a-commitment-to-communication/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 08 Nov 2022 20:04:32 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Mission & vision]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19007</guid>
+		<guid isPermaLink="false">/?p=19007</guid>
 
 					<description><![CDATA[<p>The NEAR Foundation has always held transparency as one of its core beliefs. Being open to the community, investors, builders …</p>
-<p>The post <a href="https://pages.near.org/blog/a-commitment-to-communication/">A Commitment to Communication</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/a-commitment-to-communication/">A Commitment to Communication</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR Foundation has always held transparency as one of its core beliefs. Being open to the community, investors, builders and creators is one of the core tenets of being a Web3 project. But it’s become apparent the Foundation needs to do more.&nbsp;</p>
@@ -445,7 +445,7 @@
 
 
 <p>This is just the beginning of this strategy and Foundation will publish more updates on this approach in the coming weeks.</p>
-<p>The post <a href="https://pages.near.org/blog/a-commitment-to-communication/">A Commitment to Communication</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/a-commitment-to-communication/">A Commitment to Communication</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -453,16 +453,16 @@
 			</item>
 		<item>
 		<title>A Time for Conviction</title>
-		<link>https://pages.near.org/blog/a-time-for-conviction/</link>
+		<link>/blog/a-time-for-conviction/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 01 Nov 2022 09:19:33 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Mission & vision]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=18740</guid>
+		<guid isPermaLink="false">/?p=18740</guid>
 
 					<description><![CDATA[<p>It’s a tough time to be in Web3 at the moment: war in Europe, crippling inflation, and an increasingly pessimistic …</p>
-<p>The post <a href="https://pages.near.org/blog/a-time-for-conviction/">A Time for Conviction</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/a-time-for-conviction/">A Time for Conviction</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>It’s a tough time to be in Web3 at the moment: war in Europe, crippling inflation, and an increasingly pessimistic outlook over the growth of the global economy. That’s led to a steep contraction of the Web3 ecosystem, both in users and available capital.&nbsp;</p>
@@ -501,7 +501,7 @@
 
 
 
-<p>At present, the Web3 pie is small. There are <a href="https://cryptoforinnovation.org/web3-developers-at-an-all-time-high-and-growing-faster-than-ever/">fewer than 20,000 developers</a> working consistently across the Web3 space. In Web2, meanwhile, there are more than 20 million Javascript developers worldwide &#8211; NEAR has built a <a href="https://pages.near.org/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">Javascript SDK</a> for any Web2 developer curious about Web3.&nbsp;</p>
+<p>At present, the Web3 pie is small. There are <a href="https://cryptoforinnovation.org/web3-developers-at-an-all-time-high-and-growing-faster-than-ever/">fewer than 20,000 developers</a> working consistently across the Web3 space. In Web2, meanwhile, there are more than 20 million Javascript developers worldwide &#8211; NEAR has built a <a href="/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/">Javascript SDK</a> for any Web2 developer curious about Web3.&nbsp;</p>
 
 
 
@@ -518,7 +518,7 @@
 
 
 <p>So yes, we are in a tough market. And it’s time for conviction. The next wave of innovation will be a fight for mass adoption. NEAR is the best platform for end-user applications on Web3. NEAR is where mass adoption will happen.</p>
-<p>The post <a href="https://pages.near.org/blog/a-time-for-conviction/">A Time for Conviction</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/a-time-for-conviction/">A Time for Conviction</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Web3 and Thrive Podcast Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/web3-and-thrive-podcast/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/web3-and-thrive-podcast/</link>
+	<atom:link href="/blog/tag/web3-and-thrive-podcast/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/web3-and-thrive-podcast/</link>
 	<description></description>
 	<lastBuildDate>Tue, 26 Sep 2023 18:11:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Web3 and Thrive Podcast Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/web3-and-thrive-podcast/</link>
+	<link>/blog/tag/web3-and-thrive-podcast/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Women in Web3 Changemakers: Emily Rose Dallara</title>
-		<link>https://pages.near.org/blog/women-in-web3-changemakers-emily-rose-dallara/</link>
+		<link>/blog/women-in-web3-changemakers-emily-rose-dallara/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 26 Sep 2023 17:40:18 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Emily Rose Dallara]]></category>
 		<category><![CDATA[Web3 and Thrive Podcast]]></category>
 		<category><![CDATA[Women in Web3 Changemakers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20923</guid>
+		<guid isPermaLink="false">/?p=20923</guid>
 
 					<description><![CDATA[<p>“A lot of the clients I work with don&#8217;t feel that they&#8217;re ever on top of anything,” says Emily Rose …</p>
-<p>The post <a href="https://pages.near.org/blog/women-in-web3-changemakers-emily-rose-dallara/">Women in Web3 Changemakers: Emily Rose Dallara</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/women-in-web3-changemakers-emily-rose-dallara/">Women in Web3 Changemakers: Emily Rose Dallara</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>“A lot of the clients I work with don&#8217;t feel that they&#8217;re ever on top of anything,” says Emily Rose Dallara, an award winning leadership coach and founder of the<a href="https://www.linkedin.com/newsletters/web-3-and-thrive-the-drop-6995331035492147200/"> Web 3 and Thrive Podcast.&nbsp;&nbsp;</a></p>
@@ -118,7 +118,7 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="Women in Web3 Changemakers: Emily Rose Dallara" width="500" height="281" src="https://www.youtube.com/embed/JMZ8dcCb_fA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
-<p>The post <a href="https://pages.near.org/blog/women-in-web3-changemakers-emily-rose-dallara/">Women in Web3 Changemakers: Emily Rose Dallara</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/women-in-web3-changemakers-emily-rose-dallara/">Women in Web3 Changemakers: Emily Rose Dallara</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

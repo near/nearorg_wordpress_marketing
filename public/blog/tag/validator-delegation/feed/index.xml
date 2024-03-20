@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Validator Delegation Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/validator-delegation/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/validator-delegation/</link>
+	<atom:link href="/blog/tag/validator-delegation/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/validator-delegation/</link>
 	<description></description>
 	<lastBuildDate>Thu, 14 Sep 2023 17:29:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Validator Delegation Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/validator-delegation/</link>
+	<link>/blog/tag/validator-delegation/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</title>
-		<link>https://pages.near.org/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/</link>
+		<link>/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 14 Sep 2023 17:29:04 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[NEAR Protocol]]></category>
 		<category><![CDATA[Validator Delegation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20890</guid>
+		<guid isPermaLink="false">/?p=20890</guid>
 
 					<description><![CDATA[<p>Validators are the backbone of the NEAR Protocol, playing an integral role in upholding the network&#8217;s core values now and …</p>
-<p>The post <a href="https://pages.near.org/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/">Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/">Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Validators are the backbone of the NEAR Protocol, playing an integral role in upholding the network&#8217;s core values now and into the future. Validators ensure that NEAR Protocol remains scalable, user-friendly, secure, trustworthy, and most importantly, decentralized.&nbsp;</p>
@@ -85,7 +85,7 @@
 
 
 <p>Many thanks for your continued support to improve the validator experience and help secure the NEAR Protocol.&nbsp;&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/">Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/">Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

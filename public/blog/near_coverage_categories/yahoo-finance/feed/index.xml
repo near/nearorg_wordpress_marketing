@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Yahoo Finance Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/near_coverage_categories/yahoo-finance/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/near_coverage_categories/yahoo-finance/</link>
+	<atom:link href="/blog/near_coverage_categories/yahoo-finance/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/near_coverage_categories/yahoo-finance/</link>
 	<description></description>
 	<lastBuildDate>Mon, 07 Nov 2022 11:30:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Yahoo Finance Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/near_coverage_categories/yahoo-finance/</link>
+	<link>/blog/near_coverage_categories/yahoo-finance/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR sets web3 hub in South Korea, eyes Asia expansion</title>
-		<link>https://pages.near.org/coverages/near-sets-web3-hub-in-south-korea/</link>
+		<link>/coverages/near-sets-web3-hub-in-south-korea/</link>
 		
 		<dc:creator><![CDATA[Bianca Mormand]]></dc:creator>
 		<pubDate>Tue, 01 Nov 2022 14:00:56 +0000</pubDate>
-				<guid isPermaLink="false">https://pages.near.org/?post_type=near_coverage#038;p=18981</guid>
+				<guid isPermaLink="false">/?post_type=near_coverage#038;p=18981</guid>
 
-					<description><![CDATA[<p>The post <a href="https://pages.near.org/coverages/near-sets-web3-hub-in-south-korea/">NEAR sets web3 hub in South Korea, eyes Asia expansion</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+					<description><![CDATA[<p>The post <a href="/coverages/near-sets-web3-hub-in-south-korea/">NEAR sets web3 hub in South Korea, eyes Asia expansion</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>The post <a href="https://pages.near.org/coverages/near-sets-web3-hub-in-south-korea/">NEAR sets web3 hub in South Korea, eyes Asia expansion</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+										<content:encoded><![CDATA[<p>The post <a href="/coverages/near-sets-web3-hub-in-south-korea/">NEAR sets web3 hub in South Korea, eyes Asia expansion</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

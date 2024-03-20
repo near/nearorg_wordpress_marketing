@@ -9,8 +9,8 @@
 
 <channel>
 	<title>FORBES Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/near_coverage_categories/forbes/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/near_coverage_categories/forbes/</link>
+	<atom:link href="/blog/near_coverage_categories/forbes/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/near_coverage_categories/forbes/</link>
 	<description></description>
 	<lastBuildDate>Tue, 03 Jan 2023 15:12:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>FORBES Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/near_coverage_categories/forbes/</link>
+	<link>/blog/near_coverage_categories/forbes/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Need for More Servant Leadership in Tech</title>
-		<link>https://pages.near.org/coverages/the-need-for-more-servant-leadership-in-tech/</link>
+		<link>/coverages/the-need-for-more-servant-leadership-in-tech/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 03 Jan 2023 15:11:16 +0000</pubDate>
-				<guid isPermaLink="false">https://pages.near.org/?post_type=near_coverage#038;p=19673</guid>
+				<guid isPermaLink="false">/?post_type=near_coverage#038;p=19673</guid>
 
-					<description><![CDATA[<p>The post <a href="https://pages.near.org/coverages/the-need-for-more-servant-leadership-in-tech/">The Need for More Servant Leadership in Tech</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+					<description><![CDATA[<p>The post <a href="/coverages/the-need-for-more-servant-leadership-in-tech/">The Need for More Servant Leadership in Tech</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>The post <a href="https://pages.near.org/coverages/the-need-for-more-servant-leadership-in-tech/">The Need for More Servant Leadership in Tech</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+										<content:encoded><![CDATA[<p>The post <a href="/coverages/the-need-for-more-servant-leadership-in-tech/">The Need for More Servant Leadership in Tech</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

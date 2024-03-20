@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Startup Wise Guys Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/startup-wise-guys/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/startup-wise-guys/</link>
+	<atom:link href="/blog/tag/startup-wise-guys/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/startup-wise-guys/</link>
 	<description></description>
 	<lastBuildDate>Wed, 22 Feb 2023 14:44:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Startup Wise Guys Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/startup-wise-guys/</link>
+	<link>/blog/tag/startup-wise-guys/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR and Startup Wise Guys Partner on MetaBUILD’s Pre-Accelerator Program</title>
-		<link>https://pages.near.org/blog/near-and-startup-wise-guys-partner-on-metabuilds-pre-accelerator-program/</link>
+		<link>/blog/near-and-startup-wise-guys-partner-on-metabuilds-pre-accelerator-program/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 16 Feb 2023 14:01:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Accelerator]]></category>
 		<category><![CDATA[MetaBUILD]]></category>
 		<category><![CDATA[Startup Wise Guys]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19756</guid>
+		<guid isPermaLink="false">/?p=19756</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership with Startup Wise Guys — Europe’s biggest startup accelerator, which has …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-startup-wise-guys-partner-on-metabuilds-pre-accelerator-program/">NEAR and Startup Wise Guys Partner on MetaBUILD’s Pre-Accelerator Program</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-startup-wise-guys-partner-on-metabuilds-pre-accelerator-program/">NEAR and Startup Wise Guys Partner on MetaBUILD’s Pre-Accelerator Program</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce a new partnership with <a href="https://startupwiseguys.com/">Startup Wise Guys</a> — Europe’s biggest startup accelerator, which has empowered over 350 projects across the world. Together with SWG, the Foundation will bring&nbsp; 20 winning projects from the <a href="https://metabuild.devpost.com/">MetaBUILD III</a> hackathon into an 8-week pre-acceleration program to grow and prepare these new teams to bring their first product iteration to market.</p>
@@ -55,7 +55,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="578" src="https://pages.near.org/wp-content/uploads/2023/02/image1-1024x578.png" alt="" class="wp-image-19757" srcset="https://pages.near.org/wp-content/uploads/2023/02/image1-1024x578.png 1024w, https://pages.near.org/wp-content/uploads/2023/02/image1-300x169.png 300w, https://pages.near.org/wp-content/uploads/2023/02/image1-768x433.png 768w, https://pages.near.org/wp-content/uploads/2023/02/image1.png 1030w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="578" src="/wp-content/uploads/2023/02/image1-1024x578.png" alt="" class="wp-image-19757" srcset="/wp-content/uploads/2023/02/image1-1024x578.png 1024w, /wp-content/uploads/2023/02/image1-300x169.png 300w, /wp-content/uploads/2023/02/image1-768x433.png 768w, /wp-content/uploads/2023/02/image1.png 1030w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -170,7 +170,7 @@
 
 
 <p>The Foundation will share all progress along the way as we finalize the submission phase of MetaBUILD and move onto judging. So stay tuned and follow all updates on <a href="https://twitter.com/NEARPROTOCOL">Twitter</a>!</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-startup-wise-guys-partner-on-metabuilds-pre-accelerator-program/">NEAR and Startup Wise Guys Partner on MetaBUILD’s Pre-Accelerator Program</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-startup-wise-guys-partner-on-metabuilds-pre-accelerator-program/">NEAR and Startup Wise Guys Partner on MetaBUILD’s Pre-Accelerator Program</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

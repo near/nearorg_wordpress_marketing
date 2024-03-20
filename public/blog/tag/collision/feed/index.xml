@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Collision Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/collision/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/collision/</link>
+	<atom:link href="/blog/tag/collision/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/collision/</link>
 	<description></description>
 	<lastBuildDate>Fri, 30 Jun 2023 18:24:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Collision Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/collision/</link>
+	<link>/blog/tag/collision/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR at Collision Highlights</title>
-		<link>https://pages.near.org/blog/near-at-collision-highlights/</link>
+		<link>/blog/near-at-collision-highlights/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 30 Jun 2023 13:46:27 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Alibaba Cloud]]></category>
 		<category><![CDATA[Collision]]></category>
 		<category><![CDATA[Women in Web3 Changemakers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20682</guid>
+		<guid isPermaLink="false">/?p=20682</guid>
 
 					<description><![CDATA[<p>Missed NEAR’s booth at Collision? We’ve got you covered with content from NEAR talks and panels. There were also a …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-collision-highlights/">NEAR at Collision Highlights</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-collision-highlights/">NEAR at Collision Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Missed NEAR’s booth at Collision? We’ve got you covered with content from NEAR talks and panels. There were also a number of awesome announcements, including the big news out of Collision: Alibaba Cloud.</p>
@@ -132,7 +132,7 @@
 
 
 <p>So after immersing yourself in Collision 2023, remember to mark your calendars for <a href="https://www.eventbrite.com/e/near-ethcc-tickets-655229297467?aff=oddtdtcreator">NEAR’s presence at ETHCC</a> as well. Here&#8217;s to continuing to make waves in Web3 and expanding into the Open Web – with you as the BOS!</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-collision-highlights/">NEAR at Collision Highlights</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-collision-highlights/">NEAR at Collision Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -140,7 +140,7 @@
 			</item>
 		<item>
 		<title>NEAR at Collision: Start Your BOS Journey and Expand into the Open Web</title>
-		<link>https://pages.near.org/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/</link>
+		<link>/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
@@ -148,10 +148,10 @@
 		<category><![CDATA[BOS]]></category>
 		<category><![CDATA[Collision]]></category>
 		<category><![CDATA[NEAR Horizon]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20672</guid>
+		<guid isPermaLink="false">/?p=20672</guid>
 
 					<description><![CDATA[<p>Collision is here. Today, June 26th through the 29th in Toronto, Ontario, NEAR experts will be on hand at Collision …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/">NEAR at Collision: Start Your BOS Journey and Expand into the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/">NEAR at Collision: Start Your BOS Journey and Expand into the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Collision is here. Today, June 26th through the 29th in Toronto, Ontario, NEAR experts will be on hand at Collision to showcase how brands and companies can make a move into the Open Web with NEAR’s Blockchain Operating System (BOS). The BOS redefines the Web2-to-Web3 experience. Now anyone can effortlessly create and distribute decentralized applications, using any blockchain — all in one browser.&nbsp;&nbsp;</p>
@@ -315,7 +315,7 @@
 
 
 <p>Stay tuned to <a href="https://near.org/Collision">Near.org/collision</a> for the latest event updates.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/">NEAR at Collision: Start Your BOS Journey and Expand into the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/">NEAR at Collision: Start Your BOS Journey and Expand into the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -323,17 +323,17 @@
 			</item>
 		<item>
 		<title>NEAR at Collision: Expand into the Open Web with the Blockchain Operating System</title>
-		<link>https://pages.near.org/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/</link>
+		<link>/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 24 May 2023 07:00:46 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Collision]]></category>
 		<category><![CDATA[NEAR]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20524</guid>
+		<guid isPermaLink="false">/?p=20524</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce that NEAR is heading to the 2023 edition of Collision from June 26-29 in …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/">NEAR at Collision: Expand into the Open Web with the Blockchain Operating System</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/">NEAR at Collision: Expand into the Open Web with the Blockchain Operating System</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce that NEAR is heading to the 2023 edition of <a href="https://near.org/collision">Collision</a> from June 26-29 in Toronto, Ontario. </p>
@@ -417,7 +417,7 @@
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.eventbrite.com/e/near-horizon-pitch-networking-collision-2023-tickets-637516598307"><strong>RSVP to Horizon Pitch and Networking Event</strong></a></div>
 </div>
-<p>The post <a href="https://pages.near.org/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/">NEAR at Collision: Expand into the Open Web with the Blockchain Operating System</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/">NEAR at Collision: Expand into the Open Web with the Blockchain Operating System</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

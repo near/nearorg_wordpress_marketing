@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Press Start Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/press-start/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/press-start/</link>
+	<atom:link href="/blog/tag/press-start/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/press-start/</link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Dec 2022 13:31:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Press Start Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/press-start/</link>
+	<link>/blog/tag/press-start/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR and Press Start Team to Level Up Web3 Gaming </title>
-		<link>https://pages.near.org/blog/near-and-press-start-team-to-level-up-web3-gaming/</link>
+		<link>/blog/near-and-press-start-team-to-level-up-web3-gaming/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 09 Dec 2022 15:00:12 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Press Start]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19535</guid>
+		<guid isPermaLink="false">/?p=19535</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership with Press Start Capital, a seed stage venture fund focused on …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-press-start-team-to-level-up-web3-gaming/">NEAR and Press Start Team to Level Up Web3 Gaming </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-press-start-team-to-level-up-web3-gaming/">NEAR and Press Start Team to Level Up Web3 Gaming </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce a new partnership with <a href="https://twitter.com/pressstartcap">Press Start Capital</a>, a seed stage venture fund focused on full-stack Web3 gaming, metaverse, and entertainment. This follows the <a href="https://twitter.com/pressstartcap/status/1583496878867349515">Press Start x  Orange DAO Web3 Fellowship</a> announced earlier this year. </p>
@@ -103,7 +103,7 @@
 
 
 <p>There is already potential for a co-sponsored accelerator and events centered on Web3 gaming and entertainment.&nbsp;&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-press-start-team-to-level-up-web3-gaming/">NEAR and Press Start Team to Level Up Web3 Gaming </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-press-start-team-to-level-up-web3-gaming/">NEAR and Press Start Team to Level Up Web3 Gaming </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

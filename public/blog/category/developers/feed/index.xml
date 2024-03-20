@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Developers Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/category/developers/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/category/developers/</link>
+	<atom:link href="/blog/category/developers/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/category/developers/</link>
 	<description></description>
 	<lastBuildDate>Thu, 14 Mar 2024 17:03:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Developers Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/category/developers/</link>
+	<link>/blog/category/developers/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</title>
-		<link>https://pages.near.org/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/</link>
+		<link>/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 14 Mar 2024 17:03:07 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21275</guid>
+		<guid isPermaLink="false">/?p=21275</guid>
 
 					<description><![CDATA[<p>The Graph Foundation recently announced the inclusion of NEAR into its expansive subgraph support, now encompassing over 40 leading L1 …</p>
-<p>The post <a href="https://pages.near.org/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The Graph Foundation recently announced the inclusion of NEAR into its expansive subgraph support, now encompassing over 40 leading L1 and L2 blockchains including Arbitrum, Base, Fantom, Celo, Optimism, Polygon Labs, and Scroll. By integrating with The Graph, NEAR developers gain access to a decentralized network for streamlined data querying, significantly reducing costs and improving synchronization speeds.&nbsp;</p>
@@ -86,7 +86,7 @@
 
 
 <p>Soon, NEAR devs building on The Graph Network will be able to take advantage of a free query plan, an intuitive subgraph upgrade wizard, and more. The Graph-NEAR Foundation collaboration will further emphasize the shared mission of both teams for a more interconnected and inclusive Web3 ecosystem via Chain Abstraction, enhancing the value of indexing and querying blockchain data.&nbsp;&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -94,16 +94,16 @@
 			</item>
 		<item>
 		<title>FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</title>
-		<link>https://pages.near.org/blog/frax-deploys-decentralized-stablecoin/</link>
+		<link>/blog/frax-deploys-decentralized-stablecoin/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 14 Mar 2024 13:00:00 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21270</guid>
+		<guid isPermaLink="false">/?p=21270</guid>
 
 					<description><![CDATA[<p>Frax Finance announced the launch of FRAX stablecoin on NEAR via Ref Finance and Burrow through FraxFerry and the Rainbow …</p>
-<p>The post <a href="https://pages.near.org/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Frax Finance announced the launch of FRAX stablecoin on NEAR via Ref Finance and Burrow through FraxFerry and the Rainbow Bridge. This marks a significant milestone for Frax as its first major venture into a non-Ethereum Virtual Machine (EVM) ecosystem.&nbsp;</p>
@@ -151,7 +151,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -159,19 +159,19 @@
 			</item>
 		<item>
 		<title>Unlocking Web3 Usability with Account Aggregation</title>
-		<link>https://pages.near.org/blog/unlocking-web3-usability-with-account-aggregation/</link>
+		<link>/blog/unlocking-web3-usability-with-account-aggregation/</link>
 		
 		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
 		<pubDate>Thu, 15 Feb 2024 14:21:00 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[Account Aggregation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21229</guid>
+		<guid isPermaLink="false">/?p=21229</guid>
 
 					<description><![CDATA[<p>Since the start, the focus for the NEAR ecosystem has been on advancing Chain Abstraction, or hiding the elements of …</p>
-<p>The post <a href="https://pages.near.org/blog/unlocking-web3-usability-with-account-aggregation/">Unlocking Web3 Usability with Account Aggregation</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/unlocking-web3-usability-with-account-aggregation/">Unlocking Web3 Usability with Account Aggregation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Since the start, the focus for the NEAR ecosystem has been on advancing <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Chain Abstraction</a>, or hiding the elements of the blockchain (“abstracting away”) from users so they are not barriers to entry or participation in the decentralized Web. In Web3, the data and assets belong to the user, tied to their on-chain, noncustodial account. Currently every user has separate (usually many) accounts on each blockchain and also needs separate wallet software to manage those accounts. This requires users to manage the security for each account and wallet individually, deal with complex recovery processes if they make a mistake, and go through a thorny series of manual steps to move any assets into their wallets or across different wallets and chains.&nbsp;</p>
+<p>Since the start, the focus for the NEAR ecosystem has been on advancing <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Chain Abstraction</a>, or hiding the elements of the blockchain (“abstracting away”) from users so they are not barriers to entry or participation in the decentralized Web. In Web3, the data and assets belong to the user, tied to their on-chain, noncustodial account. Currently every user has separate (usually many) accounts on each blockchain and also needs separate wallet software to manage those accounts. This requires users to manage the security for each account and wallet individually, deal with complex recovery processes if they make a mistake, and go through a thorny series of manual steps to move any assets into their wallets or across different wallets and chains.&nbsp;</p>
 
 
 
@@ -229,7 +229,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="634" src="https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png" alt="" class="wp-image-21236" style="width:1102px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png 1024w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-300x186.png 300w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-768x475.png 768w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1536x951.png 1536w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-2048x1267.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="634" src="/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png" alt="" class="wp-image-21236" style="width:1102px;height:auto" srcset="/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png 1024w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-300x186.png 300w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-768x475.png 768w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1536x951.png 1536w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-2048x1267.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -428,7 +428,7 @@
 
 
 <p><em>–Illia Polosukhin, David Millar-Durrant, Gautham Ravi, Dio Ortega, Mally Anderson</em></p>
-<p>The post <a href="https://pages.near.org/blog/unlocking-web3-usability-with-account-aggregation/">Unlocking Web3 Usability with Account Aggregation</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/unlocking-web3-usability-with-account-aggregation/">Unlocking Web3 Usability with Account Aggregation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -436,7 +436,7 @@
 			</item>
 		<item>
 		<title>Inaugural AI x Web3 Hackathon and Decentralized AI Summit to Debut at ETH Denver 2024</title>
-		<link>https://pages.near.org/blog/inaugural-ai-x-web3-hackathon-and-decentralized-ai-summit-to-debut-at-eth-denver-2024/</link>
+		<link>/blog/inaugural-ai-x-web3-hackathon-and-decentralized-ai-summit-to-debut-at-eth-denver-2024/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 14 Feb 2024 18:59:43 +0000</pubDate>
@@ -446,10 +446,10 @@
 		<category><![CDATA[Events]]></category>
 		<category><![CDATA[Hackathon]]></category>
 		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21226</guid>
+		<guid isPermaLink="false">/?p=21226</guid>
 
 					<description><![CDATA[<p>In collaboration with Edge and Polygon Labs, the NEAR Foundation will co-sponsor a Decentralized AI Summit and “Autonomous Agent,” an …</p>
-<p>The post <a href="https://pages.near.org/blog/inaugural-ai-x-web3-hackathon-and-decentralized-ai-summit-to-debut-at-eth-denver-2024/">Inaugural AI x Web3 Hackathon and Decentralized AI Summit to Debut at ETH Denver 2024</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/inaugural-ai-x-web3-hackathon-and-decentralized-ai-summit-to-debut-at-eth-denver-2024/">Inaugural AI x Web3 Hackathon and Decentralized AI Summit to Debut at ETH Denver 2024</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>In collaboration with Edge and Polygon Labs, the NEAR Foundation will co-sponsor a Decentralized AI <a href="https://lu.ma/fvoeazk8">Summit</a> and “Autonomous Agent,” an AI x Web3 <a href="https://edgeintelligence.xyz/autonomous-agent-hackathon">Hackathon</a>, at ETHDenver on February 26 and 27. The events will bring together visionaries, developers, and enthusiasts working at the intersection of AI and Web3 along with a hackathon for builders and researchers to dive into the buzziest tech topic of today. Speakers at the Summit will include Vitalik Buterin of the Ethereum Foundation, Illia Polosukhin of NEAR Foundation, Sandeep Nailwal of Polygon Labs, and Sreeram Kannan of EigenLayer.&nbsp;</p>
@@ -460,7 +460,7 @@
 
 
 
-<p>The intersection of Artificial Intelligence (AI) and Web3 technology is poised to revolutionize industries, with many Web3 projects now incorporating AI into decentralized applications and developer tools. Ethereum Co-Founder Vitalik Buterin recently shared his <a href="https://vitalik.eth.limo/general/2024/01/30/cryptoai.html">observations</a> about the intersection, and NEAR Co-Founder Illia Polosukhin shared how AI fits into the vision for the NEAR ecosystem in a recent <a href="https://pages.near.org/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">post</a>. </p>
+<p>The intersection of Artificial Intelligence (AI) and Web3 technology is poised to revolutionize industries, with many Web3 projects now incorporating AI into decentralized applications and developer tools. Ethereum Co-Founder Vitalik Buterin recently shared his <a href="https://vitalik.eth.limo/general/2024/01/30/cryptoai.html">observations</a> about the intersection, and NEAR Co-Founder Illia Polosukhin shared how AI fits into the vision for the NEAR ecosystem in a recent <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">post</a>. </p>
 
 
 
@@ -491,7 +491,7 @@
 
 
 <p>Join NEAR Foundation, Polygon Labs, and Edge in Denver and be a part of the next great tech revolution. Those interested in attending the Decentralized AI Summit can register <a href="https://lu.ma/fvoeazk8">here</a>. Researchers, developers, and hackers interested in participating in the <a href="https://edgeintelligence.xyz/autonomous-agent-hackathon">hackathon</a> can apply <a href="https://lu.ma/k6dw9jk2">here</a>.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/inaugural-ai-x-web3-hackathon-and-decentralized-ai-summit-to-debut-at-eth-denver-2024/">Inaugural AI x Web3 Hackathon and Decentralized AI Summit to Debut at ETH Denver 2024</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/inaugural-ai-x-web3-hackathon-and-decentralized-ai-summit-to-debut-at-eth-denver-2024/">Inaugural AI x Web3 Hackathon and Decentralized AI Summit to Debut at ETH Denver 2024</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -499,7 +499,7 @@
 			</item>
 		<item>
 		<title>Why NEAR Data Availability?</title>
-		<link>https://pages.near.org/blog/why-near-data-availability/</link>
+		<link>/blog/why-near-data-availability/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 26 Jan 2024 16:28:31 +0000</pubDate>
@@ -508,10 +508,10 @@
 		<category><![CDATA[Ethereum Rollups]]></category>
 		<category><![CDATA[Modularity]]></category>
 		<category><![CDATA[NEAR Data Availability Layer]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21194</guid>
+		<guid isPermaLink="false">/?p=21194</guid>
 
 					<description><![CDATA[<p>NEAR Protocol is built to onboard 1B+ users to Web3. Since its mainnet launch in October 2020, NEAR Protocol has …</p>
-<p>The post <a href="https://pages.near.org/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Protocol is built to onboard 1B+ users to Web3. Since its mainnet launch in October 2020, NEAR Protocol has achieved 100% uptime with 4 shards and has onboarded 35M accounts, of which 16M are monthly active accounts.</p>
@@ -538,7 +538,7 @@
 
 
 
-<p>The NEAR ecosystem’s focus for 2024 is expanding <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> across more chains &amp; ecosystems, with the goal of abstracting the blockchain away from the user &amp; developer experience. While the modular Ethereum ecosystem has made Ethereum more scalable in some ways, it’s also resulted in a lot of incompatible infrastructure and fractured liquidity that places a huge burden on app builders and end users to manage. The chain abstraction vision is that apps should just work with all chains, onboarding should be seamless, and things like gas fees and bridging should become invisible to end users.&nbsp;</p>
+<p>The NEAR ecosystem’s focus for 2024 is expanding <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> across more chains &amp; ecosystems, with the goal of abstracting the blockchain away from the user &amp; developer experience. While the modular Ethereum ecosystem has made Ethereum more scalable in some ways, it’s also resulted in a lot of incompatible infrastructure and fractured liquidity that places a huge burden on app builders and end users to manage. The chain abstraction vision is that apps should just work with all chains, onboarding should be seamless, and things like gas fees and bridging should become invisible to end users.&nbsp;</p>
 
 
 
@@ -617,7 +617,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -625,15 +625,15 @@
 			</item>
 		<item>
 		<title>NEAR DA Integrates with Polygon CDK for Developers Building Ethereum ZK Rollups </title>
-		<link>https://pages.near.org/blog/near-da-integrates-with-polygon-cdk-for-developers-building-ethereum-zk-rollups/</link>
+		<link>/blog/near-da-integrates-with-polygon-cdk-for-developers-building-ethereum-zk-rollups/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 18 Jan 2024 15:09:34 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21162</guid>
+		<guid isPermaLink="false">/?p=21162</guid>
 
 					<description><![CDATA[<p>The NEAR Foundation and Polygon Labs announced today that the latest technical integration for NEAR DA’s efficient and highly scalable …</p>
-<p>The post <a href="https://pages.near.org/blog/near-da-integrates-with-polygon-cdk-for-developers-building-ethereum-zk-rollups/">NEAR DA Integrates with Polygon CDK for Developers Building Ethereum ZK Rollups </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-da-integrates-with-polygon-cdk-for-developers-building-ethereum-zk-rollups/">NEAR DA Integrates with Polygon CDK for Developers Building Ethereum ZK Rollups </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR Foundation and Polygon Labs announced today that the latest technical integration for NEAR DA’s efficient and highly scalable data availability is now available for <a href="https://polygon.technology/polygon-cdk">Polygon CDK</a>, the tech stack that allows developers to launch their own ZK-powered Layer 2s custom-fitted to their needs.</p>
@@ -660,7 +660,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://pages.near.org/wp-content/uploads/2024/01/da-comparison-1024x576.png" alt="" class="wp-image-21165" srcset="https://pages.near.org/wp-content/uploads/2024/01/da-comparison-1024x576.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/da-comparison-300x169.png 300w, https://pages.near.org/wp-content/uploads/2024/01/da-comparison-768x432.png 768w, https://pages.near.org/wp-content/uploads/2024/01/da-comparison-1536x864.png 1536w, https://pages.near.org/wp-content/uploads/2024/01/da-comparison.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">As of December 2023, 231 kB of calldata on <a href="https://nearblocks.io/txns/HCA1dMLjYE9bTMNUpTG4sbcwhC9X1tXRtpUSxUEhjhLm">NEAR costs $0.0016</a>, while the same calldata on<a href="https://etherscan.io/tx/0x53a0d93d88e0dc050ca86ab45b26c952a79aa0116825a9e3a5276a36fa897bbe"> Ethereum L1 costs users $140.54</a>  and on <a href="https://celestia.explorers.guru/transaction/BFF52A4E7A2B523657710F36A4A917669973E3E2B8425AB21C65299BD6A90A0E">Celestia costs users $0.046</a>.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/01/da-comparison-1024x576.png" alt="" class="wp-image-21165" srcset="/wp-content/uploads/2024/01/da-comparison-1024x576.png 1024w, /wp-content/uploads/2024/01/da-comparison-300x169.png 300w, /wp-content/uploads/2024/01/da-comparison-768x432.png 768w, /wp-content/uploads/2024/01/da-comparison-1536x864.png 1536w, /wp-content/uploads/2024/01/da-comparison.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">As of December 2023, 231 kB of calldata on <a href="https://nearblocks.io/txns/HCA1dMLjYE9bTMNUpTG4sbcwhC9X1tXRtpUSxUEhjhLm">NEAR costs $0.0016</a>, while the same calldata on<a href="https://etherscan.io/tx/0x53a0d93d88e0dc050ca86ab45b26c952a79aa0116825a9e3a5276a36fa897bbe"> Ethereum L1 costs users $140.54</a>  and on <a href="https://celestia.explorers.guru/transaction/BFF52A4E7A2B523657710F36A4A917669973E3E2B8425AB21C65299BD6A90A0E">Celestia costs users $0.046</a>.</figcaption></figure>
 
 
 
@@ -689,7 +689,7 @@
 
 
 <p>Interested teams who want to work with NEAR DA are invited to fill out <a href="https://forms.gle/LWJoTpTiCbSheUL26">this form</a>, with information about your project and how you would like to integrate with NEAR DA.</p>
-<p>The post <a href="https://pages.near.org/blog/near-da-integrates-with-polygon-cdk-for-developers-building-ethereum-zk-rollups/">NEAR DA Integrates with Polygon CDK for Developers Building Ethereum ZK Rollups </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-da-integrates-with-polygon-cdk-for-developers-building-ethereum-zk-rollups/">NEAR DA Integrates with Polygon CDK for Developers Building Ethereum ZK Rollups </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -697,7 +697,7 @@
 			</item>
 		<item>
 		<title>NEAR Q4 Protocol Roadmap Update</title>
-		<link>https://pages.near.org/blog/near-q4-protocol-roadmap-update/</link>
+		<link>/blog/near-q4-protocol-roadmap-update/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 12 Jan 2024 19:23:37 +0000</pubDate>
@@ -707,10 +707,10 @@
 		<category><![CDATA[Nightshade]]></category>
 		<category><![CDATA[Protocol Roadmap]]></category>
 		<category><![CDATA[Sharding]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21155</guid>
+		<guid isPermaLink="false">/?p=21155</guid>
 
 					<description><![CDATA[<p>TLDR: 2023 saw major experience improvements via meta transactions and zero-balance accounts, as well as node performance improvements and optimizations. Preparations are underway for a major upgrade to stateless validation, completing Phase 2 of the sharding roadmap in early 2024.</p>
-<p>The post <a href="https://pages.near.org/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><br><em>By Bowen Wang, Director of Protocol</em> <br><br>In this post, the NEAR Protocol work group would like to provide an update of the protocol roadmap to show what <a href="https://near.org/blog/near-q2-protocol-roadmap-update">we accomplished in 2023</a> and what is planned for 2024.<br></p>
@@ -779,7 +779,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="592" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -787,12 +787,12 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="644" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="644" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
 <p><br><br>As always, the protocol team is proud to have made several important improvements to the core protocol with zero disruption for users and developers. We look forward to making some major advancements in 2024 to help the entire NEAR ecosystem deliver its vision of mainstream adoption of an Open Web, where all internet users can control their own data, assets, and power of governance. <br><br>We will share more details on Phase 2 advancements and timelines soon. If you’d like to learn more, join the NEAR Protocol <a href="https://twitter.com/nearprotocol">X Spaces</a> on Tuesday, January 16 at 5pm UTC to hear from Director of Protocol Bowen Wang and NEAR Foundation CEO Illia Polosukhin on upcoming protocol developments.<br></p>
-<p>The post <a href="https://pages.near.org/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -800,17 +800,17 @@
 			</item>
 		<item>
 		<title>Check Out the Pagoda Product Roadmap</title>
-		<link>https://pages.near.org/blog/check-out-the-pagoda-product-roadmap/</link>
+		<link>/blog/check-out-the-pagoda-product-roadmap/</link>
 		
 		<dc:creator><![CDATA[Eric Winer]]></dc:creator>
 		<pubDate>Thu, 19 Oct 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[Pagoda]]></category>
 		<category><![CDATA[Pagoda Product Roadmap]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20986</guid>
+		<guid isPermaLink="false">/?p=20986</guid>
 
 					<description><![CDATA[<p>Over the past year, Pagoda has been working hard to build out the B.O.S, evolve near.org, and continue developing the …</p>
-<p>The post <a href="https://pages.near.org/blog/check-out-the-pagoda-product-roadmap/">Check Out the Pagoda Product Roadmap</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/check-out-the-pagoda-product-roadmap/">Check Out the Pagoda Product Roadmap</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Over the past year, Pagoda has been working hard to build out the B.O.S, evolve near.org, and continue developing the NEAR protocol. While Pagoda has built and launched proprietary services in the past, almost all of our work so far in 2023 and planned for the future is free open-source software,&nbsp; which we intend to become vital parts of the NEAR ecosystem. We want the community to be aware of, excited by, and engaged in this work.&nbsp;</p>
@@ -830,7 +830,7 @@
 
 
 <p><br>-Eric Winer, CTO Pagoda</p>
-<p>The post <a href="https://pages.near.org/blog/check-out-the-pagoda-product-roadmap/">Check Out the Pagoda Product Roadmap</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/check-out-the-pagoda-product-roadmap/">Check Out the Pagoda Product Roadmap</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -838,20 +838,20 @@
 			</item>
 		<item>
 		<title>Embracing Decentralization: What’s Next for the NEAR Wallet</title>
-		<link>https://pages.near.org/blog/embracing-decentralization-whats-next-for-the-near-wallet/</link>
+		<link>/blog/embracing-decentralization-whats-next-for-the-near-wallet/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 12 Jul 2023 16:30:00 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[NEAR Wallet]]></category>
 		<category><![CDATA[Transfer Wizard]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20715</guid>
+		<guid isPermaLink="false">/?p=20715</guid>
 
 					<description><![CDATA[<p>When NEAR Mainnet launched in late 2020, it included a wallet built and hosted by Pagoda’s (then known as Near …</p>
-<p>The post <a href="https://pages.near.org/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>When NEAR Mainnet launched in late 2020, it included a wallet built and hosted by Pagoda’s (then known as Near Inc.) core team on <a href="https://wallet.near.org/">https://wallet.near.org/</a> to support NEAR’s unique account model. Nearly three years later, the NEAR wallet ecosystem is home to a myriad of high quality, open source wallets supported by NEAR’s community of active contributors. This significant milestone reflects NEAR’s ongoing commitment to empower users and foster decentralization. The evolution of NEAR wallets also showcases the substantial growth of the ecosystem, as NEAR now supports a diverse list of cross-chain wallets, as well as native wallets with innovative onboarding approaches such as <a href="https://pages.near.org/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/?_gl=1%2A1fvy7yq%2A_up%2AMQ..%2A_ga%2AMjA1NTA3NTczNy4xNjg2NjY4NDc2%2A_ga_9GWCXQJ62J%2AMTY4NjY2ODQ3NC4xLjEuMTY4NjY2ODUxMC4wLjAuMA..">FastAuth</a>.</p>
+<p>When NEAR Mainnet launched in late 2020, it included a wallet built and hosted by Pagoda’s (then known as Near Inc.) core team on <a href="https://wallet.near.org/">https://wallet.near.org/</a> to support NEAR’s unique account model. Nearly three years later, the NEAR wallet ecosystem is home to a myriad of high quality, open source wallets supported by NEAR’s community of active contributors. This significant milestone reflects NEAR’s ongoing commitment to empower users and foster decentralization. The evolution of NEAR wallets also showcases the substantial growth of the ecosystem, as NEAR now supports a diverse list of cross-chain wallets, as well as native wallets with innovative onboarding approaches such as <a href="/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/?_gl=1%2A1fvy7yq%2A_up%2AMQ..%2A_ga%2AMjA1NTA3NTczNy4xNjg2NjY4NDc2%2A_ga_9GWCXQJ62J%2AMTY4NjY2ODQ3NC4xLjEuMTY4NjY2ODUxMC4wLjAuMA..">FastAuth</a>.</p>
 
 
 
@@ -887,8 +887,8 @@
 
 
 
-<p>This new step moves NEAR closer to achieving a truly decentralized ecosystem driven by its own community. Thanks to the wallet hub and the wallet selector (which enables the use of any compatible NEAR wallet in web applications), users will now be able to use any wallet they like. This will not only improve their experience on NEAR, but also the full spectrum of available Web3 experiences thanks <a href="https://pages.near.org/blog/near-blockchain-operating-system-is-now-live-on-near-org/?_gl=1%2Ahbkih2%2A_up%2AMQ..%2A_ga%2AMjAwNDA3NDY4Mi4xNjg2NjY5MjQx%2A_ga_9GWCXQJ62J%2AMTY4NjY2OTIzOS4xLjEuMTY4NjY2OTI0My4wLjAuMA..">to the BOS</a>.</p>
-<p>The post <a href="https://pages.near.org/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>This new step moves NEAR closer to achieving a truly decentralized ecosystem driven by its own community. Thanks to the wallet hub and the wallet selector (which enables the use of any compatible NEAR wallet in web applications), users will now be able to use any wallet they like. This will not only improve their experience on NEAR, but also the full spectrum of available Web3 experiences thanks <a href="/blog/near-blockchain-operating-system-is-now-live-on-near-org/?_gl=1%2Ahbkih2%2A_up%2AMQ..%2A_ga%2AMjAwNDA3NDY4Mi4xNjg2NjY5MjQx%2A_ga_9GWCXQJ62J%2AMTY4NjY2OTIzOS4xLjEuMTY4NjY2OTI0My4wLjAuMA..">to the BOS</a>.</p>
+<p>The post <a href="/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -896,7 +896,7 @@
 			</item>
 		<item>
 		<title>Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</title>
-		<link>https://pages.near.org/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/</link>
+		<link>/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 07 Jul 2023 14:00:00 +0000</pubDate>
@@ -904,10 +904,10 @@
 		<category><![CDATA[BOS]]></category>
 		<category><![CDATA[Developer tools]]></category>
 		<category><![CDATA[Infrastructure]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20704</guid>
+		<guid isPermaLink="false">/?p=20704</guid>
 
 					<description><![CDATA[<p>NEAR is welcoming Vistara, the groundbreaking rollup deployment framework, into the fold. Vistara is set to seamlessly integrate with the …</p>
-<p>The post <a href="https://pages.near.org/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR is welcoming <a href="https://twitter.com/vistaralabs">Vistara</a>, the groundbreaking rollup deployment framework, into the fold. Vistara is set to seamlessly integrate with the BOS for the end-to-end, multi-chain deployment of rollups. This alliance will accelerate the pace of blockchain innovation, making rollup deployment faster, more efficient, and accessible across multiple chains for all developers.</p>
@@ -955,7 +955,7 @@
 
 
 <p>To sum up, Vistara&#8217;s user-friendly, multi-chain rollup deployment capabilities on the BOS will have a huge impact on the NEAR ecosystem and beyond. The integration will take much of the complexity out of rollup deployment for anyone, helping Web3 creators, builders, and developers bring their applications to life faster than ever.</p>
-<p>The post <a href="https://pages.near.org/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

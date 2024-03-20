@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NDCfunding Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/ndcfunding/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/ndcfunding/</link>
+	<atom:link href="/blog/tag/ndcfunding/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/ndcfunding/</link>
 	<description></description>
 	<lastBuildDate>Thu, 14 Sep 2023 08:38:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NDCfunding Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/ndcfunding/</link>
+	<link>/blog/tag/ndcfunding/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Grassroots Support Initiative Update &#8211; September 11, 2023</title>
-		<link>https://pages.near.org/blog/grassroots-support-closing-update/</link>
+		<link>/blog/grassroots-support-closing-update/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 11 Sep 2023 15:25:35 +0000</pubDate>
@@ -37,13 +37,13 @@
 		<category><![CDATA[ecosystem funding]]></category>
 		<category><![CDATA[Grassroots Support Initiative]]></category>
 		<category><![CDATA[NDCfunding]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20851</guid>
+		<guid isPermaLink="false">/?p=20851</guid>
 
 					<description><![CDATA[<p>As a follow up to the NEAR Foundation’s previous grassroots support post, we wanted to take a moment to share …</p>
-<p>The post <a href="https://pages.near.org/blog/grassroots-support-closing-update/">Grassroots Support Initiative Update &#8211; September 11, 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/grassroots-support-closing-update/">Grassroots Support Initiative Update &#8211; September 11, 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>As a follow up to the NEAR Foundation’s previous <a href="https://pages.near.org/blog/update-on-the-grassroots-support-initiative/?_gl=1%2Ahk8zlj%2A_up%2AMQ..%2A_ga%2AMTA0MzMyNzk1NC4xNjkzODIwNjc0%2A_ga_9GWCXQJ62J%2AMTY5MzgyMDY3Mi4xLjAuMTY5MzgyMDY3Mi4wLjAuMA..">grassroots support post</a>, we wanted to take a moment to share an update on our progress. On September 4th, we closed the form through which projects could request support until the NDC funding mechanism is live. Over the past two weeks, we have spoken to builders across the ecosystem to understand their needs and begin mapping out the different paths forward to ensure they receive the support they need.&nbsp;</p>
+<p>As a follow up to the NEAR Foundation’s previous <a href="/blog/update-on-the-grassroots-support-initiative/?_gl=1%2Ahk8zlj%2A_up%2AMQ..%2A_ga%2AMTA0MzMyNzk1NC4xNjkzODIwNjc0%2A_ga_9GWCXQJ62J%2AMTY5MzgyMDY3Mi4xLjAuMTY5MzgyMDY3Mi4wLjAuMA..">grassroots support post</a>, we wanted to take a moment to share an update on our progress. On September 4th, we closed the form through which projects could request support until the NDC funding mechanism is live. Over the past two weeks, we have spoken to builders across the ecosystem to understand their needs and begin mapping out the different paths forward to ensure they receive the support they need.&nbsp;</p>
 
 
 
@@ -82,7 +82,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/grassroots-support-closing-update/">Grassroots Support Initiative Update &#8211; September 11, 2023</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/grassroots-support-closing-update/">Grassroots Support Initiative Update &#8211; September 11, 2023</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

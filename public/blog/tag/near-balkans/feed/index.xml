@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Balkans Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-balkans/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-balkans/</link>
+	<atom:link href="/blog/tag/near-balkans/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-balkans/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Jul 2023 19:02:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Balkans Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-balkans/</link>
+	<link>/blog/tag/near-balkans/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR&#8217;s BOS Impact at We Are Developers 2023 World Congress</title>
-		<link>https://pages.near.org/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/</link>
+		<link>/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 27 Jul 2023 16:45:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR Balkans]]></category>
 		<category><![CDATA[We Are Developers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20770</guid>
+		<guid isPermaLink="false">/?p=20770</guid>
 
 					<description><![CDATA[<p>The excitement is palpable as NEAR hits the ground in the vibrant city of Berlin for the We Are Developers …</p>
-<p>The post <a href="https://pages.near.org/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/">NEAR&#8217;s BOS Impact at We Are Developers 2023 World Congress</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/">NEAR&#8217;s BOS Impact at We Are Developers 2023 World Congress</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The excitement is palpable as NEAR hits the ground in the vibrant city of Berlin for the <a href="https://www.wearedevelopers.com/world-congress">We Are Developers World Congress 2023</a>. With a packed agenda and a bustling venue, the stage is set for a memorable exploration into the Blockchain Operating System (BOS).</p>
@@ -54,7 +54,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="682" src="https://pages.near.org/wp-content/uploads/2023/07/IMG_2718-1024x682.jpg" alt="" class="wp-image-20778" srcset="https://pages.near.org/wp-content/uploads/2023/07/IMG_2718-1024x682.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2718-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2718-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2718.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="682" src="/wp-content/uploads/2023/07/IMG_2718-1024x682.jpg" alt="" class="wp-image-20778" srcset="/wp-content/uploads/2023/07/IMG_2718-1024x682.jpg 1024w, /wp-content/uploads/2023/07/IMG_2718-300x200.jpg 300w, /wp-content/uploads/2023/07/IMG_2718-768x512.jpg 768w, /wp-content/uploads/2023/07/IMG_2718.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-1024x768.jpg" alt="" class="wp-image-20776" srcset="https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-1024x768.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-300x225.jpg 300w, https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-768x576.jpg 768w, https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-1024x768.jpg" alt="" class="wp-image-20776" srcset="/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-1024x768.jpg 1024w, /wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-300x225.jpg 300w, /wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-768x576.jpg 768w, /wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="https://pages.near.org/wp-content/uploads/2023/07/IMG_2716-1024x682.jpg" alt="" class="wp-image-20779" srcset="https://pages.near.org/wp-content/uploads/2023/07/IMG_2716-1024x682.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2716-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2716-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2716.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="/wp-content/uploads/2023/07/IMG_2716-1024x682.jpg" alt="" class="wp-image-20779" srcset="/wp-content/uploads/2023/07/IMG_2716-1024x682.jpg 1024w, /wp-content/uploads/2023/07/IMG_2716-300x200.jpg 300w, /wp-content/uploads/2023/07/IMG_2716-768x512.jpg 768w, /wp-content/uploads/2023/07/IMG_2716.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -94,7 +94,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://pages.near.org/wp-content/uploads/2023/07/IMG_2709-1024x682.jpg" alt="" class="wp-image-20780" srcset="https://pages.near.org/wp-content/uploads/2023/07/IMG_2709-1024x682.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2709-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2709-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2709.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="/wp-content/uploads/2023/07/IMG_2709-1024x682.jpg" alt="" class="wp-image-20780" srcset="/wp-content/uploads/2023/07/IMG_2709-1024x682.jpg 1024w, /wp-content/uploads/2023/07/IMG_2709-300x200.jpg 300w, /wp-content/uploads/2023/07/IMG_2709-768x512.jpg 768w, /wp-content/uploads/2023/07/IMG_2709.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -107,7 +107,7 @@
 
 
 <p>There&#8217;s plenty more to explore and experience as the event unfolds. If you haven&#8217;t yet visited the NEAR booth or attended our sessions, seize the opportunity to dive into BOS and discover its revolutionary impact on the application-building process. And don’t forget to partake in all the fun and rewards, like a chance to win NEARCON tickets with Tekuno PODs.</p>
-<p>The post <a href="https://pages.near.org/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/">NEAR&#8217;s BOS Impact at We Are Developers 2023 World Congress</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/">NEAR&#8217;s BOS Impact at We Are Developers 2023 World Congress</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -115,17 +115,17 @@
 			</item>
 		<item>
 		<title>NEAR at We Are Developers World Congress 2023: Build with BOS in Berlin</title>
-		<link>https://pages.near.org/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/</link>
+		<link>/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 25 Jul 2023 13:56:09 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR Balkans]]></category>
 		<category><![CDATA[We Are Developers World Congress]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20754</guid>
+		<guid isPermaLink="false">/?p=20754</guid>
 
 					<description><![CDATA[<p>NEAR is&#160; gearing up for a big presence at the We Are Developers World Congress 2023. It’s an exciting opportunity …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/">NEAR at We Are Developers World Congress 2023: Build with BOS in Berlin</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/">NEAR at We Are Developers World Congress 2023: Build with BOS in Berlin</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR is&nbsp; gearing up for a big presence at the <a href="https://www.wearedevelopers.com/world-congress">We Are Developers World Congress 2023</a>. It’s an exciting opportunity to demonstrate the power of the Blockchain Operating System (BOS), fostering a wave of innovation and expanding horizons for developers in Germany, the Balkans, and beyond.</p>
@@ -185,7 +185,7 @@
 
 
 <p>Mark your calendars for this awesome&nbsp; event, and join us in the hip and modern city of Berlin on 27th and 28th July. From engaging workshops to in-depth discussions, come on down to the We Are Developers World Congress begin Berlin BOS building.</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/">NEAR at We Are Developers World Congress 2023: Build with BOS in Berlin</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/">NEAR at We Are Developers World Congress 2023: Build with BOS in Berlin</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -193,7 +193,7 @@
 			</item>
 		<item>
 		<title>NEAR Balkans’ Tekuno and Mastercard Team Up for Gamified NFT Experience</title>
-		<link>https://pages.near.org/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/</link>
+		<link>/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 07 Apr 2023 12:00:00 +0000</pubDate>
@@ -203,10 +203,10 @@
 		<category><![CDATA[Mastercard]]></category>
 		<category><![CDATA[NEAR Balkans]]></category>
 		<category><![CDATA[Tekuno]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20387</guid>
+		<guid isPermaLink="false">/?p=20387</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is thrilled to announce that Tekuno, one of the most innovative NEAR Balkans Hub projects, recently teamed up …</p>
-<p>The post <a href="https://pages.near.org/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/">NEAR Balkans’ Tekuno and Mastercard Team Up for Gamified NFT Experience</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/">NEAR Balkans’ Tekuno and Mastercard Team Up for Gamified NFT Experience</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is thrilled to announce that <a href="https://medium.com/@tekuno/introducing-tekuno-your-experience-your-proof-your-value-9bbf03ae1b81">Tekuno</a>, one of the most innovative <a href="https://nearbalkans.org/">NEAR Balkans Hub</a> projects, recently teamed up with <a href="https://www.mastercard.com/global/en.html">Mastercard</a> to serve up an incredibly unique real-life NFT experience. Attendees at the recent <a href="https://medium.com/@tekuno/experience-the-motion-19b5e4e904ce">Money Motion</a> (MoMo) Fintech conference in Zagreb, Croatia got a taste of how Web3 and NEAR can help brands reach new audiences with blockchain gamification.</p>
@@ -310,7 +310,7 @@
 
 
 <p>“So, we are trying to set the standard… to show how we can create a Web3 product that any average user can actually use,” Meouche-Grawi added. “Because from my experience when it comes to Web3 products they are usually developed by developers for developers, this is the trend and we are trying to break it.’’</p>
-<p>The post <a href="https://pages.near.org/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/">NEAR Balkans’ Tekuno and Mastercard Team Up for Gamified NFT Experience</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/">NEAR Balkans’ Tekuno and Mastercard Team Up for Gamified NFT Experience</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

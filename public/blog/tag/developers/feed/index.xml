@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Developers Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/developers/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/developers/</link>
+	<atom:link href="/blog/tag/developers/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/developers/</link>
 	<description></description>
 	<lastBuildDate>Wed, 01 Nov 2023 18:46:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Developers Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/developers/</link>
+	<link>/blog/tag/developers/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEARCON &#8217;23: Developer, Founder, and Creative Talks You Shouldn&#8217;t Miss</title>
-		<link>https://pages.near.org/blog/nearcon-23-developer-founder-and-creative-talks-you-shouldnt-miss/</link>
+		<link>/blog/nearcon-23-developer-founder-and-creative-talks-you-shouldnt-miss/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 19:39:29 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Developers]]></category>
 		<category><![CDATA[Founders]]></category>
 		<category><![CDATA[NEARCON 23]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21022</guid>
+		<guid isPermaLink="false">/?p=21022</guid>
 
 					<description><![CDATA[<p>NEARCON &#8217;23 in scenic Lisbon, Portugal is your go-to event for everything AI, the open web, and more. Whether you&#8217;re …</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-23-developer-founder-and-creative-talks-you-shouldnt-miss/">NEARCON &#8217;23: Developer, Founder, and Creative Talks You Shouldn&#8217;t Miss</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/nearcon-23-developer-founder-and-creative-talks-you-shouldnt-miss/">NEARCON &#8217;23: Developer, Founder, and Creative Talks You Shouldn&#8217;t Miss</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEARCON &#8217;23 in scenic Lisbon, Portugal is your go-to event for everything AI, the open web, and more. Whether you&#8217;re a developer, entrepreneur, or artist, there&#8217;s a session for you. Web3 regulatory aficionados, we&#8217;ve got you covered too (more on that later).&nbsp;</p>
@@ -176,8 +176,8 @@
 
 
 
-<p>Special offers are available for<a href="https://pages.near.org/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."> Ukrainians</a>, students in<a href="https://pages.near.org/blog/entradas-gratuitas-a-nearcon-23-para-estudiantes-en-espana/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."> Spain</a> and<a href="https://pages.near.org/blog/estudantes-terao-ingressos-gratis-no-nearcon23/?_gl=1%2A1clz06g%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."> Portugal</a>, and<a href="https://pages.near.org/blog/nearcon-irl-hackathon-2023-build-the-open-web/?_gl=1%2A1fu2kk1%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."> hackathon registrants</a>. Head over to those pages and register for your free NEARCON ‘23 pass!</p>
-<p>The post <a href="https://pages.near.org/blog/nearcon-23-developer-founder-and-creative-talks-you-shouldnt-miss/">NEARCON &#8217;23: Developer, Founder, and Creative Talks You Shouldn&#8217;t Miss</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>Special offers are available for<a href="/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."> Ukrainians</a>, students in<a href="/blog/entradas-gratuitas-a-nearcon-23-para-estudiantes-en-espana/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."> Spain</a> and<a href="/blog/estudantes-terao-ingressos-gratis-no-nearcon23/?_gl=1%2A1clz06g%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."> Portugal</a>, and<a href="/blog/nearcon-irl-hackathon-2023-build-the-open-web/?_gl=1%2A1fu2kk1%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA.."> hackathon registrants</a>. Head over to those pages and register for your free NEARCON ‘23 pass!</p>
+<p>The post <a href="/blog/nearcon-23-developer-founder-and-creative-talks-you-shouldnt-miss/">NEARCON &#8217;23: Developer, Founder, and Creative Talks You Shouldn&#8217;t Miss</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -185,17 +185,17 @@
 			</item>
 		<item>
 		<title>NEAR and Nansen Partner on On-Chain Analytics for Founders and Investors</title>
-		<link>https://pages.near.org/blog/near-and-nansen-partner-on-on-chain-analytics-for-founders-and-investors/</link>
+		<link>/blog/near-and-nansen-partner-on-on-chain-analytics-for-founders-and-investors/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 18 Apr 2023 14:10:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Analytics]]></category>
 		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20447</guid>
+		<guid isPermaLink="false">/?p=20447</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership with Nansen, a blockchain analytics firm, on advanced tools for dApp …</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-nansen-partner-on-on-chain-analytics-for-founders-and-investors/">NEAR and Nansen Partner on On-Chain Analytics for Founders and Investors</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-nansen-partner-on-on-chain-analytics-for-founders-and-investors/">NEAR and Nansen Partner on On-Chain Analytics for Founders and Investors</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is excited to announce a new partnership with <a href="https://www.nansen.ai/">Nansen</a>, a blockchain analytics firm, on advanced tools for dApp developers and investors. Led by the <a href="https://nearbalkans.org/">NEAR Balkans Hub</a>, the partnership with Nansen will give developers and investors new insights and data-driven solutions, like real-time data on transactions, addresses, and network activity.</p>
@@ -227,7 +227,7 @@
 
 
 <p>As NEAR evolves into the Blockchain Operating System, a common layer for browsing and discovering open web experiences, compatible with all blockchains, this collaboration will help drive innovation on NEAR and onboard many new developers, investors, and end users into Web3.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-and-nansen-partner-on-on-chain-analytics-for-founders-and-investors/">NEAR and Nansen Partner on On-Chain Analytics for Founders and Investors</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-and-nansen-partner-on-on-chain-analytics-for-founders-and-investors/">NEAR and Nansen Partner on On-Chain Analytics for Founders and Investors</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

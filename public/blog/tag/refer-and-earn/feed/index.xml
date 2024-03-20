@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Refer-and-Earn Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/refer-and-earn/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/refer-and-earn/</link>
+	<atom:link href="/blog/tag/refer-and-earn/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/refer-and-earn/</link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Dec 2022 13:31:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Refer-and-Earn Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/refer-and-earn/</link>
+	<link>/blog/tag/refer-and-earn/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Refer-and-Earn Guidelines Update: Q3 2022</title>
-		<link>https://pages.near.org/blog/refer-and-earn-guidelines-update-q3-2022/</link>
+		<link>/blog/refer-and-earn-guidelines-update-q3-2022/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 09 Dec 2022 17:00:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Grants]]></category>
 		<category><![CDATA[Refer-and-Earn]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=19539</guid>
+		<guid isPermaLink="false">/?p=19539</guid>
 
 					<description><![CDATA[<p>NEAR’s ever-growing and engaged community is one of the ecosystem’s greatest strengths. Remember the NEAR Foundation Grants team’s Refer-and-Earn Program? …</p>
-<p>The post <a href="https://pages.near.org/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR’s ever-growing and engaged community is one of the ecosystem’s greatest strengths. Remember the <a href="https://medium.com/nearprotocol/refer-and-earn-pick-projects-you-love-and-get-up-to-10-000-in-near-981c0c015ba4#:~:text=Refer%20and%20Earn.,for%20nominating%20a%20worthy%20project">NEAR Foundation Grants team’s Refer-and-Earn Program</a>? A number of NEAR community members participated in Refer-and-Earn in early 2022, resulting in grants for dozens of exciting projects currently building on the NEAR ecosystem.&nbsp;&nbsp;</p>
@@ -132,7 +132,7 @@
 
 
 <p>The Grants team has reached out to all Refer-and-Earn referrers. Thanks to your help and support, the Grants team is able to support innovative projects like those listed above. </p>
-<p>The post <a href="https://pages.near.org/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/refer-and-earn-guidelines-update-q3-2022/">Refer-and-Earn Guidelines Update: Q3 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

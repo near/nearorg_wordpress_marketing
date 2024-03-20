@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Transfer Wizard Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/transfer-wizard/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/transfer-wizard/</link>
+	<atom:link href="/blog/tag/transfer-wizard/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/transfer-wizard/</link>
 	<description></description>
 	<lastBuildDate>Mon, 23 Oct 2023 19:18:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Transfer Wizard Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/transfer-wizard/</link>
+	<link>/blog/tag/transfer-wizard/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Reminder to Migrate from NEAR Wallet</title>
-		<link>https://pages.near.org/blog/a-reminder-to-migrate-from-near-wallet/</link>
+		<link>/blog/a-reminder-to-migrate-from-near-wallet/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 12 Oct 2023 13:00:27 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR Wallet]]></category>
 		<category><![CDATA[Transfer Wizard]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20966</guid>
+		<guid isPermaLink="false">/?p=20966</guid>
 
 					<description><![CDATA[<p>In July, NEAR Foundation published “Embracing Decentralization: What’s Next for the NEAR Wallet”, a detailed exploration of how Pagoda is …</p>
-<p>The post <a href="https://pages.near.org/blog/a-reminder-to-migrate-from-near-wallet/">A Reminder to Migrate from NEAR Wallet</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/a-reminder-to-migrate-from-near-wallet/">A Reminder to Migrate from NEAR Wallet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>In July, NEAR Foundation published “<a href="https://pages.near.org/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a>”, a detailed exploration of how Pagoda is migrating NEAR Wallet from being a browser wallet into a wallet hub. As we noted at the time, this wallet evolution illustrates the substantial growth of the NEAR ecosystem, which now offers a wide range of cross-chain wallets and native wallets.&nbsp;</p>
+<p>In July, NEAR Foundation published “<a href="/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a>”, a detailed exploration of how Pagoda is migrating NEAR Wallet from being a browser wallet into a wallet hub. As we noted at the time, this wallet evolution illustrates the substantial growth of the NEAR ecosystem, which now offers a wide range of cross-chain wallets and native wallets.&nbsp;</p>
 
 
 
@@ -59,7 +59,7 @@
 
 
 <p>For more details on using&nbsp; the Transfer Wizard, visit the <a href="https://wallet.near.org/transfer-wizard">Migrating from NEAR Wallet</a> page.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/a-reminder-to-migrate-from-near-wallet/">A Reminder to Migrate from NEAR Wallet</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/a-reminder-to-migrate-from-near-wallet/">A Reminder to Migrate from NEAR Wallet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -67,20 +67,20 @@
 			</item>
 		<item>
 		<title>Embracing Decentralization: What’s Next for the NEAR Wallet</title>
-		<link>https://pages.near.org/blog/embracing-decentralization-whats-next-for-the-near-wallet/</link>
+		<link>/blog/embracing-decentralization-whats-next-for-the-near-wallet/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 12 Jul 2023 16:30:00 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[NEAR Wallet]]></category>
 		<category><![CDATA[Transfer Wizard]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20715</guid>
+		<guid isPermaLink="false">/?p=20715</guid>
 
 					<description><![CDATA[<p>When NEAR Mainnet launched in late 2020, it included a wallet built and hosted by Pagoda’s (then known as Near …</p>
-<p>The post <a href="https://pages.near.org/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>When NEAR Mainnet launched in late 2020, it included a wallet built and hosted by Pagoda’s (then known as Near Inc.) core team on <a href="https://wallet.near.org/">https://wallet.near.org/</a> to support NEAR’s unique account model. Nearly three years later, the NEAR wallet ecosystem is home to a myriad of high quality, open source wallets supported by NEAR’s community of active contributors. This significant milestone reflects NEAR’s ongoing commitment to empower users and foster decentralization. The evolution of NEAR wallets also showcases the substantial growth of the ecosystem, as NEAR now supports a diverse list of cross-chain wallets, as well as native wallets with innovative onboarding approaches such as <a href="https://pages.near.org/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/?_gl=1%2A1fvy7yq%2A_up%2AMQ..%2A_ga%2AMjA1NTA3NTczNy4xNjg2NjY4NDc2%2A_ga_9GWCXQJ62J%2AMTY4NjY2ODQ3NC4xLjEuMTY4NjY2ODUxMC4wLjAuMA..">FastAuth</a>.</p>
+<p>When NEAR Mainnet launched in late 2020, it included a wallet built and hosted by Pagoda’s (then known as Near Inc.) core team on <a href="https://wallet.near.org/">https://wallet.near.org/</a> to support NEAR’s unique account model. Nearly three years later, the NEAR wallet ecosystem is home to a myriad of high quality, open source wallets supported by NEAR’s community of active contributors. This significant milestone reflects NEAR’s ongoing commitment to empower users and foster decentralization. The evolution of NEAR wallets also showcases the substantial growth of the ecosystem, as NEAR now supports a diverse list of cross-chain wallets, as well as native wallets with innovative onboarding approaches such as <a href="/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/?_gl=1%2A1fvy7yq%2A_up%2AMQ..%2A_ga%2AMjA1NTA3NTczNy4xNjg2NjY4NDc2%2A_ga_9GWCXQJ62J%2AMTY4NjY2ODQ3NC4xLjEuMTY4NjY2ODUxMC4wLjAuMA..">FastAuth</a>.</p>
 
 
 
@@ -116,8 +116,8 @@
 
 
 
-<p>This new step moves NEAR closer to achieving a truly decentralized ecosystem driven by its own community. Thanks to the wallet hub and the wallet selector (which enables the use of any compatible NEAR wallet in web applications), users will now be able to use any wallet they like. This will not only improve their experience on NEAR, but also the full spectrum of available Web3 experiences thanks <a href="https://pages.near.org/blog/near-blockchain-operating-system-is-now-live-on-near-org/?_gl=1%2Ahbkih2%2A_up%2AMQ..%2A_ga%2AMjAwNDA3NDY4Mi4xNjg2NjY5MjQx%2A_ga_9GWCXQJ62J%2AMTY4NjY2OTIzOS4xLjEuMTY4NjY2OTI0My4wLjAuMA..">to the BOS</a>.</p>
-<p>The post <a href="https://pages.near.org/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>This new step moves NEAR closer to achieving a truly decentralized ecosystem driven by its own community. Thanks to the wallet hub and the wallet selector (which enables the use of any compatible NEAR wallet in web applications), users will now be able to use any wallet they like. This will not only improve their experience on NEAR, but also the full spectrum of available Web3 experiences thanks <a href="/blog/near-blockchain-operating-system-is-now-live-on-near-org/?_gl=1%2Ahbkih2%2A_up%2AMQ..%2A_ga%2AMjAwNDA3NDY4Mi4xNjg2NjY5MjQx%2A_ga_9GWCXQJ62J%2AMTY4NjY2OTIzOS4xLjEuMTY4NjY2OTI0My4wLjAuMA..">to the BOS</a>.</p>
+<p>The post <a href="/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

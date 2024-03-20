@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Foundation Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/category/near-foundation/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/category/near-foundation/</link>
+	<atom:link href="/blog/category/near-foundation/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/category/near-foundation/</link>
 	<description></description>
 	<lastBuildDate>Mon, 18 Mar 2024 02:34:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Foundation Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/category/near-foundation/</link>
+	<link>/blog/category/near-foundation/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Protocol Partners With D3 To Apply For .Near Top-Level Domain</title>
-		<link>https://pages.near.org/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/</link>
+		<link>/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 08 Feb 2024 14:10:42 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21222</guid>
+		<guid isPermaLink="false">/?p=21222</guid>
 
 					<description><![CDATA[<p>The NEAR Foundation, in partnership with D3, a leading digital infrastructure provider specializing in domains, is applying to obtain the …</p>
-<p>The post <a href="https://pages.near.org/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/">NEAR Protocol Partners With D3 To Apply For .Near Top-Level Domain</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/">NEAR Protocol Partners With D3 To Apply For .Near Top-Level Domain</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR Foundation, in partnership with D3, a leading digital infrastructure provider specializing in domains, is applying to obtain the &#8216;.near&#8217; Top-Level Domain (TLD) during the upcoming ICANN application window. The collaboration will integrate D3’s interoperable digital identities into the NEAR ecosystem, enhancing utility for both users and developers.</p>
@@ -81,7 +81,7 @@
 
 
 <p>The collaboration with D3 to bridge the traditional internet and the open web using domains could lead to a host of innovative use cases on NEAR, from NFTs to SocialFi. Furthermore, D3’s mission of integrating traditional internet and Web3 for utility, security, and universal access dovetails with the NEAR ecosystem’s chain abstraction initiative. Making Web3 experiences feel familiar and smooth, while abstracting the blockchain hurdles away from end users, will improve the usability of decentralized applications for mainstream internet consumers.</p>
-<p>The post <a href="https://pages.near.org/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/">NEAR Protocol Partners With D3 To Apply For .Near Top-Level Domain</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/">NEAR Protocol Partners With D3 To Apply For .Near Top-Level Domain</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -89,15 +89,15 @@
 			</item>
 		<item>
 		<title>Meta Pool Launches Enterprise Node Operators Program</title>
-		<link>https://pages.near.org/blog/meta-pool-launches-enterprise-node-operators-program/</link>
+		<link>/blog/meta-pool-launches-enterprise-node-operators-program/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 07 Feb 2024 13:59:03 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21219</guid>
+		<guid isPermaLink="false">/?p=21219</guid>
 
 					<description><![CDATA[<p>TL;DR: Meta Pool proudly introduces the Enterprise Node Operators (ENO) program, marking a significant milestone in institutional engagement for the …</p>
-<p>The post <a href="https://pages.near.org/blog/meta-pool-launches-enterprise-node-operators-program/">Meta Pool Launches Enterprise Node Operators Program</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/meta-pool-launches-enterprise-node-operators-program/">Meta Pool Launches Enterprise Node Operators Program</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>TL;DR:</p>
@@ -205,7 +205,7 @@
 
 
 <p>&nbsp;Please join Meta Pool in welcoming these institutions to the NEAR community. For more updates about the ENO program or to refer a participant, follow along on X at <a href="https://twitter.com/meta_pool">@meta_pool </a>or visit <a href="https://blog.metapool.app/">their blog</a>.&nbsp; The Meta Pool team will also host Spaces with each ENO team during the month of February to educate the NEAR community and let enterprise partners share what they are adding to the NEAR ecosystem.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/meta-pool-launches-enterprise-node-operators-program/">Meta Pool Launches Enterprise Node Operators Program</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/meta-pool-launches-enterprise-node-operators-program/">Meta Pool Launches Enterprise Node Operators Program</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -213,7 +213,7 @@
 			</item>
 		<item>
 		<title>Phase 2 of NEAR Sharding Launches</title>
-		<link>https://pages.near.org/blog/phase-2-of-near-sharding-launches/</link>
+		<link>/blog/phase-2-of-near-sharding-launches/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 30 Jan 2024 14:33:22 +0000</pubDate>
@@ -223,17 +223,17 @@
 		<category><![CDATA[Nightshade]]></category>
 		<category><![CDATA[Sharding]]></category>
 		<category><![CDATA[stateless validation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21200</guid>
+		<guid isPermaLink="false">/?p=21200</guid>
 
 					<description><![CDATA[<p>The NEAR Foundation announced today that the Protocol Work Group will launch testing for Phase 2 of Sharding this week, …</p>
-<p>The post <a href="https://pages.near.org/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR Foundation announced today that the Protocol Work Group will launch testing for Phase 2 of Sharding this week, marking a major milestone in the network’s development roadmap. Phase 2 introduces fundamental upgrades to NEAR’s core protocol architecture, enabling even greater scalability and decentralization for the network. The fourth edition of <a href="https://github.com/near/stakewars-iv">Stake Wars</a>, an incentivized community testing initiative, will kick off on February 1.&nbsp;&nbsp;</p>
 
 
 
-<p>NEAR&#8217;s vision of <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> to facilitate broad adoption of decentralized apps requires an extremely scalable blockchain layer. From the start, NEAR has been designed to scale with demand towards mainstream adoption. A primary benefit of the new sharding implementation will be an up-to-10x speed improvement to NEAR’s already-fast transaction throughput. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” Combined with NEAR already having the lowest transaction fees in Web3, this sharding upgrade positions NEAR at the forefront of Web3 in terms of both performance and scalability. Phase 2 greatly improves the network’s capacity for end user volume and is an important landmark on the road to global-scale usage of Web3. </p>
+<p>NEAR&#8217;s vision of <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> to facilitate broad adoption of decentralized apps requires an extremely scalable blockchain layer. From the start, NEAR has been designed to scale with demand towards mainstream adoption. A primary benefit of the new sharding implementation will be an up-to-10x speed improvement to NEAR’s already-fast transaction throughput. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” Combined with NEAR already having the lowest transaction fees in Web3, this sharding upgrade positions NEAR at the forefront of Web3 in terms of both performance and scalability. Phase 2 greatly improves the network’s capacity for end user volume and is an important landmark on the road to global-scale usage of Web3. </p>
 
 
 
@@ -274,7 +274,7 @@
 
 
 <p>With the launch of Phase 2, NEAR becomes one of the only networks in Web3 to implement stateless validation to improve scaling and paves the way for further network performance and scalability improvements in the future roadmap. A technical paper with more detail about NEAR’s new sharding design is forthcoming later in Q1. Phase 2 is expected to launch on NEAR Mainnet in May 2024.</p>
-<p>The post <a href="https://pages.near.org/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -282,15 +282,15 @@
 			</item>
 		<item>
 		<title>MetaMask Is Now Usable on NEAR via NEAR Snap 🦊🤝</title>
-		<link>https://pages.near.org/blog/metamask-snaps/</link>
+		<link>/blog/metamask-snaps/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 25 Jan 2024 16:58:27 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21186</guid>
+		<guid isPermaLink="false">/?p=21186</guid>
 
 					<description><![CDATA[<p>NEAR is now compatible with MetaMask, one of the most popular wallets in Web3! For the first time, MetaMask users …</p>
-<p>The post <a href="https://pages.near.org/blog/metamask-snaps/">MetaMask Is Now Usable on NEAR via NEAR Snap 🦊🤝</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/metamask-snaps/">MetaMask Is Now Usable on NEAR via NEAR Snap 🦊🤝</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR is now compatible with MetaMask, one of the most popular wallets in Web3! For the first time, MetaMask users will be able to create NEAR accounts, sign NEAR Protocol transactions, and use a host of other features natively inside the MetaMask wallet thanks to the new <a href="https://snaps.metamask.io/snap/npm/near-snap/plugin/">NEAR Snap</a>.&nbsp;</p>
@@ -388,7 +388,7 @@
 
 
 <p>Remote Accounts are the concept that you can use NEAR to to sign transactions on other blockchains, simply put. This concept’s implementation is still under development and being discussed on <a href="https://github.com/near/NEPs/issues/498">Github</a>&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/metamask-snaps/">MetaMask Is Now Usable on NEAR via NEAR Snap 🦊🤝</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/metamask-snaps/">MetaMask Is Now Usable on NEAR via NEAR Snap 🦊🤝</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -396,17 +396,17 @@
 			</item>
 		<item>
 		<title>An Update from the NEAR Foundation</title>
-		<link>https://pages.near.org/blog/an-update-from-the-near-foundation/</link>
+		<link>/blog/an-update-from-the-near-foundation/</link>
 		
 		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
 		<pubDate>Thu, 11 Jan 2024 08:01:06 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR 2024]]></category>
 		<category><![CDATA[NEAR Foundation Update]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21148</guid>
+		<guid isPermaLink="false">/?p=21148</guid>
 
 					<description><![CDATA[<p>Dear NEAR Community, The NEAR Foundation’s vision has always been to help the world create a truly Open Web, giving …</p>
-<p>The post <a href="https://pages.near.org/blog/an-update-from-the-near-foundation/">An Update from the NEAR Foundation</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/an-update-from-the-near-foundation/">An Update from the NEAR Foundation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Dear NEAR Community,<br></p>
@@ -442,7 +442,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/an-update-from-the-near-foundation/">An Update from the NEAR Foundation</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/an-update-from-the-near-foundation/">An Update from the NEAR Foundation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -450,17 +450,17 @@
 			</item>
 		<item>
 		<title>Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </title>
-		<link>https://pages.near.org/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/</link>
+		<link>/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 21 Dec 2023 15:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Arbitrum]]></category>
 		<category><![CDATA[Ethereum Rollups]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21140</guid>
+		<guid isPermaLink="false">/?p=21140</guid>
 
 					<description><![CDATA[<p>The NEAR Data Availability layer (NEAR DA) was one of the most exciting announcements to come out of NEARCON ‘23. …</p>
-<p>The post <a href="https://pages.near.org/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/">Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/">Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The <a href="https://near.org/data-availability">NEAR Data Availability layer</a> (NEAR DA) was one of the most exciting announcements to come out of NEARCON ‘23. Unveiled by NEAR Protocol co-founder and new NEAR Foundation CEO, Illia Polosukhin, NEAR DA is a highly efficient and robust data availability layer, designed to help Ethereum rollup builders simplify their network and lower costs, while ensuring they can scale like the NEAR Protocol.</p>
@@ -516,7 +516,7 @@
 
 
 <p>“NEAR’s L1 has been live with 100% uptime for more than three years, so it can offer true reliability to projects looking for secure DA while also being cost-effective,” Polosukhin added. “NEAR provides great solutions to developers no matter which stack they’re building on and now that includes the Ethereum modular blockchain landscape.”<br>Interested teams who want to work with NEAR DA are invited to fill out <a href="https://forms.gle/LWJoTpTiCbSheUL26">this form</a>, with information about your project and how you would like to integrate with NEAR DA.</p>
-<p>The post <a href="https://pages.near.org/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/">Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/">Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -524,17 +524,17 @@
 			</item>
 		<item>
 		<title>2023: NEAR In Review</title>
-		<link>https://pages.near.org/blog/2023-near-in-review/</link>
+		<link>/blog/2023-near-in-review/</link>
 		
 		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
 		<pubDate>Wed, 20 Dec 2023 18:10:12 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEAR 2023]]></category>
 		<category><![CDATA[NEAR in Review]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21133</guid>
+		<guid isPermaLink="false">/?p=21133</guid>
 
 					<description><![CDATA[<p>by Illia Polosukhin While this was a tough year in the market, we’re closing 2023 on a higher note for …</p>
-<p>The post <a href="https://pages.near.org/blog/2023-near-in-review/">2023: NEAR In Review</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/2023-near-in-review/">2023: NEAR In Review</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>by Illia Polosukhin</em></p>
@@ -577,15 +577,15 @@
 
 
 
-<p>The Foundation is working with <a href="https://pages.near.org/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">Eigen Labs</a> to build a fast finality layer for defragmenting Ethereum rollups and also launched <a href="https://near.org/data-availability">NEAR DA</a>, a cost-efficient and data availability layer compatible with L2s offering 11,000x cheaper DA than Ethereum and 30x cheaper than Celestia.</p>
+<p>The Foundation is working with <a href="/blog/near-foundation-and-eigen-labs-partner-to-enable-faster-cheaper-web3-transactions-for-ethereum-rollups-via-eigenlayer/">Eigen Labs</a> to build a fast finality layer for defragmenting Ethereum rollups and also launched <a href="https://near.org/data-availability">NEAR DA</a>, a cost-efficient and data availability layer compatible with L2s offering 11,000x cheaper DA than Ethereum and 30x cheaper than Celestia.</p>
 
 
 
-<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="428" src="https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg" alt="" class="wp-image-21135" style="aspect-ratio:2.392523364485981;width:1287px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-300x125.jpg 300w, https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-768x321.jpg 768w, https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>NEAR reached #1 in daily active users for all of Web3 to close the year, per Artemis.</em></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="428" src="/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg" alt="" class="wp-image-21135" style="aspect-ratio:2.392523364485981;width:1287px;height:auto" srcset="/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg 1024w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-300x125.jpg 300w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-768x321.jpg 768w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>NEAR reached #1 in daily active users for all of Web3 to close the year, per Artemis.</em></figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="458" src="https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png" alt="" class="wp-image-21136" srcset="https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png 1024w, https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-300x134.png 300w, https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-768x343.png 768w, https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1536x687.png 1536w, https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-2048x916.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>4 of the top 10 apps in all of Web3 are built on NEAR &amp; Aurora, per DappRadar&#8217;s 30-day ranking.</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="458" src="/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png" alt="" class="wp-image-21136" srcset="/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png 1024w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-300x134.png 300w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-768x343.png 768w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1536x687.png 1536w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-2048x916.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>4 of the top 10 apps in all of Web3 are built on NEAR &amp; Aurora, per DappRadar&#8217;s 30-day ranking.</em></figcaption></figure>
 
 
 
@@ -622,7 +622,7 @@
 
 
 <p>Stay tuned for more updates and specifics in January 2024. Thank you to every member of the NEAR community for staying the course and believing in our shared Open Web vision. </p>
-<p>The post <a href="https://pages.near.org/blog/2023-near-in-review/">2023: NEAR In Review</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/2023-near-in-review/">2023: NEAR In Review</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -630,7 +630,7 @@
 			</item>
 		<item>
 		<title>Pyth Price Feeds Launch on NEAR Protocol Bringing Equity, Commodities, and Market Data On Chain </title>
-		<link>https://pages.near.org/blog/pyth-price-feeds-launch-on-near-protocol-bringing-equity-commodities-and-market-data-on-chain/</link>
+		<link>/blog/pyth-price-feeds-launch-on-near-protocol-bringing-equity-commodities-and-market-data-on-chain/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 30 Nov 2023 14:00:00 +0000</pubDate>
@@ -638,10 +638,10 @@
 		<category><![CDATA[Oracles]]></category>
 		<category><![CDATA[Pyth]]></category>
 		<category><![CDATA[Pyth Price Feeds]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21126</guid>
+		<guid isPermaLink="false">/?p=21126</guid>
 
 					<description><![CDATA[<p>Pyth, the largest first-party provider of real-time market data for crypto, equities, FX, and commodities to more than 40 blockchains, …</p>
-<p>The post <a href="https://pages.near.org/blog/pyth-price-feeds-launch-on-near-protocol-bringing-equity-commodities-and-market-data-on-chain/">Pyth Price Feeds Launch on NEAR Protocol Bringing Equity, Commodities, and Market Data On Chain </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/pyth-price-feeds-launch-on-near-protocol-bringing-equity-commodities-and-market-data-on-chain/">Pyth Price Feeds Launch on NEAR Protocol Bringing Equity, Commodities, and Market Data On Chain </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Pyth, the largest first-party provider of real-time market data for crypto, equities, FX, and commodities to more than 40 blockchains, has launched on NEAR protocol. Pyth, whose services are used by more than 80 market participants — including Jane Street, CBOE, Binance, OKX, and Bybit — brings high-fidelity, high frequency financial market data to the NEAR blockchain natively for the first time.</p>
@@ -681,7 +681,7 @@
 
 
 <p>In less than a year since Pyth’s launch, the network secured more than $2.0B in total value. Pyth has facilitated over $70 billion in trading volume and received over a million client downloads from passionate developers. Pyth supports 350+ low-latency price feeds across digital assets, equities, ETFs, forex pairs, and commodities.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/pyth-price-feeds-launch-on-near-protocol-bringing-equity-commodities-and-market-data-on-chain/">Pyth Price Feeds Launch on NEAR Protocol Bringing Equity, Commodities, and Market Data On Chain </a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/pyth-price-feeds-launch-on-near-protocol-bringing-equity-commodities-and-market-data-on-chain/">Pyth Price Feeds Launch on NEAR Protocol Bringing Equity, Commodities, and Market Data On Chain </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -689,16 +689,16 @@
 			</item>
 		<item>
 		<title>Meet the 2023 NEARCON IRL Hackathon Winners</title>
-		<link>https://pages.near.org/blog/meet-the-2023-nearcon-irl-hackathon-winners/</link>
+		<link>/blog/meet-the-2023-nearcon-irl-hackathon-winners/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 22 Nov 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NEARCON IRL Hackathon]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21104</guid>
+		<guid isPermaLink="false">/?p=21104</guid>
 
 					<description><![CDATA[<p>The wait is over! After a week of intense, dedicated work from the NEARCON hackathon judges, the winners of the …</p>
-<p>The post <a href="https://pages.near.org/blog/meet-the-2023-nearcon-irl-hackathon-winners/">Meet the 2023 NEARCON IRL Hackathon Winners</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/meet-the-2023-nearcon-irl-hackathon-winners/">Meet the 2023 NEARCON IRL Hackathon Winners</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The wait is over! After a week of intense, dedicated work from the NEARCON hackathon judges, the winners of the 2023 NEARCON IRL Hackathon have been chosen.&nbsp;</p>
@@ -894,7 +894,7 @@
 
 
 <p>Keep hacking and building on NEAR.</p>
-<p>The post <a href="https://pages.near.org/blog/meet-the-2023-nearcon-irl-hackathon-winners/">Meet the 2023 NEARCON IRL Hackathon Winners</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/meet-the-2023-nearcon-irl-hackathon-winners/">Meet the 2023 NEARCON IRL Hackathon Winners</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -902,15 +902,15 @@
 			</item>
 		<item>
 		<title>NEAR Tasks Launches AI Marketplace on NEAR to Revolutionize the Future of Work</title>
-		<link>https://pages.near.org/blog/near-tasks-launches-ai-marketplace-on-near-to-revolutionize-the-future-of-work/</link>
+		<link>/blog/near-tasks-launches-ai-marketplace-on-near-to-revolutionize-the-future-of-work/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 16 Nov 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21096</guid>
+		<guid isPermaLink="false">/?p=21096</guid>
 
 					<description><![CDATA[<p>The convergence of AI and Web3 captured the tech industry’s imagination in 2023 — but few ideas have actually become …</p>
-<p>The post <a href="https://pages.near.org/blog/near-tasks-launches-ai-marketplace-on-near-to-revolutionize-the-future-of-work/">NEAR Tasks Launches AI Marketplace on NEAR to Revolutionize the Future of Work</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-tasks-launches-ai-marketplace-on-near-to-revolutionize-the-future-of-work/">NEAR Tasks Launches AI Marketplace on NEAR to Revolutionize the Future of Work</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The convergence of AI and Web3 captured the tech industry’s imagination in 2023 — but few ideas have actually become a working reality. An exciting exception is NEAR Tasks, a global gigs marketplace poised to reshape AI training while leveraging the power of NEAR blockchain. Officially launched at NEARCON 2023 with its first product beta launching this week, NEAR Tasks is a self-service platform where anyone can easily list and complete AI requests, setting a new standard for quality data labeling.</p>
@@ -996,7 +996,7 @@
 
 <li>LinkedIn: <a href="https://www.linkedin.com/company/98907399">https://www.linkedin.com/company/98907399</a>&nbsp;</li>
 </ul>
-<p>The post <a href="https://pages.near.org/blog/near-tasks-launches-ai-marketplace-on-near-to-revolutionize-the-future-of-work/">NEAR Tasks Launches AI Marketplace on NEAR to Revolutionize the Future of Work</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-tasks-launches-ai-marketplace-on-near-to-revolutionize-the-future-of-work/">NEAR Tasks Launches AI Marketplace on NEAR to Revolutionize the Future of Work</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

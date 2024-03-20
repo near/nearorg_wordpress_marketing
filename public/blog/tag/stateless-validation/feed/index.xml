@@ -9,8 +9,8 @@
 
 <channel>
 	<title>stateless validation Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/stateless-validation/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/stateless-validation/</link>
+	<atom:link href="/blog/tag/stateless-validation/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/stateless-validation/</link>
 	<description></description>
 	<lastBuildDate>Tue, 30 Jan 2024 14:33:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>stateless validation Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/stateless-validation/</link>
+	<link>/blog/tag/stateless-validation/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Phase 2 of NEAR Sharding Launches</title>
-		<link>https://pages.near.org/blog/phase-2-of-near-sharding-launches/</link>
+		<link>/blog/phase-2-of-near-sharding-launches/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 30 Jan 2024 14:33:22 +0000</pubDate>
@@ -39,17 +39,17 @@
 		<category><![CDATA[Nightshade]]></category>
 		<category><![CDATA[Sharding]]></category>
 		<category><![CDATA[stateless validation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21200</guid>
+		<guid isPermaLink="false">/?p=21200</guid>
 
 					<description><![CDATA[<p>The NEAR Foundation announced today that the Protocol Work Group will launch testing for Phase 2 of Sharding this week, …</p>
-<p>The post <a href="https://pages.near.org/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The NEAR Foundation announced today that the Protocol Work Group will launch testing for Phase 2 of Sharding this week, marking a major milestone in the network’s development roadmap. Phase 2 introduces fundamental upgrades to NEAR’s core protocol architecture, enabling even greater scalability and decentralization for the network. The fourth edition of <a href="https://github.com/near/stakewars-iv">Stake Wars</a>, an incentivized community testing initiative, will kick off on February 1.&nbsp;&nbsp;</p>
 
 
 
-<p>NEAR&#8217;s vision of <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> to facilitate broad adoption of decentralized apps requires an extremely scalable blockchain layer. From the start, NEAR has been designed to scale with demand towards mainstream adoption. A primary benefit of the new sharding implementation will be an up-to-10x speed improvement to NEAR’s already-fast transaction throughput. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” Combined with NEAR already having the lowest transaction fees in Web3, this sharding upgrade positions NEAR at the forefront of Web3 in terms of both performance and scalability. Phase 2 greatly improves the network’s capacity for end user volume and is an important landmark on the road to global-scale usage of Web3. </p>
+<p>NEAR&#8217;s vision of <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3">chain abstraction</a> to facilitate broad adoption of decentralized apps requires an extremely scalable blockchain layer. From the start, NEAR has been designed to scale with demand towards mainstream adoption. A primary benefit of the new sharding implementation will be an up-to-10x speed improvement to NEAR’s already-fast transaction throughput. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” Combined with NEAR already having the lowest transaction fees in Web3, this sharding upgrade positions NEAR at the forefront of Web3 in terms of both performance and scalability. Phase 2 greatly improves the network’s capacity for end user volume and is an important landmark on the road to global-scale usage of Web3. </p>
 
 
 
@@ -90,7 +90,7 @@
 
 
 <p>With the launch of Phase 2, NEAR becomes one of the only networks in Web3 to implement stateless validation to improve scaling and paves the way for further network performance and scalability improvements in the future roadmap. A technical paper with more detail about NEAR’s new sharding design is forthcoming later in Q1. Phase 2 is expected to launch on NEAR Mainnet in May 2024.</p>
-<p>The post <a href="https://pages.near.org/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/phase-2-of-near-sharding-launches/">Phase 2 of NEAR Sharding Launches</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

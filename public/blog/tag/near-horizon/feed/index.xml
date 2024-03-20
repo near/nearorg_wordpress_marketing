@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NEAR Horizon Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/near-horizon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/near-horizon/</link>
+	<atom:link href="/blog/tag/near-horizon/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-horizon/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Jul 2023 15:11:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Horizon Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/near-horizon/</link>
+	<link>/blog/tag/near-horizon/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</title>
-		<link>https://pages.near.org/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/</link>
+		<link>/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 26 Jul 2023 16:00:00 +0000</pubDate>
 				<category><![CDATA[Case Studies]]></category>
 		<category><![CDATA[NEAR Horizon]]></category>
 		<category><![CDATA[Web3 Accelerator]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20758</guid>
+		<guid isPermaLink="false">/?p=20758</guid>
 
 					<description><![CDATA[<p>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR …</p>
-<p>The post <a href="https://pages.near.org/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/">Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/">Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR to effortlessly create and distribute innovative decentralized apps, while helping build a more open web — free from centralized platforms. In these Case Study videos, NEAR Foundation showcases some of these projects.&nbsp;</em></p>
@@ -57,7 +57,7 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="Case Study: NEAR Foundation&#039;s Laura Cunningham on the NEAR Horizon Startup Accelerator" width="500" height="281" src="https://www.youtube.com/embed/8R9rtRuk5Vw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
-<p>The post <a href="https://pages.near.org/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/">Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/">Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -65,7 +65,7 @@
 			</item>
 		<item>
 		<title>NEAR at Collision: Start Your BOS Journey and Expand into the Open Web</title>
-		<link>https://pages.near.org/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/</link>
+		<link>/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
@@ -73,10 +73,10 @@
 		<category><![CDATA[BOS]]></category>
 		<category><![CDATA[Collision]]></category>
 		<category><![CDATA[NEAR Horizon]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20672</guid>
+		<guid isPermaLink="false">/?p=20672</guid>
 
 					<description><![CDATA[<p>Collision is here. Today, June 26th through the 29th in Toronto, Ontario, NEAR experts will be on hand at Collision …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/">NEAR at Collision: Start Your BOS Journey and Expand into the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/">NEAR at Collision: Start Your BOS Journey and Expand into the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Collision is here. Today, June 26th through the 29th in Toronto, Ontario, NEAR experts will be on hand at Collision to showcase how brands and companies can make a move into the Open Web with NEAR’s Blockchain Operating System (BOS). The BOS redefines the Web2-to-Web3 experience. Now anyone can effortlessly create and distribute decentralized applications, using any blockchain — all in one browser.&nbsp;&nbsp;</p>
@@ -240,7 +240,7 @@
 
 
 <p>Stay tuned to <a href="https://near.org/Collision">Near.org/collision</a> for the latest event updates.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/">NEAR at Collision: Start Your BOS Journey and Expand into the Open Web</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/">NEAR at Collision: Start Your BOS Journey and Expand into the Open Web</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -248,20 +248,20 @@
 			</item>
 		<item>
 		<title>Encode x NEAR Horizon Bootcamp: Your Mission to Master Web3 Rust Contracts</title>
-		<link>https://pages.near.org/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/</link>
+		<link>/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 14 Jun 2023 14:00:00 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[Encode]]></category>
 		<category><![CDATA[NEAR Horizon]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20629</guid>
+		<guid isPermaLink="false">/?p=20629</guid>
 
 					<description><![CDATA[<p>Web3 builders, developers, and founders are gearing up to join the Encode x NEAR Horizon Bootcamp starting July 10th, 2023 …</p>
-<p>The post <a href="https://pages.near.org/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/">Encode x NEAR Horizon Bootcamp: Your Mission to Master Web3 Rust Contracts</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/">Encode x NEAR Horizon Bootcamp: Your Mission to Master Web3 Rust Contracts</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Web3 builders, developers, and founders are gearing up to join the<a href="https://www.encode.club/encode-near-horizon-bootcamp"> Encode x NEAR Horizon Bootcamp</a> starting July 10th, 2023 to upgrade their building, development, and coding skills. Following the <a href="https://pages.near.org/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/?_gl=1%2A11sk0z6%2A_up%2AMQ..%2A_ga%2AODI2MzI2NzAxLjE2ODY1NjEwMzM.%2A_ga_9GWCXQJ62J%2AMTY4NjU2MTAzMC4xLjEuMTY4NjU2MTEwMS4wLjAuMA..">recent partnership</a> between NEAR Horizon and Encode Club, the bootcamp is part of a broader initiative to accelerate blockchain expertise with a focus on developing Rust smart contracts.</p>
+<p>Web3 builders, developers, and founders are gearing up to join the<a href="https://www.encode.club/encode-near-horizon-bootcamp"> Encode x NEAR Horizon Bootcamp</a> starting July 10th, 2023 to upgrade their building, development, and coding skills. Following the <a href="/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/?_gl=1%2A11sk0z6%2A_up%2AMQ..%2A_ga%2AODI2MzI2NzAxLjE2ODY1NjEwMzM.%2A_ga_9GWCXQJ62J%2AMTY4NjU2MTAzMC4xLjEuMTY4NjU2MTEwMS4wLjAuMA..">recent partnership</a> between NEAR Horizon and Encode Club, the bootcamp is part of a broader initiative to accelerate blockchain expertise with a focus on developing Rust smart contracts.</p>
 
 
 
@@ -302,7 +302,7 @@
 
 
 <p>Your mission – should you choose to accept and sign the transaction – is to master Web3 at the NEAR x Encode Club Bootcamp. <a href="https://www.encode.club/encode-near-horizon-bootcamp">Apply now</a> and report for duty on July 10th!</p>
-<p>The post <a href="https://pages.near.org/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/">Encode x NEAR Horizon Bootcamp: Your Mission to Master Web3 Rust Contracts</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/encode-x-near-horizon-bootcamp-your-mission-to-master-web3-rust-contracts/">Encode x NEAR Horizon Bootcamp: Your Mission to Master Web3 Rust Contracts</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -310,7 +310,7 @@
 			</item>
 		<item>
 		<title>NEAR Horizon and Encode Club: Accelerating Blockchain Mastery for Builders</title>
-		<link>https://pages.near.org/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/</link>
+		<link>/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Tue, 09 May 2023 15:00:00 +0000</pubDate>
@@ -318,10 +318,10 @@
 		<category><![CDATA[Encode Club]]></category>
 		<category><![CDATA[NEAR Horizon]]></category>
 		<category><![CDATA[Web3 Accelerator]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20482</guid>
+		<guid isPermaLink="false">/?p=20482</guid>
 
 					<description><![CDATA[<p>NEAR Horizon and Encode Club have joined forces with a singular mission: to simplify the entry into the Web3 sphere. …</p>
-<p>The post <a href="https://pages.near.org/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/">NEAR Horizon and Encode Club: Accelerating Blockchain Mastery for Builders</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/">NEAR Horizon and Encode Club: Accelerating Blockchain Mastery for Builders</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Horizon and Encode Club have joined forces with a singular mission: to simplify the entry into the Web3 sphere. This partnership forms a structured pathway, offering builders and founders a seamless transition into the blockchain world. Anchoring their efforts on practical solutions, NEAR Horizon and Encode Club aim to foster an inclusive and accessible future in the ever-evolving decentralized landscape.</p>
@@ -384,8 +384,8 @@
 
 
 
-<p>To start,&nbsp; create a <a href="http://near.org/horizon">NEAR Horizon project profile</a> and register to the Encode x NEAR Horizon program <a href="https://www.encode.club/near2023">here</a>. Stay updated on Encode Club&#8217;s programs via their <a href="https://www.encode.club/">website</a>, <a href="https://twitter.com/encodeclub">Twitter</a>, and <a href="https://discord.gg/encodeclub">Discord</a>, and join a community that shares your passion for Web3 innovation and growth. NEAR Horizon was recently launched, read the press release <a href="https://pages.near.org/blog/near-foundation-launches-near-horizon/">here</a>, and register in the NEAR Horizon platform <a href="http://near.org/horizon">here</a>.</p>
-<p>The post <a href="https://pages.near.org/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/">NEAR Horizon and Encode Club: Accelerating Blockchain Mastery for Builders</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>To start,&nbsp; create a <a href="http://near.org/horizon">NEAR Horizon project profile</a> and register to the Encode x NEAR Horizon program <a href="https://www.encode.club/near2023">here</a>. Stay updated on Encode Club&#8217;s programs via their <a href="https://www.encode.club/">website</a>, <a href="https://twitter.com/encodeclub">Twitter</a>, and <a href="https://discord.gg/encodeclub">Discord</a>, and join a community that shares your passion for Web3 innovation and growth. NEAR Horizon was recently launched, read the press release <a href="/blog/near-foundation-launches-near-horizon/">here</a>, and register in the NEAR Horizon platform <a href="http://near.org/horizon">here</a>.</p>
+<p>The post <a href="/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/">NEAR Horizon and Encode Club: Accelerating Blockchain Mastery for Builders</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -393,7 +393,7 @@
 			</item>
 		<item>
 		<title>NEAR at Consensus Highlights</title>
-		<link>https://pages.near.org/blog/near-at-consensus-highlights/</link>
+		<link>/blog/near-at-consensus-highlights/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 27 Apr 2023 20:18:30 +0000</pubDate>
@@ -402,10 +402,10 @@
 		<category><![CDATA[Consensus]]></category>
 		<category><![CDATA[NEAR]]></category>
 		<category><![CDATA[NEAR Horizon]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20451</guid>
+		<guid isPermaLink="false">/?p=20451</guid>
 
 					<description><![CDATA[<p>NEAR has a monolithic mega-booth at Consensus 2023, where there have been a number of awesome NEAR announcements, talks, and …</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-consensus-highlights/">NEAR at Consensus Highlights</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-consensus-highlights/">NEAR at Consensus Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR has a monolithic mega-booth at Consensus 2023, where there have been a number of awesome NEAR announcements, talks, and events, including the big news out: the <a href="https://near.org/blog/near-announces-the-blockchain-operating-system/">Blockchain Operating System</a> is now live on Near.org and the NEAR Horizon accelerator is open for business. If you haven&#8217;t stopped by yet to meet our NEAR experts or are unable to attend, we’ve got you covered with all of the highlights. </p>
@@ -420,7 +420,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/bos-blog-1024x512.png" alt="" class="wp-image-20432" srcset="https://pages.near.org/wp-content/uploads/2023/04/bos-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/bos-blog-1024x512.png" alt="" class="wp-image-20432" srcset="/wp-content/uploads/2023/04/bos-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/bos-blog-300x150.png 300w, /wp-content/uploads/2023/04/bos-blog-768x384.png 768w, /wp-content/uploads/2023/04/bos-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -440,7 +440,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-1024x512.png" alt="" class="wp-image-20430" srcset="https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/horizon-blog-1024x512.png" alt="" class="wp-image-20430" srcset="/wp-content/uploads/2023/04/horizon-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/horizon-blog-300x150.png 300w, /wp-content/uploads/2023/04/horizon-blog-768x384.png 768w, /wp-content/uploads/2023/04/horizon-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -464,7 +464,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-1024x512.png" alt="" class="wp-image-20455" srcset="https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/ww3-blog-1024x512.png" alt="" class="wp-image-20455" srcset="/wp-content/uploads/2023/04/ww3-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/ww3-blog-300x150.png 300w, /wp-content/uploads/2023/04/ww3-blog-768x384.png 768w, /wp-content/uploads/2023/04/ww3-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -536,7 +536,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-1024x512.png" alt="" class="wp-image-20454" srcset="https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/gcloud-blog-1024x512.png" alt="" class="wp-image-20454" srcset="/wp-content/uploads/2023/04/gcloud-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/gcloud-blog-300x150.png 300w, /wp-content/uploads/2023/04/gcloud-blog-768x384.png 768w, /wp-content/uploads/2023/04/gcloud-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -598,7 +598,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png" alt="" class="wp-image-20462" srcset="https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-300x158.png 300w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-768x403.png 768w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png" alt="" class="wp-image-20462" srcset="/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png 1024w, /wp-content/uploads/2023/04/around-ecosystem-social-300x158.png 300w, /wp-content/uploads/2023/04/around-ecosystem-social-768x403.png 768w, /wp-content/uploads/2023/04/around-ecosystem-social.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -659,7 +659,7 @@
 
 
 <p>Wombi is now publicly available to all dApps fully live or building on the NEAR Blockchain Operating System or Protocol. All developers get free product and marketing analytics, making NEAR the first Layer 1 with a live attribution product.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/near-at-consensus-highlights/">NEAR at Consensus Highlights</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-at-consensus-highlights/">NEAR at Consensus Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

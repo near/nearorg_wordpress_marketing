@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Gig Economy Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/gig-economy/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/gig-economy/</link>
+	<atom:link href="/blog/tag/gig-economy/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/gig-economy/</link>
 	<description></description>
 	<lastBuildDate>Wed, 02 Aug 2023 17:17:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Gig Economy Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/gig-economy/</link>
+	<link>/blog/tag/gig-economy/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Case Study: Satori&#8217;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy</title>
-		<link>https://pages.near.org/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/</link>
+		<link>/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 31 Jul 2023 14:30:00 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Gig Economy]]></category>
 		<category><![CDATA[NEAR Tasks]]></category>
 		<category><![CDATA[Satori]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20761</guid>
+		<guid isPermaLink="false">/?p=20761</guid>
 
 					<description><![CDATA[<p>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR …</p>
-<p>The post <a href="https://pages.near.org/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/">Case Study: Satori&#8217;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/">Case Study: Satori&#8217;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>NEAR is a home to a number of amazing apps and projects. These developers, founders, and entrepreneurs are using NEAR to effortlessly create and distribute innovative decentralized apps, while helping build a more open web — free from centralized platforms. In these Case Study videos, NEAR Foundation showcases some of these projects.&nbsp;</em></p>
@@ -62,7 +62,7 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="Case Study: Satori&#039;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy" width="500" height="281" src="https://www.youtube.com/embed/eAzuG-iQw2o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
-<p>The post <a href="https://pages.near.org/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/">Case Study: Satori&#8217;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/">Case Study: Satori&#8217;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NDC Funding Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/ndc-funding/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/ndc-funding/</link>
+	<atom:link href="/blog/tag/ndc-funding/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/ndc-funding/</link>
 	<description></description>
 	<lastBuildDate>Fri, 18 Aug 2023 15:20:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NDC Funding Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/ndc-funding/</link>
+	<link>/blog/tag/ndc-funding/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>An Update on the NDC Funding and Support for Grassroots Projects</title>
-		<link>https://pages.near.org/blog/an-update-on-the-ndc-funding-and-support-for-grassroots-projects/</link>
+		<link>/blog/an-update-on-the-ndc-funding-and-support-for-grassroots-projects/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 18 Aug 2023 15:04:37 +0000</pubDate>
 				<category><![CDATA[Community]]></category>
 		<category><![CDATA[NDC Funding]]></category>
 		<category><![CDATA[NEAR Digital Collective]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20807</guid>
+		<guid isPermaLink="false">/?p=20807</guid>
 
 					<description><![CDATA[<p>Executive Summary One of the central tenets of Web3 is decentralisation. Decentralisation is central to creating an open web because …</p>
-<p>The post <a href="https://pages.near.org/blog/an-update-on-the-ndc-funding-and-support-for-grassroots-projects/">An Update on the NDC Funding and Support for Grassroots Projects</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/an-update-on-the-ndc-funding-and-support-for-grassroots-projects/">An Update on the NDC Funding and Support for Grassroots Projects</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Executive Summary</strong></p>
@@ -104,7 +104,7 @@
 
 
 
-<p>The NDC nominations for all 3 houses in V1 Governance are <a href="https://near.social/nomination.ndctools.near/widget/NDC.Nomination.Page">currently live</a> until September 7th, with elections then kicking off on September 8th and running until September 22nd. We would encourage anyone who is interested in getting involved in this critical ecosystem milestone, and playing a role in steering the ecosystem forwards, to <a href="https://pages.near.org/blog/ndc-v1-governance-elections-faq/">nominate themselves</a>.</p>
+<p>The NDC nominations for all 3 houses in V1 Governance are <a href="https://near.social/nomination.ndctools.near/widget/NDC.Nomination.Page">currently live</a> until September 7th, with elections then kicking off on September 8th and running until September 22nd. We would encourage anyone who is interested in getting involved in this critical ecosystem milestone, and playing a role in steering the ecosystem forwards, to <a href="/blog/ndc-v1-governance-elections-faq/">nominate themselves</a>.</p>
 
 
 
@@ -133,7 +133,7 @@
 
 
 <p>Grassroots projects and the community are the lifeblood of the NEAR ecosystem and the Foundation is committed to ensuring projects have the resources they need as we continue to create a thriving, decentralised ecosystem together.</p>
-<p>The post <a href="https://pages.near.org/blog/an-update-on-the-ndc-funding-and-support-for-grassroots-projects/">An Update on the NDC Funding and Support for Grassroots Projects</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/an-update-on-the-ndc-funding-and-support-for-grassroots-projects/">An Update on the NDC Funding and Support for Grassroots Projects</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

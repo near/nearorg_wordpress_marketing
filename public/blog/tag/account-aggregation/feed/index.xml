@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Account Aggregation Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/account-aggregation/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/account-aggregation/</link>
+	<atom:link href="/blog/tag/account-aggregation/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/account-aggregation/</link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Feb 2024 16:58:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,27 +21,27 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Account Aggregation Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/account-aggregation/</link>
+	<link>/blog/tag/account-aggregation/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Unlocking Web3 Usability with Account Aggregation</title>
-		<link>https://pages.near.org/blog/unlocking-web3-usability-with-account-aggregation/</link>
+		<link>/blog/unlocking-web3-usability-with-account-aggregation/</link>
 		
 		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
 		<pubDate>Thu, 15 Feb 2024 14:21:00 +0000</pubDate>
 				<category><![CDATA[Developers]]></category>
 		<category><![CDATA[Account Aggregation]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21229</guid>
+		<guid isPermaLink="false">/?p=21229</guid>
 
 					<description><![CDATA[<p>Since the start, the focus for the NEAR ecosystem has been on advancing Chain Abstraction, or hiding the elements of …</p>
-<p>The post <a href="https://pages.near.org/blog/unlocking-web3-usability-with-account-aggregation/">Unlocking Web3 Usability with Account Aggregation</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/unlocking-web3-usability-with-account-aggregation/">Unlocking Web3 Usability with Account Aggregation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Since the start, the focus for the NEAR ecosystem has been on advancing <a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Chain Abstraction</a>, or hiding the elements of the blockchain (“abstracting away”) from users so they are not barriers to entry or participation in the decentralized Web. In Web3, the data and assets belong to the user, tied to their on-chain, noncustodial account. Currently every user has separate (usually many) accounts on each blockchain and also needs separate wallet software to manage those accounts. This requires users to manage the security for each account and wallet individually, deal with complex recovery processes if they make a mistake, and go through a thorny series of manual steps to move any assets into their wallets or across different wallets and chains.&nbsp;</p>
+<p>Since the start, the focus for the NEAR ecosystem has been on advancing <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Chain Abstraction</a>, or hiding the elements of the blockchain (“abstracting away”) from users so they are not barriers to entry or participation in the decentralized Web. In Web3, the data and assets belong to the user, tied to their on-chain, noncustodial account. Currently every user has separate (usually many) accounts on each blockchain and also needs separate wallet software to manage those accounts. This requires users to manage the security for each account and wallet individually, deal with complex recovery processes if they make a mistake, and go through a thorny series of manual steps to move any assets into their wallets or across different wallets and chains.&nbsp;</p>
 
 
 
@@ -99,7 +99,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="634" src="https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png" alt="" class="wp-image-21236" style="width:1102px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png 1024w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-300x186.png 300w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-768x475.png 768w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1536x951.png 1536w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-2048x1267.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="634" src="/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png" alt="" class="wp-image-21236" style="width:1102px;height:auto" srcset="/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png 1024w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-300x186.png 300w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-768x475.png 768w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1536x951.png 1536w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-2048x1267.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -298,7 +298,7 @@
 
 
 <p><em>–Illia Polosukhin, David Millar-Durrant, Gautham Ravi, Dio Ortega, Mally Anderson</em></p>
-<p>The post <a href="https://pages.near.org/blog/unlocking-web3-usability-with-account-aggregation/">Unlocking Web3 Usability with Account Aggregation</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/unlocking-web3-usability-with-account-aggregation/">Unlocking Web3 Usability with Account Aggregation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

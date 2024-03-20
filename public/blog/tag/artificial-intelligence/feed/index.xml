@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Artificial Intelligence Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/artificial-intelligence/</link>
+	<atom:link href="/blog/tag/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/artificial-intelligence/</link>
 	<description></description>
 	<lastBuildDate>Thu, 26 Oct 2023 17:18:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Artificial Intelligence Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/artificial-intelligence/</link>
+	<link>/blog/tag/artificial-intelligence/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>AI is NEAR: Illia Polosukhin on AI and the Open Web at NEARCON &#8217;23</title>
-		<link>https://pages.near.org/blog/ai-is-near-illia-polosukhin-on-ai-and-the-open-web-at-nearcon-23/</link>
+		<link>/blog/ai-is-near-illia-polosukhin-on-ai-and-the-open-web-at-nearcon-23/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 17:30:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Illia Polosukhin]]></category>
 		<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21004</guid>
+		<guid isPermaLink="false">/?p=21004</guid>
 
 					<description><![CDATA[<p>Artificial Intelligence and Web3 have been two of the hottest topics of 2023. There has been significant interest in how …</p>
-<p>The post <a href="https://pages.near.org/blog/ai-is-near-illia-polosukhin-on-ai-and-the-open-web-at-nearcon-23/">AI is NEAR: Illia Polosukhin on AI and the Open Web at NEARCON &#8217;23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/ai-is-near-illia-polosukhin-on-ai-and-the-open-web-at-nearcon-23/">AI is NEAR: Illia Polosukhin on AI and the Open Web at NEARCON &#8217;23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Artificial Intelligence and Web3 have been two of the hottest topics of 2023. There has been significant interest in how the two technology ecosystems may converge in the coming years, with lots of interest from investors.</p>
@@ -100,8 +100,8 @@
 
 
 
-<p>If you&#8217;re a student in <a href="https://pages.near.org/blog/entradas-gratuitas-a-nearcon-23-para-estudiantes-en-espana/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">Spain</a> or <a href="https://pages.near.org/blog/estudantes-terao-ingressos-gratis-no-nearcon23/?_gl=1%2A1clz06g%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">Portugal</a>, or a <a href="https://pages.near.org/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">Ukrainian citizen</a> living in Portugal, you&#8217;re eligible for free tickets. Hackers also get in for free by applying to the <a href="https://pages.near.org/blog/nearcon-irl-hackathon-2023-build-the-open-web/?_gl=1%2A1fu2kk1%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">NEARCON IRL Hackathon</a>.&nbsp;</p>
-<p>The post <a href="https://pages.near.org/blog/ai-is-near-illia-polosukhin-on-ai-and-the-open-web-at-nearcon-23/">AI is NEAR: Illia Polosukhin on AI and the Open Web at NEARCON &#8217;23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>If you&#8217;re a student in <a href="/blog/entradas-gratuitas-a-nearcon-23-para-estudiantes-en-espana/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">Spain</a> or <a href="/blog/estudantes-terao-ingressos-gratis-no-nearcon23/?_gl=1%2A1clz06g%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">Portugal</a>, or a <a href="/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">Ukrainian citizen</a> living in Portugal, you&#8217;re eligible for free tickets. Hackers also get in for free by applying to the <a href="/blog/nearcon-irl-hackathon-2023-build-the-open-web/?_gl=1%2A1fu2kk1%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">NEARCON IRL Hackathon</a>.&nbsp;</p>
+<p>The post <a href="/blog/ai-is-near-illia-polosukhin-on-ai-and-the-open-web-at-nearcon-23/">AI is NEAR: Illia Polosukhin on AI and the Open Web at NEARCON &#8217;23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -109,7 +109,7 @@
 			</item>
 		<item>
 		<title>AI is NEAR: The Future of AI on the Open Web at NEARCON ‘23</title>
-		<link>https://pages.near.org/blog/ai-is-near-the-future-of-ai-on-the-open-web-at-nearcon-23/</link>
+		<link>/blog/ai-is-near-the-future-of-ai-on-the-open-web-at-nearcon-23/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Wed, 25 Oct 2023 12:50:31 +0000</pubDate>
@@ -118,10 +118,10 @@
 		<category><![CDATA[Alex Skidanov]]></category>
 		<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Illia Polosukhin]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20997</guid>
+		<guid isPermaLink="false">/?p=20997</guid>
 
 					<description><![CDATA[<p>If you&#8217;re as excited as we are about the future of AI and blockchain, then get ready because NEARCON &#8217;23 …</p>
-<p>The post <a href="https://pages.near.org/blog/ai-is-near-the-future-of-ai-on-the-open-web-at-nearcon-23/">AI is NEAR: The Future of AI on the Open Web at NEARCON ‘23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/ai-is-near-the-future-of-ai-on-the-open-web-at-nearcon-23/">AI is NEAR: The Future of AI on the Open Web at NEARCON ‘23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>If you&#8217;re as excited as we are about the future of AI and blockchain, then get ready because NEARCON &#8217;23 is just around the corner. If you haven&#8217;t registered yet, consider this your invitation to do so now on the official <a href="https://nearcon.app/nearpad.testnet/widget/Index?tab=register">NEARCON ’23 site</a>.</p>
@@ -192,8 +192,8 @@
 
 
 
-<p>And let&#8217;s not forget, if you&#8217;re a student in <a href="https://pages.near.org/blog/entradas-gratuitas-a-nearcon-23-para-estudiantes-en-espana/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">Spain</a> or <a href="https://pages.near.org/blog/estudantes-terao-ingressos-gratis-no-nearcon23/?_gl=1%2A1clz06g%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">Portugal</a>, or a <a href="https://pages.near.org/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">Ukrainian citizen</a> living in Portugal, you&#8217;re eligible for free tickets. Hackers can also get in for free by participating in our <a href="https://pages.near.org/blog/nearcon-irl-hackathon-2023-build-the-open-web/?_gl=1%2A1fu2kk1%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">hackathon event</a>. <br>NEAR is already delivering on its promise of a blockchain that is simple, scalable, and secure. Now&#8217;s your chance to be part of bringing AI into the open web. <a href="https://nearcon.app/nearpad.testnet/widget/Index?tab=register">Register for NEARCON &#8217;23</a> today and witness firsthand how NEAR is shaping the future of AI and decentralization.</p>
-<p>The post <a href="https://pages.near.org/blog/ai-is-near-the-future-of-ai-on-the-open-web-at-nearcon-23/">AI is NEAR: The Future of AI on the Open Web at NEARCON ‘23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>And let&#8217;s not forget, if you&#8217;re a student in <a href="/blog/entradas-gratuitas-a-nearcon-23-para-estudiantes-en-espana/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">Spain</a> or <a href="/blog/estudantes-terao-ingressos-gratis-no-nearcon23/?_gl=1%2A1clz06g%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">Portugal</a>, or a <a href="/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/?_gl=1%2A1deejbu%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">Ukrainian citizen</a> living in Portugal, you&#8217;re eligible for free tickets. Hackers can also get in for free by participating in our <a href="/blog/nearcon-irl-hackathon-2023-build-the-open-web/?_gl=1%2A1fu2kk1%2A_up%2AMQ..%2A_ga%2AMTY4MTY0NTc0NS4xNjk4MTUxODc4%2A_ga_9GWCXQJ62J%2AMTY5ODE1MTg3NC4xLjEuMTY5ODE1MjI2NC4wLjAuMA..">hackathon event</a>. <br>NEAR is already delivering on its promise of a blockchain that is simple, scalable, and secure. Now&#8217;s your chance to be part of bringing AI into the open web. <a href="https://nearcon.app/nearpad.testnet/widget/Index?tab=register">Register for NEARCON &#8217;23</a> today and witness firsthand how NEAR is shaping the future of AI and decentralization.</p>
+<p>The post <a href="/blog/ai-is-near-the-future-of-ai-on-the-open-web-at-nearcon-23/">AI is NEAR: The Future of AI on the Open Web at NEARCON ‘23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

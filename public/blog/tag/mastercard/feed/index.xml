@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mastercard Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/mastercard/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/mastercard/</link>
+	<atom:link href="/blog/tag/mastercard/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/mastercard/</link>
 	<description></description>
 	<lastBuildDate>Thu, 06 Apr 2023 20:19:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Mastercard Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/mastercard/</link>
+	<link>/blog/tag/mastercard/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NEAR Balkans’ Tekuno and Mastercard Team Up for Gamified NFT Experience</title>
-		<link>https://pages.near.org/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/</link>
+		<link>/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Fri, 07 Apr 2023 12:00:00 +0000</pubDate>
@@ -39,10 +39,10 @@
 		<category><![CDATA[Mastercard]]></category>
 		<category><![CDATA[NEAR Balkans]]></category>
 		<category><![CDATA[Tekuno]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=20387</guid>
+		<guid isPermaLink="false">/?p=20387</guid>
 
 					<description><![CDATA[<p>NEAR Foundation is thrilled to announce that Tekuno, one of the most innovative NEAR Balkans Hub projects, recently teamed up …</p>
-<p>The post <a href="https://pages.near.org/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/">NEAR Balkans’ Tekuno and Mastercard Team Up for Gamified NFT Experience</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/">NEAR Balkans’ Tekuno and Mastercard Team Up for Gamified NFT Experience</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>NEAR Foundation is thrilled to announce that <a href="https://medium.com/@tekuno/introducing-tekuno-your-experience-your-proof-your-value-9bbf03ae1b81">Tekuno</a>, one of the most innovative <a href="https://nearbalkans.org/">NEAR Balkans Hub</a> projects, recently teamed up with <a href="https://www.mastercard.com/global/en.html">Mastercard</a> to serve up an incredibly unique real-life NFT experience. Attendees at the recent <a href="https://medium.com/@tekuno/experience-the-motion-19b5e4e904ce">Money Motion</a> (MoMo) Fintech conference in Zagreb, Croatia got a taste of how Web3 and NEAR can help brands reach new audiences with blockchain gamification.</p>
@@ -146,7 +146,7 @@
 
 
 <p>“So, we are trying to set the standard… to show how we can create a Web3 product that any average user can actually use,” Meouche-Grawi added. “Because from my experience when it comes to Web3 products they are usually developed by developers for developers, this is the trend and we are trying to break it.’’</p>
-<p>The post <a href="https://pages.near.org/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/">NEAR Balkans’ Tekuno and Mastercard Team Up for Gamified NFT Experience</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/">NEAR Balkans’ Tekuno and Mastercard Team Up for Gamified NFT Experience</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

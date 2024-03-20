@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NCON Archives &#8211; NEAR Protocol</title>
-	<atom:link href="https://pages.near.org/blog/tag/ncon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pages.near.org/blog/tag/ncon/</link>
+	<atom:link href="/blog/tag/ncon/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/ncon/</link>
 	<description></description>
 	<lastBuildDate>Wed, 08 Nov 2023 07:00:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NCON Archives &#8211; NEAR Protocol</title>
-	<link>https://pages.near.org/blog/tag/ncon/</link>
+	<link>/blog/tag/ncon/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Introducing NCON and How to Use It at NEARCON ‘23</title>
-		<link>https://pages.near.org/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/</link>
+		<link>/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/</link>
 		
 		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
 		<pubDate>Mon, 06 Nov 2023 22:16:19 +0000</pubDate>
 				<category><![CDATA[NEAR Foundation]]></category>
 		<category><![CDATA[NCON]]></category>
 		<category><![CDATA[NEARCON ‘23]]></category>
-		<guid isPermaLink="false">https://pages.near.org/?p=21042</guid>
+		<guid isPermaLink="false">/?p=21042</guid>
 
 					<description><![CDATA[<p>Hello NEARians, By now many of you are in or are en route to the magical city of Lisbon for …</p>
-<p>The post <a href="https://pages.near.org/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/">Introducing NCON and How to Use It at NEARCON ‘23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/">Introducing NCON and How to Use It at NEARCON ‘23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Hello NEARians,</p>
@@ -91,7 +91,7 @@
 
 
 <p></p>
-<p>The post <a href="https://pages.near.org/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/">Introducing NCON and How to Use It at NEARCON ‘23</a> appeared first on <a href="https://pages.near.org/">NEAR Protocol</a>.</p>
+<p>The post <a href="/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/">Introducing NCON and How to Use It at NEARCON ‘23</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
