@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2024-03-18T13:37:19+00:00</lastmod>
+		<lastmod>2024-04-09T00:36:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/near-community-update-february-22-2019/</loc>
@@ -4533,6 +4533,64 @@
 		<lastmod>2024-03-18T13:37:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/korea-buidl-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/nvidia-gtc-2024/</loc>
+		<lastmod>2024-03-25T21:31:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/illia-at-nvidiagtc-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/chain-signatures-launch-to-enable-transactions-on-any-blockchain-from-a-near-account/</loc>
+		<lastmod>2024-03-27T02:10:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/chain-sign-blog.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/image.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/image-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/linear-protocol-introduces-omnichain-liquid-restaking/</loc>
+		<lastmod>2024-03-28T02:02:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/linear-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/summer-of-shipping/</loc>
+		<lastmod>2024-04-03T01:46:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/blogpost_1400x700_no-cta.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/korea-buidl-week-recap-one-account-to-rule-them-all/</loc>
+		<lastmod>2024-04-03T05:57:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/ICYMI-korea-buidl-blog.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/image.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/near-ecosystem-kicks-up-a-sandstorm-at-token2049-dubai/</loc>
+		<lastmod>2024-04-05T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/near@token2049dubai-blog.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/near-launches-infrastructure-committee/</loc>
+		<lastmod>2024-04-09T00:36:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/near-infra-committee-blog-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

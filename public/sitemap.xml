@@ -2,7 +2,7 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>/post-sitemap.xml</loc>
-		<lastmod>2024-03-18T13:37:19+00:00</lastmod>
+		<lastmod>2024-04-09T00:36:26+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/page-sitemap.xml</loc>
@@ -34,11 +34,11 @@
 	</sitemap>
 	<sitemap>
 		<loc>/category-sitemap.xml</loc>
-		<lastmod>2024-03-18T13:37:19+00:00</lastmod>
+		<lastmod>2024-04-09T00:36:26+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/post_tag-sitemap.xml</loc>
-		<lastmod>2024-02-22T18:19:31+00:00</lastmod>
+		<lastmod>2024-03-26T20:39:34+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/near_press_release_categories-sitemap.xml</loc>

@@ -12,7 +12,7 @@
 	<atom:link href="/blog/category/developers/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/developers/</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Mar 2024 17:03:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Mar 2024 20:39:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,238 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chain Signatures Launch to Enable Transactions on Any Blockchain from a NEAR Account</title>
+		<link>/blog/chain-signatures-launch-to-enable-transactions-on-any-blockchain-from-a-near-account/</link>
+		
+		<dc:creator><![CDATA[Mally Anderson]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 02:10:00 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Chain Signatures]]></category>
+		<guid isPermaLink="false">/?p=21295</guid>
+
+					<description><![CDATA[<p>Today at BUIDL Asia in Seoul, Korea, NEAR Co-Founder and NEAR Foundation CEO Illia Polosukhin announced the launch of Chain …</p>
+<p>The post <a href="/blog/chain-signatures-launch-to-enable-transactions-on-any-blockchain-from-a-near-account/">Chain Signatures Launch to Enable Transactions on Any Blockchain from a NEAR Account</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Today at BUIDL Asia in Seoul, Korea, NEAR Co-Founder and NEAR Foundation CEO Illia Polosukhin announced the launch of Chain Signatures on NEAR. Chain Signatures enable NEAR accounts, including smart contracts, to sign transactions for any blockchain. This is powered by a decentralized MPC network which uses NEAR staking and Eigenlayer ETH restakers for security. Chain Signatures currently supports Bitcoin, Ethereum, Cosmos chains, DogeCoin, and XRP Ledger and will soon support Solana, TON Network, Polkadot, and others. </p>
+
+
+
+<p><strong>How Chain Signatures Work</strong></p>
+
+
+
+<p>Chain signatures introduce threshold signatures for any blockchain, controlled by NEAR accounts &amp; smart contracts. A NEAR account, which can also be a smart contract thanks to the NEAR account model, can request that the NEAR validators or MPC nodes sign an arbitrary payload, which could be a transaction for some other blockchain, and get a signed payload back to then send to the destination chain. </p>
+
+
+
+<p>This is made possible by building an account-based decentralized Multi-Party Computation (MPC) network, allowing NEAR accounts to control multiple addresses on various chains and ensuring that the users are the only ones who can request signatures for transactions. Chain Signatures uses an account-based pattern, as opposed to a deposit-based or bridge-based pattern, as most other MPC networks currently in production do. The Chain Signatures MPC network functions as a decentralized signer for NEAR accounts and smart contracts, managing requests to addresses on different blockchains while placing zero burden on the user to manage these.</p>
+
+
+
+<figure class="wp-block-image is-resized"><img fetchpriority="high" decoding="async" width="1600" height="928" src="/wp-content/uploads/2024/03/image.png" alt="" class="wp-image-21297" style="width:707px;height:auto" srcset="/wp-content/uploads/2024/03/image.png 1600w, /wp-content/uploads/2024/03/image-300x174.png 300w, /wp-content/uploads/2024/03/image-1024x594.png 1024w, /wp-content/uploads/2024/03/image-768x445.png 768w, /wp-content/uploads/2024/03/image-1536x891.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+
+
+
+<p>The first of its kind, Chain Signatures is a major advancement in DeFi adoption by enhancing cross chain interoperability and unlocking a new variety of use cases for mainstream users and Web3 builders. Chain signatures makes it easier to build DeFi products for particular chains and assets (while utilizing assets from other chains e.g. USDC/T, SOL, etc). For example, users can use XRP as collateral to borrow USDC, or trade DOGE for SOL. The launch of Chain Signatures delivers an elevated user experience that simplifies the transaction process while increasing accessibility to liquidity on non-smart contract chains such as Bitcoin, DogeCoin, XRP Ledger, and more. This also means that Chain Signatures let app developers serve all ecosystems at once from one interface rather than having to commit to a single chain or pool of liquidity.</p>
+
+
+
+<p>The Chain Signatures MPC network is launching with Eigenlayer as a key partner and will be secured by Eigenlayer ETH restakers and NEAR stakers. The initial operator set is a trust-minimized network of ten node providers, which includes some top Eigen AVS infrastructure providers, using a Proof of Authority security model at launch. The future state is a permissionless network of node operators based on staking requirements and slashing conditions, planned to roll out in the coming months.  </p>
+
+
+
+<p><strong>Multichain Gas Relayer</strong></p>
+
+
+
+<p>Launching alongside Chain Signatures is the Multichain Gas Relayer, which removes the need to have the native gas token of another chain in order to transact. This is a big hurdle for users today, often requiring purchasing multiple tokens on exchanges and sending them to different accounts just to complete a single cross-chain action. Now, with the Multichain Gas Relayer, users can just use NEAR or NEP-141 tokens to cover gas on any chain, not just NEAR or EVM chains. </p>
+
+
+
+<p>This unlocks true multichain account abstraction. Whereas cross-chain bridges vary significantly depending on which assets are bridging to which chains, chain signatures makes transacting on smart contract and non-smart contract chains possible from a single account or interface, while simultaneously unlocking liquidity that wouldn’t have been accessible before. </p>
+
+
+
+<figure class="wp-block-image is-resized"><img decoding="async" width="1318" height="846" src="/wp-content/uploads/2024/03/image-1.png" alt="" class="wp-image-21298" style="width:623px;height:auto" srcset="/wp-content/uploads/2024/03/image-1.png 1318w, /wp-content/uploads/2024/03/image-1-300x193.png 300w, /wp-content/uploads/2024/03/image-1-1024x657.png 1024w, /wp-content/uploads/2024/03/image-1-768x493.png 768w" sizes="(max-width: 1318px) 100vw, 1318px" /></figure>
+
+
+
+<p>For a longer technical deep dive on Chain Signatures and the Multichain Gas Relayer, see this <a href="/blog/unlocking-web3-usability-with-account-aggregation/">post from February 2024</a> about NEAR account aggregation technologies.&nbsp;</p>
+
+
+
+<p><strong>New Web3 Design Patterns with Chain Signatures</strong></p>
+
+
+
+<p>Chain Signatures unlocks a range of powerful new use cases for application builders and DeFi developers while also enabling much simpler user interfaces across different contexts. Smart contracts on NEAR will be able to custody assets on any chain (since they can sign transactions on any chain via chain signatures), and maintain user balances similar to how single chain lending protocols or DEXs do now. For example, a user will be able to atomically swap their BTC in a Bitcoin account for another user’s ETH in an Ethereum account. This works because they can first deposit into accounts on these respective chains that are fully controlled by a NEAR smart contract, which will then settle the trade and allow the user’s to withdraw their “new” assets post-trade.</p>
+
+
+
+<ul>
+<li><strong>DeFi on non-smart contract chains: </strong>NEAR smart contracts can sign transactions for non-smart contract chains like Bitcoin, Celestia, Bittensor, XRP Ledger, and others. This enables DEXs, lending protocols, and other DeFi apps to be built using the native assets of these chains, unlocking previously inaccessible liquidity.&nbsp;</li>
+</ul>
+
+
+
+<ul>
+<li><strong>Bridgeless cross-chain DeFi: </strong>Since NEAR smart contracts can custody assets on any chain, users can build truly cross chain applications such as RFQs, orderbooks, AMMs, lending protocols, and more. It is also possible to build swaps and other apps without bridges and message passing layers, meaning that new chains and assets can be added at launch. Additionally, chain signatures can be used to build two-way bridges to non-smart contract chains, using NEAR as the intermediate chain.<br></li>
+
+
+
+<li><strong>Multichain Account Abstraction: </strong>A single NEAR account can manage any number of accounts on any number of chains. This means users can get ERC 4337-like functionality (natively supported by NEAR) without deploying any new smart contracts (so they can use non-EVM and non-smart contract chains), or needing to update their accounts on each individual chain. Chain Signatures also enables users to pay for gas costs on various chains with USDC, including non-EVM chains.<br></li>
+
+
+
+<li><strong>Instantly multichain apps at launch:</strong> Thanks to Chain Signatures and the Multichain Gas Relayer, app developers don’t need to commit to a single chain when they start building––now, they can make many chains accessible to their users immediately after launching and dramatically increase their addressable market of users.&nbsp;</li>
+</ul>
+
+
+
+<p><strong>Advancing the Chain Abstraction Vision</strong></p>
+
+
+
+<p>Chain Signatures advances the NEAR ecosystem’s <a href="https://near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3">vision of Chain Abstraction</a>, or the idea that Web3 hurdles should be abstracted away from user interfaces for the sake of simplicity and accessibility. Many of these hurdles arise with multichain use cases as users need to deal with long lists of accounts on different chains, manually move assets between them, and manage all the related security. Now, with Chain Signatures, users can simply create and secure one account and then start transacting on any network in Web3. Chain Signatures also help dapp developers deliver better multichain experiences to their users and get access to all available liquidity across blockchains.</p>
+
+
+
+<p>As Illia noted, &#8220;Since day one, the NEAR ecosystem has focused on simplifying access to Web3 for developers and mainstream users. Chain Signatures is the next step in that journey, making it significantly easier to transact on any blockchain while also defragmenting liquidity across the ecosystem. This will enable the next generation of truly decentralized apps to deliver much more powerful experiences and address the entire market of Web3 users.&#8221;   </p>
+
+
+
+<p><strong>Live Use Cases In the Ecosystem</strong></p>
+
+
+
+<p>Several projects in the NEAR ecosystem are already building with Chain Signatures to introduce new design patterns and experiences to users. More information on the node provider ecosystem as well as news about additional projects building with Chain Signatures across Web3 is coming in the next few weeks.</p>
+
+
+
+<ul>
+<li>SWEAT Economy, a <a href="https://dappradar.com/rankings">top ten</a> most used decentralized app (dApp), utilizes Multichain Gas Relayer to let users send transactions from NEAR to BNB chain and pay for the gas in SWEAT tokens earned in-app.</li>
+
+
+
+<li>East Blue, a Bitcoin Layer 2, <a href="https://youtu.be/YpcCRglr6vc">uses NEAR Chain Signatures</a> to develop Bitcoin DeFi use cases that were not possible until now, providing a new way to extend Bitcoin with smart contract logic.&nbsp;</li>
+
+
+
+<li><a href="https://linearprotocol.org/">LiNEAR</a> is building a multichain, multi-asset restaking framework on top of Eigenlayer, enabling non-ETH assets including NEAR to be restaked and used for securing applications.</li>
+
+
+
+<li>Mintbase, an NFT infrastructure platform, enables NEAR-based Mintbase wallet holders to purchase <a href="https://x.com/mintbase/status/1769748329619992792?s=20">Ethereum NFTs directly</a>.</li>
+</ul>
+
+
+
+<p><strong>Start Building with Chain Signatures</strong></p>
+
+
+
+<p>Chain Signatures makes possible a range of new use cases for Web3 developers and users alike, opening up an exciting new design space and expanding the landscape of multichain apps and experiences utilizing Chain Abstraction. </p>
+
+
+
+<p>Builders and developers interested in getting started with Chain Signatures can visit the <a href="https://bit.ly/what-are-chain-signatures">documentation</a> or <a href="https://bit.ly/create-a-chain-signature">explore code examples</a> and begin building today. Projects looking for support implementing Chain Signatures can register their interest <a href="https://form.jotform.com/240777569453167">here</a>.</p>
+<p>The post <a href="/blog/chain-signatures-launch-to-enable-transactions-on-any-blockchain-from-a-near-account/">Chain Signatures Launch to Enable Transactions on Any Blockchain from a NEAR Account</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NEAR at NVIDIA GTC 2024: A Recap of Illia’s Appearance</title>
+		<link>/blog/nvidia-gtc-2024/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 21:31:54 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developers]]></category>
+		<guid isPermaLink="false">/?p=21290</guid>
+
+					<description><![CDATA[<p>At NVIDIA GTC 2024––the flagship conference of the AI hardware supercompany in San Jose, California––the spotlight was on the intersection …</p>
+<p>The post <a href="/blog/nvidia-gtc-2024/">NEAR at NVIDIA GTC 2024: A Recap of Illia’s Appearance</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>At NVIDIA GTC 2024––the flagship conference of the AI hardware supercompany in San Jose, California––the spotlight was on the intersection of AI, blockchain, and the next era of open web innovation. Among the distinguished speakers was Illia Polosukhin, co-founder of NEAR Protocol, who contributed his insights into how AI models will evolve and how blockchain and token economies can play key roles. Polosukhin is the only blockchain industry founder to speak at the NVIDIA event.&nbsp;</p>
+
+
+
+<p>The “Transforming AI” panel was hosted by Jensen Huang, CEO and co-founder of NVIDIA. Appearing on the panel were all but one of&nbsp; the co-authors of the landmark 2017 research paper “Attention is All You Need,” which introduced the Transformer architecture that revolutionized natural language processing. That lineup of coauthors has gone on to work on projects such as OpenAI, Inceptive, and Essential AI.&nbsp;</p>
+
+
+
+<p>The group’s conversation explored the practical applications of blockchain technology, with Illia touching on programmable money and its impact on both the current and future states of digital economies. By addressing the challenges and opportunities presented by the convergence of AI and blockchain, Illia offered a grounded perspective on the potential for these technologies to facilitate a more decentralized and efficient open web.&nbsp;</p>
+
+
+
+<p>Illia’s&nbsp; insights also highlighted NEAR&#8217;s commitment to leveraging Web3 technologies&nbsp; for broader adoption and innovation across a range of future tech use cases. Jensen himself noted that he thinks “NEAR is very cool.”&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="h-from-accelerated-computing-to-ai-and-the-blockchain">From Accelerated Computing to AI and the Blockchain</h2>
+
+
+
+<p>Jensen kicked off the panel by providing context around the evolution of computing power and the potential of generative AI as the next industrial revolution. After a round of introductions, Illia dove into the beginnings of his research at Google and the unique challenges that brought AI to the forefront during that time.</p>
+
+
+
+<p>&#8220;The team and I were working on simple question answering. You’d go to Google, you ask a question, and it should give you an answer,” Illia recounted. “But Google has very low latency requirements, so if you want to ship actual models that read search results, like tons of documents, you need something that can process that quickly. And models at the time just couldn’t do that.&#8221;</p>
+
+
+
+<p>After publishing the paper and leaving Google to explore new opportunities, Illia first worked on NEAR as an AI startup, then pivoted when he and co-founder Alex Skidanov recognized an opportunity in the blockchain space they first encountered as users. They recognized a clear need in the space back in 2018: to make blockchain technology accessible and intuitive for everyday use. Illia discussed with the panel how that realization led him to the concept of programmable money, and subsequently built NEAR Protocol to address blockchain scalability and usability challenges, creating a shift towards a more user-friendly open web economy.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-genesis-of-near-and-programmable-money">The Genesis of NEAR and Programmable Money&nbsp;</h2>
+
+
+
+<p>Illia further discussed how his shift from pure AI research to Web3 was driven by the concept of programmable money, not just for cross-border payments but for a range of powerful use cases. This was a direct response to the challenges of coordinating on complex networks and the increasing demand for scalable blockchain solutions. The result is a platform that can handle large transaction volumes without compromising speed or security.</p>
+
+
+
+<p>“NEAR has the most users in the world in the blockchain space,” Illia explained. “We’re talking about multiple millions of daily users who don’t even know they’re using blockchain. But they’re actually interfacing with programmable money and programmable value. And now we’re bringing back some of those AI tools to generate more data.”</p>
+
+
+
+<p>He then highlighted the need for a shift in how creators are rewarded in an emerging age of generative AI, suggesting that the century-old copyright system must evolve. With artists and creators now leveraging tools like Midjourney and OpenAI for everything from visual art to storytelling, the panel agreed that copyright laws will need an overhaul sooner than later.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-integrating-ai-for-fairer-user-and-creator-economies">Integrating AI for Fairer User and Creator Economies</h2>
+
+
+
+<p>With the generative age already underway, Illia further unpacked how NEAR will be central to this new AI-enabled creator economy.&nbsp;</p>
+
+
+
+<p>“The way we’re rewarding creators right now is broken,” Illia continued. “And the only way to fix that is to leverage programmable money, programmable value, and blockchain. You need the basic primitive of programmable money because it’s what allows users and groups to coordinate people at scale.”</p>
+
+
+
+<p>Illia&#8217;s vision extends to building a version of the open web where programmable value underpins a positive feedback loop, fostering a novel economy enriched by equitable participation. For example, he noted that NEAR is exploring ways for users to contribute their own data, which can help improve AI models. These initiatives demonstrate how tomorrow’s AI economy could benefit both creators and users by allowing more participation and collaboration underpinned by Web3 infrastructure and incentives.&nbsp;</p>
+
+
+
+<p>“I strongly believe that the way we&#8217;re going to make progress towards software eating the world to machine learning is eating software,” Illia argued. “And the most direct way is to teach machines to code, so you&#8217;re able to actually generate software and transform everyone&#8217;s access.”</p>
+
+
+
+<p>Throughout his appearance at NVIDIA GTC 2024, Illia underscored NEAR’s pivotal role in bridging the gap between the open web, programmable money, and AI. By advocating for a reimagined copyright framework and more equitable creator compensation models, Illia presented an accessible and compelling vision for NEAR at the forefront of tomorrow’s user and creator centric AI economy. While this was just a brief glimpse of the emerging AI+Web3 ecosystem on NEAR, it was met with a wave of excitement from the NEAR community and served as a reminder for the whole Web3 space about Illia’s and NEAR’s early roots in the world of AI.</p>
+<p>The post <a href="/blog/nvidia-gtc-2024/">NEAR at NVIDIA GTC 2024: A Recap of Illia’s Appearance</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</title>
 		<link>/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/</link>
 		
@@ -229,7 +461,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="634" src="https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png" alt="" class="wp-image-21236" style="width:1102px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png 1024w, https://pages.near.org/wp-content//uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-300x186.png 300w, https://pages.near.org/wp-content//uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-768x475.png 768w, https://pages.near.org/wp-content//uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1536x951.png 1536w, https://pages.near.org/wp-content//uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-2048x1267.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="634" src="/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png" alt="" class="wp-image-21236" style="width:1102px;height:auto" srcset="/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png 1024w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-300x186.png 300w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-768x475.png 768w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1536x951.png 1536w, /wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-2048x1267.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -660,7 +892,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://pages.near.org/wp-content/uploads/2024/01/da-comparison-1024x576.png" alt="" class="wp-image-21165" srcset="https://pages.near.org/wp-content/uploads/2024/01/da-comparison-1024x576.png 1024w, https://pages.near.org/wp-content//uploads/2024/01/da-comparison-300x169.png 300w, https://pages.near.org/wp-content//uploads/2024/01/da-comparison-768x432.png 768w, https://pages.near.org/wp-content//uploads/2024/01/da-comparison-1536x864.png 1536w, https://pages.near.org/wp-content//uploads/2024/01/da-comparison.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">As of December 2023, 231 kB of calldata on <a href="https://nearblocks.io/txns/HCA1dMLjYE9bTMNUpTG4sbcwhC9X1tXRtpUSxUEhjhLm">NEAR costs $0.0016</a>, while the same calldata on<a href="https://etherscan.io/tx/0x53a0d93d88e0dc050ca86ab45b26c952a79aa0116825a9e3a5276a36fa897bbe"> Ethereum L1 costs users $140.54</a>  and on <a href="https://celestia.explorers.guru/transaction/BFF52A4E7A2B523657710F36A4A917669973E3E2B8425AB21C65299BD6A90A0E">Celestia costs users $0.046</a>.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/01/da-comparison-1024x576.png" alt="" class="wp-image-21165" srcset="/wp-content/uploads/2024/01/da-comparison-1024x576.png 1024w, /wp-content/uploads/2024/01/da-comparison-300x169.png 300w, /wp-content/uploads/2024/01/da-comparison-768x432.png 768w, /wp-content/uploads/2024/01/da-comparison-1536x864.png 1536w, /wp-content/uploads/2024/01/da-comparison.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">As of December 2023, 231 kB of calldata on <a href="https://nearblocks.io/txns/HCA1dMLjYE9bTMNUpTG4sbcwhC9X1tXRtpUSxUEhjhLm">NEAR costs $0.0016</a>, while the same calldata on<a href="https://etherscan.io/tx/0x53a0d93d88e0dc050ca86ab45b26c952a79aa0116825a9e3a5276a36fa897bbe"> Ethereum L1 costs users $140.54</a>  and on <a href="https://celestia.explorers.guru/transaction/BFF52A4E7A2B523657710F36A4A917669973E3E2B8425AB21C65299BD6A90A0E">Celestia costs users $0.046</a>.</figcaption></figure>
 
 
 
@@ -779,7 +1011,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="592" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, https://pages.near.org/wp-content//uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, https://pages.near.org/wp-content//uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, https://pages.near.org/wp-content//uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -787,7 +1019,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="644" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, https://pages.near.org/wp-content//uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, https://pages.near.org/wp-content//uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, https://pages.near.org/wp-content//uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="644" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -831,131 +1063,6 @@
 
 <p><br>-Eric Winer, CTO Pagoda</p>
 <p>The post <a href="/blog/check-out-the-pagoda-product-roadmap/">Check Out the Pagoda Product Roadmap</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Embracing Decentralization: What’s Next for the NEAR Wallet</title>
-		<link>/blog/embracing-decentralization-whats-next-for-the-near-wallet/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 16:30:00 +0000</pubDate>
-				<category><![CDATA[Developers]]></category>
-		<category><![CDATA[NEAR Wallet]]></category>
-		<category><![CDATA[Transfer Wizard]]></category>
-		<guid isPermaLink="false">/?p=20715</guid>
-
-					<description><![CDATA[<p>When NEAR Mainnet launched in late 2020, it included a wallet built and hosted by Pagoda’s (then known as Near …</p>
-<p>The post <a href="/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>When NEAR Mainnet launched in late 2020, it included a wallet built and hosted by Pagoda’s (then known as Near Inc.) core team on <a href="https://wallet.near.org/">https://wallet.near.org/</a> to support NEAR’s unique account model. Nearly three years later, the NEAR wallet ecosystem is home to a myriad of high quality, open source wallets supported by NEAR’s community of active contributors. This significant milestone reflects NEAR’s ongoing commitment to empower users and foster decentralization. The evolution of NEAR wallets also showcases the substantial growth of the ecosystem, as NEAR now supports a diverse list of cross-chain wallets, as well as native wallets with innovative onboarding approaches such as <a href="/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/?_gl=1%2A1fvy7yq%2A_up%2AMQ..%2A_ga%2AMjA1NTA3NTczNy4xNjg2NjY4NDc2%2A_ga_9GWCXQJ62J%2AMTY4NjY2ODQ3NC4xLjEuMTY4NjY2ODUxMC4wLjAuMA..">FastAuth</a>.</p>
-
-
-
-<p>To celebrate these excellent contributions from across the NEAR community, and to reflect the priority of decentralization, over the next few months Pagoda will start migrating the domain <a href="https://wallet.near.org/">https://wallet.near.org/</a> from being a browser wallet to being a wallet hub. In this way, <a href="https://wallet.near.org/">https://wallet.near.org/</a> will become the reference place for all NEAR wallets, allowing users to discover and implement the right wallets for their specific needs.</p>
-
-
-
-<p>If you currently use <a href="https://wallet.near.org/">https://wallet.near.org/</a> as your main wallet, you have nothing to worry about. The Pagoda team has been working hard to build a Wallet Transfer Wizard to help you transfer your accounts to a new wallet easily and smoothly, while keeping your funds and assets safe. The Transfer Wizard will allow you to choose between Browser and Extension-based wallets, so you will still have the same friendly wallet experience you are accustomed to after the Wizard is finished.</p>
-
-
-
-<p>For more details, visit the <a href="https://wallet.near.org/transfer-wizard">Migrating from NEAR Wallet</a> page.&nbsp;</p>
-
-
-
-<h3 class="wp-block-heading" id="h-timeline-for-transitioning-the-main-wallet-domain">Timeline for transitioning the main wallet domain&nbsp;</h3>
-
-
-
-<p>The NEAR Wallet will remain a browser wallet until <strong>January 1st, 2024</strong>, during which time the wallet will encourage and help you to transfer your accounts to a new wallet. You can do this manually with your recovery phrase or use the Transfer Wizard to securely migrate your accounts to the wallet of your choice. </p>
-
-
-
-<p>Do not worry if you have not transferred your accounts by <strong> <strong>January 1st, 2024</strong></strong> —<strong> </strong>the Transfer Wizard will still be available after the wallet functionality sunsets. Rest assured that your assets will remain secure until you import them to a new wallet.</p>
-
-
-
-<p>The Transfer Wizard will remain available on the new wallet landing page at wallet.near.org indefinitely. This repurposed page will act as an introduction to the various options for wallets in the NEAR ecosystem.</p>
-
-
-
-<h3 class="wp-block-heading" id="h-a-new-era-for-near-wallets">A new era for NEAR Wallets</h3>
-
-
-
-<p>This new step moves NEAR closer to achieving a truly decentralized ecosystem driven by its own community. Thanks to the wallet hub and the wallet selector (which enables the use of any compatible NEAR wallet in web applications), users will now be able to use any wallet they like. This will not only improve their experience on NEAR, but also the full spectrum of available Web3 experiences thanks <a href="/blog/near-blockchain-operating-system-is-now-live-on-near-org/?_gl=1%2Ahbkih2%2A_up%2AMQ..%2A_ga%2AMjAwNDA3NDY4Mi4xNjg2NjY5MjQx%2A_ga_9GWCXQJ62J%2AMTY4NjY2OTIzOS4xLjEuMTY4NjY2OTI0My4wLjAuMA..">to the BOS</a>.</p>
-<p>The post <a href="/blog/embracing-decentralization-whats-next-for-the-near-wallet/">Embracing Decentralization: What’s Next for the NEAR Wallet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</title>
-		<link>/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Fri, 07 Jul 2023 14:00:00 +0000</pubDate>
-				<category><![CDATA[Developers]]></category>
-		<category><![CDATA[BOS]]></category>
-		<category><![CDATA[Developer tools]]></category>
-		<category><![CDATA[Infrastructure]]></category>
-		<guid isPermaLink="false">/?p=20704</guid>
-
-					<description><![CDATA[<p>NEAR is welcoming Vistara, the groundbreaking rollup deployment framework, into the fold. Vistara is set to seamlessly integrate with the …</p>
-<p>The post <a href="/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>NEAR is welcoming <a href="https://twitter.com/vistaralabs">Vistara</a>, the groundbreaking rollup deployment framework, into the fold. Vistara is set to seamlessly integrate with the BOS for the end-to-end, multi-chain deployment of rollups. This alliance will accelerate the pace of blockchain innovation, making rollup deployment faster, more efficient, and accessible across multiple chains for all developers.</p>
-
-
-
-<p>Vistara stands out as a game-changing one-click <a href="https://docs.vistara.dev/">rollup deployment framework</a> that simplifies creating application-specific rollups across multiple blockchains. Streamlining the intricate rollup deployment process into a straightforward, single-click operation, Vistara will build a front-end on the BOS to make user-friendly, multi-chain rollup deployment a reality.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-simplifying-multi-chain-roll-ups-with-vistara-on-the-bos">Simplifying multi-chain roll-ups with Vistara on the BOS&nbsp;</h2>
-
-
-
-<p>Existing frameworks such as Cosmos SDK and Substrate have sought to streamline certain software components in decentralized applications but often leave developers tied to one ecosystem that they must completely understand and master. Vistara will now present a unique solution by combining the BOS with backend chains like Ethereum and Celestia.</p>
-
-
-
-<p>Vistara’s emphasis on simplifying rollup component creation aligns with NEAR&#8217;s vision of user-centric decentralization and a serverless Web3. With this new BOS front-end integration, developers in the NEAR ecosystem and beyond can now build and deploy rollups in one convenient location.</p>
-
-
-
-<p>The result will be a user-friendly design that makes the deployment of a rollup as simple as selecting an option from a dropdown menu. The integration will also encourage a wider range of developers to build with rollups on the BOS with any chain, leading to a more diverse pool of innovations and robust growth.</p>
-
-
-
-<p>Vistara’s integration not only simplifies the process but also expands the scope for innovation. It demystifies rollup creation, making it accessible to a broader range of developers. This inclusivity fuels a more diverse pool of applications, fostering growth and vibrancy within the NEAR ecosystem.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-vistara-and-bos-breaking-base-layer-building-barriers">Vistara and BOS breaking base layer building barriers</h2>
-
-
-
-<p>Developing decentralized applications on base layers can be a complex process. Coordination of node operators, high costs, and extended development times are among the major challenges. However, Vistara is designed to confront these issues directly, streamlining the process and fostering efficiency.</p>
-
-
-
-<p>Rollups — technologies that bundle or &#8216;roll up&#8217; side-chain transactions into a single transaction — provide an effective solution. They help developers bypass the difficulties associated with building decentralized networks. Vistara leverages this rollup technology, pushing the NEAR ecosystem towards application-specific rollups.&nbsp;</p>
-
-
-
-<p>The solution effectively untangles the complexities tied to base layer dependencies, forging a development environment on the BOS that stretches beyond traditional base layer confines. With Vistara, multi-chain developers can now bring their applications to life more swiftly and efficiently than ever before.</p>
-
-
-
-<p>To sum up, Vistara&#8217;s user-friendly, multi-chain rollup deployment capabilities on the BOS will have a huge impact on the NEAR ecosystem and beyond. The integration will take much of the complexity out of rollup deployment for anyone, helping Web3 creators, builders, and developers bring their applications to life faster than ever.</p>
-<p>The post <a href="/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/">Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

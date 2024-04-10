@@ -12,7 +12,7 @@
 	<atom:link href="/blog/category/near-foundation/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/near-foundation/</link>
 	<description></description>
-	<lastBuildDate>Mon, 18 Mar 2024 02:34:33 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Apr 2024 01:46:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,110 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Summer of Shipping on NEAR Heats up with Horizon’s HZN3 Cohort </title>
+		<link>/blog/summer-of-shipping/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 03 Apr 2024 01:46:10 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<guid isPermaLink="false">/?p=21303</guid>
+
+					<description><![CDATA[<p>The NEAR Horizon Accelerator (HZN) is continuing to nurture early-stage open founders by launching its third cohort, HZN3. As part …</p>
+<p>The post <a href="/blog/summer-of-shipping/">Summer of Shipping on NEAR Heats up with Horizon’s HZN3 Cohort </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Horizon Accelerator (HZN) is continuing to nurture early-stage open founders by launching its third cohort, HZN3. As part of NEAR’s Summer of Shipping, HZN3 will encourage accountability, community, and deploying products that amplify chain abstraction.</p>
+
+
+
+<p>Established as an equity-free program, HZN3 is designed to deliver mentorship, technical support, and tactical education to empower founders in navigating the complexities and hurdles associated with building a thriving, successful project.</p>
+
+
+
+<p>With a focus on crypto-native go-to-market strategies and refinding the tech stack, HZN3 will be a vital resource for founders aiming to scale their projects. It underscores NEAR&#8217;s commitment to fostering innovation and supporting the next wave of open web projects, contributing significantly to the ecosystem&#8217;s diversity and resilience.</p>
+
+
+
+<p>HZN3 is a chain-agnostic program and welcomes builders from any ecosystem. This approach is part of fulfilling NEAR’s vision for a unified, user-friendly open web. Here’s everything you need to know about the HZN3 cohort and how to join.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-empowering-open-web-innovation-with-hzn3">Empowering Open Web Innovation with HZN3</h2>
+
+
+
+<p>The HZN3 Accelerator Program, NEAR&#8217;s third cohort under the Horizon banner, will be a structured, eight-week journey for open web founders, emphasizing sustainable growth. This equity-free approach aligns with NEAR&#8217;s dedication to founders success and autonomy.&nbsp;</p>
+
+
+
+<p>Specifically geared towards early-stage Web3 founders, HZN3 is a launchpad for projects at any development stage, from idea to MVP. The program’s core objectives are to furnish participants with mentorship, one-on-one technical support, and education tailored to the nuances of launching and scaling in the crypto space.</p>
+
+
+
+<p>While HZN3 does not provide direct funding, its focus is on providing invaluable resources and a network that far exceeds monetary support. <strong>The HZN3 Program runs from May 20th &#8211; July 12th, 2024, capped with a Demo Day live at ETH CC in Brussels, Belgium </strong>HZN3 will be an intensive, hands-on experience, crafted to sharpen go-to-market strategies and refine technical stacks, ensuring projects are not just visionary but viable and market-ready.&nbsp;</p>
+
+
+
+<p>The application period, spanning from March 18th to May 10th, 2024, invites early-stage founders to step forward with their visions, irrespective of their blockchain foundation, fostering a diversity rich cohort. Selected participants can anticipate a kickoff meeting to outline the road ahead, ensuring founders are prepared for the intensive, growth-oriented journey in HZN3.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-building-on-previous-hzn-alumni-success">Building on Previous HZN Alumni Success</h2>
+
+
+
+<p>The HZN3 program will take its cue from the achievements of previous HZN alumni projects that have laid the groundwork for the upcoming cohort. The previous 50+ participants from HZN&#8217;s programs include <a href="https://www.gravvity.ai/">Gravvity</a>, <a href="http://questlabs.ai/">Quest</a>, <a href="https://shard.dog/">Superchargd</a>, <a href="https://www.getplato.app/">Plato</a>, <a href="https://shard.dog/">Shard Dog</a>, and <a href="https://contentedworld.com/">Contented</a>, illustrating HZN’s tangible impact.&nbsp;</p>
+
+
+
+<p>These projects have navigated the initial stages of development and launch, successfully securing significant external capital and collectively raising over $20 million. These funding successes validate the value and trust investors place in HZN-supported initiatives and highlight HZN’s effectiveness in preparing founders for the pitching and funding process.</p>
+
+
+
+<p>The accelerator&#8217;s focus on mentorship, technical support, and tactical education has also equipped these projects with the necessary tools for scalability and market penetration. Through HZN, founders gain financial backing and receive a comprehensive foundation for sustained growth, network expansion, and strategic positioning moving forward.</p>
+
+
+
+<p>HZN&#8217;s commitment to fostering innovation and supporting early-stage projects contributes significantly to the diversity and resilience of the NEAR ecosystem, ensuring a vibrant future for open web innovation.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-apply-to-hzn3-and-join-near-s-vision-for-chain-abstraction">Apply to HZN3 and Join NEAR&#8217;s Vision for Chain Abstraction</h2>
+
+
+
+<p>HZN3 applications are open from March 18th to May 10th, 2024, welcoming visionaries eager to scale their projects. Interested founders can apply directly through <a href="https://www.hzn.xyz/hzn">HZN&#8217;s application page</a>, where they&#8217;ll find detailed instructions and requirements. Founders building on any blockchain are encouraged to apply, as HZ3 is a chain-agnostic program.</p>
+
+
+
+<p>HZN3 also plays a critical role in NEAR&#8217;s broader chain abstraction narrative by attracting diverse, high-quality projects across multiple blockchains. By supporting founders regardless of blockchain or ecosystem, HZN3 will contribute to the broader vision of chain abstraction. This approach is key for driving the adoption of the chain abstraction stack.&nbsp;</p>
+
+
+
+<p>Through HZN3, NEAR reinforces its commitment to an open web that thrives on diversity, collaboration, and shared success.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-seizing-open-web-opportunities-with-hzn3">Seizing Open Web Opportunities with HZN3</h2>
+
+
+
+<p>As an equity-free, accelerator program, HZN3 is a unique opportunity to bootstrap and jumpstart any project. Founders won’t want to miss out on key resources, network expansion, and strategic development insights they’ll receive during the course of the program.</p>
+
+
+
+<p>Potential applicants should apply before May 10th, 2024, to secure a spot in the upcoming HZ3 cohort. For more details, visit <a href="https://www.hzn.xyz/hzn">HZN&#8217;s application page</a> to join the community discussion, connect with peers and mentors, and brainstorm about how your project can be a part of the open web’s future.</p>
+
+
+
+<p></p>
+<p>The post <a href="/blog/summer-of-shipping/">Summer of Shipping on NEAR Heats up with Horizon’s HZN3 Cohort </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>NEAR Protocol Partners With D3 To Apply For .Near Top-Level Domain</title>
 		<link>/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/</link>
 		
@@ -581,11 +685,11 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="428" src="https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg" alt="" class="wp-image-21135" style="aspect-ratio:2.392523364485981;width:1287px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg 1024w, https://pages.near.org/wp-content//uploads/2023/12/photo_2023-12-20_12-30-18-300x125.jpg 300w, https://pages.near.org/wp-content//uploads/2023/12/photo_2023-12-20_12-30-18-768x321.jpg 768w, https://pages.near.org/wp-content//uploads/2023/12/photo_2023-12-20_12-30-18.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>NEAR reached #1 in daily active users for all of Web3 to close the year, per Artemis.</em></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="428" src="/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg" alt="" class="wp-image-21135" style="aspect-ratio:2.392523364485981;width:1287px;height:auto" srcset="/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg 1024w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-300x125.jpg 300w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-768x321.jpg 768w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>NEAR reached #1 in daily active users for all of Web3 to close the year, per Artemis.</em></figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="458" src="https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png" alt="" class="wp-image-21136" srcset="https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png 1024w, https://pages.near.org/wp-content//uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-300x134.png 300w, https://pages.near.org/wp-content//uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-768x343.png 768w, https://pages.near.org/wp-content//uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1536x687.png 1536w, https://pages.near.org/wp-content//uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-2048x916.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>4 of the top 10 apps in all of Web3 are built on NEAR &amp; Aurora, per DappRadar&#8217;s 30-day ranking.</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="458" src="/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png" alt="" class="wp-image-21136" srcset="/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png 1024w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-300x134.png 300w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-768x343.png 768w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1536x687.png 1536w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-2048x916.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>4 of the top 10 apps in all of Web3 are built on NEAR &amp; Aurora, per DappRadar&#8217;s 30-day ranking.</em></figcaption></figure>
 
 
 
@@ -895,108 +999,6 @@
 
 <p>Keep hacking and building on NEAR.</p>
 <p>The post <a href="/blog/meet-the-2023-nearcon-irl-hackathon-winners/">Meet the 2023 NEARCON IRL Hackathon Winners</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEAR Tasks Launches AI Marketplace on NEAR to Revolutionize the Future of Work</title>
-		<link>/blog/near-tasks-launches-ai-marketplace-on-near-to-revolutionize-the-future-of-work/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 16 Nov 2023 14:00:00 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<guid isPermaLink="false">/?p=21096</guid>
-
-					<description><![CDATA[<p>The convergence of AI and Web3 captured the tech industry’s imagination in 2023 — but few ideas have actually become …</p>
-<p>The post <a href="/blog/near-tasks-launches-ai-marketplace-on-near-to-revolutionize-the-future-of-work/">NEAR Tasks Launches AI Marketplace on NEAR to Revolutionize the Future of Work</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>The convergence of AI and Web3 captured the tech industry’s imagination in 2023 — but few ideas have actually become a working reality. An exciting exception is NEAR Tasks, a global gigs marketplace poised to reshape AI training while leveraging the power of NEAR blockchain. Officially launched at NEARCON 2023 with its first product beta launching this week, NEAR Tasks is a self-service platform where anyone can easily list and complete AI requests, setting a new standard for quality data labeling.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-unlocking-the-power-of-ai-and-web3"><strong>Unlocking the Power of AI and Web3</strong></h2>
-
-
-
-<p>NEAR Tasks envisions a future where AI and Web3 technologies complement each other, fostering an ecosystem driven by transparency and efficiency. This symbiotic relationship aims to streamline task matching, review processes, and manage data quality more effectively at scale.</p>
-
-
-
-<p>Implemented on the NEAR Protocol, NEAR Tasks utilizes on-chain tasker IDs, smart contracts for automated payments, and $NEAR transactions for global payments with minimal fees. This ensures accountability, motivates high-quality outcomes, and addresses the challenge of underpaid workers in the AI sector.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>NEAR Tasks in a Nutshell</strong></h2>
-
-
-
-<p>In the age of AI, despite popular narratives about LLMs replacing a range of human jobs, human intelligence actually becomes even more important: as models get more complex, they need human expertise for fine-tuning models and increasing subject matter specialization. This user-friendly platform seamlessly connects task listing, work review, and crypto rewards, propelling AI model training into a new era through direct human feedback loops and a flexible self-service marketplace.</p>
-
-
-
-<p>For business clients and AI builders, NEAR Tasks provides a self-service, plug-and-play solution, liberating users from the constraints of costly managed service options. Blockchain integration on NEAR facilitates efficient data labeling by verified human experts, who can build reputation and get paid in real time for contributing quality work to the platform.&nbsp;</p>
-
-
-
-<p>For taskers, the NEAR Tasks marketplace offers a transparent path to monetizing their skills and knowledge, unlocking new revenue streams in the ever-evolving AI labor frontier, and changing the future of digital work. There are more than a billion participants in the global on-demand gig economy today, showing the need for more opportunities as well as greater specialization for those with particular training or expertise. With more reliable identity verification for accounts, faster work review, and the ability to pay taskers with crypto, taskers can get paid more reliably and work at the pace they wish — making the gig economy more supportive to specialized workers. </p>
-
-
-
-<p>In his introduction to NEAR Tasks at NEARCON in Lisbon, Senior Engineer Momo Araki pointed out: “There’s an interdependence for the system to work properly. You have to reform the central inspection principle wielded by task providers, and maintain sybil-resistance so workers can’t spoof the platform. It’s loosely analogous to a ‘proof-of-work’ model, where work performed well also translates to earning reputation, which leads to accessing further opportunities.&#8221; Incorporating more trust into a tasks marketplace in this way also produces better results for the AI builders and businesses trying to refine their models. </p>
-
-
-
-<h2 class="wp-block-heading"><strong>A Fair and Transparent Platform for AI Training</strong></h2>
-
-
-
-<p>In an AI landscape where autonomy often overshadows human involvement, NEAR Tasks recognizes the vital role of a global workforce responsible for data labeling and validation. The platform introduces on-chain digital IDs for taskers, ensuring transparency and accountability.</p>
-
-
-
-<p>Transactions exclusively conducted in $NEAR guarantee rapid global payments with minimal fees, directly confronting the issue of underpaid AI workers in what is known in the industry as “AI sweatshops.”</p>
-
-
-
-<p>&#8220;Human intelligence forms the base of artificial intelligence, and it&#8217;s time we give AI tasks the recognition they deserve as legitimate jobs in the AI economy,&#8221; says Catherine Yushina, Head of Operations at NEAR Tasks.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>AI Is NEAR</strong></h2>
-
-
-
-<p>At NEARCON 2023, NEAR Co-Founder Illia Polosukhin — an AI researcher himself and co-creator of transformers, the architecture powering today’s major LLMs like ChatGPT — named AI as one of the core verticals for the NEAR ecosystem heading into 2024. From transforming governance and business operations with AI agents to provable provenance for data and content, as well as novel marketplaces like NEAR Tasks and hybrid human-AI working environments, we’re at the very beginning of an exciting revolution that will change the ways we work, collaborate, transact, research, and govern ourselves. More news is coming before the end of 2023 to position NEAR as the leader at the intersection of AI and Web3. </p>
-
-
-
-<h2 class="wp-block-heading"><strong>Join the AI + Blockchain Movement</strong></h2>
-
-
-
-<p>If you want to be part of this transformative AI and blockchain convergence shaping the human intelligence market, sign up for the NEAR Tasks <a href="https://neartasks.ai/neartasks-waitlist">waitlist</a> — currently at more than 48,000 applicants. The marketplace opens for public access in Q1 of 2024. You can also reach out to the team directly to request entry into the current Beta. Drop them an email at <a href="mailto:info@neartasks.ai">info@neartasks.ai</a> to express your interest by Monday, November 20.</p>
-
-
-
-<p>For more information about NEAR Tasks, please visit <a href="https://neartasks.ai/">https://neartasks.ai/</a>.</p>
-
-
-
-<p>Follow along on social media:</p>
-
-
-
-<ul>
-<li>Twitter: <a href="https://twitter.com/near_tasks">https://twitter.com/near_tasks</a>&nbsp;</li>
-
-
-
-<li>LinkedIn: <a href="https://www.linkedin.com/company/98907399">https://www.linkedin.com/company/98907399</a>&nbsp;</li>
-</ul>
-<p>The post <a href="/blog/near-tasks-launches-ai-marketplace-on-near-to-revolutionize-the-future-of-work/">NEAR Tasks Launches AI Marketplace on NEAR to Revolutionize the Future of Work</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
