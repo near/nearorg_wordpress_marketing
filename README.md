@@ -1,6 +1,6 @@
 # nearorg_marketing
 
-Auto-generated static marketing content. The following changes should be made manually after sync'ing this repo witn the latest wordpress export.
+Auto-generated static marketing content. The following changes should be made manually after this repo is updated by the latest wordpress static export.
 ```To reference high bandwidth assets from wordpress
 search: /wp-content
 replace: https://pages.near.org/wp-content
