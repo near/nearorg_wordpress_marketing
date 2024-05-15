@@ -12,13 +12,13 @@
 	<atom:link href="/blog/tag/core-protocol/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/core-protocol/</link>
 	<description></description>
-	<lastBuildDate>Tue, 30 Jan 2024 14:33:23 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 May 2024 17:08:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -28,6 +28,110 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Legends of NEAR: Expansion from 4 to 6 Shards</title>
+		<link>/blog/legends-of-near-expansion-from-4-to-6-shards/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Mon, 13 May 2024 16:16:00 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Core protocol]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<guid isPermaLink="false">/?p=21349</guid>
+
+					<description><![CDATA[<p>TLDR: NEAR is growing fast, leading to a need for more capacity, so it increased its shards from 4 to …</p>
+<p>The post <a href="/blog/legends-of-near-expansion-from-4-to-6-shards/">Legends of NEAR: Expansion from 4 to 6 Shards</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>TLDR: </strong>NEAR is growing fast, leading to a need for more capacity, so it increased its shards from 4 to 6 to handle more transactions smoothly. This upgrade boosts the network’s ability by 50% and was done without any disruption to the system, ensuring users continue to have a fast and stable experience.</p>
+
+
+
+<p>Over the last six months, NEAR has experienced a significant increase in users and transactions. NEAR has 3 of the top ten <a href="https://dappradar.com/rankings">dapps</a> in Web3 by users with KAI-CHING and HOT Wallet both reaching millions of daily active users in April 2024.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg" alt="" class="wp-image-21359" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-300x200.jpeg 300w, https://pages.near.org/wp-content/uploads/2024/05/image-768x512.jpeg 768w, https://pages.near.org/wp-content/uploads/2024/05/image.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Chart from <a href="https://pikespeak.ai/near-world/overview">Pikespeak</a></p>
+
+
+
+<ul>
+<li>Total Transactions: 1.16B&nbsp;</li>
+
+
+
+<li>Daily Unique Active Accounts: 1.3M</li>
+</ul>
+
+
+
+<p>NEAR has 3 of the top ten dapps in Web3 by users according to <a href="https://dappradar.com/rankings">dappradar</a> with KAI-CHING and HOT Wallet both reaching millions of daily active users in April 2024.</p>
+
+
+
+<p>All of this demand led to some congestion on one of the shards, so Bowen Wang, Director of Protocol, and the Protocol team worked on further optimizations that rolled out within days to address it. Over the course of 2 weeks, they added 2 more shards to NEAR – for a total of 6 live shards. This increased the network’s capacity by 50%.&nbsp;</p>
+
+
+
+<p>At the end of Q2, stateless validation is expected to&nbsp; launch on Mainnet – this upgrade is projected to improve throughput for each shard by 5x and grow the total number of shards available for the network.</p>
+
+
+
+<p>One of the most remarkable aspects of this upgrade is that it was implemented live—there was no need to take the blockchain offline. There was no break in user transactions.</p>
+
+
+
+<p>What is sharding on a blockchain? Let&#8217;s simplify using an analogy.</p>
+
+
+
+<p>Imagine you have a library that&#8217;s become too large and crowded. To manage this, you divide your books into several smaller sections and place them in different rooms. Each room now holds part of the entire collection, making finding and managing books easier. Most importantly, the separate collections will minimize congestion when the library is busy.</p>
+
+
+
+<p>Now, think of the NEAR blockchain like that crowded library. Sharding is like dividing this big blockchain into smaller, manageable pieces called &#8220;shards.&#8221; Each shard is like one of those rooms, with only the contract interactions within that shard. When someone needs information, they go directly to the room (shard) where it&#8217;s stored instead of waiting for the whole chain. This way, sharding helps handle more data and serve more users efficiently without affecting users of the entire chain every time.</p>
+
+
+
+<p>In NEAR&#8217;s case, the blockchain is split into multiple shards, akin to these rooms, where each shard processes transactions and maintains the state independently. This division allows for parallel processing, significantly boosting the network&#8217;s capacity and speed.</p>
+
+
+
+<p>What sets NEAR apart is how these shards interact and synchronize. A developer doesn’t have to worry about which shard a specific contract might be on. This approach maintains high security and interconnectivity while allowing the network to scale effectively. As the network grows and demands increase, more shards can be added, like expanding the library with more rooms, to ensure that&nbsp; NEAR can adapt to increasing usage and more complex applications.</p>
+
+
+
+<p>NEAR is focusing on future-proofing the protocol to handle even more growth and usage. This proactive approach aims to minimize disruptions and maintain a consistent developer and user experience, no matter how much the demand grows.</p>
+
+
+
+<p>This further validates NEAR’s thesis that sharding is the best scaling approach given what is currently&nbsp; happening across the whole Web3 space. Many non-sharded chain/rollups are getting congested with transactions and have been forced to raise fees, while NEAR was able to expand capacity by adding more shards and keeping fees stable.</p>
+
+
+
+<p>Homogeneous Sharding isn’t just a tech tweak; it’s a critical evolution in the blockchain that keeps transactions flowing. And it takes a team of superheroes for NEAR Protocol to be a top blockchain in Web3. The ultimate goal? To ensure that users never notice the complexity behind their seamless digital experience.</p>
+
+
+
+<p>        <a href="https://shard.dog/legendsofnear-bowen">Claim your Proof of Legends of NEAR NFT</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="724" height="1024" src="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png" alt="" class="wp-image-21365" style="width:303px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png 724w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-212x300.png 212w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-768x1086.png 768w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1086x1536.png 1086w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1448x2048.png 1448w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
+
+
+
+<p></p>
+<p>The post <a href="/blog/legends-of-near-expansion-from-4-to-6-shards/">Legends of NEAR: Expansion from 4 to 6 Shards</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Phase 2 of NEAR Sharding Launches</title>
 		<link>/blog/phase-2-of-near-sharding-launches/</link>
 		
@@ -180,7 +284,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="592" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="592" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -188,7 +292,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="644" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -229,7 +333,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-1024x538.png" alt="" class="wp-image-19583" srcset="https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-1024x538.png" alt="" class="wp-image-19583" srcset="https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -850,75 +954,6 @@
 
 <p>As the NEAR Ecosystem rapidly scales to include new developers and users, we are working to quickly decentralize our organization and foster a vibrant validator community. These moves will be absolutely critical in reimagining the way NEAR’s community members can build, gather, innovate, and grow together.    </p>
 <p>The post <a href="/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/">NEAR Foundation Launches New Validator Program To Further Decentralize the Network</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEAR Validator Upgrade Allows Hundreds To Help Secure The Network</title>
-		<link>/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Mon, 29 Nov 2021 17:38:23 +0000</pubDate>
-				<category><![CDATA[Developers]]></category>
-		<category><![CDATA[Core protocol]]></category>
-		<guid isPermaLink="false">/?p=15380</guid>
-
-					<description><![CDATA[<p>Since the NEAR Mainnet launch in October 2020, we have seen steady growth in the number of validators. Today, NEAR …</p>
-<p>The post <a href="/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/">NEAR Validator Upgrade Allows Hundreds To Help Secure The Network</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Since the NEAR Mainnet launch in October 2020, we have seen steady growth in the number of validators. Today, NEAR has roughly <a href="https://near-staking.com/">60 validators on mainnet</a>, with many more wanting to join. Nevertheless, the extremely high threshold of 3.6M $NEAR makes it challenging for new validators to join. </p>
-
-
-
-<p>This was certainly not our intention when we designed <a href="https://medium.com/nearprotocol/thresholded-proof-of-stake-67b74e616a92">the current validator selection algorithm</a> more than three years ago. That’s why we’re upgrading our validator process.&nbsp;</p>
-
-
-
-<p>At present, the issue with the current algorithm is that the maximum number of validators allowed by the protocol is only achievable when everyone has an equal amount of stake. In practice, this is unrealistic.&nbsp;</p>
-
-
-
-<p>The NEAR Ecosystem is working to add more validators to the blockchain to further decentralize the network. After reviewing a number of options, we made the decision to change the protocol’s validator selection process. This will take place in two steps: the top 100 proposals by stake amount will be listed as potential validators. The second step will be to ensure the number of tokens staked is high enough to maintain the security of the network. While 3.5 million $NEAR is very high, we want to avoid making the new number too low.  </p>
-
-
-
-<h2 class="wp-block-heading" id="h-improving-access-one-step-at-a-time">Improving access, one step at a time</h2>
-
-
-
-<p>Compared to the existing selection algorithm, this seemingly simple change requires a lot of heavy lifting behind the scenes. NEAR’s target block speed of 1 second means that any validator selection process must be extremely fast while continuing to maintain the security of the network. This means the change requires very fast sampling from a discrete probability distribution.&nbsp;</p>
-
-
-
-<p>NEAR’s core developer team is happy to announce that this change has now been implemented, allowing more validators to join NEAR. This is great news for validators as it will dramatically reduce the barrier of entry to mainnet and makes it easier for them to maintain their seats. If more than 100 proposals are submitted, the threshold will simply be the stake of the 100th proposal, provided that it’s larger than the minimum threshold*. </p>
-
-
-
-<p>We expect to reach 100 validators soon after Mainnet is upgraded to this change—leading to a 60% increase in the number of validators we have active today. Other than the change to the validator selection process, everything else remains the same. Validators still produce blocks proportional to their stake and receive rewards accordingly.</p>
-
-
-
-<p>This change is only the beginning of a number of ecosystem-wide initiatives that will continue increasing the number of validators and improving network decentralization. With the upcoming launch of <a href="/blog/near-launches-simple-nightshade-the-first-step-towards-a-sharded-blockchain/">phase 1</a> of sharding in early 2022, we expect to add another 200 validators to Mainnet.&nbsp;</p>
-
-
-
-<p>NEAR has always been, and will always be committed to building a secure, scalable, and decentralized network to help onboard the world into web3. To take advantage of the upcoming expansion, and to onboard validators onto the NEAR Mainnet, we have collaborated with the Open Shard Alliance to release a bootcamp to help train new validators.&nbsp;</p>
-
-
-
-<p>If you’re interested in <a href="https://bootcamp.openshards.io/">joining our bootcamp</a>, you can find more information <a href="https://bootcamp.openshards.io/">here.&nbsp;</a></p>
-
-
-
-<p>If you’d like to start running your nodes on Testnet and Mainnet, head to the <a href="https://discord.gg/t9Kgbv">Open Shards Alliance server on Discord. </a></p>
-
-
-
-<p><em>* The minimal threshold depends on the total amount of stake, which at this point we estimate it to be 67,000 NEAR.</em></p>
-<p>The post <a href="/blog/near-validator-upgrade-allows-hundreds-to-help-secure-the-network/">NEAR Validator Upgrade Allows Hundreds To Help Secure The Network</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -12,13 +12,13 @@
 	<atom:link href="/blog/category/developers/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/developers/</link>
 	<description></description>
-	<lastBuildDate>Tue, 26 Mar 2024 20:39:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 May 2024 17:08:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -28,6 +28,110 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Legends of NEAR: Expansion from 4 to 6 Shards</title>
+		<link>/blog/legends-of-near-expansion-from-4-to-6-shards/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Mon, 13 May 2024 16:16:00 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Core protocol]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<guid isPermaLink="false">/?p=21349</guid>
+
+					<description><![CDATA[<p>TLDR: NEAR is growing fast, leading to a need for more capacity, so it increased its shards from 4 to …</p>
+<p>The post <a href="/blog/legends-of-near-expansion-from-4-to-6-shards/">Legends of NEAR: Expansion from 4 to 6 Shards</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>TLDR: </strong>NEAR is growing fast, leading to a need for more capacity, so it increased its shards from 4 to 6 to handle more transactions smoothly. This upgrade boosts the network’s ability by 50% and was done without any disruption to the system, ensuring users continue to have a fast and stable experience.</p>
+
+
+
+<p>Over the last six months, NEAR has experienced a significant increase in users and transactions. NEAR has 3 of the top ten <a href="https://dappradar.com/rankings">dapps</a> in Web3 by users with KAI-CHING and HOT Wallet both reaching millions of daily active users in April 2024.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg" alt="" class="wp-image-21359" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-300x200.jpeg 300w, https://pages.near.org/wp-content/uploads/2024/05/image-768x512.jpeg 768w, https://pages.near.org/wp-content/uploads/2024/05/image.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Chart from <a href="https://pikespeak.ai/near-world/overview">Pikespeak</a></p>
+
+
+
+<ul>
+<li>Total Transactions: 1.16B&nbsp;</li>
+
+
+
+<li>Daily Unique Active Accounts: 1.3M</li>
+</ul>
+
+
+
+<p>NEAR has 3 of the top ten dapps in Web3 by users according to <a href="https://dappradar.com/rankings">dappradar</a> with KAI-CHING and HOT Wallet both reaching millions of daily active users in April 2024.</p>
+
+
+
+<p>All of this demand led to some congestion on one of the shards, so Bowen Wang, Director of Protocol, and the Protocol team worked on further optimizations that rolled out within days to address it. Over the course of 2 weeks, they added 2 more shards to NEAR – for a total of 6 live shards. This increased the network’s capacity by 50%.&nbsp;</p>
+
+
+
+<p>At the end of Q2, stateless validation is expected to&nbsp; launch on Mainnet – this upgrade is projected to improve throughput for each shard by 5x and grow the total number of shards available for the network.</p>
+
+
+
+<p>One of the most remarkable aspects of this upgrade is that it was implemented live—there was no need to take the blockchain offline. There was no break in user transactions.</p>
+
+
+
+<p>What is sharding on a blockchain? Let&#8217;s simplify using an analogy.</p>
+
+
+
+<p>Imagine you have a library that&#8217;s become too large and crowded. To manage this, you divide your books into several smaller sections and place them in different rooms. Each room now holds part of the entire collection, making finding and managing books easier. Most importantly, the separate collections will minimize congestion when the library is busy.</p>
+
+
+
+<p>Now, think of the NEAR blockchain like that crowded library. Sharding is like dividing this big blockchain into smaller, manageable pieces called &#8220;shards.&#8221; Each shard is like one of those rooms, with only the contract interactions within that shard. When someone needs information, they go directly to the room (shard) where it&#8217;s stored instead of waiting for the whole chain. This way, sharding helps handle more data and serve more users efficiently without affecting users of the entire chain every time.</p>
+
+
+
+<p>In NEAR&#8217;s case, the blockchain is split into multiple shards, akin to these rooms, where each shard processes transactions and maintains the state independently. This division allows for parallel processing, significantly boosting the network&#8217;s capacity and speed.</p>
+
+
+
+<p>What sets NEAR apart is how these shards interact and synchronize. A developer doesn’t have to worry about which shard a specific contract might be on. This approach maintains high security and interconnectivity while allowing the network to scale effectively. As the network grows and demands increase, more shards can be added, like expanding the library with more rooms, to ensure that&nbsp; NEAR can adapt to increasing usage and more complex applications.</p>
+
+
+
+<p>NEAR is focusing on future-proofing the protocol to handle even more growth and usage. This proactive approach aims to minimize disruptions and maintain a consistent developer and user experience, no matter how much the demand grows.</p>
+
+
+
+<p>This further validates NEAR’s thesis that sharding is the best scaling approach given what is currently&nbsp; happening across the whole Web3 space. Many non-sharded chain/rollups are getting congested with transactions and have been forced to raise fees, while NEAR was able to expand capacity by adding more shards and keeping fees stable.</p>
+
+
+
+<p>Homogeneous Sharding isn’t just a tech tweak; it’s a critical evolution in the blockchain that keeps transactions flowing. And it takes a team of superheroes for NEAR Protocol to be a top blockchain in Web3. The ultimate goal? To ensure that users never notice the complexity behind their seamless digital experience.</p>
+
+
+
+<p>        <a href="https://shard.dog/legendsofnear-bowen">Claim your Proof of Legends of NEAR NFT</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="724" height="1024" src="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png" alt="" class="wp-image-21365" style="width:303px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png 724w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-212x300.png 212w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-768x1086.png 768w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1086x1536.png 1086w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1448x2048.png 1448w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
+
+
+
+<p></p>
+<p>The post <a href="/blog/legends-of-near-expansion-from-4-to-6-shards/">Legends of NEAR: Expansion from 4 to 6 Shards</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Chain Signatures Launch to Enable Transactions on Any Blockchain from a NEAR Account</title>
 		<link>/blog/chain-signatures-launch-to-enable-transactions-on-any-blockchain-from-a-near-account/</link>
 		
@@ -57,7 +161,7 @@
 
 
 
-<figure class="wp-block-image is-resized"><img fetchpriority="high" decoding="async" width="1600" height="928" src="https://pages.near.org/wp-content/uploads/2024/03/image.png" alt="" class="wp-image-21297" style="width:707px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/03/image.png 1600w, https://pages.near.org/wp-content/uploads/2024/03/image-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/03/image-1024x594.png 1024w, https://pages.near.org/wp-content/uploads/2024/03/image-768x445.png 768w, https://pages.near.org/wp-content/uploads/2024/03/image-1536x891.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+<figure class="wp-block-image is-resized"><img decoding="async" width="1600" height="928" src="https://pages.near.org/wp-content/uploads/2024/03/image.png" alt="" class="wp-image-21297" style="width:707px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/03/image.png 1600w, https://pages.near.org/wp-content/uploads/2024/03/image-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/03/image-1024x594.png 1024w, https://pages.near.org/wp-content/uploads/2024/03/image-768x445.png 768w, https://pages.near.org/wp-content/uploads/2024/03/image-1536x891.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
 
 
 
@@ -81,7 +185,7 @@
 
 
 
-<figure class="wp-block-image is-resized"><img decoding="async" width="1318" height="846" src="https://pages.near.org/wp-content/uploads/2024/03/image-1.png" alt="" class="wp-image-21298" style="width:623px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/03/image-1.png 1318w, https://pages.near.org/wp-content/uploads/2024/03/image-1-300x193.png 300w, https://pages.near.org/wp-content/uploads/2024/03/image-1-1024x657.png 1024w, https://pages.near.org/wp-content/uploads/2024/03/image-1-768x493.png 768w" sizes="(max-width: 1318px) 100vw, 1318px" /></figure>
+<figure class="wp-block-image is-resized"><img loading="lazy" decoding="async" width="1318" height="846" src="https://pages.near.org/wp-content/uploads/2024/03/image-1.png" alt="" class="wp-image-21298" style="width:623px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/03/image-1.png 1318w, https://pages.near.org/wp-content/uploads/2024/03/image-1-300x193.png 300w, https://pages.near.org/wp-content/uploads/2024/03/image-1-1024x657.png 1024w, https://pages.near.org/wp-content/uploads/2024/03/image-1-768x493.png 768w" sizes="(max-width: 1318px) 100vw, 1318px" /></figure>
 
 
 
@@ -461,7 +565,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="1024" height="634" src="https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png" alt="" class="wp-image-21236" style="width:1102px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png 1024w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-300x186.png 300w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-768x475.png 768w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1536x951.png 1536w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-2048x1267.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="634" src="https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png" alt="" class="wp-image-21236" style="width:1102px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1024x634.png 1024w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-300x186.png 300w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-768x475.png 768w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-1536x951.png 1536w, https://pages.near.org/wp-content/uploads/2024/02/Screenshot-2024-02-15-at-12.37.10 PM-2048x1267.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1025,44 +1129,6 @@
 
 <p><br><br>As always, the protocol team is proud to have made several important improvements to the core protocol with zero disruption for users and developers. We look forward to making some major advancements in 2024 to help the entire NEAR ecosystem deliver its vision of mainstream adoption of an Open Web, where all internet users can control their own data, assets, and power of governance. <br><br>We will share more details on Phase 2 advancements and timelines soon. If you’d like to learn more, join the NEAR Protocol <a href="https://twitter.com/nearprotocol">X Spaces</a> on Tuesday, January 16 at 5pm UTC to hear from Director of Protocol Bowen Wang and NEAR Foundation CEO Illia Polosukhin on upcoming protocol developments.<br></p>
 <p>The post <a href="/blog/near-q4-protocol-roadmap-update/">NEAR Q4 Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Check Out the Pagoda Product Roadmap</title>
-		<link>/blog/check-out-the-pagoda-product-roadmap/</link>
-		
-		<dc:creator><![CDATA[Eric Winer]]></dc:creator>
-		<pubDate>Thu, 19 Oct 2023 14:00:00 +0000</pubDate>
-				<category><![CDATA[Developers]]></category>
-		<category><![CDATA[Pagoda]]></category>
-		<category><![CDATA[Pagoda Product Roadmap]]></category>
-		<guid isPermaLink="false">/?p=20986</guid>
-
-					<description><![CDATA[<p>Over the past year, Pagoda has been working hard to build out the B.O.S, evolve near.org, and continue developing the …</p>
-<p>The post <a href="/blog/check-out-the-pagoda-product-roadmap/">Check Out the Pagoda Product Roadmap</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Over the past year, Pagoda has been working hard to build out the B.O.S, evolve near.org, and continue developing the NEAR protocol. While Pagoda has built and launched proprietary services in the past, almost all of our work so far in 2023 and planned for the future is free open-source software,&nbsp; which we intend to become vital parts of the NEAR ecosystem. We want the community to be aware of, excited by, and engaged in this work.&nbsp;</p>
-
-
-
-<p>So I’m excited to announce that Pagoda is making its product roadmap public this week <a href="https://github.com/orgs/near/projects/80/views/3">via GitHub</a>. It&#8217;s honestly a bit overdue. Given our values of transparency and collaboration, we hope to involve more members of the community in the development process. We also hope this lets teams across the NEAR ecosystem plan ahead a bit better, build in parallel to Pagoda, and even get ideas for what to build based on what you feel is missing or should be prioritized.&nbsp;</p>
-
-
-
-<p>Right now this roadmap covers the rest of 2023 and we are committing to update the roadmap at least quarterly. The roadmap on GitHub is arranged into several views covering both the company objectives (OKRs) as well as larger workstreams (initiatives). We’ve further organized our roadmap views by product vertical and priority level, along with status and expected delivery date (which the product leads will update in real time). You may see some roadmap items displayed as “private”; this is because certain partnerships and enterprise workstreams must remain under NDA or embargo until launch. The Pagoda team will continue to iterate on this roadmap tool to make it an even richer resource for ecosystem partners and the NEAR community.</p>
-
-
-
-<p>Delivering on the Open Web vision will take contributions far beyond Pagoda and we look forward to working alongside those who are as passionate about NEAR as we are. Please explore and leave comments or questions on the <a href="https://near.social/mob.near/widget/MainPage.N.Post.Page?accountId=pagodaplatform.near&amp;blockHeight=103737068">NEAR Social post</a> – or on the roadmap itself – if you have feedback.&nbsp;</p>
-
-
-
-<p><br>-Eric Winer, CTO Pagoda</p>
-<p>The post <a href="/blog/check-out-the-pagoda-product-roadmap/">Check Out the Pagoda Product Roadmap</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		

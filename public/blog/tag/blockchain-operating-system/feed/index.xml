@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -332,7 +332,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Case Study: Building on the NEAR Blockchain Operating System (BOS)" width="500" height="281" src="https://www.youtube.com/embed/lM1DBtkmPMQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Case Study: Building on the NEAR Blockchain Operating System (BOS)" width="500" height="281" src="https://www.youtube.com/embed/lM1DBtkmPMQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 <p>The post <a href="/blog/case-study-building-on-the-near-blockchain-operating-system-bos/">Case Study: Building on the NEAR Blockchain Operating System (BOS)</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
@@ -381,7 +381,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Create a Web3 Account in Seconds with Fast Auth" width="500" height="281" src="https://www.youtube.com/embed/gN5XlpXz9gE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Create a Web3 Account in Seconds with Fast Auth" width="500" height="281" src="https://www.youtube.com/embed/gN5XlpXz9gE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -395,7 +395,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Account Recovery with NEAR&#039;s Fast Auth" width="500" height="281" src="https://www.youtube.com/embed/pH-xLAZWQNo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loading="lazy" title="Account Recovery with NEAR&#039;s Fast Auth" width="500" height="281" src="https://www.youtube.com/embed/pH-xLAZWQNo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

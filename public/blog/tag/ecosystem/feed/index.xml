@@ -12,13 +12,13 @@
 	<atom:link href="/blog/tag/ecosystem/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/ecosystem/</link>
 	<description></description>
-	<lastBuildDate>Wed, 24 Jan 2024 19:55:02 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 May 2024 17:08:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -28,6 +28,110 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Legends of NEAR: Expansion from 4 to 6 Shards</title>
+		<link>/blog/legends-of-near-expansion-from-4-to-6-shards/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Mon, 13 May 2024 16:16:00 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Core protocol]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<guid isPermaLink="false">/?p=21349</guid>
+
+					<description><![CDATA[<p>TLDR: NEAR is growing fast, leading to a need for more capacity, so it increased its shards from 4 to …</p>
+<p>The post <a href="/blog/legends-of-near-expansion-from-4-to-6-shards/">Legends of NEAR: Expansion from 4 to 6 Shards</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>TLDR: </strong>NEAR is growing fast, leading to a need for more capacity, so it increased its shards from 4 to 6 to handle more transactions smoothly. This upgrade boosts the network’s ability by 50% and was done without any disruption to the system, ensuring users continue to have a fast and stable experience.</p>
+
+
+
+<p>Over the last six months, NEAR has experienced a significant increase in users and transactions. NEAR has 3 of the top ten <a href="https://dappradar.com/rankings">dapps</a> in Web3 by users with KAI-CHING and HOT Wallet both reaching millions of daily active users in April 2024.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg" alt="" class="wp-image-21359" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-300x200.jpeg 300w, https://pages.near.org/wp-content/uploads/2024/05/image-768x512.jpeg 768w, https://pages.near.org/wp-content/uploads/2024/05/image.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Chart from <a href="https://pikespeak.ai/near-world/overview">Pikespeak</a></p>
+
+
+
+<ul>
+<li>Total Transactions: 1.16B&nbsp;</li>
+
+
+
+<li>Daily Unique Active Accounts: 1.3M</li>
+</ul>
+
+
+
+<p>NEAR has 3 of the top ten dapps in Web3 by users according to <a href="https://dappradar.com/rankings">dappradar</a> with KAI-CHING and HOT Wallet both reaching millions of daily active users in April 2024.</p>
+
+
+
+<p>All of this demand led to some congestion on one of the shards, so Bowen Wang, Director of Protocol, and the Protocol team worked on further optimizations that rolled out within days to address it. Over the course of 2 weeks, they added 2 more shards to NEAR – for a total of 6 live shards. This increased the network’s capacity by 50%.&nbsp;</p>
+
+
+
+<p>At the end of Q2, stateless validation is expected to&nbsp; launch on Mainnet – this upgrade is projected to improve throughput for each shard by 5x and grow the total number of shards available for the network.</p>
+
+
+
+<p>One of the most remarkable aspects of this upgrade is that it was implemented live—there was no need to take the blockchain offline. There was no break in user transactions.</p>
+
+
+
+<p>What is sharding on a blockchain? Let&#8217;s simplify using an analogy.</p>
+
+
+
+<p>Imagine you have a library that&#8217;s become too large and crowded. To manage this, you divide your books into several smaller sections and place them in different rooms. Each room now holds part of the entire collection, making finding and managing books easier. Most importantly, the separate collections will minimize congestion when the library is busy.</p>
+
+
+
+<p>Now, think of the NEAR blockchain like that crowded library. Sharding is like dividing this big blockchain into smaller, manageable pieces called &#8220;shards.&#8221; Each shard is like one of those rooms, with only the contract interactions within that shard. When someone needs information, they go directly to the room (shard) where it&#8217;s stored instead of waiting for the whole chain. This way, sharding helps handle more data and serve more users efficiently without affecting users of the entire chain every time.</p>
+
+
+
+<p>In NEAR&#8217;s case, the blockchain is split into multiple shards, akin to these rooms, where each shard processes transactions and maintains the state independently. This division allows for parallel processing, significantly boosting the network&#8217;s capacity and speed.</p>
+
+
+
+<p>What sets NEAR apart is how these shards interact and synchronize. A developer doesn’t have to worry about which shard a specific contract might be on. This approach maintains high security and interconnectivity while allowing the network to scale effectively. As the network grows and demands increase, more shards can be added, like expanding the library with more rooms, to ensure that&nbsp; NEAR can adapt to increasing usage and more complex applications.</p>
+
+
+
+<p>NEAR is focusing on future-proofing the protocol to handle even more growth and usage. This proactive approach aims to minimize disruptions and maintain a consistent developer and user experience, no matter how much the demand grows.</p>
+
+
+
+<p>This further validates NEAR’s thesis that sharding is the best scaling approach given what is currently&nbsp; happening across the whole Web3 space. Many non-sharded chain/rollups are getting congested with transactions and have been forced to raise fees, while NEAR was able to expand capacity by adding more shards and keeping fees stable.</p>
+
+
+
+<p>Homogeneous Sharding isn’t just a tech tweak; it’s a critical evolution in the blockchain that keeps transactions flowing. And it takes a team of superheroes for NEAR Protocol to be a top blockchain in Web3. The ultimate goal? To ensure that users never notice the complexity behind their seamless digital experience.</p>
+
+
+
+<p>        <a href="https://shard.dog/legendsofnear-bowen">Claim your Proof of Legends of NEAR NFT</a></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="724" height="1024" src="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png" alt="" class="wp-image-21365" style="width:303px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png 724w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-212x300.png 212w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-768x1086.png 768w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1086x1536.png 1086w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1448x2048.png 1448w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
+
+
+
+<p></p>
+<p>The post <a href="/blog/legends-of-near-expansion-from-4-to-6-shards/">Legends of NEAR: Expansion from 4 to 6 Shards</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Why Chain Abstraction Is the Next Frontier for Web3</title>
 		<link>/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</link>
 		
@@ -218,7 +322,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg" alt="" class="wp-image-20876" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg" alt="" class="wp-image-20876" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -234,7 +338,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg" alt="" class="wp-image-20874" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg" alt="" class="wp-image-20874" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -250,7 +354,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg" alt="" class="wp-image-20871" srcset="https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1536x1024.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg" alt="" class="wp-image-20871" srcset="https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1536x1024.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -981,70 +1085,6 @@
 
 <p>That’s all for this month. If we missed anything or want to share anything for next month’s roundup, get in touch!</p>
 <p>The post <a href="/blog/near-foundation-pr-roundup-for-june/">NEAR Foundation PR Roundup for June</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</title>
-		<link>/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Sun, 04 Jun 2023 06:35:49 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[Aurora]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[Partnerships]]></category>
-		<category><![CDATA[Web3 Gaming]]></category>
-		<guid isPermaLink="false">/?p=20565</guid>
-
-					<description><![CDATA[<p>NEAR Foundation is excited to announce a new strategic partnership with MARBLEX, a blockchain subsidiary of Netmarble Corp, that will …</p>
-<p>The post <a href="/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p></p>
-
-
-
-<p>NEAR Foundation is excited to announce a new strategic partnership with MARBLEX, a blockchain subsidiary of Netmarble Corp, that will help expand Korea’s Web3 gaming industry. MARBLEX will build on Aurora, NEAR’s Ethereum-compatible layer, for maximum scalability and blockchain gaming accessibility to onboard more players to Web3.&nbsp;</p>
-
-
-
-<p>Under the new partnership facilitated by the NEAR Korea Hub, NEAR Foundation and MARBLEX plan to achieve mutual growth by linking the NEAR blockchain and Aurora with WARP Bridge to enable interactive collaboration, promote global joint marketing events, and enhance brand awareness.&nbsp;</p>
-
-
-
-<p></p>
-
-
-
-<p>Through WARP Bridge, competitive and casual gamers alike will now be able to enjoy a variety of games and exclusive content through NEAR’s Blockchain Operating System (BOS). The BOS leverages the NEAR Protocol’s fast transaction speeds as well as effortless scalability and onboarding (via FastAuth) to make the onboarding experience as easy as possible for the masses.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-marblex-a-developer-and-publisher-of-mobile-games">MARBLEX: a developer and publisher of mobile games</h2>
-
-
-
-<p>A Web3 gaming giant constantly pushing the boundaries of what&#8217;s possible, MARBLEX is a well-established developer and publisher of mobile games with more than 6,000 experts from across the globe. MARBLEX’s goal is to bring the highest quality Web3 games to market by providing key services such as a cryptocurrency wallet, decentralized exchange, token staking, and an NFT Marketplace.<br><br>“We expect NEAR’s core narrative to play a pivotal role in bolstering the overall MBX 3.0 ecosystem,” said Junki Moon, Business Division Director of MARBLEX added. “Through the collaborative integration of the NEAR Foundation’s extensive technical expertise with the content prowess of the MBX ecosystem, we will maintain our position as pioneers in the ever-evolving landscape of the global blockchain trends.”<br></p>
-
-
-
-<p>Robbie Lim, GM of Business Development at NEAR Foundation, added: “This collaboration with MARBLEX will be an important milestone in promoting various use cases based on BOS (Blockchain Operating System). We will continuously advance the gaming ecosystem of NEAR Protocol as well as attract numerous users to enter the Web3 scene by onboarding high-quality MBX content.”</p>
-
-
-
-<p>NEAR Korea Hub, which oversees business development in Korea and Asia, played a key role in this strategic partnership. The Hub also sees the partnership as breaking a barrier to Web3 entry for mobile gamers.&nbsp;</p>
-
-
-
-<p></p>
-
-
-
-<p>“NEAR Protocol provides a user experience similar to Web2 using Fast Auth account abstraction feature, greatly lowering the initial entry barrier to Web3,” said a spokesperson from NEAR Korea Hub. “We will continue to strongly partner with excellent domestic companies such as MARBLEX to implement a user-centered ecosystem where users can easily enjoy all services.”</p>
-<p>The post <a href="/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
