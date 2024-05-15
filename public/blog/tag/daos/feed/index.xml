@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -52,7 +52,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Case Study: Bernoulli-Locke&#039;s David Palmer on the DAO-Owned SailGP Team" width="500" height="281" src="https://www.youtube.com/embed/N50b3Pn2fmY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Case Study: Bernoulli-Locke&#039;s David Palmer on the DAO-Owned SailGP Team" width="500" height="281" src="https://www.youtube.com/embed/N50b3Pn2fmY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 <p>The post <a href="/blog/case-study-bernoulli-locke-lockes-david-palmer-on-the-dao-owned-sailgp-team/">Case Study: Bernoulli-Locke-Locke&#8217;s David Palmer on the DAO-Owned SailGP Team</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
@@ -1278,7 +1278,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="NEAR Town Hall February 2022 - NEAR Global Expansion, Pagoda, Education and MetaBUILD 2 Hackathon" width="500" height="281" src="https://www.youtube.com/embed/_MNN6gnPtIA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="NEAR Town Hall February 2022 - NEAR Global Expansion, Pagoda, Education and MetaBUILD 2 Hackathon" width="500" height="281" src="https://www.youtube.com/embed/_MNN6gnPtIA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 <p>The post <a href="/blog/nears-march-town-hall-highlights/">NEAR’s March Town Hall Highlights</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
@@ -1430,7 +1430,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Near Protocol - What is a DAO?" width="500" height="281" src="https://www.youtube.com/embed/aXIH46sSUhs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="NEAR Protocol - What is a DAO?" width="500" height="281" src="https://www.youtube.com/embed/aXIH46sSUhs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

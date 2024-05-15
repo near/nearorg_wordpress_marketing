@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -544,7 +544,7 @@
 <h2><b>Ceramic now supports NEAR wallets</b></h2>
 <p><span style="font-weight: 400;">Starting today, developers building applications on NEAR can easily add support for Ceramic and IDX in their application with a seamless user experience. NEAR key pairs have been added as a supported signing and </span><a href="https://developers.ceramic.network/reference/javascript/blockchain/#currently-supported-blockchains"><span style="font-weight: 400;">authentication method</span></a><span style="font-weight: 400;"> for Ceramic&#8217;s data streams, so users can now perform transactions on Ceramic with their existing NEAR wallets. </span></p>
 <p><span style="font-weight: 400;">Developers have already started combining NEAR and Ceramic to create new applications such as NEAR Personas, which </span><a href="https://vitalpoint.ai/near-digital-identity/"><span style="font-weight: 400;">links</span></a><span style="font-weight: 400;"> a NEAR wallet to a DID.</span></p>
-<p><iframe title="NEAR Personas - Decentralized Identity Tutorial" width="500" height="281" src="https://www.youtube.com/embed/v2GzFFmuWDM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe title="NEAR Personas - Decentralized Identity Tutorial" width="500" height="281" src="https://www.youtube.com/embed/v2GzFFmuWDM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <h2><b>About Ceramic: Decentralized data streams</b></h2>
 <p><span style="font-weight: 400;">Ceramic provides developers with database-like functionality for storing all kinds of dynamic, mutable content. This finally gives developers a Web3 native way to add critical features like rich identities (profiles, reputation, social graphs), user-generated content (posts, interactions), dynamic application-data, and much more.</span></p>
 <p><a href="https://developers.ceramic.network/learn/overview/"><span style="font-weight: 400;">Ceramic&#8217;s unique stream-based architecture</span></a><span style="font-weight: 400;"> is designed to handle any type of data model at web-scale volume and latency. Built on top of open standards including IPFS, libp2p, and DIDs and compatible with any raw storage protocol like Filecoin or Arweave, all information stored on Ceramic exists within a permissionless cross-chain network that lets developers tap into an ever growing library of identities and data while using their preferred stack.</span></p>

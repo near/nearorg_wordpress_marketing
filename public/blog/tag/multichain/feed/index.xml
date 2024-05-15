@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -213,7 +213,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Case Study: Indexer&#039;s Mary Korch on Building a Multichain Indexing Platform" width="500" height="281" src="https://www.youtube.com/embed/MDGVG0SuiLU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Case Study: Indexer&#039;s Mary Korch on Building a Multichain Indexing Platform" width="500" height="281" src="https://www.youtube.com/embed/MDGVG0SuiLU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 <p>The post <a href="/blog/case-study-indexers-mary-korch-on-building-a-multichain-indexing-platform/">Case Study: Indexer&#8217;s Mary Korch on Building a Multichain Indexing Platform</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
