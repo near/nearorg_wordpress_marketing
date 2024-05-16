@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DeFi Archives &#8211; NEAR Protocol</title>
+	<atom:link href="/events/event-categories/defi/feed/" rel="self" type="application/rss+xml" />
+	<link>/events/event-categories/defi/</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 Dec 2022 15:17:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<title>DeFi Archives &#8211; NEAR Protocol</title>
+	<link>/events/event-categories/defi/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Innovative Finance Global Summit</title>
+		<link>/near-events/innovative-finance-global-summit/</link>
+		
+		<dc:creator><![CDATA[Bianca Mormand]]></dc:creator>
+		<pubDate>Mon, 19 Dec 2022 15:17:27 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=near_event#038;p=19616</guid>
+
+					<description><![CDATA[<p>The post <a href="/near-events/innovative-finance-global-summit/">Innovative Finance Global Summit</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/near-events/innovative-finance-global-summit/">Innovative Finance Global Summit</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
