@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2024-05-13T17:08:25+00:00</lastmod>
+		<lastmod>2024-05-16T13:59:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/near-community-update-february-22-2019/</loc>
@@ -4618,6 +4618,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/unlocking-multichain-web3-with-near-chain-signatures/</loc>
+		<lastmod>2024-05-16T13:59:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/unlocking-multichain-web3-blog.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/image-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/image-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/image-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/image-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/image.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
