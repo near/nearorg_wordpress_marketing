@@ -4,55 +4,55 @@
 		<loc>/case-studies/kurtosis/</loc>
 		<lastmod>2022-01-21T19:12:02+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2022/01/kurtosis-header-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/01/kurtosis-header-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/case-studies/flux/</loc>
 		<lastmod>2022-01-21T19:15:59+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2020/10/cs_flux_header_002.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/10/cs_flux_header_002.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2022/01/flux-header.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/01/flux-header.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2020/09/flux1.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/09/flux1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/case-studies/paras/</loc>
 		<lastmod>2022-06-02T22:41:47+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2021/04/cs_paras_header.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/04/cs_paras_header.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2022/01/paras-header-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/01/paras-header-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2021/04/paras-items.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/04/paras-items.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2021/04/paras-fictionspawn.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/04/paras-fictionspawn.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2021/04/paras-row2.gif</image:loc>
+			<image:loc>/wp-content/uploads/2021/04/paras-row2.gif</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/case-studies/mintbase/</loc>
 		<lastmod>2022-06-02T22:43:05+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2020/09/cs_mintbase_header.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/09/cs_mintbase_header.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2022/01/mintbase-header.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/01/mintbase-header.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2020/09/mintbase1.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/09/mintbase1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2020/09/mintbase2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2020/09/mintbase2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

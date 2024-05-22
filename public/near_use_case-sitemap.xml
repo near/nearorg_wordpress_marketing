@@ -4,41 +4,41 @@
 		<loc>/use-cases/creators/</loc>
 		<lastmod>2021-10-18T12:30:46+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2021/09/3d-007.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/09/3d-007.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2021/09/triangle-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/09/triangle-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2021/09/triangle-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/09/triangle-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/use-cases/communities/</loc>
 		<lastmod>2021-10-18T12:31:33+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2021/09/3d-003.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/09/3d-003.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/use-cases/defi/</loc>
 		<lastmod>2021-10-18T12:35:43+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2021/09/3d-001-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/09/3d-001-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/use-cases/dao/</loc>
 		<lastmod>2021-10-18T12:38:50+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2021/09/3d-003.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/09/3d-003.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/use-cases/nft/</loc>
 		<lastmod>2022-04-21T12:17:50+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pages.near.org/wp-content/uploads/2021/08/find-a-guild-3d.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/08/find-a-guild-3d.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
