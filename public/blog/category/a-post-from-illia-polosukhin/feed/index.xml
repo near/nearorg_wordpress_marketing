@@ -12,7 +12,7 @@
 	<atom:link href="/blog/category/a-post-from-illia-polosukhin/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/a-post-from-illia-polosukhin/</link>
 	<description></description>
-	<lastBuildDate>Wed, 24 Jan 2024 19:55:02 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 May 2024 13:00:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,58 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>User-Owned AI is NEAR</title>
+		<link>/blog/user-owned-ai-is-near/</link>
+		
+		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
+		<pubDate>Wed, 22 May 2024 13:00:18 +0000</pubDate>
+				<category><![CDATA[A Post from Illia Polosukhin]]></category>
+		<guid isPermaLink="false">/?p=21384</guid>
+
+					<description><![CDATA[<p>AI is going to fundamentally change the way we interact with computing and coordinate with each other. NEAR has become …</p>
+<p>The post <a href="/blog/user-owned-ai-is-near/">User-Owned AI is NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<p>AI is going to fundamentally change the way we interact with computing and coordinate with each other. NEAR has become one of the dominant consumer blockchains for mainstream applications, with millions of transactions per day. Now we are building the next stage of NEAR’s roadmap: <strong>enabling NEAR to become the home for User-Owned AI</strong>.</p>
+
+
+
+<p>The NEAR ecosystem’s focus on usability and mainstream applications will continue, with sharding and massive scalability improvements on the horizon. But AI is clearly becoming the most disruptive technology of the next decade, while almost all of that development is happening inside centralized, closed for-profit companies. We do not want to live in a world where a few mega-corporations control the most powerful human resource: intelligence. Our goal for NEAR is to put the power of AI where it belongs—in the hands of users.</p>
+
+
+
+<p>The NEAR Foundation will invest in making NEAR the best ecosystem for the next generation of AI research and applications. This will include core infrastructure investment: enabling data collection and crowdsourcing; curation and rewarding creators; access to compute and novel ways to monetize it; verifiability of training and inference to ensure provenance; agentic infrastructure, and more. We want NEAR to be the place where any AI application and novel consumer use case can leverage the best User-Owned AI infrastructure, accessible by everyone in the Web3 ecosystem.</p>
+
+
+
+<p>That is the short-term vision. But we are also looking toward the longer term, because AI is still fundamentally a research problem. We recently started the NEAR.AI R&amp;D Lab, led by Alex Skidanov and me. We will first build an “AI Developer” to tackle the core problem of building end-to-end Web3 applications from user intents. We will hire a team of AI researchers and invest in the cutting-edge research required to achieve this.</p>
+
+
+
+<p>The NEAR ecosystem is best positioned to achieve this vision at scale by combining user distribution in the tens of millions, a Web3 developer ecosystem that includes a growing number of AI projects, and ample financial resources stewarded by a not-for-profit Swiss Foundation. With my background as a co-creator of Transformers, with Alex’s AI experience, and with NEAR’s ties to the most important leaders in both Web3 and AI spaces, we can attract (and in fact are already recruiting) top AI talent to the User-Owned AI movement.&nbsp;</p>
+
+
+
+<p>These efforts in ecosystem building, R&amp;D, and infrastructure will create a flywheel to attract more builders and position the User-Owned AI ecosystem to succeed at a global scale. The goal is to create an alternative solution to closed, centralized players and enable a future where super-powerful AI truly benefits users and communities, drives new economies, and accelerates innovation &amp; creativity.</p>
+
+
+
+<p>–<em>Illia Polosukhin, Co-Founder of NEAR Protocol &amp; CEO of NEAR Foundation</em></p>
+
+
+
+<p></p>
+<p>The post <a href="/blog/user-owned-ai-is-near/">User-Owned AI is NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Why Chain Abstraction Is the Next Frontier for Web3</title>
 		<link>/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</link>
 		
