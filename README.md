@@ -19,3 +19,6 @@ replace: =https://pages.near.org/wp-content
 
 search: ?paged=
 replace: page/
+
+From the file blog/near-foundation-accounces-policy-principles/index.html
+delete " Law Commission’s consultation paper dealing with law reform proposals in the context of digital assets and personal property rights is available <a href=https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/07/Digital-Assets-Consultation-Paper-Law-Commission-1.pdf>here</a>, and the"
