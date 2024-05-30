@@ -12,7 +12,7 @@
 	<atom:link href="/blog/category/developers/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/developers/</link>
 	<description></description>
-	<lastBuildDate>Thu, 16 May 2024 17:19:29 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 May 2024 13:47:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,109 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Introducing *NEAR Name Tokens &#8211; Multichain, Cross-Platform Digital Identities In Web3</title>
+		<link>/blog/introducing-near-name-tokens/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 29 May 2024 13:47:41 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developers]]></category>
+		<guid isPermaLink="false">/?p=21393</guid>
+
+					<description><![CDATA[<p>Following the recently announced partnership between NEAR Foundation and&#160;D3, we’re excited to introduce *NEAR Name Tokens; a multichain, cross-platform digital …</p>
+<p>The post <a href="/blog/introducing-near-name-tokens/">Introducing *NEAR Name Tokens &#8211; Multichain, Cross-Platform Digital Identities In Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Following the recently announced <a href="/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/">partnership between NEAR Foundation and&nbsp;D3</a>, we’re excited to introduce *NEAR Name Tokens; a multichain, cross-platform digital identity for web3 and beyond.</p>
+
+
+
+<p>NEAR Foundation is working with D3 to bridge the gap between traditional internet infrastructure and web3. *NEAR Name Tokens are an important step in developing the <a href="https://d3.inc/blog/educational/futureproof-your-digital-identity-how-d3-aims-to-revolutionize-your-online-persona/">futureproof, interoperable digital identities</a> that will be key to driving implementation of chain abstraction, and of developing web3 more broadly.</p>
+
+
+
+<p><strong>Complementing the NEAR Ecosystem with *NEAR Name Tokens</strong></p>
+
+
+
+<p>NEAR already offers a deeply integrated identity solution with named NEAR accounts. These NEAR accounts, however, are limited to use across the NEAR ecosystem.</p>
+
+
+
+<p>*NEAR Name Tokens will offer users a comprehensive digital identity solution across the wider web3 ecosystem, while keeping NEAR front and center.</p>
+
+
+
+<p>Users will be able to use these name tokens in a variety of ways, including:</p>
+
+
+
+<ul>
+<li>As a simplified wallet address across hundreds of different blockchain networks</li>
+
+
+
+<li>As an infrastructure identifier across hundreds of different blockchain networks</li>
+
+
+
+<li>As a cross-platform username across various different decentralized platforms, including DeFi, GameFi, SocialFi, SportFi and other related applications</li>
+
+
+
+<li>As Verifiable Credentials (VCs) to platforms and services that you interact with</li>
+
+
+
+<li>To gain access to unique benefits and rewards programs for participating in the D3 ecosystem</li>
+
+
+
+<li>As expressions of interest for the eventual .NEAR equivalent domain on the internet</li>
+</ul>
+
+
+
+<p><strong>Why *NEAR Instead of .NEAR</strong></p>
+
+
+
+<p>*NEAR Name Tokens feature a star, or asterisk (*), between the name and extension—such as <em>you*near</em>—instead of a period (.). In part, this is because NEAR accounts already use a .NEAR extension, and we want to avoid confusion for users.</p>
+
+
+
+<p>More importantly, however, we use *NEAR because Name Tokens are unique web3 identifiers, not real domains, and we want to avoid any confusion between these as well. For years, several naming systems across web3 have thrown around the word “domain” quite liberally, without offering any of the actual utility offered by real domains.</p>
+
+
+
+<p>Real domains are fully integrated with the Domain Name System, the distributed service that allows users to access websites and email infrastructure with ease. Billions of internet-capable devices—such as computers, tablets, mobile phones, Internet of Things devices, and more—support the DNS and real domains without the need for specialized software or plugins.</p>
+
+
+
+<p>Integrating web3 with DNS will be critical in bringing interoperable digital identities to web3. To that end, NEAR Foundation has partnered with D3 to apply for and obtain the .near top-level domain—like the “.org” in <em>near.org</em>—during the upcoming application period for new TLDs, the first in over a decade.</p>
+
+
+
+<p><strong>Exclusive Early Access Period to *NEAR Name Tokens for NEAR Account Holders</strong></p>
+
+
+
+<p>As part of our initial launch phase later this summer,, existing NEAR account holders will receive exclusive early access to their equivalent *NEAR Name Tokens. For instance, if you already have the <em>name.near</em> NEAR account registered prior to launch, you will receive exclusive access to register <em>name*near</em> for a period of 90 days before names are released for public availability.</p>
+
+
+
+<p>Similarly, should a NEAR account be available for any new *NEAR Name Token registrations, D3 will claim it on behalf of users to ensure a uniform experience across the NEAR ecosystem. Users can <a href="https://d3.app/near">sign up for early access</a>, and you’ll be  notified you prior to the official launch of *NEAR Name Tokens later this summer</p>
+
+
+
+<p></p>
+<p>The post <a href="/blog/introducing-near-name-tokens/">Introducing *NEAR Name Tokens &#8211; Multichain, Cross-Platform Digital Identities In Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Unlocking Multichain Web3 with NEAR Chain Signatures</title>
 		<link>/blog/unlocking-multichain-web3-with-near-chain-signatures/</link>
 		
@@ -1198,78 +1301,6 @@
 
 <p></p>
 <p>The post <a href="/blog/why-near-data-availability/">Why NEAR Data Availability?</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEAR DA Integrates with Polygon CDK for Developers Building Ethereum ZK Rollups </title>
-		<link>/blog/near-da-integrates-with-polygon-cdk-for-developers-building-ethereum-zk-rollups/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 18 Jan 2024 15:09:34 +0000</pubDate>
-				<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">/?p=21162</guid>
-
-					<description><![CDATA[<p>The NEAR Foundation and Polygon Labs announced today that the latest technical integration for NEAR DA’s efficient and highly scalable …</p>
-<p>The post <a href="/blog/near-da-integrates-with-polygon-cdk-for-developers-building-ethereum-zk-rollups/">NEAR DA Integrates with Polygon CDK for Developers Building Ethereum ZK Rollups </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>The NEAR Foundation and Polygon Labs announced today that the latest technical integration for NEAR DA’s efficient and highly scalable data availability is now available for <a href="https://polygon.technology/polygon-cdk">Polygon CDK</a>, the tech stack that allows developers to launch their own ZK-powered Layer 2s custom-fitted to their needs.</p>
-
-
-
-<p>The <a href="https://near.org/data-availability">NEAR Data Availability layer</a> (NEAR DA) is a highly efficient and robust data availability layer, designed to help Ethereum rollup builders simplify their network and lower costs, while ensuring they can scale like the NEAR Protocol. Polygon CDK is a simple-to-build L2 stack and a scaling solution for Ethereum that lets developers build custom L2 chains with their own configurations. Builders can enjoy customisable features (transaction costs, native token, throughput), while still enjoying familiar EVM-compatibility and trustless security.&nbsp;</p>
-
-
-
-<p>With the latest NEAR DA integration, rollups can benefit from cheaper data availability costs to significantly reduce their overall rollup overheads. This is especially relevant considering <a href="https://dune.com/niftytable/rollup-economics">data publishing costs are at all-time highs</a> for L2s.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-near-da-paves-the-way-for-modular-blockchain-development">NEAR DA paves the way for modular blockchain development</h2>
-
-
-
-<p>This integration empowers rollup builders on Polygon CDK to use NEAR DA as a complete, out-of-the-box modular DA solution.&nbsp;</p>
-
-
-
-<p>“We’re excited to make NEAR DA available to Polygon CDK rollup builders and share the benefits of cost-effective, lightning-fast data availability that scales with NEAR’s sharding for the modular Ethereum ecosystem,” said Illia Polosukhin, Co-Founder of NEAR Protocol. “This is another exciting collaboration between NEAR Foundation and Polygon Labs to drive Chain Abstraction and create better experiences for developers and users.”</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/01/da-comparison-1024x576.png" alt="" class="wp-image-21165" srcset="/wp-content/uploads/2024/01/da-comparison-1024x576.png 1024w, /wp-content/uploads/2024/01/da-comparison-300x169.png 300w, /wp-content/uploads/2024/01/da-comparison-768x432.png 768w, /wp-content/uploads/2024/01/da-comparison-1536x864.png 1536w, /wp-content/uploads/2024/01/da-comparison.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">As of December 2023, 231 kB of calldata on <a href="https://nearblocks.io/txns/HCA1dMLjYE9bTMNUpTG4sbcwhC9X1tXRtpUSxUEhjhLm">NEAR costs $0.0016</a>, while the same calldata on<a href="https://etherscan.io/tx/0x53a0d93d88e0dc050ca86ab45b26c952a79aa0116825a9e3a5276a36fa897bbe"> Ethereum L1 costs users $140.54</a>  and on <a href="https://celestia.explorers.guru/transaction/BFF52A4E7A2B523657710F36A4A917669973E3E2B8425AB21C65299BD6A90A0E">Celestia costs users $0.046</a>.</figcaption></figure>
-
-
-
-<p></p>
-
-
-
-<p>NEAR DA helps developers reduce costs and enhance their rollup’s reliability, while maintaining the security guarantees provided by Ethereum. Another upside to NEAR DA is that high quality projects launching an app-chain or L2 will be able to get out-of-the-box NEAR DA compatibility and support.</p>
-
-
-
-<p></p>
-
-
-
-<h2 class="wp-block-heading">Develop ZK L2s within the Polygon CDK ecosystem enabled by NEAR DA</h2>
-
-
-
-<p>The NEAR-Polygon CDK integration allows developers building their own rollups to be part of the Polygon ecosystem, a network of blockchains which includes Polygon PoS, Polygon zkEVM and Polygon CDK-enabled blockchains. This is the first NEAR DA integration with a ZK-based L2 stack, increasing optionality for developers looking for scalable DA solutions.&nbsp;</p>
-
-
-
-<p>This integration also builds upon the NEAR-Polygon <a href="https://polygon.technology/blog/polygon-labs-and-near-foundation-collaborate-to-build-a-zkwasm-prover-as-a-component-for-polygon-cdk">research collaboration</a> to build zkWASM, a new type of prover for WASM blockchains. In the future, builders could even create zkWASM chains built on NEAR DA. Together, NEAR DA and zkWASM technology will play significant roles in scaling EVM and Wasm ecosystems in parallel while maximizing interoperability for a multi-chain future.&nbsp;</p>
-
-
-
-<p>Interested teams who want to work with NEAR DA are invited to fill out <a href="https://forms.gle/LWJoTpTiCbSheUL26">this form</a>, with information about your project and how you would like to integrate with NEAR DA.</p>
-<p>The post <a href="/blog/near-da-integrates-with-polygon-cdk-for-developers-building-ethereum-zk-rollups/">NEAR DA Integrates with Polygon CDK for Developers Building Ethereum ZK Rollups </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
