@@ -12,7 +12,7 @@
 	<atom:link href="/blog/category/community/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/community/</link>
 	<description></description>
-	<lastBuildDate>Fri, 03 May 2024 13:04:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 May 2024 13:47:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,177 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Introducing *NEAR Name Tokens &#8211; Multichain, Cross-Platform Digital Identities In Web3</title>
+		<link>/blog/introducing-near-name-tokens/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 29 May 2024 13:47:41 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developers]]></category>
+		<guid isPermaLink="false">/?p=21393</guid>
+
+					<description><![CDATA[<p>Following the recently announced partnership between NEAR Foundation and&#160;D3, we’re excited to introduce *NEAR Name Tokens; a multichain, cross-platform digital …</p>
+<p>The post <a href="/blog/introducing-near-name-tokens/">Introducing *NEAR Name Tokens &#8211; Multichain, Cross-Platform Digital Identities In Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Following the recently announced <a href="/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/">partnership between NEAR Foundation and&nbsp;D3</a>, we’re excited to introduce *NEAR Name Tokens; a multichain, cross-platform digital identity for web3 and beyond.</p>
+
+
+
+<p>NEAR Foundation is working with D3 to bridge the gap between traditional internet infrastructure and web3. *NEAR Name Tokens are an important step in developing the <a href="https://d3.inc/blog/educational/futureproof-your-digital-identity-how-d3-aims-to-revolutionize-your-online-persona/">futureproof, interoperable digital identities</a> that will be key to driving implementation of chain abstraction, and of developing web3 more broadly.</p>
+
+
+
+<p><strong>Complementing the NEAR Ecosystem with *NEAR Name Tokens</strong></p>
+
+
+
+<p>NEAR already offers a deeply integrated identity solution with named NEAR accounts. These NEAR accounts, however, are limited to use across the NEAR ecosystem.</p>
+
+
+
+<p>*NEAR Name Tokens will offer users a comprehensive digital identity solution across the wider web3 ecosystem, while keeping NEAR front and center.</p>
+
+
+
+<p>Users will be able to use these name tokens in a variety of ways, including:</p>
+
+
+
+<ul>
+<li>As a simplified wallet address across hundreds of different blockchain networks</li>
+
+
+
+<li>As an infrastructure identifier across hundreds of different blockchain networks</li>
+
+
+
+<li>As a cross-platform username across various different decentralized platforms, including DeFi, GameFi, SocialFi, SportFi and other related applications</li>
+
+
+
+<li>As Verifiable Credentials (VCs) to platforms and services that you interact with</li>
+
+
+
+<li>To gain access to unique benefits and rewards programs for participating in the D3 ecosystem</li>
+
+
+
+<li>As expressions of interest for the eventual .NEAR equivalent domain on the internet</li>
+</ul>
+
+
+
+<p><strong>Why *NEAR Instead of .NEAR</strong></p>
+
+
+
+<p>*NEAR Name Tokens feature a star, or asterisk (*), between the name and extension—such as <em>you*near</em>—instead of a period (.). In part, this is because NEAR accounts already use a .NEAR extension, and we want to avoid confusion for users.</p>
+
+
+
+<p>More importantly, however, we use *NEAR because Name Tokens are unique web3 identifiers, not real domains, and we want to avoid any confusion between these as well. For years, several naming systems across web3 have thrown around the word “domain” quite liberally, without offering any of the actual utility offered by real domains.</p>
+
+
+
+<p>Real domains are fully integrated with the Domain Name System, the distributed service that allows users to access websites and email infrastructure with ease. Billions of internet-capable devices—such as computers, tablets, mobile phones, Internet of Things devices, and more—support the DNS and real domains without the need for specialized software or plugins.</p>
+
+
+
+<p>Integrating web3 with DNS will be critical in bringing interoperable digital identities to web3. To that end, NEAR Foundation has partnered with D3 to apply for and obtain the .near top-level domain—like the “.org” in <em>near.org</em>—during the upcoming application period for new TLDs, the first in over a decade.</p>
+
+
+
+<p><strong>Exclusive Early Access Period to *NEAR Name Tokens for NEAR Account Holders</strong></p>
+
+
+
+<p>As part of our initial launch phase later this summer,, existing NEAR account holders will receive exclusive early access to their equivalent *NEAR Name Tokens. For instance, if you already have the <em>name.near</em> NEAR account registered prior to launch, you will receive exclusive access to register <em>name*near</em> for a period of 90 days before names are released for public availability.</p>
+
+
+
+<p>Similarly, should a NEAR account be available for any new *NEAR Name Token registrations, D3 will claim it on behalf of users to ensure a uniform experience across the NEAR ecosystem. Users can <a href="https://d3.app/near">sign up for early access</a>, and you’ll be  notified you prior to the official launch of *NEAR Name Tokens later this summer</p>
+
+
+
+<p></p>
+<p>The post <a href="/blog/introducing-near-name-tokens/">Introducing *NEAR Name Tokens &#8211; Multichain, Cross-Platform Digital Identities In Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NEAR Foundation Partners with NEAT Protocol to Accelerate the Growth of AI Applications with 1 million $NEAR Delegation</title>
+		<link>/blog/neat-protocol/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 28 May 2024 12:17:11 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<guid isPermaLink="false">/?p=21390</guid>
+
+					<description><![CDATA[<p>NEAR Foundation announces today that NEAT, a rollup protocol designed for scaling AI applications on NEAR, has received 1 million …</p>
+<p>The post <a href="/blog/neat-protocol/">NEAR Foundation Partners with NEAT Protocol to Accelerate the Growth of AI Applications with 1 million $NEAR Delegation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>NEAR Foundation announces today that NEAT, a rollup protocol designed for scaling AI applications on NEAR, has received 1 million $NEAR token staking delegation from NEAR Foundation. All NEAR token rewards from the delegation will be redistributed to $NEAT stakers, producing approximately 120-200% APY. This funding is part of NEAR Foundation&#8217;s efforts to support AI and blockchain projects on NEAR, and to promote use cases of AI integration with blockchain technology more broadly. NEAT, as the first rollup scaling protocol to receive official support from the NEAR Foundation, will utilize these funds to attract a wider user base to its ecosystem.</p>
+
+
+
+<p>NEAT is a rollup scaling solution built on the NEAR inscription standard, specifically designed to facilitate AI and machine-learning applications on NEAR. NEAT offers an innovative approach for rollups to be built on NEAR. With off-chain indexer nodes for execution and NEAR L1 as the data availability layer, NEAT eliminates the need for rollups to deploy smart contracts or run verification logic on the L1. This streamlined process drastically reduces transaction costs for rollups, making NEAT particularly well suited for computationally intensive applications such as AI and gaming. Additionally, NEAR Catalog, powered by NEAT, is currently developing an advanced indexer that aims to provide projects and applications in the NEAR ecosystem with cost-effective and flexible indexing and querying capabilities.</p>
+
+
+
+<p><strong>NEAT Token and Benefits</strong><br></p>
+
+
+
+<p>The $NEAT token exists in two forms, NRC-20 and NEP-141, with a total supply of 42 million tokens. $NEAT tokens offers the following benefits:</p>
+
+
+
+<p>1. Stakers of $NEAT-NEP141 will receive the staking rewards generated from the 1 million $NEAR tokens provided by the Foundation. A portion of these staking rewards will also be allocated to support the exploration of AI integration with NEAT.</p>
+
+
+
+<p>2. $NEAT-NEP141 stakers will receive a share of the fees generated from wrap/unwrap operations (currently set at 1% fee rate) and a portion of the fees from the NRC-20 marketplace.</p>
+
+
+
+<p>3. After the decentralized indexer is operational, a portion of the indexing fees will be distributed to $NEAT-NEP141 stakers.</p>
+
+
+
+<p>4. Holders of $NEAT-NRC20 tokens will be eligible to receive airdrops of newly minted NRC-20 tokens.</p>
+
+
+
+<p>5. $NEAT serves as a utility token within the NEAT ecosystem, enabling services/assets payments, DeFi integration, AI governance, and more.</p>
+
+
+
+<p><strong>The Road Ahead: Revolutionizing AI with Decentralized Indexing</strong></p>
+
+
+
+<p><strong><br></strong>NEAT is building the first fully customizable decentralized indexer network, which allows any project to easily store data on the NEAR blockchain, deploy custom indexing logic on a decentralized set of indexer nodes, and achieve verifiable execution through zero-knowledge proofs. This approach aims to address potential failure points and attack vectors associated with centralized indexers.</p>
+
+
+
+<p>One of the most exciting use cases for decentralized indexing is in the field of artificial intelligence. With NRC-20 and NEAT Indexers, it becomes possible to store AI data, parameters, algorithms, models, and outputs as on-chain inscriptions and integrate them with off-chain execution through zero-knowledge proofs. For instance, one can imagine creating fully open-source AI-powered games, where users participate in shaping the game&#8217;s narrative, and the history is permanently stored on-chain through inscriptions. AI agents&#8217; models, parameters, and decisions can be represented as inscribed NFTs, and their training and model parameters can be stored on-chain.</p>
+
+
+
+<p>This combination of blockchain transparency and off-chain computational efficiency allows AI to be truly accessible and open to everyone, contributing to the development of a genuinely open network.</p>
+<p>The post <a href="/blog/neat-protocol/">NEAR Foundation Partners with NEAT Protocol to Accelerate the Growth of AI Applications with 1 million $NEAR Delegation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Unveiling new partnerships at the International Tech Summit in Bermuda</title>
 		<link>/blog/international-tech-summit/</link>
 		
@@ -815,136 +986,6 @@
 
 <p>Abstractooors, you won’t want to miss the fun!</p>
 <p>The post <a href="/blog/korea-buidl-week-2024/">NEAR Ecosystem @ Korea BUIDL Week 2024</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</title>
-		<link>/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 14 Mar 2024 17:03:07 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">/?p=21275</guid>
-
-					<description><![CDATA[<p>The Graph Foundation recently announced the inclusion of NEAR into its expansive subgraph support, now encompassing over 40 leading L1 …</p>
-<p>The post <a href="/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>The Graph Foundation recently announced the inclusion of NEAR into its expansive subgraph support, now encompassing over 40 leading L1 and L2 blockchains including Arbitrum, Base, Fantom, Celo, Optimism, Polygon Labs, and Scroll. By integrating with The Graph, NEAR developers gain access to a decentralized network for streamlined data querying, significantly reducing costs and improving synchronization speeds.&nbsp;</p>
-
-
-
-<p>The partnership highlights the NEAR Foundation&#8217;s ongoing commitment to enhancing developer resources and interoperability within open web ecosystems as part of advancing the Chain Abstraction vision. In 2021, NEAR became The Graph&#8217;s <a href="https://thegraph.com/blog/graph-near/">first non-EVM chain integration</a> for its hosted service, kickstarting the evolution towards a multichain open web ecosystem.&nbsp;</p>
-
-
-
-<p>Subgraph support will take things a step further, facilitating better multichain data accessibility for NEAR builders and increasing the reach and breadth of tools and technologies to support Chain Abstraction. This moment also marks NEAR as the first non-EVM chain to become available on The Graph Network.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-how-subgraph-support-empowers-near-developers">How Subgraph Support Empowers NEAR Developers</h2>
-
-
-
-<p>Subgraphs on The Graph are transformative open APIs that efficiently organize and serve blockchain data, accelerating the development of decentralized applications (dApps) on the NEAR Protocol. This integration offers developers further support in efficient data querying, swift access to indexed blockchain data, and seamless interoperability across multiple chains.</p>
-
-
-
-<p>By streamlining data retrieval, The Graph&#8217;s subgraph support eliminates the need for exhaustive blockchain scans, allowing for quick navigation, filtering, and location of specific data points. This advancement equips NEAR developers with tools similar to Web 2.0 search engine capabilities, tailored for the precision and complexity of blockchain data.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-the-graph-s-multichain-support-and-expansion-goals">The Graph&#8217;s Multichain Support and Expansion Goals&nbsp;</h2>
-
-
-
-<p>The Graph&#8217;s integration with NEAR and over 40 additional blockchains is a step towards more rich multichain development. By extending beyond Ethereum, The Graph is facilitating a unified, accessible ecosystem for designing advanced, user-focused decentralized applications (dApps) across a diverse range of blockchains.&nbsp;</p>
-
-
-
-<p>Enhancing interoperability among different blockchain networks also grants developers access to a broader spectrum of data, supporting the creation of dApps that are both feature-dense and user-friendly. These improvements also promote more unrestricted data exchange across chains for the purposes of dApp development.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-near-protocol-and-future-of-the-graph-network">NEAR Protocol and Future of The Graph Network</h2>
-
-
-
-<p>Looking forward, The Graph Network is aiming to break the barriers of decentralized access to blockchain data, as it plans to introduce new data services to meet the growing needs of Web3. The Graph’s core devs are planning ahead on executing the “<a href="https://thegraph.com/blog/unveiling-updated-sunrise-decentralized-data/">Sunrise of decentralized data</a>” initiative, designed to improve tooling and developer experience.&nbsp;</p>
-
-
-
-<p>Soon, NEAR devs building on The Graph Network will be able to take advantage of a free query plan, an intuitive subgraph upgrade wizard, and more. The Graph-NEAR Foundation collaboration will further emphasize the shared mission of both teams for a more interconnected and inclusive Web3 ecosystem via Chain Abstraction, enhancing the value of indexing and querying blockchain data.&nbsp;&nbsp;</p>
-<p>The post <a href="/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</title>
-		<link>/blog/frax-deploys-decentralized-stablecoin/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 14 Mar 2024 13:00:00 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">/?p=21270</guid>
-
-					<description><![CDATA[<p>Frax Finance announced the launch of FRAX stablecoin on NEAR via Ref Finance and Burrow through FraxFerry and the Rainbow …</p>
-<p>The post <a href="/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Frax Finance announced the launch of FRAX stablecoin on NEAR via Ref Finance and Burrow through FraxFerry and the Rainbow Bridge. This marks a significant milestone for Frax as its first major venture into a non-Ethereum Virtual Machine (EVM) ecosystem.&nbsp;</p>
-
-
-
-<p>Frax Finance is the second-largest issuer of decentralized dollar-pegged stablecoins and an industry leader for DeFi infrastructure.</p>
-
-
-
-<p>The NEAR ecosystem and Frax contributors will now collaborate through ongoing in-depth research and protocol integrations. One of the biggest opportunities between the two teams will be the introduction of short-term treasury yields on NEAR using sFRAX, a yield-bearing asset that tracks the Federal Reserve&#8217;s Interest on Reserve Balance (IORB).</p>
-
-
-
-<p>In the coming months, Frax will natively issue their suite of assets, FRAX, sFRAX, frxETH, and sfrxETH on NEAR and Fraxtal, along with exploring opportunities around NEAR LSTs. Other protocols on NEAR will also be able to explore these exciting frontiers with Frax. While NEAR supports various stablecoins, the decentralized Frax platform sets itself apart by offering additional features like yield and LSTs. These offerings can be utilized by NEAR&#8217;s DeFi protocols for novel ventures.&nbsp;</p>
-
-
-
-<p>This deployment is led by Ref and Burrow and will soon expand to other protocols. <a href="https://www.ref.finance/">Ref Finance</a> is a decentralized finance (DeFi) platform built on NEAR Protocol, designed to facilitate the swapping, lending, and borrowing of digital assets. It is a multi-purpose DeFi platform that integrates various financial mechanisms, offering users a comprehensive suite of DeFi tools. <a href="https://burrow.finance/">Burrow</a> is a decentralized finance (DeFi) platform on the NEAR blockchain, offering non-custodial, pool-based lending and borrowing services.</p>
-
-
-
-<p class="has-medium-font-size"><strong>Highlighting the Incentive Campaign</strong></p>
-
-
-
-<p>To boost activity and foster growth of Frax on NEAR, Ref will introduce an incentive program offering rewards for Liquidity Providers (LPs) in the USDC/FRAX and NEAR/FRAX pools, as well as the Curve style stableswap pools.</p>
-
-
-
-<p>The proliferation of native stablecoins is crucial to the growth of DeFi as it facilitates effortless access to liquidity between protocols for users across various types of exchanges. This allows for more seamless interactions with different projects across the Web3 ecosystem, effectively removing bottlenecks and promoting a smooth trading experience. This also advances the NEAR ecosystem vision of Chain Abstraction, streamlining usability and defragmenting liquidity and UX across all of Web3. Moreover, native stablecoins will significantly enhance the visibility of the NEAR Ecosystem&#8217;s Total Value Locked (TVL) within the market.</p>
-
-
-
-<p>On Burrow, borrowers and lenders will earn incentives for using USDC, USDT, and FRAX. Additionally, Burrow will offer rewards for NEAR and liquid staked NEAR, with more details to be announced soon.</p>
-
-
-
-<p>This incentive campaign will be expanded&nbsp; to other qualifying DeFi protocols and primitives after the initial rollout on Ref and Burrow.&nbsp;</p>
-
-
-
-<p>If you’re new to NEAR, you can find free resources for building apps, deploying smart contracts,creating blockchain operating system(BOS) components, and more on the <a href="https://docs.near.org/#">DevRel resources page.&nbsp;</a>Checkout the official documentation of <a href="https://docs.frax.finance/">Frax</a> to learn more about protocol and other technical specifications.&nbsp;</p>
-
-
-
-<p></p>
-<p>The post <a href="/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
