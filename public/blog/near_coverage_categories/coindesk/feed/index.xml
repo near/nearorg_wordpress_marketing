@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Near Protocol Starts ‘Blockchain Operating System’ to Focus on User Experience</title>
 		<link>/coverages/near-protocol-starts-blockchain-operating-system-to-focus-on-user-experience/</link>
 		
@@ -42,7 +45,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20330</post-id>	</item>
 		<item>
 		<title>Near Foundation Joins Processed Foods Giant Grupo Nutresa to Unveil Web3 Loyalty Program in Latin America</title>
 		<link>/coverages/near-foundation-joins-processed-foods-giant-grupo-nutresa-to-unveil-web3-loyalty-program-in-latin-america/</link>
@@ -58,7 +61,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19333</post-id>	</item>
 		<item>
 		<title>Crypto didn&#8217;t fail FTX; People did</title>
 		<link>/coverages/crypto-didnt-fail-ftx-people-did/</link>
@@ -74,7 +77,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19309</post-id>	</item>
 		<item>
 		<title>Circle expands USDC stable coin to five new chains unveils cross chain transfer protocol</title>
 		<link>/coverages/circle-expands-usdc-stable-coin-to-five-new-chains-unveils-cross-chain-transfer-protocol/</link>
@@ -90,6 +93,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">18725</post-id>	</item>
 	</channel>
 </rss>

@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEARCON &#8217;23 Unwrapped: Lisbon Steps into the Open Web in Iconic Fashion</title>
 		<link>/blog/nearcon-23-unwrapped-lisbon-steps-into-the-open-web-in-iconic-fashion/</link>
 		
@@ -218,7 +221,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21092</post-id>	</item>
 		<item>
 		<title>NEARCON ‘23 Day One: Major Announcements and Insightful Panels in Focus</title>
 		<link>/blog/nearcon-23-day-one-major-announcements-and-insightful-panels-in-focus/</link>
@@ -356,7 +359,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21061</post-id>	</item>
 		<item>
 		<title>NEARCON ‘23 Lifts Off: Start Your Journey into the Open Web</title>
 		<link>/blog/nearcon-23-lifts-off-start-your-journey-into-the-open-web/</link>
@@ -505,7 +508,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21052</post-id>	</item>
 		<item>
 		<title>Introducing NCON and How to Use It at NEARCON ‘23</title>
 		<link>/blog/introducing-ncon-and-how-to-use-it-at-nearcon-23/</link>
@@ -575,7 +578,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21042</post-id>	</item>
 		<item>
 		<title>Why NEARCON is the Must-See Global Web3 Event of 2023</title>
 		<link>/blog/why-nearcon-is-the-must-see-global-web3-event-of-2023/</link>
@@ -664,7 +667,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21025</post-id>	</item>
 		<item>
 		<title>Call for Founders and Developers to Qualify Your B.O.S Apps Before NEARCON ‘23 </title>
 		<link>/blog/call-for-founders-and-developers-to-qualify-your-b-o-s-apps-before-nearcon-23/</link>
@@ -830,7 +833,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21013</post-id>	</item>
 		<item>
 		<title>Meet the Builders of the Open Web: Top Speakers at NEARCON &#8217;23</title>
 		<link>/blog/meet-the-builders-of-the-open-web-top-speakers-at-nearcon-23/</link>
@@ -961,7 +964,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20989</post-id>	</item>
 		<item>
 		<title>Унікальна можливість для українців: Безкоштовні квитки на NEARCON ‘23</title>
 		<link>/blog/%d1%83%d0%bd%d1%96%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0-%d0%bc%d0%be%d0%b6%d0%bb%d0%b8%d0%b2%d1%96%d1%81%d1%82%d1%8c-%d0%b4%d0%bb%d1%8f-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2-%d0%b1/</link>
@@ -1054,6 +1057,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20949</post-id>	</item>
 	</channel>
 </rss>

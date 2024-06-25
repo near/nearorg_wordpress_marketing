@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR Community in Focus: NEAR Regional Hubs</title>
 		<link>/blog/near-community-in-focus-near-regional-hubs/</link>
 		
@@ -235,7 +238,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">16744</post-id>	</item>
 		<item>
 		<title>NEAR Launches Balkans Regional Hub to Incubate Web3 Talent and Projects</title>
 		<link>/blog/near-launches-balkans-regional-hub-to-incubate-web3-talent-and-projects/</link>
@@ -356,7 +359,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">16619</post-id>	</item>
 		<item>
 		<title>NEAR Launches Kenya Regional Hub to Support Blockchain Projects and Talent in Africa</title>
 		<link>/blog/near-launches-kenya-regional-hub-to-support-blockchain-projects-and-talent-in-africa/</link>
@@ -453,6 +456,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">16450</post-id>	</item>
 	</channel>
 </rss>

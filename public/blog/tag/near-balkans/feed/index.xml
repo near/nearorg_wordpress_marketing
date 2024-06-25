@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR&#8217;s BOS Impact at We Are Developers 2023 World Congress</title>
 		<link>/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/</link>
 		
@@ -112,7 +115,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20770</post-id>	</item>
 		<item>
 		<title>NEAR at We Are Developers World Congress 2023: Build with BOS in Berlin</title>
 		<link>/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/</link>
@@ -190,7 +193,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20754</post-id>	</item>
 		<item>
 		<title>NEAR Balkans’ Tekuno and Mastercard Team Up for Gamified NFT Experience</title>
 		<link>/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/</link>
@@ -315,6 +318,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20387</post-id>	</item>
 	</channel>
 </rss>

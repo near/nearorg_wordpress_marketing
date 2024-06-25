@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Why Chain Abstraction Is the Next Frontier for Web3</title>
 		<link>/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</link>
 		
@@ -184,7 +187,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21182</post-id>	</item>
 		<item>
 		<title>Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</title>
 		<link>/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/</link>
@@ -343,7 +346,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21170</post-id>	</item>
 		<item>
 		<title>NEAR Protocol Roadmap 2023-4: The Next 2 Years of NEAR￼</title>
 		<link>/blog/near-protocol-roadmap-2023-4-the-next-2-years-of-near%ef%bf%bc/</link>
@@ -385,7 +388,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19009</post-id>	</item>
 		<item>
 		<title>A Commitment to Communication</title>
 		<link>/blog/a-commitment-to-communication/</link>
@@ -450,7 +453,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19007</post-id>	</item>
 		<item>
 		<title>A Time for Conviction</title>
 		<link>/blog/a-time-for-conviction/</link>
@@ -523,6 +526,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">18740</post-id>	</item>
 	</channel>
 </rss>

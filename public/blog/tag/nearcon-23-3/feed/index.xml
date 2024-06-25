@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEARCON ‘23 Day Three: Shaping the Future of Decentralized Governance </title>
 		<link>/blog/nearcon-23-day-three-shaping-the-future-of-decentralized-governance/</link>
 		
@@ -169,7 +172,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21078</post-id>	</item>
 		<item>
 		<title>NEARCON ‘23 Day 2 Roundup: Web3&#8217;s Women Shine and Innovations Unfold</title>
 		<link>/blog/nearcon-23-day-2-roundup-web3s-women-shine-and-innovations-unfold/</link>
@@ -346,7 +349,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21075</post-id>	</item>
 		<item>
 		<title>Get Ready for [REDACTED] at NEARCON ‘23</title>
 		<link>/blog/get-ready-for-redacted-at-nearcon-23/</link>
@@ -415,7 +418,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21032</post-id>	</item>
 		<item>
 		<title>NEARCON &#8217;23: Developer, Founder, and Creative Talks You Shouldn&#8217;t Miss</title>
 		<link>/blog/nearcon-23-developer-founder-and-creative-talks-you-shouldnt-miss/</link>
@@ -571,6 +574,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21022</post-id>	</item>
 	</channel>
 </rss>

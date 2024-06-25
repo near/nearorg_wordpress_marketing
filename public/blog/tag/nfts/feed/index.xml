@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Shred Spots and NEAR Foundation: Kick-Flipping Into the Future of Social NFTs</title>
 		<link>/blog/shred-spots-and-near-foundation-kick-flipping-into-the-future-of-social-nfts/</link>
 		
@@ -101,7 +104,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20718</post-id>	</item>
 		<item>
 		<title>Škoda Ventures into NFTs with NEAR to Create the Škodaverse India</title>
 		<link>/blog/skoda-ventures-into-nfts-with-near-to-create-the-skodaverse-india/</link>
@@ -168,7 +171,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20652</post-id>	</item>
 		<item>
 		<title>Rove World v2 Simplifies Web3 Ticketing and Loyalty for Brands</title>
 		<link>/blog/rove-world-v2-simplifies-web3-ticketing-and-loyalty-for-brands/</link>
@@ -256,7 +259,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20449</post-id>	</item>
 		<item>
 		<title>How Solaire is Revolutionizing the Fashion Industry with Web3 Technology and Building the Retail Infrastructure on NEAR</title>
 		<link>/blog/how-solaire-is-revolutionizing-the-fashion-industry-with-web3-technology-and-building-the-retail-infrastructure-on-near/</link>
@@ -375,7 +378,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20346</post-id>	</item>
 		<item>
 		<title>Keypom Brings Frictionless Onboarding to Near and Web3</title>
 		<link>/blog/keypom-brings-frictionless-onboarding-to-near-and-web3/</link>
@@ -471,7 +474,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19764</post-id>	</item>
 		<item>
 		<title>NEAR and Dropt to Revolutionize Loyalty and Engagement</title>
 		<link>/blog/near-and-dropt-to-revolutionize-loyalty-and-engagement/</link>
@@ -533,7 +536,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19724</post-id>	</item>
 		<item>
 		<title>NEAR 2022: A Year in Review</title>
 		<link>/blog/near-2022-a-year-in-review/</link>
@@ -685,7 +688,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19607</post-id>	</item>
 		<item>
 		<title>NEAR Strategic Update and Outlook for 2023</title>
 		<link>/blog/near-strategic-update-and-outlook-for-2023/</link>
@@ -812,7 +815,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19581</post-id>	</item>
 		<item>
 		<title>Introducing SeatlabNFT: The Web3 Startup Changing the Ticketing Game </title>
 		<link>/blog/introducing-seatlabnft-the-web3-startup-changing-the-ticketing-game/</link>
@@ -924,7 +927,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">18720</post-id>	</item>
 		<item>
 		<title>NEAR &#038; Gaming: The Future of Gaming on Web3</title>
 		<link>/blog/near-gaming-the-future-of-gaming-on-web3/</link>
@@ -1089,6 +1092,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">18007</post-id>	</item>
 	</channel>
 </rss>

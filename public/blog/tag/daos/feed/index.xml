@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Case Study: Bernoulli-Locke-Locke&#8217;s David Palmer on the DAO-Owned SailGP Team</title>
 		<link>/blog/case-study-bernoulli-locke-lockes-david-palmer-on-the-dao-owned-sailgp-team/</link>
 		
@@ -59,7 +62,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20635</post-id>	</item>
 		<item>
 		<title>NEAR Foundation Backs Hydra Ventures to Create Web3’s First ‘Fund of Funds’ Investment DAO</title>
 		<link>/blog/near-foundation-backs-hydra-ventures-to-create-web3s-first-fund-of-funds-investment-dao/</link>
@@ -103,7 +106,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20340</post-id>	</item>
 		<item>
 		<title>Update on Near Decentralized Funding, DAOs, and Accelerator</title>
 		<link>/blog/update-on-near-decentralized-funding-daos-and-accelerator/</link>
@@ -300,7 +303,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19785</post-id>	</item>
 		<item>
 		<title>NEAR 2022: A Year in Review</title>
 		<link>/blog/near-2022-a-year-in-review/</link>
@@ -452,7 +455,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19607</post-id>	</item>
 		<item>
 		<title>NEAR Strategic Update and Outlook for 2023</title>
 		<link>/blog/near-strategic-update-and-outlook-for-2023/</link>
@@ -579,7 +582,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19581</post-id>	</item>
 		<item>
 		<title>First Fan-Owned Team Launches on NEAR</title>
 		<link>/blog/first-fan-owned-team-launches-on-near/</link>
@@ -672,7 +675,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19062</post-id>	</item>
 		<item>
 		<title>NEAR Community in Focus: The Future of Community on NEAR</title>
 		<link>/blog/the-future-of-community-on-near/</link>
@@ -905,7 +908,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">16784</post-id>	</item>
 		<item>
 		<title>NEAR Community in Focus: Decentralized Community Building on NEAR</title>
 		<link>/blog/near-community-in-focus-decentralized-community-building-on-near/</link>
@@ -1046,7 +1049,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">16734</post-id>	</item>
 		<item>
 		<title>NEAR’s March Town Hall Highlights</title>
 		<link>/blog/nears-march-town-hall-highlights/</link>
@@ -1285,7 +1288,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">16218</post-id>	</item>
 		<item>
 		<title>The Future of DAOs: DAOs at Work and IRL</title>
 		<link>/blog/the-future-of-daos-daos-at-work-and-irl-part-ii/</link>
@@ -1525,6 +1528,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">16164</post-id>	</item>
 	</channel>
 </rss>

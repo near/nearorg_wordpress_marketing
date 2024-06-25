@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -12,7 +15,7 @@
 	<atom:link href="/blog/tag/partnerships/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/partnerships/</link>
 	<description></description>
-	<lastBuildDate>Wed, 14 Feb 2024 18:59:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Jun 2024 13:18:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,7 +30,101 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>COSMOSE AI: TRANSFORMING CONSUMER EMPOWERMENT WITH AI AND BLOCKCHAIN</title>
+		<link>/blog/cosmose-ai-transforming-consumer-empowerment-with-ai-and-blockchain/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 12:59:48 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Partnerships]]></category>
+		<guid isPermaLink="false">/?p=21399</guid>
+
+					<description><![CDATA[<p>Since September 2023, CosmoseAI’s KAI-Ching has been number 1 dApp with the most Unique Active Wallets (UAW) in all of …</p>
+<p>The post <a href="/blog/cosmose-ai-transforming-consumer-empowerment-with-ai-and-blockchain/">COSMOSE AI: TRANSFORMING CONSUMER EMPOWERMENT WITH AI AND BLOCKCHAIN</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Since September 2023, CosmoseAI’s KAI-Ching has been number 1 dApp with the most Unique Active Wallets (UAW) in all of web3, hitting numbers like 700k Daily Active Wallets and 2 million Monthly Active Users.&nbsp;</p>
+
+
+
+<p>What makes KAI-Ching special? Turns out building around consumer empowerment that rewards the consumer and ensures their ownership can make you really popular. KAI-Ching is a mission-driven technology transforming consumer experience by saving them time with curated content and offerings, rewarding their engagement, and ensuring they have control and ownership of their data.</p>
+
+
+
+<p><strong>A QUICK INTRODUCTION TO COSMOSE AI’s CORE PLATFORMS&nbsp;</strong></p>
+
+
+
+<p><strong>KAIKAI</strong> is an AI-powered, opt-in interactive lock screen and mobile app that provides curated content and shopping based on the user’s preferences. By engaging with the provided content and/or shopping, users earn KAI-Ching.&nbsp;</p>
+
+
+
+<p><strong>KAI-Ching</strong>, the heartbeat of the ecosystem, is a reward system integrated into Cosmose AI platforms, using a crypto-based token, $KAIC, to reward users for purchases and engagement on KAIKAI. These earned tokens can be accumulated and redeemed for discounts or full purchases on KAIKAI.</p>
+
+
+
+<p><strong>THE WHY BEHIND KAIKAI &amp; KAI-CHING</strong></p>
+
+
+
+<p>Consumer data basically equates to currency in the digital age, but traditional data-reliant consumer apps (think Facebook, Google, social media apps etc) have often fallen short in guaranteeing ownership, privacy or ethical use of consumer-generated data.</p>
+
+
+
+<p>Cosmose AI founder Miron Mironiuk, sought to disrupt the trend: <em>“KAI-Ching was built to give users tangible benefits for their engagement, while ensuring that they retain ownership of the data.”</em></p>
+
+
+
+<p><strong>MAKING THE KAI-ECOSYSTEM WORK</strong></p>
+
+
+
+<p>CosmoseAI intelligently combined the best of blockchain technology and edge computing to deliver the essence of its platforms’ value.&nbsp;</p>
+
+
+
+<p>KAIKAI and KAI-Ching are powered by NEAR Protocol, a sharded and modular, AI Layer-1 blockchain, with low transaction fees, and super fast finality. NEAR’s dev-friendly infrastructure, negligible transaction fees, made it an ideal landing pad for the Cosmose AI team.&nbsp;</p>
+
+
+
+<p>Blockchain technology ensures user data ownership remains with the user, by enabling the user to permission what can be accessed or shared.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/cosmose-diagram-1024x576.png" alt="" class="wp-image-21400" srcset="/wp-content/uploads/2024/06/cosmose-diagram-1024x576.png 1024w, /wp-content/uploads/2024/06/cosmose-diagram-300x169.png 300w, /wp-content/uploads/2024/06/cosmose-diagram-768x432.png 768w, /wp-content/uploads/2024/06/cosmose-diagram-1536x864.png 1536w, /wp-content/uploads/2024/06/cosmose-diagram.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Unless you are digging deep into the architecture of KAI-Ching, you won’t know it runs on a blockchain, described by Miron in an interview as: <em>&#8220;Instead of talking about blockchain and Web3, we built products that became part of everyday life.&#8221;</em></p>
+
+
+
+<p><strong>THE KAI-CHING JOURNEY SO FAR? KA-CHING!</strong></p>
+
+
+
+<p>Since launching KAIKAI and KAI-Ching, Cosmose AI has onboarded over 10m users into Web3, consistently topping daily and monthly active wallet charts since 2023. The big success can be attributed to two primary things: </p>
+
+
+
+<p>&#8211; Building on a developer-friendly blockchain, NEAR Protocol, that allows the team to cost-efficiently and seamlessly ship features, with speed and robust security.</p>
+
+
+
+<p>&#8211; Focusing on user journey and experience to deliver platforms that are user-friendly AND deliver tangible, repetitive value to users’ everyday life.</p>
+
+
+
+<p>The success of KAI-Ching and the CosmoseAI platforms is tangible proof that user-friendly consumer empowerment models work and can attract mass adoption, no matter the underlying infrastructure. As AI increasingly becomes a major narrative in Web3 and focuses on enhancing everyday consumer preferences, KAI-Ching positions itself as a pioneer abstracted solution for the future of consumer apps.<br><br>Discover the world of KAIKAI now<br><a href="https://kaikai.ai/">https://kaikai.ai/</a> </p>
+<p>The post <a href="/blog/cosmose-ai-transforming-consumer-empowerment-with-ai-and-blockchain/">COSMOSE AI: TRANSFORMING CONSUMER EMPOWERMENT WITH AI AND BLOCKCHAIN</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21399</post-id>	</item>
+		<item>
 		<title>Inaugural AI x Web3 Hackathon and Decentralized AI Summit to Debut at ETH Denver 2024</title>
 		<link>/blog/inaugural-ai-x-web3-hackathon-and-decentralized-ai-summit-to-debut-at-eth-denver-2024/</link>
 		
@@ -89,7 +186,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21226</post-id>	</item>
 		<item>
 		<title>NEAR Foundation and Blumer: Pioneering Web3 Social Networking in Latin America</title>
 		<link>/blog/near-foundation-and-blumer-pioneering-web3-social-networking-in-latin-america/</link>
@@ -163,7 +260,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20753</post-id>	</item>
 		<item>
 		<title>NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</title>
 		<link>/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/</link>
@@ -278,7 +375,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20742</post-id>	</item>
 		<item>
 		<title>NEAR at ETHCC: Horizon Pitch Contest, BOS Workshops, and More</title>
 		<link>/blog/near-at-ethcc-horizon-pitch-contest-bos-workshops-and-more/</link>
@@ -358,7 +455,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20725</post-id>	</item>
 		<item>
 		<title>NEAR Foundation Partners with Hibiki Run on Open Web Digital Gachapon </title>
 		<link>/blog/near-foundation-partners-with-hibiki-run-on-open-web-digital-gachapon/</link>
@@ -404,7 +501,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20699</post-id>	</item>
 		<item>
 		<title>NEAR Foundation PR Roundup for June</title>
 		<link>/blog/near-foundation-pr-roundup-for-june/</link>
@@ -513,7 +610,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20694</post-id>	</item>
 		<item>
 		<title>Škoda Ventures into NFTs with NEAR to Create the Škodaverse India</title>
 		<link>/blog/skoda-ventures-into-nfts-with-near-to-create-the-skodaverse-india/</link>
@@ -580,7 +677,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20652</post-id>	</item>
 		<item>
 		<title>NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</title>
 		<link>/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/</link>
@@ -644,7 +741,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20565</post-id>	</item>
 		<item>
 		<title>NEAR Foundation Partners with Absolute Labs to Accelerate How Brands Connect with Customers in Web3</title>
 		<link>/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/</link>
@@ -703,50 +800,6 @@
 					
 		
 		
-			</item>
-		<item>
-		<title>NEAR Foundation Backs Hydra Ventures to Create Web3’s First ‘Fund of Funds’ Investment DAO</title>
-		<link>/blog/near-foundation-backs-hydra-ventures-to-create-web3s-first-fund-of-funds-investment-dao/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Wed, 29 Mar 2023 18:35:16 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[DAOs]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[Investments]]></category>
-		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">/?p=20340</guid>
-
-					<description><![CDATA[<p>NEAR Foundation is excited to announce that it has joined Hydra Ventures, a “fund of funds” investment DAO. A first …</p>
-<p>The post <a href="/blog/near-foundation-backs-hydra-ventures-to-create-web3s-first-fund-of-funds-investment-dao/">NEAR Foundation Backs Hydra Ventures to Create Web3’s First ‘Fund of Funds’ Investment DAO</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>NEAR Foundation is excited to announce that it has joined <a href="https://twitter.com/HydraVentures_">Hydra Ventures</a>, a “fund of funds” investment DAO. A first in the Web3 space, Hydra Ventures is designed to help other investment DAOs get off the ground.&nbsp;</p>
-
-
-
-<p>By partnering with NEAR Foundation, Hydra Ventures will open the doors to the eventual launch of the first investment DAO in the Near ecosystem.&nbsp;</p>
-
-
-
-<p>“The combined expertise of the leaders that have created this fund offers a winning formula that will help provide critical funding to purpose-driven, socially impactful web3 startups,” said Marieke Flament, CEO of NEAR Foundation. “We are delighted to be playing a part in launching this DAO and look forward to seeing the role it will play in developing our ecosystem.”</p>
-
-
-
-<h2 class="wp-block-heading" id="h-decentralizing-web3-investment-with-daos">Decentralizing Web3 investment with DAOs</h2>
-
-
-
-<p>To power the “fund of funds” investment DAO, Hydra Ventures has raised $10M in capital from NEAR Foundation, MetaCartel Ventures, ConsenSys, 1kx Ventures, Collab + Currency, Nonagon Ventures, CMT Digital, among others. Hydra Ventures aims to take a hands-on approach to support investment DAOs, from community coordination and investment practices to organizational design, incentive design, and back office/operations.<br></p>
-
-
-
-<p>&#8220;While the first legally wrapped investment DAOs showed us what was possible, many of them have had major operating flaws which have been exposed over the years,” said Peter Pan, co-summoner of MetaCartel and Partner at 1kx Ventures. “Hydra looks to address many of these problems and ultimately emerge with a fundamentally better model for how investment DAOs should be operated. We are thrilled to have NEAR Foundation&#8217;s support in this venture.&#8221;<br><br>Hydra Ventures is incubated by <a href="https://twitter.com/thing3_xyz">Thing3</a> and <a href="https://metacartel.xyz/">MetaCartel Ventures</a> (the first and one of the most successful investment DAOs created), and backed by leading founders and thinkers in Web3. MetaCartel has incubated and made investments in several category-leading projects like Sky Mavis, Axie Infinity, Arweave, Open Zeppelin, DAOhaus, Zapper Finance, and Rarible, and were also one of the first investors in <a href="https://www.mintbase.xyz/">Mintbase</a>, an NFT marketplace built on Near. MetaCartel members include Ameen Soleimani (founder, Moloch DAO), Stani Kulechov (founder, AAVE), Roneil Rumburg (founder, Audius), Bobby Ong (founder, Coingecko), RAC (Grammy award winner), Peter Pan (Partner, 1kx Ventures), amongst others.</p>
-<p>The post <a href="/blog/near-foundation-backs-hydra-ventures-to-create-web3s-first-fund-of-funds-investment-dao/">NEAR Foundation Backs Hydra Ventures to Create Web3’s First ‘Fund of Funds’ Investment DAO</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20444</post-id>	</item>
 	</channel>
 </rss>

@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>AI is NEAR: Illia Polosukhin on AI and the Open Web at NEARCON &#8217;23</title>
 		<link>/blog/ai-is-near-illia-polosukhin-on-ai-and-the-open-web-at-nearcon-23/</link>
 		
@@ -106,7 +109,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21004</post-id>	</item>
 		<item>
 		<title>AI is NEAR: The Future of AI on the Open Web at NEARCON ‘23</title>
 		<link>/blog/ai-is-near-the-future-of-ai-on-the-open-web-at-nearcon-23/</link>
@@ -198,6 +201,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20997</post-id>	</item>
 	</channel>
 </rss>

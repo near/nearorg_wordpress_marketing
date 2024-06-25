@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR Foundation and MARBLEX to Expand Korea’s Web3 Gaming Industry with Aurora</title>
 		<link>/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/</link>
 		
@@ -90,7 +93,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20565</post-id>	</item>
 		<item>
 		<title>NEAR’s Road to Decentralization: Building Bridges</title>
 		<link>/blog/near-bridges-decentralization-interconnection/</link>
@@ -244,7 +247,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">16003</post-id>	</item>
 		<item>
 		<title>NEAR’s Road to Decentralization: A Deep Dive into Aurora</title>
 		<link>/blog/near-decentralization-aurora-evm/</link>
@@ -356,7 +359,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15973</post-id>	</item>
 		<item>
 		<title>NEAR 2021: A Year in Review</title>
 		<link>/blog/near-2021-a-year-in-review/</link>
@@ -633,7 +636,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15578</post-id>	</item>
 		<item>
 		<title>NEAR Sharding Rollout and Aurora IDO Postmortems</title>
 		<link>/blog/near-sharding-rollout-and-aurora-ido-postmortems/</link>
@@ -732,7 +735,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15402</post-id>	</item>
 		<item>
 		<title>Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</title>
 		<link>/blog/aurora-consensys-partnership-metamask-infura/</link>
@@ -799,6 +802,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15392</post-id>	</item>
 	</channel>
 </rss>

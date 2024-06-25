@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Meet the 2023 NEARCON IRL Hackathon Winners</title>
 		<link>/blog/meet-the-2023-nearcon-irl-hackathon-winners/</link>
 		
@@ -239,7 +242,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21104</post-id>	</item>
 		<item>
 		<title>NEARCON IRL Hackathon 2023: Build the Open Web</title>
 		<link>/blog/nearcon-irl-hackathon-2023-build-the-open-web/</link>
@@ -335,6 +338,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20931</post-id>	</item>
 	</channel>
 </rss>

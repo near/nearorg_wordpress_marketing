@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Introducing *NEAR Name Tokens &#8211; Multichain, Cross-Platform Digital Identities In Web3</title>
 		<link>/blog/introducing-near-name-tokens/</link>
 		
@@ -129,7 +132,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21393</post-id>	</item>
 		<item>
 		<title>Unlocking Multichain Web3 with NEAR Chain Signatures</title>
 		<link>/blog/unlocking-multichain-web3-with-near-chain-signatures/</link>
@@ -373,7 +376,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21369</post-id>	</item>
 		<item>
 		<title>Legends of NEAR: Expansion from 4 to 6 Shards</title>
 		<link>/blog/legends-of-near-expansion-from-4-to-6-shards/</link>
@@ -477,7 +480,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21349</post-id>	</item>
 		<item>
 		<title>Chain Signatures Launch to Enable Transactions on Any Blockchain from a NEAR Account</title>
 		<link>/blog/chain-signatures-launch-to-enable-transactions-on-any-blockchain-from-a-near-account/</link>
@@ -620,7 +623,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21295</post-id>	</item>
 		<item>
 		<title>NEAR at NVIDIA GTC 2024: A Recap of Illia’s Appearance</title>
 		<link>/blog/nvidia-gtc-2024/</link>
@@ -709,7 +712,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21290</post-id>	</item>
 		<item>
 		<title>The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</title>
 		<link>/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/</link>
@@ -774,7 +777,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21275</post-id>	</item>
 		<item>
 		<title>FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</title>
 		<link>/blog/frax-deploys-decentralized-stablecoin/</link>
@@ -839,7 +842,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21270</post-id>	</item>
 		<item>
 		<title>Unlocking Web3 Usability with Account Aggregation</title>
 		<link>/blog/unlocking-web3-usability-with-account-aggregation/</link>
@@ -1116,7 +1119,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21229</post-id>	</item>
 		<item>
 		<title>Inaugural AI x Web3 Hackathon and Decentralized AI Summit to Debut at ETH Denver 2024</title>
 		<link>/blog/inaugural-ai-x-web3-hackathon-and-decentralized-ai-summit-to-debut-at-eth-denver-2024/</link>
@@ -1179,7 +1182,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21226</post-id>	</item>
 		<item>
 		<title>Why NEAR Data Availability?</title>
 		<link>/blog/why-near-data-availability/</link>
@@ -1305,6 +1308,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21194</post-id>	</item>
 	</channel>
 </rss>

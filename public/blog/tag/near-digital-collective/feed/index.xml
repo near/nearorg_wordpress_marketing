@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>An Update on the NDC Funding and Support for Grassroots Projects</title>
 		<link>/blog/an-update-on-the-ndc-funding-and-support-for-grassroots-projects/</link>
 		
@@ -138,7 +141,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20807</post-id>	</item>
 		<item>
 		<title>NDC V1 Governance Elections FAQ</title>
 		<link>/blog/ndc-v1-governance-elections-faq/</link>
@@ -488,7 +491,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20739</post-id>	</item>
 		<item>
 		<title>NEAR Digital Collective’s I-AM-HUMAN Welcomes Its First 1000 Verified Humans</title>
 		<link>/blog/near-digital-collectives-i-am-human-welcomes-its-first-1000-verified-humans/</link>
@@ -567,7 +570,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20648</post-id>	</item>
 		<item>
 		<title>NEAR Digital Collective Legal Framework</title>
 		<link>/blog/near-digital-collective-legal-framework/</link>
@@ -876,7 +879,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20315</post-id>	</item>
 		<item>
 		<title>What is the NEAR Digital Collective?</title>
 		<link>/blog/what-is-the-near-digital-collective/</link>
@@ -1114,6 +1117,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19744</post-id>	</item>
 	</channel>
 </rss>

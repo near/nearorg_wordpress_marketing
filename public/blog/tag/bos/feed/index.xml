@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</title>
 		<link>/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/</link>
 		
@@ -145,7 +148,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20835</post-id>	</item>
 		<item>
 		<title>Case Study: Flipside Crypto on Building an Analytics Platform on the BOS</title>
 		<link>/blog/case-study-flipside-crypto-on-building-an-analytics-platform-on-the-bos/</link>
@@ -185,7 +188,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20764</post-id>	</item>
 		<item>
 		<title>Case Study: Building on the NEAR Blockchain Operating System (BOS)</title>
 		<link>/blog/case-study-building-on-the-near-blockchain-operating-system-bos/</link>
@@ -217,7 +220,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20749</post-id>	</item>
 		<item>
 		<title>Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</title>
 		<link>/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/</link>
@@ -284,7 +287,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20704</post-id>	</item>
 		<item>
 		<title>NEAR at Collision: Start Your BOS Journey and Expand into the Open Web</title>
 		<link>/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/</link>
@@ -467,7 +470,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20672</post-id>	</item>
 		<item>
 		<title>Case Study: Pagoda Chief Product Officer Alex Chiocchi on the BOS</title>
 		<link>/blog/case-study-pagoda-chief-product-officer-alex-chiocchi-on-the-bos/</link>
@@ -511,7 +514,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20551</post-id>	</item>
 		<item>
 		<title>Get to Know the BOS: FastAuth for Easy, Web2 Style Onboarding and Account Recovery</title>
 		<link>/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/</link>
@@ -644,7 +647,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20543</post-id>	</item>
 		<item>
 		<title>NEAR at Consensus Highlights</title>
 		<link>/blog/near-at-consensus-highlights/</link>
@@ -918,7 +921,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20451</post-id>	</item>
 		<item>
 		<title>NEAR Blockchain Operating System is Now Live on Near.org</title>
 		<link>/blog/near-blockchain-operating-system-is-now-live-on-near-org/</link>
@@ -1048,7 +1051,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20422</post-id>	</item>
 		<item>
 		<title>Near Announces the Blockchain Operating System</title>
 		<link>/blog/near-announces-the-blockchain-operating-system/</link>
@@ -1131,6 +1134,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20243</post-id>	</item>
 	</channel>
 </rss>

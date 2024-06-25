@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR at ETHDenver: Get Chain-Abstracted with the Black Dragon</title>
 		<link>/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/</link>
 		
@@ -91,7 +94,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21249</post-id>	</item>
 		<item>
 		<title>NEAR Q4 Protocol Roadmap Update</title>
 		<link>/blog/near-q4-protocol-roadmap-update/</link>
@@ -194,7 +197,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21155</post-id>	</item>
 		<item>
 		<title>NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</title>
 		<link>/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/</link>
@@ -309,7 +312,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20742</post-id>	</item>
 		<item>
 		<title>TheFunPass™ Debuts at North America&#8217;s Largest Night Market with The Littles and NEAR</title>
 		<link>/blog/thefunpass-debuts-at-north-americas-largest-night-market-with-the-littles-and-near/</link>
@@ -425,7 +428,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20721</post-id>	</item>
 		<item>
 		<title>Get to Know the BOS: FastAuth for Easy, Web2 Style Onboarding and Account Recovery</title>
 		<link>/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/</link>
@@ -558,7 +561,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20543</post-id>	</item>
 		<item>
 		<title>Refining NEAR Foundation’s Grant Approach</title>
 		<link>/blog/refining-near-foundations-grant-approach/</link>
@@ -607,7 +610,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19669</post-id>	</item>
 		<item>
 		<title>Refer-and-Earn Guidelines Update: Q3 2022</title>
 		<link>/blog/refer-and-earn-guidelines-update-q3-2022/</link>
@@ -718,7 +721,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19539</post-id>	</item>
 		<item>
 		<title>NEAR and Grupo Nutresa Partner for Customer Experience Innovations in Web3</title>
 		<link>/blog/near-and-grupo-nutresa-partner-for-customer-experience-innovations-in-web3/</link>
@@ -780,6 +783,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">18608</post-id>	</item>
 	</channel>
 </rss>

@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Enter the Black Dragon: NEAR Co-Founder Joins the NEAR Foundation as CEO</title>
 		<link>/blog/enter-the-black-dragon-near-co-founder-joins-the-near-foundation-as-ceo/</link>
 		
@@ -64,7 +67,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21045</post-id>	</item>
 		<item>
 		<title>Coin98 Launches Decentralized Dapp Store for its 7 Million Users on NEAR’s Blockchain Operating System (B.O.S)</title>
 		<link>/blog/coin98-launches-decentralized-dapp-store-for-its-7-million-users-on-nears-blockchain-operating-system-b-o-s/</link>
@@ -127,7 +130,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21028</post-id>	</item>
 		<item>
 		<title>NEAR at Collision: Expand into the Open Web with the Blockchain Operating System</title>
 		<link>/blog/near-at-collision-expand-into-the-open-web-with-the-blockchain-operating-system/</link>
@@ -229,7 +232,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20524</post-id>	</item>
 		<item>
 		<title>NEAR at Consensus Highlights</title>
 		<link>/blog/near-at-consensus-highlights/</link>
@@ -503,6 +506,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20451</post-id>	</item>
 	</channel>
 </rss>

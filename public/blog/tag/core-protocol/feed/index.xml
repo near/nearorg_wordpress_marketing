@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -27,7 +30,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Legends of NEAR: Expansion from 4 to 6 Shards</title>
 		<link>/blog/legends-of-near-expansion-from-4-to-6-shards/</link>
 		
@@ -130,7 +133,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21349</post-id>	</item>
 		<item>
 		<title>Phase 2 of NEAR Sharding Launches</title>
 		<link>/blog/phase-2-of-near-sharding-launches/</link>
@@ -199,7 +202,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21200</post-id>	</item>
 		<item>
 		<title>NEAR Q4 Protocol Roadmap Update</title>
 		<link>/blog/near-q4-protocol-roadmap-update/</link>
@@ -302,7 +305,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21155</post-id>	</item>
 		<item>
 		<title>NEAR Strategic Update and Outlook for 2023</title>
 		<link>/blog/near-strategic-update-and-outlook-for-2023/</link>
@@ -429,7 +432,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19581</post-id>	</item>
 		<item>
 		<title>NEAR’s Road to Decentralization: A Deep Dive into Aurora</title>
 		<link>/blog/near-decentralization-aurora-evm/</link>
@@ -541,7 +544,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15973</post-id>	</item>
 		<item>
 		<title>An Update On the NEAR Validator Upgrade</title>
 		<link>/blog/an-update-on-the-near-validator-upgrade/</link>
@@ -606,7 +609,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15746</post-id>	</item>
 		<item>
 		<title>NEAR Enhances Decentralization with Validator Upgrade</title>
 		<link>/blog/near-validators-upgrade-decentralization/</link>
@@ -659,7 +662,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15611</post-id>	</item>
 		<item>
 		<title>Zero to Hero NFT Series: Happy Holidays from DevRel!</title>
 		<link>/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/</link>
@@ -738,7 +741,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15527</post-id>	</item>
 		<item>
 		<title>NEAR Sharding Rollout and Aurora IDO Postmortems</title>
 		<link>/blog/near-sharding-rollout-and-aurora-ido-postmortems/</link>
@@ -837,7 +840,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15402</post-id>	</item>
 		<item>
 		<title>NEAR Foundation Launches New Validator Program To Further Decentralize the Network</title>
 		<link>/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/</link>
@@ -958,6 +961,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15389</post-id>	</item>
 	</channel>
 </rss>
