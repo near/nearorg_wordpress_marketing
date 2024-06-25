@@ -22,4 +22,4 @@ node_modules/
 out
 
 # Misc
-.DS_Store
+*.DS_Store
