@@ -12,14 +12,14 @@ This repo contains static html blog files which are automatically committed to t
 
     3. create a PR and merge those changes into the `develop` branch
 
-2. Verify the develop branch UI works as expected @ [test.near.org/blog](https://test.near.org/blog) 
+2. Verify the develop branch UI works as expected @ [beta.near.org/blog](https://beta.near.org/blog) 
 3. If the above UI looks good, open a PR to merge the `develop` branch into `main`
 
 
 ## Automated Search and Replace
 Upon merges into the develop branch, a Github Actions runs `/bin/replace_all.sh` to automate the search & replace of the below strings. This allows us to leverage pages.near.org to serve high bandwidth content, like large images and videos, thereby reducing the load on the Vercel servers which render near.org. This means that the 3 servers of pages.near.org, Github, and near.org are used to render blogs at near.org/blog.
 
-search: /wp-content
+```search: /wp-content
 replace: https://pages.near.org/wp-content
 
 search: ="/wp-content
@@ -32,4 +32,4 @@ search: ?paged=
 replace: page/
 
 From the file blog/near-foundation-announces-policy-principles/index.html
-delete "https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/07/Digital-Assets-Consultation-Paper-Law-Commission-1.pdf"
+delete "https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/07/Digital-Assets-Consultation-Paper-Law-Commission-1.pdf"```

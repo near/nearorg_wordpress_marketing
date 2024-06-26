@@ -22,7 +22,10 @@ echo "Searching for '$search_string' and replacing with '$replacement_string' in
 # Use find command to search for files recursively in the directory
 find "$directory" -type f -print0 | while IFS= read -r -d '' file; do
     # Perform the search and replace using sed
-    sed -i '' 's/'$search_string'/'$replacement_string'/g' "$file"
+    #sed -i 's/'$search_string'/'$replacement_string'/g' "$file"
+    # Note: the above sed command works on unix/linux, but not on MacOS
+    # To run this script locally on a mac, comment out the above and use the line below
+     sed -i '' 's/'$search_string'/'$replacement_string'/g' "$file"
     echo "Modified: $file"
 done
 
