@@ -14,17 +14,11 @@ Sometimes that github export takes > 2 hours, or fails completely, and one must 
 search: /wp-content
 replace: https://pages.near.org/wp-content
 
-search: /wp-includes
-replace: https://pages.near.org/wp-includes
-
-search: " /wp-content"
-replace: " https://pages.near.org/wp-content"
-
 search: ="/wp-content
 replace: ="https://pages.near.org/wp-content
 
-search: =/wp-content
-replace: =https://pages.near.org/wp-content
+search: /wp-includes
+replace: https://pages.near.org/wp-includes
 
 search: ?paged=
 replace: page/
