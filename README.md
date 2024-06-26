@@ -19,7 +19,7 @@ This repo contains static html blog files which are automatically committed to t
 ## Automated Search and Replace
 Upon merges into the develop branch, a Github Actions runs `/bin/replace_all.sh` to automate the search & replace of the below strings. This allows us to leverage pages.near.org to serve high bandwidth content, like large images and videos, thereby reducing the load on the Vercel servers which render near.org. This means that the 3 servers of pages.near.org, Github, and near.org are used to render blogs at near.org/blog.
 
-search: /wp-content
+```search: /wp-content
 replace: https://pages.near.org/wp-content
 
 search: ="/wp-content
@@ -32,4 +32,4 @@ search: ?paged=
 replace: page/
 
 From the file blog/near-foundation-announces-policy-principles/index.html
-delete "https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/07/Digital-Assets-Consultation-Paper-Law-Commission-1.pdf"
+delete "https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/07/Digital-Assets-Consultation-Paper-Law-Commission-1.pdf"```
