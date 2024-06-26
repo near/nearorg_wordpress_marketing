@@ -7,10 +7,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: script
-        run: ./bin/replace_all.sh
         shell: bash
-        with:
-          token: ${{ secrets.REPO_TOKEN }}
+        run: ./bin/replace_all.sh
 
       - name: Check the diff
         id: check_diff
