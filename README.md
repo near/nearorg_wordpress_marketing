@@ -1,16 +1,24 @@
 # nearorg_marketing
 
-This repo contains static html blog files which are automatically committed to the develop branch of this repo when the [Simply Static plugin](https://pages.near.org/wp-admin/admin.php?page=simply-static-generate) is used to `Generate Static Files`. 
-
-Sometimes that github export takes > 2 hours, or fails completely, and one must update the wordpress plugin via `Settings` -> `Deploy` and select `Zip Archive` instead of `Github`. Then, once the export completes, `Tools` -> `Activity Log` will display a URL to download the created zip file. Then the following manual steps are required: 
-
-1. unzip the zip file and copy the content of `blog/` into this repository at `public/blog`
-2. create a PR and merge those changes into the `develop` branch
-3. Verify the develop branch UI works as expected @ [test.near.org/blog](https://test.near.org/blog) 
-4. If the above UI looks good, open a PR to merge the `develop` branch into `main`
+This repo contains static html blog files which are automatically committed to the develop branch of this repo when the [Simply Static Wordpress plugin](https://pages.near.org/wp-admin/admin.php?page=simply-static-generate) is used to `Generate Static Files`. 
 
 
-`/bin/replace_all.sh` automates the search & replace of the following strings: 
+## To sync blog content from pages.near.org to near.org
+1. Log into [WordPress Admin](https://pages.near.org/wp-admin/admin.php?page=simply-static-generate), go to the Simply Static plugin towards the bottom of the left-side nav, and click `Generate Static Files`
+
+    1. Sometimes that github export takes > 2 hours, or fails completely, and one must update the wordpress plugin via `Settings` -> `Deploy` and select `Zip Archive` instead of `Github`. Then, once the export completes, `Tools` -> `Activity Log` will display a URL to download the created zip file. Then the following manual steps are required: 
+
+    2. unzip the zip file and copy the content of `blog/` into this repository at `public/blog`
+
+    3. create a PR and merge those changes into the `develop` branch
+
+2. Verify the develop branch UI works as expected @ [test.near.org/blog](https://test.near.org/blog) 
+3. If the above UI looks good, open a PR to merge the `develop` branch into `main`
+
+
+## Automated Search and Replace
+Upon merges into the develop branch, a Github Actions runs `/bin/replace_all.sh` to automate the search & replace of the below strings. This allows us to leverage pages.near.org to serve high bandwidth content, like large images and videos, thereby reducing the load on the Vercel servers which render near.org. This means that the 3 servers of pages.near.org, Github, and near.org are used to render blogs at near.org/blog.
+
 search: /wp-content
 replace: https://pages.near.org/wp-content
 
