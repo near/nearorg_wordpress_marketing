@@ -1,0 +1,32 @@
+on:  
+  push: 
+    branches: [develop]
+jobs:
+  fix-paths:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: script
+        run: ./bin/replace_all.sh
+        shell: bash
+        with:
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Check the diff
+        id: check_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Log next steps
+        if: steps.check_diff.outputs.changed != 'true'
+        run: |
+          echo "Workflow detected that no changes are needed."
+
+      - name: Conditional Commit
+        if: steps.check_diff.outputs.changed == 'true'
+        run: |
+          echo "Preparing a commit."
+          git config --local user.email "devconsole-team@pagoda.co"
+          git config --local user.name "github-actions-bot"
+          git commit -m "auto-update URL paths in response to marketing content update" -a
+          git push
