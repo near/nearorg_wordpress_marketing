@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -12,7 +15,7 @@
 	<atom:link href="/blog/tag/ecosystem/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/ecosystem/</link>
 	<description></description>
-	<lastBuildDate>Thu, 16 May 2024 17:19:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Jun 2024 13:00:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,13 +24,221 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Ecosystem Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/ecosystem/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>NEAR Foundation Launches Incubation Program to Build Infrastructure for User-Owned AI</title>
+		<link>/blog/near-foundation-launches-ai-incubation-program/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 20 Jun 2024 13:00:33 +0000</pubDate>
+				<category><![CDATA[User-Owned AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[NEAR Horizon]]></category>
+		<guid isPermaLink="false">/?p=21416</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation is pleased to announce the six AI teams selected for the first NEAR Horizon AI Incubation Program, …</p>
+<p>The post <a href="/blog/near-foundation-launches-ai-incubation-program/">NEAR Foundation Launches Incubation Program to Build Infrastructure for User-Owned AI</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation is pleased to announce the six AI teams selected for the first NEAR Horizon AI Incubation Program, launched earlier this month. By partnering with top-tier AI teams building at the intersection of AI x Web3, the NEAR ecosystem will contribute to developing the infrastructure—foundational models, model training, and developer tools—that supports scalable, efficient, and secure <a href="https://near.org/blog/user-owned-ai-is-near">User-Owned AI</a>.</p>
+
+
+
+<p>The NEAR AI x HZN Incubation Program is part of the NEAR Foundation’s strategic vision to build a User-Owned AI ecosystem that provides alternatives to the corporate-owned, centralized AI monopolizing the landscape today. By putting the power of AI where it belongs—in the hands of users—the goal is to maximize the benefits of AI for people and communities, provide novel economic opportunities, and accelerate creativity and innovation.&nbsp;</p>
+
+
+
+<p>The inaugural NEAR AI x HZN Incubator cohort includes the following teams:</p>
+
+
+
+<ul>
+<li><a href="https://mizu.global/"><strong>Mizu</strong></a> is building the first synthetic open data layer aimed at fostering an open, collaborative data ecosystem for AI developers.
+<ul>
+<li>NEAR and Mizu are developing expansive, open <strong>data platforms that support AI research and applications</strong>.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li><a href="https://cryptopond.xyz/"><strong>Pond</strong></a> develops foundational crypto models using Graph Neural Networks (GNNs) to analyze on-chain data and predict future behaviors.
+<ul>
+<li>NEAR and Pond are collaborating on <strong>NEAR-native foundational AI models </strong>and tools that enhance decentralized applications’ ability to operate at scale.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li><a href="https://nevermined.io/"><strong>Nevermined</strong></a> creates robust payment infrastructure tailored for AI-commerce, facilitating transactional ease for AI developers.
+<ul>
+<li>NEAR and Hyperbolic are innovating <strong>AI agents for applications</strong> to streamline and secure payment processes within the AI ecosystem.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li><a href="https://www.hyperbolic.xyz/"><strong>Hyperbolic</strong></a> provides an open-access AI cloud, featuring a GPU marketplace and AI inference services.
+<ul>
+<li>NEAR and Hyperbolic are working to provide projects with the <strong>computational power and hosting AI models necessary for intensive AI tasks</strong>.<br></li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.ringfence.ai/"><strong>Ringfence</strong></a><strong> </strong>empowers creators and artists to monetize their work while maintaining secure ownership, aiming to be a Web3 version of DALLE-3 that directly benefits creators.
+<ul>
+<li>NEAR and Ringfence are collaborating on pathways for <strong>data monetization, labeling, and indexing of user-generated content</strong>.<br></li>
+</ul>
+</li>
+
+
+
+<li><a href="https://exabits.ai/"><strong>Exabits</strong></a> supplies GPU compute in a data center environment, providing the essential physical and technical conditions for serious AI training, inference, and fine-tuning.
+<ul>
+<li>NEAR and Exabits are working to democratize access to <strong>high-performance compute resources</strong> for the NEAR ecosystem.<br></li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>“We’re thrilled to welcome these six top-tier AI teams to the User-Owned AI ecosystem on NEAR,” says Illia Polosukhin, Co-Founder of NEAR Protocol and CEO of NEAR Foundation. “Spanning data, models, compute, and inference, these projects are innovating in key parts of the emerging AI stack and represent the best of AI x Web3 projects building today.”</p>
+
+
+
+<p>The AI incubation program isn’t just about individual project development: it’s about contributing to a larger vision of a collaborative and user-owned AI ecosystem, one in which users and developers have access to pioneering AI solutions that are secure, decentralized, and empowering end users as well as researchers contributing to open source. Each participating team will contribute to the growing NEAR AI x Web3 infrastructure product stack, ensuring that development is shared across the User-Owned AI ecosystem, and fostering a community-driven approach to AI development.</p>
+
+
+
+<p>Participants in the NEAR AI x HZN Incubator will receive extensive support over the program’s initial twelve weeks, and in subsequent phases through May 2025. That support includes access to NEAR’s AI expert network, dedicated technical and token launch support, access to compute, and funding opportunities.&nbsp;</p>
+
+
+
+<p>Interested in following along with these exciting teams building the future of AI x Web3?&nbsp;</p>
+
+
+
+<ol>
+<li>Join the NEAR Foundation at ETHCC in Brussels, July 11, for the NEAR AI Tech Showcase and hear directly from the founders in the current incubation cohort. RSVP: <a href="https://lu.ma/AITechShowcase">NEAR AI Tech Showcase</a>.<br></li>
+
+
+
+<li>Tune in to the weekly <a href="https://www.youtube.com/@NEARProtocol/streams">NEAR AI Office Hours</a> every Tuesday with NEAR co-founders Illia Polosukhin and Alex Skidanov.</li>
+</ol>
+<p>The post <a href="/blog/near-foundation-launches-ai-incubation-program/">NEAR Foundation Launches Incubation Program to Build Infrastructure for User-Owned AI</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21416</post-id>	</item>
+		<item>
+		<title>COSMOSE AI: TRANSFORMING CONSUMER EMPOWERMENT WITH AI AND BLOCKCHAIN</title>
+		<link>/blog/cosmose-ai-transforming-consumer-empowerment-with-ai-and-blockchain/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 12:59:48 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Partnerships]]></category>
+		<guid isPermaLink="false">/?p=21399</guid>
+
+					<description><![CDATA[<p>Since September 2023, CosmoseAI’s KAI-Ching has been number 1 dApp with the most Unique Active Wallets (UAW) in all of …</p>
+<p>The post <a href="/blog/cosmose-ai-transforming-consumer-empowerment-with-ai-and-blockchain/">COSMOSE AI: TRANSFORMING CONSUMER EMPOWERMENT WITH AI AND BLOCKCHAIN</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Since September 2023, CosmoseAI’s KAI-Ching has been number 1 dApp with the most Unique Active Wallets (UAW) in all of web3, hitting numbers like 700k Daily Active Wallets and 2 million Monthly Active Users.&nbsp;</p>
+
+
+
+<p>What makes KAI-Ching special? Turns out building around consumer empowerment that rewards the consumer and ensures their ownership can make you really popular. KAI-Ching is a mission-driven technology transforming consumer experience by saving them time with curated content and offerings, rewarding their engagement, and ensuring they have control and ownership of their data.</p>
+
+
+
+<p><strong>A QUICK INTRODUCTION TO COSMOSE AI’s CORE PLATFORMS&nbsp;</strong></p>
+
+
+
+<p><strong>KAIKAI</strong> is an AI-powered, opt-in interactive lock screen and mobile app that provides curated content and shopping based on the user’s preferences. By engaging with the provided content and/or shopping, users earn KAI-Ching.&nbsp;</p>
+
+
+
+<p><strong>KAI-Ching</strong>, the heartbeat of the ecosystem, is a reward system integrated into Cosmose AI platforms, using a crypto-based token, $KAIC, to reward users for purchases and engagement on KAIKAI. These earned tokens can be accumulated and redeemed for discounts or full purchases on KAIKAI.</p>
+
+
+
+<p><strong>THE WHY BEHIND KAIKAI &amp; KAI-CHING</strong></p>
+
+
+
+<p>Consumer data basically equates to currency in the digital age, but traditional data-reliant consumer apps (think Facebook, Google, social media apps etc) have often fallen short in guaranteeing ownership, privacy or ethical use of consumer-generated data.</p>
+
+
+
+<p>Cosmose AI founder Miron Mironiuk, sought to disrupt the trend: <em>“KAI-Ching was built to give users tangible benefits for their engagement, while ensuring that they retain ownership of the data.”</em></p>
+
+
+
+<p><strong>MAKING THE KAI-ECOSYSTEM WORK</strong></p>
+
+
+
+<p>CosmoseAI intelligently combined the best of blockchain technology and edge computing to deliver the essence of its platforms’ value.&nbsp;</p>
+
+
+
+<p>KAIKAI and KAI-Ching are powered by NEAR Protocol, a sharded and modular, AI Layer-1 blockchain, with low transaction fees, and super fast finality. NEAR’s dev-friendly infrastructure, negligible transaction fees, made it an ideal landing pad for the Cosmose AI team.&nbsp;</p>
+
+
+
+<p>Blockchain technology ensures user data ownership remains with the user, by enabling the user to permission what can be accessed or shared.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-1024x576.png" alt="" class="wp-image-21400" srcset="https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-1024x576.png 1024w, https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-300x169.png 300w, https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-768x432.png 768w, https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-1536x864.png 1536w, https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Unless you are digging deep into the architecture of KAI-Ching, you won’t know it runs on a blockchain, described by Miron in an interview as: <em>&#8220;Instead of talking about blockchain and Web3, we built products that became part of everyday life.&#8221;</em></p>
+
+
+
+<p><strong>THE KAI-CHING JOURNEY SO FAR? KA-CHING!</strong></p>
+
+
+
+<p>Since launching KAIKAI and KAI-Ching, Cosmose AI has onboarded over 10m users into Web3, consistently topping daily and monthly active wallet charts since 2023. The big success can be attributed to two primary things: </p>
+
+
+
+<p>&#8211; Building on a developer-friendly blockchain, NEAR Protocol, that allows the team to cost-efficiently and seamlessly ship features, with speed and robust security.</p>
+
+
+
+<p>&#8211; Focusing on user journey and experience to deliver platforms that are user-friendly AND deliver tangible, repetitive value to users’ everyday life.</p>
+
+
+
+<p>The success of KAI-Ching and the CosmoseAI platforms is tangible proof that user-friendly consumer empowerment models work and can attract mass adoption, no matter the underlying infrastructure. As AI increasingly becomes a major narrative in Web3 and focuses on enhancing everyday consumer preferences, KAI-Ching positions itself as a pioneer abstracted solution for the future of consumer apps.<br><br>Discover the world of KAIKAI now<br><a href="https://kaikai.ai/">https://kaikai.ai/</a> </p>
+<p>The post <a href="/blog/cosmose-ai-transforming-consumer-empowerment-with-ai-and-blockchain/">COSMOSE AI: TRANSFORMING CONSUMER EMPOWERMENT WITH AI AND BLOCKCHAIN</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21399</post-id>	</item>
+		<item>
 		<title>Legends of NEAR: Expansion from 4 to 6 Shards</title>
 		<link>/blog/legends-of-near-expansion-from-4-to-6-shards/</link>
 		
@@ -50,7 +261,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/05/image-1024x683.jpeg" alt="" class="wp-image-21359" srcset="/wp-content/uploads/2024/05/image-1024x683.jpeg 1024w, /wp-content/uploads/2024/05/image-300x200.jpeg 300w, /wp-content/uploads/2024/05/image-768x512.jpeg 768w, /wp-content/uploads/2024/05/image.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg" alt="" class="wp-image-21359" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-300x200.jpeg 300w, https://pages.near.org/wp-content/uploads/2024/05/image-768x512.jpeg 768w, https://pages.near.org/wp-content/uploads/2024/05/image.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -120,7 +331,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" width="724" height="1024" src="/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png" alt="" class="wp-image-21365" style="width:303px;height:auto" srcset="/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png 724w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-212x300.png 212w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-768x1086.png 768w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1086x1536.png 1086w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1448x2048.png 1448w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="724" height="1024" src="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png" alt="" class="wp-image-21365" style="width:303px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png 724w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-212x300.png 212w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-768x1086.png 768w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1086x1536.png 1086w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1448x2048.png 1448w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
 
 
 
@@ -130,7 +341,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21349</post-id>	</item>
 		<item>
 		<title>Why Chain Abstraction Is the Next Frontier for Web3</title>
 		<link>/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</link>
@@ -288,7 +499,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21182</post-id>	</item>
 		<item>
 		<title>ICYMI: Scootering Through Web3 at NEAR APAC&#8217;s Vietnam Showcase </title>
 		<link>/blog/icymi-scootering-through-web3-at-near-apacs-vietnam-showcase/</link>
@@ -322,7 +533,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg" alt="" class="wp-image-20876" srcset="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0065-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0065-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0065-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0065-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg" alt="" class="wp-image-20876" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -338,7 +549,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg" alt="" class="wp-image-20874" srcset="/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0058-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0058-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0058-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0058-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg" alt="" class="wp-image-20874" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -354,7 +565,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg" alt="" class="wp-image-20871" srcset="/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg 1024w, /wp-content/uploads/2023/09/QUR_0011-300x200.jpg 300w, /wp-content/uploads/2023/09/QUR_0011-768x512.jpg 768w, /wp-content/uploads/2023/09/QUR_0011-1536x1024.jpg 1536w, /wp-content/uploads/2023/09/QUR_0011-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg" alt="" class="wp-image-20871" srcset="https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1536x1024.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -374,7 +585,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg" alt="" class="wp-image-20873" srcset="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg 1024w, /wp-content/uploads/2023/09/QUR_9815-300x200.jpg 300w, /wp-content/uploads/2023/09/QUR_9815-768x512.jpg 768w, /wp-content/uploads/2023/09/QUR_9815-1536x1024.jpg 1536w, /wp-content/uploads/2023/09/QUR_9815-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg" alt="" class="wp-image-20873" srcset="https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-1536x1024.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -394,7 +605,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg" alt="" class="wp-image-20872" srcset="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0824-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0824-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0824-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0824-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg" alt="" class="wp-image-20872" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -406,7 +617,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg" alt="" class="wp-image-20875" srcset="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0845-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0845-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0845-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0845-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg" alt="" class="wp-image-20875" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -420,7 +631,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20862</post-id>	</item>
 		<item>
 		<title>NEAR APAC Day 2 Recap: Asia Gaming Trends, Interoperability, and Web3 for Brands</title>
 		<link>/blog/near-apac-day-2-recap-asia-gaming-trends-interoperability-and-web3-for-brands/</link>
@@ -523,7 +734,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg" alt="" class="wp-image-20842" srcset="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg 1024w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-300x225.jpeg 300w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-768x576.jpeg 768w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg" alt="" class="wp-image-20842" srcset="https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg 1024w, https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-300x225.jpeg 300w, https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-768x576.jpeg 768w, https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -553,7 +764,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20841</post-id>	</item>
 		<item>
 		<title>NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</title>
 		<link>/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/</link>
@@ -672,7 +883,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20835</post-id>	</item>
 		<item>
 		<title>Update on the Grassroots Support Initiative</title>
 		<link>/blog/update-on-the-grassroots-support-initiative/</link>
@@ -711,7 +922,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20816</post-id>	</item>
 		<item>
 		<title>NEAR Foundation and Blumer: Pioneering Web3 Social Networking in Latin America</title>
 		<link>/blog/near-foundation-and-blumer-pioneering-web3-social-networking-in-latin-america/</link>
@@ -785,7 +996,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20753</post-id>	</item>
 		<item>
 		<title>NEAR at ETHCC Highlights: Sustainability and the BOS Take Center Stage in Paris</title>
 		<link>/blog/near-at-ethcc-highlights-sustainability-and-the-bos-take-center-stage-in-paris/</link>
@@ -900,195 +1111,6 @@
 					
 		
 		
-			</item>
-		<item>
-		<title>NEAR at ETHCC: Horizon Pitch Contest, BOS Workshops, and More</title>
-		<link>/blog/near-at-ethcc-horizon-pitch-contest-bos-workshops-and-more/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Sun, 16 Jul 2023 17:49:56 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[ETHCC]]></category>
-		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">/?p=20725</guid>
-
-					<description><![CDATA[<p>As Day One at NEAR @ ETHCC concludes, there’s palpable growing excitement for what’s in store for tomorrow. Held at …</p>
-<p>The post <a href="/blog/near-at-ethcc-horizon-pitch-contest-bos-workshops-and-more/">NEAR at ETHCC: Horizon Pitch Contest, BOS Workshops, and More</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>As Day One at NEAR @ ETHCC concludes, there’s palpable growing excitement for what’s in store for tomorrow. Held at the beautiful Museum National D’Histoire Naturelle in Paris, the first day of workshops and sessions proved to be an exceptional success for Ethereum and BOS builders.&nbsp;</p>
-
-
-
-<p>Day Two is gearing up to take the experience to a whole new level, with a primary focus on founders and their ventures.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-morning-and-early-afternoon-sessions-fostering-innovation">Morning and Early Afternoon Sessions: Fostering Innovation</h2>
-
-
-
-<p>Day Two will kick off with a casual networking opportunity over café au laits and pastries. It’ll be a great way to get warmed up and connect builders, innovators, and visionaries within the NEAR ecosystem.</p>
-
-
-
-<p>The first main event of the day will be a special workshop held&nbsp; by Matt Stephenson , Head of Cryptoeconomics at Pantera Capita, along with Pantera Principal, Ryan Barney. His insights on the opportunities and challenges within blockchain economics will deepen participants&#8217; understanding of the critical economic principles underpinning blockchain ecosystems.</p>
-
-
-
-<p>As the morning sessions conclude, the afternoon will kick off by delving into the world of interoperability, onboarding, and value generation with Vik Pandey from NEAR Foundation. Vik has been actively involved in the development of the BOS, focusing on interoperability, open-source technologies, and blockchain success efforts.&nbsp;</p>
-
-
-
-<p>During his session, &#8220;Interoperability, Onboarding, and Value Generation with the BOS,&#8221; Vik will share insights from his work, highlighting the ways in which the BOS fosters innovation and impact in the Open Web.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-late-afternoon-highlights-regulatory-discussions-and-horizon-workshop">Late Afternoon Highlights: Regulatory Discussions and Horizon Workshop</h2>
-
-
-
-<p>Next on the agenda is a panel of experts moderated by Mya Shofany, regulatory lead at NEAR Foundation. The discussion will delve into regulatory considerations in blockchain, and tackle some of the most critical issues facing Web3&nbsp; founders in the current regulatory landscape.</p>
-
-
-
-<p>The panel will be followed by one of the day&#8217;s most anticipated events — the Horizon afternoon. This session will be a deep dive into the cutting-edge ideas poised to redefine the blockchain world, spearheaded by NEAR’s new Web3 accelerator arm.</p>
-
-
-
-<p>As Day Two winds down, participants can enjoy relaxed networking during the Horizon Happy Hour. Here, NEAR and Ethereum enthusiasts can reflect on the day&#8217;s learnings, forge new connections, and unwind over drinks and appetizers.</p>
-
-
-
-<p>If you would like to browse the official schedule, head to <a href="https://www.eventbrite.com/e/near-ethcc-tickets-655229297467">near.org.ethcc&nbsp;</a></p>
-
-
-
-<p>Throughout the two days of NEAR @ ETHCC, participants are not just learning about the Blockchain Operating System (BOS), they&#8217;re experiencing it firsthand. Day Two promises a packed schedule of learning, building, and networking opportunities.</p>
-
-
-
-<p>For those who couldn&#8217;t join us on Day One, you can catch up on the sessions uploaded on the <a href="https://www.youtube.com/channel/UCuKdIYVN8iE3fv8alyk1aMw">NEAR Protocol YouTube channel</a>. Prepare for Day Two by soaking up the insights shared by our experts.</p>
-
-
-
-<p>Stay connected with us for more updates and insights from NEAR @ ETHCC as we continue to explore the limitless possibilities of the Blockchain Operating System (BOS).</p>
-<p>The post <a href="/blog/near-at-ethcc-horizon-pitch-contest-bos-workshops-and-more/">NEAR at ETHCC: Horizon Pitch Contest, BOS Workshops, and More</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEAR Foundation PR Roundup for June</title>
-		<link>/blog/near-foundation-pr-roundup-for-june/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[Community]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Partnerships]]></category>
-		<category><![CDATA[Press]]></category>
-		<guid isPermaLink="false">/?p=20694</guid>
-
-					<description><![CDATA[<p>As June comes to a close, summer in the NEAR ecosystem is heating up with a wave of new announcements, …</p>
-<p>The post <a href="/blog/near-foundation-pr-roundup-for-june/">NEAR Foundation PR Roundup for June</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>As June comes to a close, summer in the NEAR ecosystem is heating up with a wave of new announcements, events, media appearances, and more. Not to mention a few notable celebrities bringing some star power into NEAR’s orbit. Here’s a rundown of all the newsworthy NEAR happenings over the past month.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-sammy-hagar-and-guy-fieri-jump-into-nfts-on-near">Sammy Hagar and Guy Fieri jump into NFTs on NEAR</h2>
-
-
-
-<p>In the US, Grammy-winning musician Sammy Hagar and celebrity chef Guy Fieri joined the NEAR ecosystem, teaming up with NEAR on-ramp Trident3 to launch an NFT loyalty program. The Santo Spirits Club loyalty program, as reported by <a href="https://www.coindesk.com/web3/2023/06/13/guy-fieri-and-sammy-hagar-launch-web3-tequila-loyalty-program/">Coindesk</a> and <a href="https://decrypt.co/144378/guy-fieri-sammy-hagar-tequila-brand-launches-nft-loyalty-program">Decrypt</a>, will enable tequila fans to earn on-chain tiered perks and an opportunity to win a virtual tasting with the duo.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-mirae-asset-marblex-and-vortex-boost-south-korea">Mirae Asset, MARBLEX, and Vortex boost South Korea</h2>
-
-
-
-<p>&nbsp;Over in Asia, NEAR Foundation continued to make inroads in South Korea. Mirae Asset, a subsidiary of Asia’s largest financial group, announced a partnership to research Web3’s role in global business. Per&nbsp; <a href="https://www.bloomberg.com/press-releases/2023-06-09/near-foundation-mirae-asset-paving-the-way-for-the-future-of-web3-finance">Bloomberg</a>, Mirae Asset will collaborate with NEAR Foundation to strengthen the Web2/3 business network and identify opportunities for real-world blockchain value creation.</p>
-
-
-
-<p>Meanwhile,  <a href="https://blockchainreporter.net/marblex-collaborates-with-near-foundation-to-revolutionize-the-web3-gaming-sector/">Blockchain Reporter</a> broke that Marblex – a Korean blockchain infrastructure provider for high-quality gaming – will integrate NEAR protocol with Marblex’s gaming universe, enhancing user convenience and Web3 adoption. NEAR will integrate with MARBLEX’s WARP Bridge, taking advantage of NEAR’s high scalability and speed to improve the gaming experience in Web3. The partnership will also enable joint marketing initiatives and events, boosting awareness of the global blockchain gaming market. </p>
-
-
-
-<p>Then there’s Vortex Gaming, a Web3 subsidiary of Inven, the largest game media community in Korea. Coverage by <a href="https://europeangaming.eu/portal/latest-news/2023/06/27/138269/near-protocol-completes-gaming-ecosystem-by-onboarding-vortex-gaming/">European Gaming</a> reported that Vortex will leverage NEAR protocol to integrate a&nbsp; gaming community encompassing Web2 and Web3 by building innovative infrastructure for gaming developers. The NEAR Foundation and Inven will also collaborate on marketing and business development, adding to NEAR’s exciting Web3 gaming ecosystem.&nbsp;&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-skoda-launches-metaverse-for-auto-fans-in-india">Skoda launches metaverse for auto fans in India</h2>
-
-
-
-<p>Czech Automobile Manufacturer Skoda entered the Metaverse in the world’s most populous country, giving users an opportunity to explore, collect and own digital art pieces on NEAR. The platform, as reported by <a href="https://cointelegraph.com/news/czech-automobile-conglomerate-skoda-auto-launches-nft-platform">Cointelegraph</a> and <a href="https://www.entrepreneur.com/en-in/news-and-trends/skoda-auto-enters-the-nft-race-with-skodaverse-india/454673">Entrepreneur India</a>, will enable NFT owners to access exclusive perks and rewards, while allowing owners to trade digital artwork in the future.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-sailgp-christens-the-dock-for-decentralized-fandom">SailGP christens The Dock for decentralized fandom</h2>
-
-
-
-<p>In more partnership news, the Global racing league SailGP and Oracle announced the launch of “The Dock”, a decentralized fan engagement platform powered by Oracle and NEAR’s ongoing partnership to bridge the worlds of Web2 and Web3. As reported by <a href="https://www.sailweb.co.uk/2023/06/13/sailgp-and-oracle-roll-out-the-dock-loyalty-program/">SailWeb</a>, The Dock will revolutionize how fans follow SailGP, increasing engagement through exclusive content and enabling fans to earn points, redeemable for exciting rewards including VIP access to SailGP events and more.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-alibaba-cloud-and-women-in-web3-headline-collision">Alibaba Cloud and Women in Web3 headline Collision</h2>
-
-
-
-<p>The NEAR ecosystem took over Toronto this month, showcasing the best of BOS at Collision 2023,&nbsp; one of the world’s biggest tech conferences.&nbsp; During the event, the NEAR Foundation announced a groundbreaking partnership with Alibaba, enabling developers across Asia to launch new NEAR validators with Alibaba Cloud’s infrastructure as a service.&nbsp;</p>
-
-
-
-<p>The partnership was covered in myriad outlets such as <a href="https://www.coindesk.com/business/2023/06/26/embargo-26th-june-7am-bst-near-foundation-partners-with-alibaba-cloud-to-accelerate-web3-growth/">Coindesk</a>, <a href="https://journalducoin.com/actualites/near-alibaba-cloud-faciliter-developpement-applications-decentralisees/">Journal du Coin</a>, and <a href="https://www.btc-echo.de/schlagzeilen/near-foundation-und-alibaba-cloud-gehen-partnerschaft-ein-166623/">BTC Echo</a>. Partnering with Alibaba means the NEAR ecosystem will have access to Remote Procedure Calls (RPC) and enable users to interact with NEAR’s Blockchain Operating System while using Alibaba Cloud’s infrastructure.&nbsp;</p>
-
-
-
-<p>The NEAR Foundation also released the Women in Web3 Changemakers List 2023, celebrating the achievements of extraordinary women throughout the Web3 ecosystem. As reported by <a href="https://techfundingnews.com/breaking-the-mold-these-women-in-web3-changemakers-2023-forge-a-path-of-inclusion-and-innovation/?utm_content=cmp-true">Tech Funding News</a>, the ten women were selected by the public and hail from all corners of the globe, following hundreds of nominations from the Web3 community.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-leadership-viewpoints-on-media-and-social-fairness">Leadership viewpoints on media and social fairness</h2>
-
-
-
-<p>Illia Polosukhin, Founder of NEAR and CEO of Pagoda, took the time to write a thought leadership piece in <a href="https://blockworks.co/news/blockchain-media-governance-immutable">Blockworks</a> about crypto’s potential to transform how we interact with the media. Illia sets out the emerging problem with the status quo: bad actors are beginning to utilize generative AI to dramatically scale up misinformation campaigns.&nbsp;</p>
-
-
-
-<p>However, Illia explains that blockchain-based “sign-and-trace” systems can enable the public to reliably source and validate real news stories, with a legitimate trail of sources available online.</p>
-
-
-
-<p>CEO of NEAR Foundation Marieke Flament also penned an article for London’s leading daily business paper <a href="https://www.cityam.com/city-am-web3-building-a-fair-open-and-inclusive-digital-world/">CityAM</a> about using Web3 to build a fair and inclusive digital world.  “Too often technology has only benefited the few: those who have money, those who have power, or those of a certain gender, ethnicity, or skin color.</p>
-
-
-
-<p>But this doesn’t need to be the case,” she explained. “Technology can and should be in the service of all people. But to achieve this, we will need a change in perspective, something that Web3 can help us achieve.”</p>
-
-
-
-<p>Marieke also talked about blockchain, Web3, and BOS on a <a href="https://www.youtube.com/watch?v=_lXz1gd9ErI">podcast hosted by the editor Journal du Coin</a> &#8211; France’s leading crypto media outlet, and for a video interview with <a href="https://ffnews.com/fintech-tv/event/event-videos-2023/paris-fintech-forum-leaders-summit-2023/marieke-flament-near-foundation-paris-fintech-forum/">Fintech Finance</a> at the Paris Fintech Forum.&nbsp;</p>
-
-
-
-<p>That’s all for this month. If we missed anything or want to share anything for next month’s roundup, get in touch!</p>
-<p>The post <a href="/blog/near-foundation-pr-roundup-for-june/">NEAR Foundation PR Roundup for June</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20742</post-id>	</item>
 	</channel>
 </rss>

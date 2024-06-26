@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEARCON 2023 Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/nearcon-2023/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Built on NEAR: Celebrating Partners and Innovators at NEARCON &#8217;23</title>
 		<link>/blog/built-on-near-celebrating-partners-and-innovators-at-nearcon-23/</link>
 		
@@ -157,7 +160,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20968</post-id>	</item>
 		<item>
 		<title>Estudantes terão ingressos grátis no NEARCON’23</title>
 		<link>/blog/estudantes-terao-ingressos-gratis-no-nearcon23/</link>
@@ -259,7 +262,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20956</post-id>	</item>
 		<item>
 		<title>Entradas Gratuitas a NEARCON ‘23 para Estudiantes en España</title>
 		<link>/blog/entradas-gratuitas-a-nearcon-23-para-estudiantes-en-espana/</link>
@@ -309,7 +312,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20953</post-id>	</item>
 		<item>
 		<title>NEARCON IRL Hackathon 2023: Build the Open Web</title>
 		<link>/blog/nearcon-irl-hackathon-2023-build-the-open-web/</link>
@@ -405,7 +408,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20931</post-id>	</item>
 		<item>
 		<title>NEARCON: The Ultimate Web3 Education for Only $99!</title>
 		<link>/blog/nearcon-the-ultimate-web3-education-for-only-99/</link>
@@ -483,7 +486,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20914</post-id>	</item>
 		<item>
 		<title>NEARCON 2023: Get Tickets, Get Involved, Join the Hackathon!</title>
 		<link>/blog/nearcon-2023-get-tickets-get-involved-join-the-hackathon/</link>
@@ -673,7 +676,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20880</post-id>	</item>
 		<item>
 		<title>NEARCON Returns: Here’s Everything You Need to Know So Far</title>
 		<link>/blog/nearcon-returns-heres-everything-you-need-to-know-so-far/</link>
@@ -789,6 +792,6 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20642</post-id>	</item>
 	</channel>
 </rss>

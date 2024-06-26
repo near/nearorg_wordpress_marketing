@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Core protocol Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/core-protocol/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Legends of NEAR: Expansion from 4 to 6 Shards</title>
 		<link>/blog/legends-of-near-expansion-from-4-to-6-shards/</link>
 		
@@ -50,7 +53,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/05/image-1024x683.jpeg" alt="" class="wp-image-21359" srcset="/wp-content/uploads/2024/05/image-1024x683.jpeg 1024w, /wp-content/uploads/2024/05/image-300x200.jpeg 300w, /wp-content/uploads/2024/05/image-768x512.jpeg 768w, /wp-content/uploads/2024/05/image.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg" alt="" class="wp-image-21359" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-300x200.jpeg 300w, https://pages.near.org/wp-content/uploads/2024/05/image-768x512.jpeg 768w, https://pages.near.org/wp-content/uploads/2024/05/image.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -120,7 +123,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" width="724" height="1024" src="/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png" alt="" class="wp-image-21365" style="width:303px;height:auto" srcset="/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png 724w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-212x300.png 212w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-768x1086.png 768w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1086x1536.png 1086w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1448x2048.png 1448w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="724" height="1024" src="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png" alt="" class="wp-image-21365" style="width:303px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png 724w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-212x300.png 212w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-768x1086.png 768w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1086x1536.png 1086w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1448x2048.png 1448w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
 
 
 
@@ -130,7 +133,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21349</post-id>	</item>
 		<item>
 		<title>Phase 2 of NEAR Sharding Launches</title>
 		<link>/blog/phase-2-of-near-sharding-launches/</link>
@@ -199,7 +202,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21200</post-id>	</item>
 		<item>
 		<title>NEAR Q4 Protocol Roadmap Update</title>
 		<link>/blog/near-q4-protocol-roadmap-update/</link>
@@ -284,7 +287,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="592" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -292,7 +295,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="644" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="644" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -302,7 +305,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21155</post-id>	</item>
 		<item>
 		<title>NEAR Strategic Update and Outlook for 2023</title>
 		<link>/blog/near-strategic-update-and-outlook-for-2023/</link>
@@ -333,7 +336,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2022/12/near-2023-progress-1024x538.png" alt="" class="wp-image-19583" srcset="/wp-content/uploads/2022/12/near-2023-progress-1024x538.png 1024w, /wp-content/uploads/2022/12/near-2023-progress-300x158.png 300w, /wp-content/uploads/2022/12/near-2023-progress-768x403.png 768w, /wp-content/uploads/2022/12/near-2023-progress.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-1024x538.png" alt="" class="wp-image-19583" srcset="https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -367,7 +370,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2022/12/near-2023-bowtie2-1024x538.png" alt="" class="wp-image-19601" srcset="/wp-content/uploads/2022/12/near-2023-bowtie2-1024x538.png 1024w, /wp-content/uploads/2022/12/near-2023-bowtie2-300x158.png 300w, /wp-content/uploads/2022/12/near-2023-bowtie2-768x403.png 768w, /wp-content/uploads/2022/12/near-2023-bowtie2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2-1024x538.png" alt="" class="wp-image-19601" srcset="https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -395,7 +398,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2022/12/near-2023-stack-1024x538.png" alt="" class="wp-image-19582" srcset="/wp-content/uploads/2022/12/near-2023-stack-1024x538.png 1024w, /wp-content/uploads/2022/12/near-2023-stack-300x158.png 300w, /wp-content/uploads/2022/12/near-2023-stack-768x403.png 768w, /wp-content/uploads/2022/12/near-2023-stack.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack-1024x538.png" alt="" class="wp-image-19582" srcset="https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -429,7 +432,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19581</post-id>	</item>
 		<item>
 		<title>NEAR’s Road to Decentralization: A Deep Dive into Aurora</title>
 		<link>/blog/near-decentralization-aurora-evm/</link>
@@ -541,7 +544,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15973</post-id>	</item>
 		<item>
 		<title>An Update On the NEAR Validator Upgrade</title>
 		<link>/blog/an-update-on-the-near-validator-upgrade/</link>
@@ -606,7 +609,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15746</post-id>	</item>
 		<item>
 		<title>NEAR Enhances Decentralization with Validator Upgrade</title>
 		<link>/blog/near-validators-upgrade-decentralization/</link>
@@ -659,7 +662,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15611</post-id>	</item>
 		<item>
 		<title>Zero to Hero NFT Series: Happy Holidays from DevRel!</title>
 		<link>/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/</link>
@@ -738,7 +741,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15527</post-id>	</item>
 		<item>
 		<title>NEAR Sharding Rollout and Aurora IDO Postmortems</title>
 		<link>/blog/near-sharding-rollout-and-aurora-ido-postmortems/</link>
@@ -837,7 +840,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15402</post-id>	</item>
 		<item>
 		<title>NEAR Foundation Launches New Validator Program To Further Decentralize the Network</title>
 		<link>/blog/near-foundation-launches-new-validator-program-to-further-decentralize-the-network/</link>
@@ -958,6 +961,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15389</post-id>	</item>
 	</channel>
 </rss>

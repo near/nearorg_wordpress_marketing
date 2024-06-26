@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>UK Crypto Asset Consultation Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/uk-crypto-asset-consultation/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR Foundation&#8217;s Response to the UK Crypto Asset Consultation</title>
 		<link>/blog/near-foundations-response-to-the-uk-crypto-asset-consultation/</link>
 		
@@ -681,7 +684,7 @@
 
 
 
-<p><a href="#ftnt_ref36">[36]</a>&nbsp;Model law consultations and proposals can serve as guidance or inspiration for other jurisdictions that are considering similar reforms or initiatives. COALA created a model law for DAO’s, organising industry players, academics, and regulators to collaborate on the language. The intention is to work with local governments to allow adoption of the Model Law. See, e.g., Model Law For Decentralised Autonomous Organizations, Constance Choi, Primavera De Filippi, Rick Dudley, Silke Not Elrifia, Coalition of Automated Legal Applications (COALA), 2021 (available&nbsp;<a href="https://www.google.com/url?q=https://coala.global/wp-content/uploads/2022/03/DAO-Model-Law.pdf&amp;sa=D&amp;source=editors&amp;ust=1683164415956308&amp;usg=AOvVaw0YqlkSJm-2N6yO1OAHKwhQ">here</a>).</p>
+<p><a href="#ftnt_ref36">[36]</a>&nbsp;Model law consultations and proposals can serve as guidance or inspiration for other jurisdictions that are considering similar reforms or initiatives. COALA created a model law for DAO’s, organising industry players, academics, and regulators to collaborate on the language. The intention is to work with local governments to allow adoption of the Model Law. See, e.g., Model Law For Decentralised Autonomous Organizations, Constance Choi, Primavera De Filippi, Rick Dudley, Silke Not Elrifia, Coalition of Automated Legal Applications (COALA), 2021 (available&nbsp;<a href="https://www.google.com/url?q=https://coala.globalhttps://pages.near.org/wp-content/uploads/2022/03/DAO-Model-Law.pdf&amp;sa=D&amp;source=editors&amp;ust=1683164415956308&amp;usg=AOvVaw0YqlkSJm-2N6yO1OAHKwhQ">here</a>).</p>
 
 
 
@@ -747,6 +750,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20475</post-id>	</item>
 	</channel>
 </rss>

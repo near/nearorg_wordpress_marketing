@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Developer relations Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/dev-rel/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</title>
 		<link>/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/</link>
 		
@@ -145,7 +148,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20835</post-id>	</item>
 		<item>
 		<title>Introducing Wallet Selector: A New Tool for the NEAR Ecosystem</title>
 		<link>/blog/introducing-wallet-selector-a-new-tool-for-the-near-ecosystem/</link>
@@ -173,7 +176,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="512" height="283" src="/wp-content/uploads/2022/04/unnamed-2.png" alt="" class="wp-image-16256" srcset="/wp-content/uploads/2022/04/unnamed-2.png 512w, /wp-content/uploads/2022/04/unnamed-2-300x166.png 300w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>NEAR Wallet Selector</figcaption></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="512" height="283" src="https://pages.near.org/wp-content/uploads/2022/04/unnamed-2.png" alt="" class="wp-image-16256" srcset="https://pages.near.org/wp-content/uploads/2022/04/unnamed-2.png 512w, https://pages.near.org/wp-content/uploads/2022/04/unnamed-2-300x166.png 300w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>NEAR Wallet Selector</figcaption></figure>
 
 
 
@@ -199,7 +202,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">16254</post-id>	</item>
 		<item>
 		<title>NEAR’s Road to Decentralization: A Deep Dive into Aurora</title>
 		<link>/blog/near-decentralization-aurora-evm/</link>
@@ -311,7 +314,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15973</post-id>	</item>
 		<item>
 		<title>Zero to Hero NFT Series: Happy Holidays from DevRel!</title>
 		<link>/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/</link>
@@ -390,7 +393,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15527</post-id>	</item>
 		<item>
 		<title>near-api-js 0.44.0 Released</title>
 		<link>/blog/near-api-js-new-release-javascript/</link>
@@ -491,7 +494,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15476</post-id>	</item>
 		<item>
 		<title>Minting Minecraft Blueprints As NFTs</title>
 		<link>/blog/minecraft-mint-nft-dev-rel-tutorial-near-how-to/</link>
@@ -554,7 +557,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15448</post-id>	</item>
 		<item>
 		<title>Decentralized Storage for dApp Developers</title>
 		<link>/blog/decentralized-storage-for-dapp-developers/</link>
@@ -581,7 +584,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="512" height="288" src="/wp-content/uploads/2021/12/unnamed-9.png" alt="" class="wp-image-15436" srcset="/wp-content/uploads/2021/12/unnamed-9.png 512w, /wp-content/uploads/2021/12/unnamed-9-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="512" height="288" src="https://pages.near.org/wp-content/uploads/2021/12/unnamed-9.png" alt="" class="wp-image-15436" srcset="https://pages.near.org/wp-content/uploads/2021/12/unnamed-9.png 512w, https://pages.near.org/wp-content/uploads/2021/12/unnamed-9-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -603,7 +606,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15435</post-id>	</item>
 		<item>
 		<title>NEAR CLI 3.0.0 Released</title>
 		<link>/blog/near-cli-command-line-tool-upgrade-explanation/</link>
@@ -660,6 +663,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">15397</post-id>	</item>
 	</channel>
 </rss>

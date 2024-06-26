@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Protocol Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/near-protocol/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Open Call for Feedback on NEAR Protocol Validator Delegation Proposals</title>
 		<link>/blog/open-call-for-feedback-on-near-protocol-validator-delegation-proposals/</link>
 		
@@ -90,7 +93,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20890</post-id>	</item>
 		<item>
 		<title>NEAR Q2 Protocol Roadmap Update</title>
 		<link>/blog/near-q2-protocol-roadmap-update/</link>
@@ -160,6 +163,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20793</post-id>	</item>
 	</channel>
 </rss>

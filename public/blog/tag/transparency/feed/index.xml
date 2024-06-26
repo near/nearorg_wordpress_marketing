@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Transparency Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/transparency/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR Foundation Transparency Report: Q1 2023</title>
 		<link>/blog/near-foundation-transparency-report-q1-2023/</link>
 		
@@ -76,7 +79,7 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" data-id="20395" src="/wp-content/uploads/2023/04/near-2023-bowtie-new-1024x538.png" alt="" class="wp-image-20395" srcset="/wp-content/uploads/2023/04/near-2023-bowtie-new-1024x538.png 1024w, /wp-content/uploads/2023/04/near-2023-bowtie-new-300x158.png 300w, /wp-content/uploads/2023/04/near-2023-bowtie-new-768x403.png 768w, /wp-content/uploads/2023/04/near-2023-bowtie-new.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" data-id="20395" src="https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new-1024x538.png" alt="" class="wp-image-20395" srcset="https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new-300x158.png 300w, https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new-768x403.png 768w, https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 
 
@@ -339,7 +342,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-1024x538.png" alt="" class="wp-image-20393" srcset="/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-1024x538.png 1024w, /wp-content/uploads/2023/04/transparency-q1-2023-flywheel-300x158.png 300w, /wp-content/uploads/2023/04/transparency-q1-2023-flywheel-768x403.png 768w, /wp-content/uploads/2023/04/transparency-q1-2023-flywheel.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-1024x538.png" alt="" class="wp-image-20393" srcset="https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-300x158.png 300w, https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-768x403.png 768w, https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -649,6 +652,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20385</post-id>	</item>
 	</channel>
 </rss>

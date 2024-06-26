@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Partners Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/partners/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR Foundation PR Roundup for March</title>
 		<link>/blog/near-foundation-pr-roundup-for-march/</link>
 		
@@ -177,7 +180,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20350</post-id>	</item>
 		<item>
 		<title>NEAR and Popp Partner on Customer Engagement for Small Businesses</title>
 		<link>/blog/near-and-popp-partner-on-customer-engagement-for-small-businesses/</link>
@@ -267,7 +270,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20311</post-id>	</item>
 		<item>
 		<title>NEAR Foundation PR Roundup for February</title>
 		<link>/blog/near-foundation-pr-roundup-for-february/</link>
@@ -382,6 +385,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19788</post-id>	</item>
 	</channel>
 </rss>

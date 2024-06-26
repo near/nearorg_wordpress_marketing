@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Sharding Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/sharding/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Phase 2 of NEAR Sharding Launches</title>
 		<link>/blog/phase-2-of-near-sharding-launches/</link>
 		
@@ -95,7 +98,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21200</post-id>	</item>
 		<item>
 		<title>NEAR Q4 Protocol Roadmap Update</title>
 		<link>/blog/near-q4-protocol-roadmap-update/</link>
@@ -180,7 +183,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="592" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -188,7 +191,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -198,7 +201,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21155</post-id>	</item>
 		<item>
 		<title>Blockchain Scaling Approaches: NEAR Sharding vs. Layer 2s</title>
 		<link>/blog/blockchain-scaling-approaches-near-sharding-vs-layer-2s/</link>
@@ -256,6 +259,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20626</post-id>	</item>
 	</channel>
 </rss>
