@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -12,7 +15,7 @@
 	<atom:link href="/blog/category/community/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/community/</link>
 	<description></description>
-	<lastBuildDate>Wed, 29 May 2024 13:47:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Jun 2024 13:03:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,13 +24,112 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Community Archives &#8211; NEAR Protocol</title>
 	<link>/blog/category/community/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>NEAR Modular Spins Out to Become Nuffle Labs with $13M in Funding</title>
+		<link>/blog/nuffle-labs/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 13 Jun 2024 13:00:00 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[NEAR Foundation]]></category>
+		<guid isPermaLink="false">/?p=21409</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation announces the launch of Nuffle Labs, a new venture spinning out from Pagoda and the NEAR Foundation. …</p>
+<p>The post <a href="/blog/nuffle-labs/">NEAR Modular Spins Out to Become Nuffle Labs with $13M in Funding</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation announces the launch of Nuffle Labs, a new venture spinning out from Pagoda and the NEAR Foundation. Founded by the core contributors to the NEAR Data Availability Layer (NEAR DA) and the NEAR Fast Finality Layer (NFFL), the NEAR Modular product suite is now spinning out into an independent entity dedicated to improving and amplifying NEAR’s modularity offerings. The new entity has secured $13 million in funding, including a strategic grant from NEAR Foundation and external investment led by Electric Capital.</p>
+
+
+
+<p>The spinout of Nuffle Labs reflects not only the strength of the core team and the products they are building, but also illustrates the Foundation’s commitment to decentralization by turning core functions over to proven teams in the ecosystem. As an independent team, Nuffle Labs will be better positioned to operate at the forefront of modular blockchain design, nurture its own decentralized community, and forge more partnerships across the Web3 ecosystem.&nbsp;</p>
+
+
+
+<p>Nuffle Labs will leverage NEAR Protocol’s cost-effective, fast, and proven technology to offer rollups enhanced modularity. It is responsible for two key products in NEAR’s modular suite: NEAR Data Availability (NEAR DA) and NEAR Fast Finality Layer, now Nuffle Fast Finality Layer (NFFL).</p>
+
+
+
+<p><strong>Nuffle Labs secures $13M in funding to support their growth</strong></p>
+
+
+
+<p>Nuffle Labs’ spinout comes with substantial investment, including a strategic grant from the NEAR Foundation as well as funding from external investors including Electric Capital, Canonical Crypto, Fabric Ventures, Robot Ventures, Caladan, and Lyrik Ventures. Notable angel investors include Jordi Alexander (Selini), Blackdragon VC, Bowen Wang (NEAR), Sreeram Kannan (EigenLayer), Sam Kazemian (Frax), Sandeep Nailwal (Polygon), DeFi Dad (4RC), Dovey Wan (Primitive Ventures), and Mert Mumtaz (Helius). With these resources and supporters, the team is well-equipped to advance NEAR DA and NFFL, expand the team, invest in R&amp;D, and build a strong community that spans across NEAR, Ethereum, and beyond.</p>
+
+
+
+<p>“We&#8217;re proud to support the growth of Nuffle Labs as an independent company in the NEAR ecosystem. These 4 excellent co-founders have built first-rate modularity products that showcase the best of NEAR&#8217;s technology with NEAR DA and NFFL, providing cost-effective and performant solutions to projects across Web3,” said Illia Polosukhin, Co-Founder of NEAR Protocol and CEO of NEAR Foundation. “We look forward to continued collaboration with the NEAR Foundation as they expand and evolve.”</p>
+
+
+
+<p>Avichal Garg, General Partner at lead investor Electric Capital, said, “We are excited to back Nuffle Labs, the builders behind NEAR DA and the NEAR Fast Finality Layer (NFFL). As the core team that developed these products from the ground up, Nuffle Labs has the expertise to advance these modular solutions, creating a world where intra- and interchain transactions are cheap, fast, and secure.”</p>
+
+
+
+<p>“I have had the great privilege of getting to know the founders of Nuffle and working with them from day zero,” said Anand Iyer, General Partner at Canonical Crypto. “Their passion for solving blockchain scaling combined with their expertise from building solutions at NEAR has me genuinely excited for them and their future.”</p>
+
+
+
+<p><strong>Understanding NEAR Data Availability (NEAR DA)</strong></p>
+
+
+
+<p>NEAR DA utilizes the sharded architecture of NEAR Protocol to provide a modular data availability layer for Ethereum rollups with extremely high throughput and low cost. On mainnet launch, RSS3 – an open information protocol bridging AI and Web3 – experienced a substantial cost reduction, paying a daily average of $10 compared to their previous $1,000. NEAR DA currently has a throughput of 24MB/s, significantly higher than its closest competitor’s 6.67MB/s – making NEAR DA the most scalable, cheapest, and reliable DA solution on the market.</p>
+
+
+
+<p>NEAR DA’s scalability is further enhanced by its ability to support multiple rollups, whether they are optimistic or ZK-rollups. NEAR Data Availability (NEAR DA) provides:</p>
+
+
+
+<ul>
+<li>Cost-efficiency: Storing data on NEAR Protocol is significantly cheaper than on Ethereum, making it easier for projects to build as well as faster.</li>
+
+
+
+<li>Effortless Validation: NEAR Protocol&#8217;s trustless off-chain light client simplifies validation, ensuring accurate and reliable transactions.</li>
+
+
+
+<li>User-Friendly Interaction: NEAR Protocol provides easy access to on-chain data through RPC, making blockchain interaction seamless for developers and users.</li>
+</ul>
+
+
+
+<p><strong>Exploring NEAR Fast Finality Layer (NFFL)</strong></p>
+
+
+
+<p>The name Nuffle Labs is derived from the acronym NFFL. The Nuffle Fast Finality Layer (NFFL) is an EigenLayer Actively Validated Service (AVS) designed to aggregate state across various rollups. By leveraging NEAR DA, NFFL provides a fast, universal, and secure finality layer. It enhances block finality across different protocols and integrates additional public DA layers into the blockchain stack, paving the way for innovative cross-chain applications. NFFL is currently live on testnet––learn more <a href="https://nffl.nethermind.io/">about the protocol</a>.</p>
+
+
+
+<p><strong>What&#8217;s next for Nuffle Labs?</strong></p>
+
+
+
+<p>“We are thrilled about the incredible opportunity to grow and develop NEAR’s modular product offerings at Nuffle Labs,” said Altan Tutar, CEO of Nuffle Labs. The other Nuffle co-founders are Sam Wang, Firat Sertgoz, and Donovan Dall. “We deeply appreciate the support from the NEAR Foundation and are honored by the validation from such distinguished investors. Their confidence in our vision and capabilities energizes us as we continue to innovate and expand.”&nbsp;</p>
+
+
+
+<p>Looking ahead, Nuffle Labs will focus on advancing the development of the NFFL AVS on EigenLayer and further enhancing the robustness and efficiency of NEAR DA to support Ethereum’s rollup-centric future. The team is committed to furthering innovation in modular blockchain design and defragmenting the Web3 ecosystem.</p>
+
+
+
+<p>Follow along with the Nuffle team’s progress on their <a href="http://nuff.tech/">new site here</a> and follow the <a href="https://x.com/NuffleLabs">Nuffle Labs X(Twitter) account</a>. L2 builders interested in a partnership with Nuffle or those interested in applying to work with Nuffle can get in touch via the Nuffle Labs website.&nbsp;</p>
+<p>The post <a href="/blog/nuffle-labs/">NEAR Modular Spins Out to Become Nuffle Labs with $13M in Funding</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21409</post-id>	</item>
+		<item>
 		<title>Introducing *NEAR Name Tokens &#8211; Multichain, Cross-Platform Digital Identities In Web3</title>
 		<link>/blog/introducing-near-name-tokens/</link>
 		
@@ -129,7 +231,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21393</post-id>	</item>
 		<item>
 		<title>NEAR Foundation Partners with NEAT Protocol to Accelerate the Growth of AI Applications with 1 million $NEAR Delegation</title>
 		<link>/blog/neat-protocol/</link>
@@ -197,7 +299,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21390</post-id>	</item>
 		<item>
 		<title>Unveiling new partnerships at the International Tech Summit in Bermuda</title>
 		<link>/blog/international-tech-summit/</link>
@@ -313,7 +415,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21341</post-id>	</item>
 		<item>
 		<title>Innovative Alliance Marks Milestone That Drives Digital Finance </title>
 		<link>/blog/innovative-alliance/</link>
@@ -409,7 +511,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21336</post-id>	</item>
 		<item>
 		<title>NEAR Launches Infrastructure Committee with $4 Million in Funding </title>
 		<link>/blog/near-launches-infrastructure-committee/</link>
@@ -653,7 +755,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21321</post-id>	</item>
 		<item>
 		<title>NEAR Ecosystem Kicks Up a Sandstorm at TOKEN2049 Dubai</title>
 		<link>/blog/near-ecosystem-kicks-up-a-sandstorm-at-token2049-dubai/</link>
@@ -701,7 +803,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21312</post-id>	</item>
 		<item>
 		<title>Korea BUIDL Week Recap: One Account to Rule Them All</title>
 		<link>/blog/korea-buidl-week-recap-one-account-to-rule-them-all/</link>
@@ -739,7 +841,7 @@
 
 
 
-<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1600" height="1200" src="/wp-content/uploads/2024/04/image.jpeg" alt="" class="wp-image-21317" srcset="/wp-content/uploads/2024/04/image.jpeg 1600w, /wp-content/uploads/2024/04/image-300x225.jpeg 300w, /wp-content/uploads/2024/04/image-1024x768.jpeg 1024w, /wp-content/uploads/2024/04/image-768x576.jpeg 768w, /wp-content/uploads/2024/04/image-1536x1152.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1600" height="1200" src="https://pages.near.org/wp-content/uploads/2024/04/image.jpeg" alt="" class="wp-image-21317" srcset="https://pages.near.org/wp-content/uploads/2024/04/image.jpeg 1600w, https://pages.near.org/wp-content/uploads/2024/04/image-300x225.jpeg 300w, https://pages.near.org/wp-content/uploads/2024/04/image-1024x768.jpeg 1024w, https://pages.near.org/wp-content/uploads/2024/04/image-768x576.jpeg 768w, https://pages.near.org/wp-content/uploads/2024/04/image-1536x1152.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
 
 
 
@@ -777,7 +879,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21306</post-id>	</item>
 		<item>
 		<title>LiNEAR Protocol Introduces Omnichain Liquid Restaking to Advance NEAR’s Chain Abstraction </title>
 		<link>/blog/linear-protocol-introduces-omnichain-liquid-restaking/</link>
@@ -837,7 +939,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21300</post-id>	</item>
 		<item>
 		<title>NEAR at NVIDIA GTC 2024: A Recap of Illia’s Appearance</title>
 		<link>/blog/nvidia-gtc-2024/</link>
@@ -926,70 +1028,6 @@
 					
 		
 		
-			</item>
-		<item>
-		<title>NEAR Ecosystem @ Korea BUIDL Week 2024</title>
-		<link>/blog/korea-buidl-week-2024/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Mon, 18 Mar 2024 13:37:17 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<guid isPermaLink="false">/?p=21282</guid>
-
-					<description><![CDATA[<p>MARCH 26 &#8211; APRIL 2, 2024 As the sun rises in the east, a new dawn breaks for NEAR. Fresh …</p>
-<p>The post <a href="/blog/korea-buidl-week-2024/">NEAR Ecosystem @ Korea BUIDL Week 2024</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>MARCH 26 &#8211; APRIL 2, 2024</p>
-
-
-
-<p>As the sun rises in the east, a new dawn breaks for NEAR. Fresh from ETHDenver, where we planted a firm flag in the ground to own the Chain Abstraction narrative, the NEAR Ecosystem arrives at Korea BUIDL Week 2024 riding a wave of momentum and armed with exciting updates and alpha destined to reshape the blockchain landscape.</p>
-
-
-
-<p>Chain Abstraction – a groundbreaking approach that abstracts away the complexities of different blockchain architectures – was a central focus for us at ETHDenver. We captivated attendees with live demonstrations, showcasing Chain Abstraction&#8217;s potential to enable developers to build seamlessly across multiple networks without the need for custom integrations or bridges.</p>
-
-
-
-<p>By boldly staking our claim on this game-changing technology, we made a powerful statement at ETHDenver, signaling our intent to lead the charge in unlocking unprecedented levels of cross-chain communication and composability.</p>
-
-
-
-<p>Now, as we descend upon Korea BUIDL Week, we are poised to take Chain Abstraction to the global stage, introducing this transformative narrative and its robust, developer-friendly tooling to an international audience of innovators, entrepreneurs, and industry leaders.&nbsp;</p>
-
-
-
-<p>Developers, builders, researchers, and enthusiasts – join us for a week of events as we continue to push the boundaries of what&#8217;s possible.</p>
-
-
-
-<p><strong>NEAR is Everything Everywhere All at Once at Korea BUIDL Week</strong></p>
-
-
-
-<p>We&#8217;re hitting the ground running with NEAR Foundation&#8217;s second <a href="https://lu.ma/ChADay_BUIDLAsia24">Chain Abstraction Day (apply-to-attend)</a> in our year long series, taking place March 26, 2024 during Korea BUIDL Week. We&#8217;re doubling down and taking everyone to the moon!<br><br>Our co-founder and CEO, Illia Polosukhin, will be dropping some major alpha at <a href="https://www.buidl.asia/">BUIDL Asia 2024</a>, sharing insights into NEAR&#8217;s vision for Chain Abstraction and how it&#8217;s poised to unlock unprecedented levels of interoperability and composability across decentralized networks.<br></p>
-
-
-
-<p>But that&#8217;s not all – we&#8217;re bringing the heat with dedicated workshops, content, and a massive hackathon bounty prize up for grabs at <a href="https://www.ethseoul.org/">ETH Seoul</a>, challenging the brilliant minds of the blockchain world to push the boundaries of Chain Abstraction. Developers, builders, and innovators: get ready to bring your A-game and compete for this lucrative reward.</p>
-
-
-
-<p>Don&#8217;t miss your shot at NEAR&#8217;s massive hackathon bounty prizes at ETHSeoul &#8211; <a href="https://ethseoul2024.devfolio.co/">check out the link</a> to see what lucrative rewards await the winners. <a href="https://ethseoul2024.devfolio.co/">Register for the hackathon</a> today and let your skills shine on the global stage.<br></p>
-
-
-
-<p>And if that&#8217;s not enough, NEAR is also proud to support <a href="https://lu.ma/shefisummmitseoul">SheFi Summit Seoul</a>, empowering women builders in Web3. This groundbreaking event showcases the incredible female talent in our ecosystem, with NEAR women taking the stage to share their visionary work.&nbsp;</p>
-
-
-
-<p>Abstractooors, you won’t want to miss the fun!</p>
-<p>The post <a href="/blog/korea-buidl-week-2024/">NEAR Ecosystem @ Korea BUIDL Week 2024</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21290</post-id>	</item>
 	</channel>
 </rss>

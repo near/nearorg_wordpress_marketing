@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Horizon Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/horizon/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR Foundation Launches NEAR Horizon</title>
 		<link>/blog/near-foundation-launches-near-horizon/</link>
 		
@@ -104,6 +107,6 @@ https://www.youtube.com/watch?v=Fyl1Hlo-rM0
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20420</post-id>	</item>
 	</channel>
 </rss>

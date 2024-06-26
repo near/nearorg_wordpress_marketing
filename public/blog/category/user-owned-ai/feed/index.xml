@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>User-Owned AI Archives &#8211; NEAR Protocol</title>
+	<atom:link href="/blog/category/user-owned-ai/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/category/user-owned-ai/</link>
+	<description></description>
+	<lastBuildDate>Thu, 20 Jun 2024 13:00:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<title>User-Owned AI Archives &#8211; NEAR Protocol</title>
+	<link>/blog/category/user-owned-ai/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>NEAR Foundation Launches Incubation Program to Build Infrastructure for User-Owned AI</title>
+		<link>/blog/near-foundation-launches-ai-incubation-program/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 20 Jun 2024 13:00:33 +0000</pubDate>
+				<category><![CDATA[User-Owned AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[NEAR Horizon]]></category>
+		<guid isPermaLink="false">/?p=21416</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation is pleased to announce the six AI teams selected for the first NEAR Horizon AI Incubation Program, …</p>
+<p>The post <a href="/blog/near-foundation-launches-ai-incubation-program/">NEAR Foundation Launches Incubation Program to Build Infrastructure for User-Owned AI</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation is pleased to announce the six AI teams selected for the first NEAR Horizon AI Incubation Program, launched earlier this month. By partnering with top-tier AI teams building at the intersection of AI x Web3, the NEAR ecosystem will contribute to developing the infrastructure—foundational models, model training, and developer tools—that supports scalable, efficient, and secure <a href="https://near.org/blog/user-owned-ai-is-near">User-Owned AI</a>.</p>
+
+
+
+<p>The NEAR AI x HZN Incubation Program is part of the NEAR Foundation’s strategic vision to build a User-Owned AI ecosystem that provides alternatives to the corporate-owned, centralized AI monopolizing the landscape today. By putting the power of AI where it belongs—in the hands of users—the goal is to maximize the benefits of AI for people and communities, provide novel economic opportunities, and accelerate creativity and innovation.&nbsp;</p>
+
+
+
+<p>The inaugural NEAR AI x HZN Incubator cohort includes the following teams:</p>
+
+
+
+<ul>
+<li><a href="https://mizu.global/"><strong>Mizu</strong></a> is building the first synthetic open data layer aimed at fostering an open, collaborative data ecosystem for AI developers.
+<ul>
+<li>NEAR and Mizu are developing expansive, open <strong>data platforms that support AI research and applications</strong>.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li><a href="https://cryptopond.xyz/"><strong>Pond</strong></a> develops foundational crypto models using Graph Neural Networks (GNNs) to analyze on-chain data and predict future behaviors.
+<ul>
+<li>NEAR and Pond are collaborating on <strong>NEAR-native foundational AI models </strong>and tools that enhance decentralized applications’ ability to operate at scale.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li><a href="https://nevermined.io/"><strong>Nevermined</strong></a> creates robust payment infrastructure tailored for AI-commerce, facilitating transactional ease for AI developers.
+<ul>
+<li>NEAR and Hyperbolic are innovating <strong>AI agents for applications</strong> to streamline and secure payment processes within the AI ecosystem.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li><a href="https://www.hyperbolic.xyz/"><strong>Hyperbolic</strong></a> provides an open-access AI cloud, featuring a GPU marketplace and AI inference services.
+<ul>
+<li>NEAR and Hyperbolic are working to provide projects with the <strong>computational power and hosting AI models necessary for intensive AI tasks</strong>.<br></li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.ringfence.ai/"><strong>Ringfence</strong></a><strong> </strong>empowers creators and artists to monetize their work while maintaining secure ownership, aiming to be a Web3 version of DALLE-3 that directly benefits creators.
+<ul>
+<li>NEAR and Ringfence are collaborating on pathways for <strong>data monetization, labeling, and indexing of user-generated content</strong>.<br></li>
+</ul>
+</li>
+
+
+
+<li><a href="https://exabits.ai/"><strong>Exabits</strong></a> supplies GPU compute in a data center environment, providing the essential physical and technical conditions for serious AI training, inference, and fine-tuning.
+<ul>
+<li>NEAR and Exabits are working to democratize access to <strong>high-performance compute resources</strong> for the NEAR ecosystem.<br></li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>“We’re thrilled to welcome these six top-tier AI teams to the User-Owned AI ecosystem on NEAR,” says Illia Polosukhin, Co-Founder of NEAR Protocol and CEO of NEAR Foundation. “Spanning data, models, compute, and inference, these projects are innovating in key parts of the emerging AI stack and represent the best of AI x Web3 projects building today.”</p>
+
+
+
+<p>The AI incubation program isn’t just about individual project development: it’s about contributing to a larger vision of a collaborative and user-owned AI ecosystem, one in which users and developers have access to pioneering AI solutions that are secure, decentralized, and empowering end users as well as researchers contributing to open source. Each participating team will contribute to the growing NEAR AI x Web3 infrastructure product stack, ensuring that development is shared across the User-Owned AI ecosystem, and fostering a community-driven approach to AI development.</p>
+
+
+
+<p>Participants in the NEAR AI x HZN Incubator will receive extensive support over the program’s initial twelve weeks, and in subsequent phases through May 2025. That support includes access to NEAR’s AI expert network, dedicated technical and token launch support, access to compute, and funding opportunities.&nbsp;</p>
+
+
+
+<p>Interested in following along with these exciting teams building the future of AI x Web3?&nbsp;</p>
+
+
+
+<ol>
+<li>Join the NEAR Foundation at ETHCC in Brussels, July 11, for the NEAR AI Tech Showcase and hear directly from the founders in the current incubation cohort. RSVP: <a href="https://lu.ma/AITechShowcase">NEAR AI Tech Showcase</a>.<br></li>
+
+
+
+<li>Tune in to the weekly <a href="https://www.youtube.com/@NEARProtocol/streams">NEAR AI Office Hours</a> every Tuesday with NEAR co-founders Illia Polosukhin and Alex Skidanov.</li>
+</ol>
+<p>The post <a href="/blog/near-foundation-launches-ai-incubation-program/">NEAR Foundation Launches Incubation Program to Build Infrastructure for User-Owned AI</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21416</post-id>	</item>
+	</channel>
+</rss>

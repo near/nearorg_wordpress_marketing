@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -12,7 +15,7 @@
 	<atom:link href="/blog/category/case-studies/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/case-studies/</link>
 	<description></description>
-	<lastBuildDate>Mon, 07 Aug 2023 15:35:34 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Jun 2024 14:03:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,13 +24,219 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Case Studies Archives &#8211; NEAR Protocol</title>
 	<link>/blog/category/case-studies/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>HERE &#038; HOT: INNOVATING THE WEB3 ADOPTION PROBLEM WITH GAMIFIED SOLUTIONS</title>
+		<link>/blog/here-hot-innovating-the-web3-adoption-problem-with-gamified-solutions/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2024 14:03:07 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<guid isPermaLink="false">/?p=21404</guid>
+
+					<description><![CDATA[<p>In a recent interview, when asked about the position of HERE and HOT wallet, HERE CEO and founder, Peter Volnov, …</p>
+<p>The post <a href="/blog/here-hot-innovating-the-web3-adoption-problem-with-gamified-solutions/">HERE &#038; HOT: INNOVATING THE WEB3 ADOPTION PROBLEM WITH GAMIFIED SOLUTIONS</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In a recent interview, when asked about the position of HERE and HOT wallet, HERE CEO and founder, Peter Volnov, had a really clear picture of what he wanted them to be, referring to them as the “VISA/MasterCard of Web3”. The analogy captured both the present status and future ambitions of his products, and we couldn’t help but take a deeper dive into what he meant.</p>
+
+
+
+<p>HERE is a platform on NEAR, that builds non-custodial wallets focused on user experience that lowers the barrier entry into Web3, and security. The team currently has two products out: </p>
+
+
+
+<p>&#8211; <strong>HERE wallet</strong>, a non-custodial Web and mobile wallet offering an all-in-one DeFi experience to users.</p>
+
+
+
+<p>&#8211; <strong>HOT wallet</strong>, a non-custodial Web3 wallet for Telegram, featuring a gamified user journey.</p>
+
+
+
+<p>Both wallets focus on delivering ease-of-use and familiarity, but also target slightly different levels of the same audience.</p>
+
+
+
+<p><strong>HERE WALLET</strong></p>
+
+
+
+<p>In addition to being non-custodial, HERE Wallet offers a comprehensive DeFi experience with features such as liquid staking, NFTs, swaps, and more. Its mobile app enhances accessibility, making it a convenient option for users on the go. The wallet employs innovative yet familiar technologies like QR code scanning and offers gas-free transactions to further enhance the user experience.</p>
+
+
+
+<p>The wallet’s comprehensiveness, combined with its convenience, makes it an easy yet powerful option for users exploring the NEAR ecosystem and already deeply entrenched in Web3.</p>
+
+
+
+<p><strong>HOT WALLET</strong></p>
+
+
+
+<p>Built primarily for Telegram, and newcomers into Web3, HOT focuses on delivering an engaging and simplified user experience through a gamified interface. It allows users to mine &#8220;fire droplets&#8221; as currency and join a community to collectively mine and earn more. While onboarding individual users is beneficial, building an incentivized community that can explore, discover, and experience the ecosystem’s value is even better. This approach also creates an organic marketing wheel and landing pad for incoming users.</p>
+
+
+
+<p>Telegram is the 8th most used social media platform in the world, with 1.5 billion users globally, and over 190 million daily users. Its user base grew by 46% in 2024 and is projected to grow by another 46% by 2025. By intelligently leveraging Telegram, HOT provides a low-effort, high-reward gateway to Web3 on one of the biggest social media platforms in the world.</p>
+
+
+
+<p>HOT wallet emphasizes onboarding and easing new users into the world of Web3, while HERE wallet becomes more of an option once the user is familiar with the basics and wants a more advanced experience.&nbsp;</p>
+
+
+
+<p><strong>WHY WEB3?&nbsp;</strong></p>
+
+
+
+<p>If you noticed that “non-custodial” is a premier feature for both wallets, it is largely because it is part of the Web3 ideal and a foundational tenet, and is closely tied to Peter’s experience with traditional banking. An experience that is shared and talked about by NEAR co-founder, Illia Polosukhin, in his article <a href="/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/">Self-Sovereignty is NEAR</a>. Web3 champions the value of full user ownership and control of their assets, from money to data.&nbsp;</p>
+
+
+
+<p>In addition Web3 unlocks robust and varying types of security that makes the responsibility of non-custodianship more attractive.</p>
+
+
+
+<p>As a melting pot for technology that offers prime infrastructure for building robust products, thanks to a unique account model, and features like meta transactions (for gas free transactions), FastAuth (Web2-style security backed by blockchain) and chain signatures (enabling true interoperability), another one of NEAR’s notable attractions for the HERE team was how developer friendly and focused the tech stack was, making it easy to build on.&nbsp;</p>
+
+
+
+<p><strong>IT’S HOT, IT’S HERE, IT’S NOW</strong></p>
+
+
+
+<p>HOT wallet currently (as of June 10) has 9.5M users after launching in early 2024, while HERE accounts for over 50% of transactions on NEAR Protocol, with $130M in transactions signed via the wallet in May 2024.&nbsp;</p>
+
+
+
+<p><strong>WE ARE HERE, WHAT NEXT?</strong></p>
+
+
+
+<p>Aligned with NEAR’s <a href="/blog/why-chain-abstraction-is-the-next-frontier-for-web3/">Chain Abstraction vision</a>, HERE is looking to infuse their products with the next arc of Web3, a connected ecosystem that abstracts complexity and enables users to interact and access different blockchains from a single entry point (wallet).&nbsp;</p>
+
+
+
+<p>The vision for HOT wallet is to develop it into a protocol offering multiple chain abstracted use cases (NFT marketplace, cross-chain swaps, launchpad, discovery portal, MPC wallet, etc), without losing the core function of being a simplified gateway for new Web3 users. To that end, the HERE team has already been productive, delivering a launchpad and dApp gateway.</p>
+
+
+
+<p>HERE is effectively building out an open ecosystem that takes full advantage of all NEAR has to offer to create value in Web3 that completely reverses the experience of traditional finance, and puts users firmly in control of their assets, data and journey, with a dash of fun.</p>
+
+
+
+<p>Discover HERE wallet: <a href="https://www.herewallet.app/">https://www.herewallet.app/</a>&nbsp;</p>
+
+
+
+<p>Discover HOT: <a href="https://t.me/herewalletbot/app">https://t.me/herewalletbot/app</a>&nbsp;</p>
+<p>The post <a href="/blog/here-hot-innovating-the-web3-adoption-problem-with-gamified-solutions/">HERE &#038; HOT: INNOVATING THE WEB3 ADOPTION PROBLEM WITH GAMIFIED SOLUTIONS</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21404</post-id>	</item>
+		<item>
+		<title>COSMOSE AI: TRANSFORMING CONSUMER EMPOWERMENT WITH AI AND BLOCKCHAIN</title>
+		<link>/blog/cosmose-ai-transforming-consumer-empowerment-with-ai-and-blockchain/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 12:59:48 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<category><![CDATA[Partnerships]]></category>
+		<guid isPermaLink="false">/?p=21399</guid>
+
+					<description><![CDATA[<p>Since September 2023, CosmoseAI’s KAI-Ching has been number 1 dApp with the most Unique Active Wallets (UAW) in all of …</p>
+<p>The post <a href="/blog/cosmose-ai-transforming-consumer-empowerment-with-ai-and-blockchain/">COSMOSE AI: TRANSFORMING CONSUMER EMPOWERMENT WITH AI AND BLOCKCHAIN</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Since September 2023, CosmoseAI’s KAI-Ching has been number 1 dApp with the most Unique Active Wallets (UAW) in all of web3, hitting numbers like 700k Daily Active Wallets and 2 million Monthly Active Users.&nbsp;</p>
+
+
+
+<p>What makes KAI-Ching special? Turns out building around consumer empowerment that rewards the consumer and ensures their ownership can make you really popular. KAI-Ching is a mission-driven technology transforming consumer experience by saving them time with curated content and offerings, rewarding their engagement, and ensuring they have control and ownership of their data.</p>
+
+
+
+<p><strong>A QUICK INTRODUCTION TO COSMOSE AI’s CORE PLATFORMS&nbsp;</strong></p>
+
+
+
+<p><strong>KAIKAI</strong> is an AI-powered, opt-in interactive lock screen and mobile app that provides curated content and shopping based on the user’s preferences. By engaging with the provided content and/or shopping, users earn KAI-Ching.&nbsp;</p>
+
+
+
+<p><strong>KAI-Ching</strong>, the heartbeat of the ecosystem, is a reward system integrated into Cosmose AI platforms, using a crypto-based token, $KAIC, to reward users for purchases and engagement on KAIKAI. These earned tokens can be accumulated and redeemed for discounts or full purchases on KAIKAI.</p>
+
+
+
+<p><strong>THE WHY BEHIND KAIKAI &amp; KAI-CHING</strong></p>
+
+
+
+<p>Consumer data basically equates to currency in the digital age, but traditional data-reliant consumer apps (think Facebook, Google, social media apps etc) have often fallen short in guaranteeing ownership, privacy or ethical use of consumer-generated data.</p>
+
+
+
+<p>Cosmose AI founder Miron Mironiuk, sought to disrupt the trend: <em>“KAI-Ching was built to give users tangible benefits for their engagement, while ensuring that they retain ownership of the data.”</em></p>
+
+
+
+<p><strong>MAKING THE KAI-ECOSYSTEM WORK</strong></p>
+
+
+
+<p>CosmoseAI intelligently combined the best of blockchain technology and edge computing to deliver the essence of its platforms’ value.&nbsp;</p>
+
+
+
+<p>KAIKAI and KAI-Ching are powered by NEAR Protocol, a sharded and modular, AI Layer-1 blockchain, with low transaction fees, and super fast finality. NEAR’s dev-friendly infrastructure, negligible transaction fees, made it an ideal landing pad for the Cosmose AI team.&nbsp;</p>
+
+
+
+<p>Blockchain technology ensures user data ownership remains with the user, by enabling the user to permission what can be accessed or shared.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-1024x576.png" alt="" class="wp-image-21400" srcset="https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-1024x576.png 1024w, https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-300x169.png 300w, https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-768x432.png 768w, https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-1536x864.png 1536w, https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Unless you are digging deep into the architecture of KAI-Ching, you won’t know it runs on a blockchain, described by Miron in an interview as: <em>&#8220;Instead of talking about blockchain and Web3, we built products that became part of everyday life.&#8221;</em></p>
+
+
+
+<p><strong>THE KAI-CHING JOURNEY SO FAR? KA-CHING!</strong></p>
+
+
+
+<p>Since launching KAIKAI and KAI-Ching, Cosmose AI has onboarded over 10m users into Web3, consistently topping daily and monthly active wallet charts since 2023. The big success can be attributed to two primary things: </p>
+
+
+
+<p>&#8211; Building on a developer-friendly blockchain, NEAR Protocol, that allows the team to cost-efficiently and seamlessly ship features, with speed and robust security.</p>
+
+
+
+<p>&#8211; Focusing on user journey and experience to deliver platforms that are user-friendly AND deliver tangible, repetitive value to users’ everyday life.</p>
+
+
+
+<p>The success of KAI-Ching and the CosmoseAI platforms is tangible proof that user-friendly consumer empowerment models work and can attract mass adoption, no matter the underlying infrastructure. As AI increasingly becomes a major narrative in Web3 and focuses on enhancing everyday consumer preferences, KAI-Ching positions itself as a pioneer abstracted solution for the future of consumer apps.<br><br>Discover the world of KAIKAI now<br><a href="https://kaikai.ai/">https://kaikai.ai/</a> </p>
+<p>The post <a href="/blog/cosmose-ai-transforming-consumer-empowerment-with-ai-and-blockchain/">COSMOSE AI: TRANSFORMING CONSUMER EMPOWERMENT WITH AI AND BLOCKCHAIN</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21399</post-id>	</item>
+		<item>
 		<title>Case Study: Flipside Crypto on Building an Analytics Platform on the BOS</title>
 		<link>/blog/case-study-flipside-crypto-on-building-an-analytics-platform-on-the-bos/</link>
 		
@@ -66,7 +275,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20764</post-id>	</item>
 		<item>
 		<title>Case Study: Satori&#8217;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy</title>
 		<link>/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/</link>
@@ -107,7 +316,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20761</post-id>	</item>
 		<item>
 		<title>Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</title>
 		<link>/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/</link>
@@ -136,14 +345,14 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Case Study: NEAR Foundation&#039;s Laura Cunningham on the NEAR Horizon Startup Accelerator" width="500" height="281" src="https://www.youtube.com/embed/8R9rtRuk5Vw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" title="Case Study: NEAR Foundation&#039;s Laura Cunningham on the NEAR Horizon Startup Accelerator" width="500" height="281" src="https://www.youtube.com/embed/8R9rtRuk5Vw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 <p>The post <a href="/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/">Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20758</post-id>	</item>
 		<item>
 		<title>Case Study: Building on the NEAR Blockchain Operating System (BOS)</title>
 		<link>/blog/case-study-building-on-the-near-blockchain-operating-system-bos/</link>
@@ -175,7 +384,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20749</post-id>	</item>
 		<item>
 		<title>How Solaire is Revolutionizing the Fashion Industry with Web3 Technology and Building the Retail Infrastructure on NEAR</title>
 		<link>/blog/how-solaire-is-revolutionizing-the-fashion-industry-with-web3-technology-and-building-the-retail-infrastructure-on-near/</link>
@@ -294,7 +503,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20346</post-id>	</item>
 		<item>
 		<title>Introducing SeatlabNFT: The Web3 Startup Changing the Ticketing Game </title>
 		<link>/blog/introducing-seatlabnft-the-web3-startup-changing-the-ticketing-game/</link>
@@ -406,7 +615,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">18720</post-id>	</item>
 		<item>
 		<title>Inside the Tech: NFT.HipHop Marketplace</title>
 		<link>/blog/inside-the-tech-nft-hiphop/</link>
@@ -422,7 +631,7 @@
 										<content:encoded><![CDATA[<p><span style="font-weight: 400;">The </span><a href="https://nft.hiphop/"><span style="font-weight: 400;">NFT.HipHop</span></a><span style="font-weight: 400;"> marketplace auction of the Hip Hop Heads collection began on Juneteenth and will run for 37 days, until July 25. A celebration of the history of hip hop and its most iconic artists, the pop-up marketplace also highlights some engineering innovations that highlight the advanced NFT developer and user experience on NEAR. NFT.HipHop incorporates seamless NEAR account creation, the ability to purchase NFTs with a credit card, customizable royalty splits that follow NFTs across marketplaces, and the debut of NFTs displaying in the NEAR wallet. </span></p>
 <h3>Inside the User Experience</h3>
 <p><span style="font-weight: 400;">The NFT.HipHop auction marks a radical change in the way that NFT marketplaces can be executed. The user onboarding flow makes the process universally accessible and as familiar as any Web2 purchasing experience. With this new creative approach, end users with no existing crypto knowledge can easily purchase NFTs without the hurdles of onboarding to an exchange, purchasing cryptocurrency, or choosing and connecting a wallet. Thanks to the app’s wallet faucet and NEAR’s human-rea</span>dable account naming system, all a user has to do is choose a NEAR name and the application handles the rest.</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-12737" src="/wp-content/uploads/2021/07/inside-nfthiphop-ux.png" alt="" width="1400" height="520" srcset="/wp-content/uploads/2021/07/inside-nfthiphop-ux.png 1400w, /wp-content/uploads/2021/07/inside-nfthiphop-ux-300x111.png 300w, /wp-content/uploads/2021/07/inside-nfthiphop-ux-1024x380.png 1024w, /wp-content/uploads/2021/07/inside-nfthiphop-ux-768x285.png 768w" sizes="(max-width: 1400px) 100vw, 1400px" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-12737" src="https://pages.near.org/wp-content/uploads/2021/07/inside-nfthiphop-ux.png" alt="" width="1400" height="520" srcset="https://pages.near.org/wp-content/uploads/2021/07/inside-nfthiphop-ux.png 1400w, https://pages.near.org/wp-content/uploads/2021/07/inside-nfthiphop-ux-300x111.png 300w, https://pages.near.org/wp-content/uploads/2021/07/inside-nfthiphop-ux-1024x380.png 1024w, https://pages.near.org/wp-content/uploads/2021/07/inside-nfthiphop-ux-768x285.png 768w" sizes="(max-width: 1400px) 100vw, 1400px" /></p>
 <p><span style="font-weight: 400;">Marketplace credits for placing NFT bids can be purchased with a credit card. There is no complex, multi-step process of purchasing crypto through an exchan</span>ge and paying high transaction fees as would be required with other NFT marketplaces today. Using crypto can be a confusing process for a novice, but by employing this progressive onboarding flow, the barrier to entry for crypto has been all but eliminated. The goal is to make NFTs accessible to all kinds of hip hop fans, not just crypto-native fans.</p>
 <h3>Inside the App</h3>
 <p><span style="font-weight: 400;">At its core, the NFT.HipHop marketplace is a standard React application with state management. dApp developers retrieve on-chain state using the NEAR API Helper, which interacts with the NEAR blockchain via CloudFlare. This tool allows caching heavy queries when the user lands on the page, as there are 103 portraits in the Hip Hop Heads collection and 37 available editions of each Head. As the user explores the marketplace, they’re only viewing one basic type of NFT. The canonical tokens, or “gem tokens,” are stored, and individual edition bids and sales are visible to the user within each gem. When clicking on an individual token, one sees which editions are for sale and the bidding history is pulled from the marketplace contract.</span></p>
@@ -438,7 +647,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">12549</post-id>	</item>
 		<item>
 		<title>How blockchain will save the Creator Economy</title>
 		<link>/blog/how-blockchain-will-save-the-creator-economy/</link>
@@ -468,7 +677,7 @@
 <li><b>Financial tools</b> and platforms to help make creators and their communities sustainable</li>
 </ol>
 <p>The line between creators and communities can be blurry, for example when users generate content, but ultimately someone has to pay for something in order to create a sustainable economy.</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-12558" src="/wp-content/uploads/2021/07/creator-economy_simple-1.png" alt="" width="2160" height="2016" srcset="/wp-content/uploads/2021/07/creator-economy_simple-1.png 2160w, /wp-content/uploads/2021/07/creator-economy_simple-1-300x280.png 300w, /wp-content/uploads/2021/07/creator-economy_simple-1-1024x956.png 1024w, /wp-content/uploads/2021/07/creator-economy_simple-1-768x717.png 768w, /wp-content/uploads/2021/07/creator-economy_simple-1-1536x1434.png 1536w, /wp-content/uploads/2021/07/creator-economy_simple-1-2048x1911.png 2048w" sizes="(max-width: 2160px) 100vw, 2160px" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-12558" src="https://pages.near.org/wp-content/uploads/2021/07/creator-economy_simple-1.png" alt="" width="2160" height="2016" srcset="https://pages.near.org/wp-content/uploads/2021/07/creator-economy_simple-1.png 2160w, https://pages.near.org/wp-content/uploads/2021/07/creator-economy_simple-1-300x280.png 300w, https://pages.near.org/wp-content/uploads/2021/07/creator-economy_simple-1-1024x956.png 1024w, https://pages.near.org/wp-content/uploads/2021/07/creator-economy_simple-1-768x717.png 768w, https://pages.near.org/wp-content/uploads/2021/07/creator-economy_simple-1-1536x1434.png 1536w, https://pages.near.org/wp-content/uploads/2021/07/creator-economy_simple-1-2048x1911.png 2048w" sizes="(max-width: 2160px) 100vw, 2160px" /></p>
 <p>Today, this economy is generally a one-way path where the creator produces something (eg an album), gets fans to consume it (typically losing most of the proceeds to the middlemen who control their relationship with fans) and tries to earn real income from secondary revenue streams like concerts or merchandise or sponsorships. This system is rife with problems and it’s only sustainable for creators with enormous or highly engaged fan bases, particularly if they’ve given away their IP rights along the way. This leaves the so-called “long tail” of smaller creators underserved and makes things tough even for the larger ones due to all the middlemen who have their hands in the pie.</p>
 <p>&nbsp;</p>
 <h2>What’s Changing Today</h2>
@@ -487,7 +696,7 @@
 </ul>
 <p>In 2021, blockchain technology has finally arrived at the point where it can solve all three of these issues and unblock the Creator Economy.</p>
 <p>This is because each of the key aspects of the Creator Economy is served by a specific set of tools which weren’t possible to combine like this before a platform like NEAR was available.  This gives us a new Creator Economy Triangle, which shows how these tools &#8212; NFTs, DAOs, Fungible Tokens and Open Finance (“defi”) &#8212; interact:</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-12559" src="/wp-content/uploads/2021/07/creator-economy_new.png" alt="" width="2160" height="2016" srcset="/wp-content/uploads/2021/07/creator-economy_new.png 2160w, /wp-content/uploads/2021/07/creator-economy_new-300x280.png 300w, /wp-content/uploads/2021/07/creator-economy_new-1024x956.png 1024w, /wp-content/uploads/2021/07/creator-economy_new-768x717.png 768w, /wp-content/uploads/2021/07/creator-economy_new-1536x1434.png 1536w, /wp-content/uploads/2021/07/creator-economy_new-2048x1911.png 2048w" sizes="(max-width: 2160px) 100vw, 2160px" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-12559" src="https://pages.near.org/wp-content/uploads/2021/07/creator-economy_new.png" alt="" width="2160" height="2016" srcset="https://pages.near.org/wp-content/uploads/2021/07/creator-economy_new.png 2160w, https://pages.near.org/wp-content/uploads/2021/07/creator-economy_new-300x280.png 300w, https://pages.near.org/wp-content/uploads/2021/07/creator-economy_new-1024x956.png 1024w, https://pages.near.org/wp-content/uploads/2021/07/creator-economy_new-768x717.png 768w, https://pages.near.org/wp-content/uploads/2021/07/creator-economy_new-1536x1434.png 1536w, https://pages.near.org/wp-content/uploads/2021/07/creator-economy_new-2048x1911.png 2048w" sizes="(max-width: 2160px) 100vw, 2160px" /></p>
 <p>At a high level, it breaks down like this:</p>
 <ul>
 <li aria-level="1"><b>NFTs</b> are basically digital containers which can hold IP but which liberated it to be owned and traded so <b>creators</b> have a world of new ways to produce, distribute, remix and monetize content.</li>
@@ -561,77 +770,6 @@
 					
 		
 		
-			</item>
-		<item>
-		<title>NFT Marketplace for Hip Hop Heads Launches on NEAR</title>
-		<link>/blog/nft-marketplace-for-hip-hop-heads-launches-on-near/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 16:49:04 +0000</pubDate>
-				<category><![CDATA[Case Studies]]></category>
-		<guid isPermaLink="false">/?p=11957</guid>
-
-					<description><![CDATA[<p>Hey NEAR and Hip Hop Heads! Get ready for our first consumer-facing NFT pop-up shop! This project sprang from the …</p>
-<p>The post <a href="/blog/nft-marketplace-for-hip-hop-heads-launches-on-near/">NFT Marketplace for Hip Hop Heads Launches on NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<h3>Hey NEAR and Hip Hop Heads!</h3>
-<p>Get ready for our first consumer-facing NFT pop-up shop! This project sprang from the mind of Ed Young, one of the co-founders of the bible of hip-hop: <i>The Source Magazine</i>. He had this crazy idea, our team thought it was rad, and so we built it with him. What did we build? An epic collection of hip hop icons that you can own: <strong>Hip Hop Heads.</strong></p>
-<p>The Hip Hop Heads First Edition NFT Collection is a tribute to the history and culture of hip hop, 47 years after its inception in the Bronx, New York City. The collection features 103 animated portraits of famous figures from Hip Hop created by André LeRoy Davis for “The Last Word” feature of <i>The Source </i>over the last few decades.</p>
-<p>The marketplace auction is officially live! Check out the entire collection at <strong><a href="http://nft.hiphop/">nft.hiphop</a></strong>. Every day from now, Juneteenth, until July 25, one new edition of each Hip-Hop Head will be added to the auction. Each Hip-Hop Head will start with a reserve price and the current bid is bonded with the item until it is outbid or the auction closes. If a bid is returned, fans can immediately use the returned credits to bid again.</p>
-<p>Here’s the best part: cash rules everything around me. Fans can purchase these NFTs with a credit card. The marketplace offers an easier way to buy NFTs than ever before: no complicated onboarding, no passing through an exchange, just a simple, familiar purchasing experience made possible on NEAR. Check out the auction flow in the graphic below. And at the end of the auction on day 37, each winning buyer’s NFTs will display right in their NEAR wallet. Boom. It’s radical.</p>
-<p><a href="http://nft.hiphop/"><img loading="lazy" decoding="async" class="my-30 aligncenter size-full wp-image-11962" src="/wp-content/uploads/2021/06/hiphop-howto-fb.png" alt="" width="1200" height="630" srcset="/wp-content/uploads/2021/06/hiphop-howto-fb.png 1200w, /wp-content/uploads/2021/06/hiphop-howto-fb-300x158.png 300w, /wp-content/uploads/2021/06/hiphop-howto-fb-1024x538.png 1024w, /wp-content/uploads/2021/06/hiphop-howto-fb-768x403.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
-<p>Another cool part: NFT royalties on NEAR are written right into the NFT code, which means that any secondary sales will automatically distribute royalties back to the creators, even if the NFT moves into different marketplaces. This is uniquely possible on NEAR thanks to the protocol’s contract-level NFT standard. On-chain, programmable royalties at the smart contract level put creative and financial power back in the hands of artists, and when you buy a NEAR NFT, you can be certain that the creators you love will continue to benefit from their work. A percentage of the royalties from the Hip Hop Heads NFT auctions and secondary sales will be gifted in perpetuity to the artists depicted or to their estates by Ed Young and André LeRoy Davis.</p>
-<p><a href="/wp-content/uploads/2021/06/nfthiphop-infographic.png"><img loading="lazy" decoding="async" class="my-30 aligncenter size-full wp-image-12030" src="/wp-content/uploads/2021/06/nfthiphop-infographic.png" alt="" width="1400" height="900" srcset="/wp-content/uploads/2021/06/nfthiphop-infographic.png 1400w, /wp-content/uploads/2021/06/nfthiphop-infographic-300x193.png 300w, /wp-content/uploads/2021/06/nfthiphop-infographic-1024x658.png 1024w, /wp-content/uploads/2021/06/nfthiphop-infographic-768x494.png 768w" sizes="(max-width: 1400px) 100vw, 1400px" /></a></p>
-<p>I’m so pumped to announce this launch. This carries a lot of personal weight for me. I remember the very first time I listened to “Enter the Wu-Tang (36 Chambers).” Hip hop never let me go after that. It’s funny in some ways; imagine an angsty, small-town white kid, chasing his older brother and his surfer punk friends to the beach and singing every word to “C.R.E.A.M.” But in other ways, this was destined to happen because of the work of Ed Young at <em>The Source</em>. Hip hop has been a force pushing culture for almost 50 years, and now it is bridging into what’s been a somewhat fringe technology for the last five. This remix of crypto and hip hop is the first of what I’m sure will be many: a brand-new blend of culture and technology is now becoming possible.</p>
-<p>We built this for people – fans – who know the feeling. Hip hop is so much more than music, and if you want to truly own a piece of its history, you should get on this! Try it out, start bidding, and let us know what you think. You only have 36 chambers…I mean days.</p>
-<p><a class="btn bg-red my-20" href="http://nft.hiphop/">Bid on your favorite Hip Hop Head at NFT.hiphop!</a></p>
-<p>The post <a href="/blog/nft-marketplace-for-hip-hop-heads-launches-on-near/">NFT Marketplace for Hip Hop Heads Launches on NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Toward a Better Planet:Green NFTs</title>
-		<link>/blog/toward-a-better-planet-green-nfts/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Tue, 08 Jun 2021 19:18:35 +0000</pubDate>
-				<category><![CDATA[Case Studies]]></category>
-		<guid isPermaLink="false">/?p=11340</guid>
-
-					<description><![CDATA[<p>After the boom of decentralized finance in 2020, the blockchain industry has turned its attention to NFTs. Artists, celebrities, and …</p>
-<p>The post <a href="/blog/toward-a-better-planet-green-nfts/">Toward a Better Planet:&lt;br&gt;Green NFTs</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>After the boom of decentralized finance in 2020, the blockchain industry has turned its attention to NFTs. Artists, celebrities, and blockchain enthusiasts alike are minting, buying, and selling NFTs. But NFTs aren’t without controversy. Many people are against them because:</p>
-<ul>
-<li>Minting an NFT costs so much <a href="https://www.investopedia.com/terms/g/gas-ethereum.asp">gas</a> it becomes unviable for smaller artists.</li>
-<li>NFTs run on technology that has a <a href="https://digiconomist.net/ethereum-energy-consumption">large, negative impact</a> on the environment.</li>
-</ul>
-<p>These are concerns that can both be addressed. The NEAR Foundation is excited to announce <b>Green NFTs</b>, a project where several environmentally conscious artists create art that will be put up for sale in a <a href="https://www.southpole.com/projects">South Pole</a> store on <a href="https://www.mintbase.io/">Mintbase</a>. Half of the proceeds from these artworks will go to the artist and the other half will go to a selection of certified climate action projects developed by South Pole, an award-winning project developer.</p>
-<p><a class="btn my-20" href="https://www.mintbase.io/store/greennfts.mintbase1.near">View the Green NFT Project on Mintbase</a></p>
-<p>South Pole projects range from protecting a strategic wildlife corridor in Zimbabwe and empowering local communities to generating renewable energy and helping create the circular economy with efficient waste disposal. While cutting carbon is the science underpinning their projects, building a socially just world is at the heart of what they do.</p>
-<p><i>“We need to think about our impact on nature and take decisions that offset our impact. There aren’t that many crypto-art initiatives that are ethical and green, but NEAR and Mintbase fit the bill.” – </i><a href="https://linktr.ee/BarbaraTosti"><i>Barbara Tosti</i></a><i>, artist</i></p>
-<h3>Collaborating For the Greater Good</h3>
-<p>Because <a href="/how-mintbase-made-minting-nfts-cheaper-faster-scalable-and-secure-with-near/">Mintbase is built on NEAR</a>, creating a store and minting NFTs is affordable, fast, and scalable. Anyone can mint NFTs and sell them for whatever price they want, even if that’s less than ten dollars. Previously, gas fees would have made that economically unviable, but NFTs shouldn’t be a rich people’s game.</p>
-<p>That’s not all. Artist collaborations have become much easier, because Mintbase allows anyone to easily split both the revenue and royalties of a piece of art. All you need to do is define who gets what percentage. The smart contract will do the rest. Consider how this encourages novelists to write a book together, musicians to compose music together, and artists to work together with climate organizations for the greater good.</p>
-<h3>Built on Carbon-Neutral Technology</h3>
-<p>Green NFTs are only possible because the underlying infrastructure is carbon-neutral. The NEAR Foundation has been working together with South Pole to measure and offset its carbon footprint, and South Pole recently awarded the NEAR protocol its <a href="/blog/near-climate-neutral-product/">climate-neutral product label</a>.</p>
-<p>NEAR purchased carbon offsets from South Pole&#8217;s certified climate action projects to compensate for all direct and indirect emissions associated with the blockchain. Importantly, the NEAR protocol uses a <a href="/technology/">proof-of-stake consensus mechanism</a> instead of a proof-of-work consensus mechanism, which means that the NEAR protocol’s carbon emissions only amount to a fraction of any proof-of-work blockchain.</p>
-<p>Measuring the carbon footprint of any blockchain is still a new field with many gray areas. Developments and changes to current methodologies can be expected as the field develops over time. But it’s important to start measuring today and iterate until we get it right instead of waiting for the perfect solution.</p>
-<p><i>“The environment should be at the core of any technological product. I lost interest in crypto-art when I learned about its environmental impact, but NEAR is on the right path to dealing with this problem.” – </i><a href="https://www.instagram.com/rccrdtrrs/"><i>Riccardo Torresi</i></a><i>, artist</i></p>
-<h3>A Step in the Right Direction</h3>
-<p>NFTs needn’t be expensive to create and they needn’t be bad for the climate. Instead, when the infrastructure is clean and when the incentives are aligned properly, they can be a force for good. Linking NFT art and their proceeds to real projects with measurable climate benefits can nudge NFT creators and buyers toward valuable social and environmental causes.</p>
-<p>The Green NFT project is one of the first examples of how this can be made possible. We believe it’s a step in the right direction, and hope to see many other projects contributing in similar ways for the greater good in the NEAR future. Keep your eyes out on our social media channels for an announcement on where you’ll be able to see and buy art from the Green NFT project.</p>
-<p><i>“Nobody is without sin when it comes to their carbon footprint. But, while I don’t think anybody can be perfect, you can try to make better individual choices, particularly when the right solutions are already out there.” – </i><a href="https://www.zeitwarp.com/"><i>Zeitwarp</i></a><i>, artist</i></p>
-<p><a class="btn my-20" href="https://www.mintbase.io/store/greennfts.mintbase1.near">View the Green NFT Project on Mintbase</a></p>
-<p><img loading="lazy" decoding="async" class="size-full wp-image-11358 aligncenter" src="/wp-content/uploads/2021/06/forest.jpg" alt="" width="1024" height="683" srcset="/wp-content/uploads/2021/06/forest.jpg 1024w, /wp-content/uploads/2021/06/forest-300x200.jpg 300w, /wp-content/uploads/2021/06/forest-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
-<p>As well as storing carbon, forests provide innumerable benefits to humans and wildlife alike. This picture shows a sunset over the Kariba Forest Protection project. <i> | Credit: South Pole</i></p>
-<p>The post <a href="/blog/toward-a-better-planet-green-nfts/">Toward a Better Planet:&lt;br&gt;Green NFTs</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">12505</post-id>	</item>
 	</channel>
 </rss>

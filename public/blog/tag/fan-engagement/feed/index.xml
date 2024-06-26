@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Fan Engagement Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/fan-engagement/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Los Angeles Football Club and Dropt Rewrite Fan Experience Playbook Utilizing NEAR Protocol</title>
 		<link>/blog/los-angeles-football-club-and-dropt-rewrite-fan-experience-playbook-utilizing-near-protocol/</link>
 		
@@ -90,7 +93,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20892</post-id>	</item>
 		<item>
 		<title>Knaq and NEAR: A New Era of Fan Engagement with Web3</title>
 		<link>/blog/knaq-and-near-a-new-era-of-fan-engagement-with-web3/</link>
@@ -184,6 +187,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20485</post-id>	</item>
 	</channel>
 </rss>

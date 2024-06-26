@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Chain Abstraction Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/chain-abstraction/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Phase 2 of NEAR Sharding Launches</title>
 		<link>/blog/phase-2-of-near-sharding-launches/</link>
 		
@@ -95,7 +98,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21200</post-id>	</item>
 		<item>
 		<title>Why NEAR Data Availability?</title>
 		<link>/blog/why-near-data-availability/</link>
@@ -221,7 +224,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21194</post-id>	</item>
 		<item>
 		<title>Why Chain Abstraction Is the Next Frontier for Web3</title>
 		<link>/blog/why-chain-abstraction-is-the-next-frontier-for-web3/</link>
@@ -379,7 +382,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21182</post-id>	</item>
 		<item>
 		<title>Self-Sovereignty Is NEAR: A Vision for Our Ecosystem</title>
 		<link>/blog/self-sovereignty-is-near-a-vision-for-our-ecosystem/</link>
@@ -538,6 +541,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">21170</post-id>	</item>
 	</channel>
 </rss>

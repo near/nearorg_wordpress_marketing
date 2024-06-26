@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>BOS Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/bos/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</title>
 		<link>/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/</link>
 		
@@ -145,7 +148,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20835</post-id>	</item>
 		<item>
 		<title>Case Study: Flipside Crypto on Building an Analytics Platform on the BOS</title>
 		<link>/blog/case-study-flipside-crypto-on-building-an-analytics-platform-on-the-bos/</link>
@@ -185,7 +188,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20764</post-id>	</item>
 		<item>
 		<title>Case Study: Building on the NEAR Blockchain Operating System (BOS)</title>
 		<link>/blog/case-study-building-on-the-near-blockchain-operating-system-bos/</link>
@@ -217,7 +220,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20749</post-id>	</item>
 		<item>
 		<title>Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</title>
 		<link>/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/</link>
@@ -284,7 +287,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20704</post-id>	</item>
 		<item>
 		<title>NEAR at Collision: Start Your BOS Journey and Expand into the Open Web</title>
 		<link>/blog/near-at-collision-start-your-bos-journey-and-expand-into-the-open-web/</link>
@@ -467,7 +470,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20672</post-id>	</item>
 		<item>
 		<title>Case Study: Pagoda Chief Product Officer Alex Chiocchi on the BOS</title>
 		<link>/blog/case-study-pagoda-chief-product-officer-alex-chiocchi-on-the-bos/</link>
@@ -511,7 +514,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20551</post-id>	</item>
 		<item>
 		<title>Get to Know the BOS: FastAuth for Easy, Web2 Style Onboarding and Account Recovery</title>
 		<link>/blog/get-to-know-the-bos-fastauth-for-easy-web2-style-onboarding-and-account-recovery/</link>
@@ -644,7 +647,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20543</post-id>	</item>
 		<item>
 		<title>NEAR at Consensus Highlights</title>
 		<link>/blog/near-at-consensus-highlights/</link>
@@ -674,7 +677,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/bos-blog-1024x512.png" alt="" class="wp-image-20432" srcset="/wp-content/uploads/2023/04/bos-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/bos-blog-300x150.png 300w, /wp-content/uploads/2023/04/bos-blog-768x384.png 768w, /wp-content/uploads/2023/04/bos-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/bos-blog-1024x512.png" alt="" class="wp-image-20432" srcset="https://pages.near.org/wp-content/uploads/2023/04/bos-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -694,7 +697,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/horizon-blog-1024x512.png" alt="" class="wp-image-20430" srcset="/wp-content/uploads/2023/04/horizon-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/horizon-blog-300x150.png 300w, /wp-content/uploads/2023/04/horizon-blog-768x384.png 768w, /wp-content/uploads/2023/04/horizon-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-1024x512.png" alt="" class="wp-image-20430" srcset="https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -718,7 +721,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/ww3-blog-1024x512.png" alt="" class="wp-image-20455" srcset="/wp-content/uploads/2023/04/ww3-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/ww3-blog-300x150.png 300w, /wp-content/uploads/2023/04/ww3-blog-768x384.png 768w, /wp-content/uploads/2023/04/ww3-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-1024x512.png" alt="" class="wp-image-20455" srcset="https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -790,7 +793,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/gcloud-blog-1024x512.png" alt="" class="wp-image-20454" srcset="/wp-content/uploads/2023/04/gcloud-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/gcloud-blog-300x150.png 300w, /wp-content/uploads/2023/04/gcloud-blog-768x384.png 768w, /wp-content/uploads/2023/04/gcloud-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-1024x512.png" alt="" class="wp-image-20454" srcset="https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -852,7 +855,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png" alt="" class="wp-image-20462" srcset="/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png 1024w, /wp-content/uploads/2023/04/around-ecosystem-social-300x158.png 300w, /wp-content/uploads/2023/04/around-ecosystem-social-768x403.png 768w, /wp-content/uploads/2023/04/around-ecosystem-social.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png" alt="" class="wp-image-20462" srcset="https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-300x158.png 300w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-768x403.png 768w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -918,7 +921,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20451</post-id>	</item>
 		<item>
 		<title>NEAR Blockchain Operating System is Now Live on Near.org</title>
 		<link>/blog/near-blockchain-operating-system-is-now-live-on-near-org/</link>
@@ -1048,7 +1051,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20422</post-id>	</item>
 		<item>
 		<title>Near Announces the Blockchain Operating System</title>
 		<link>/blog/near-announces-the-blockchain-operating-system/</link>
@@ -1077,7 +1080,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="540" src="/wp-content/uploads/2023/03/image4-1024x540.png" alt="" class="wp-image-20247" srcset="/wp-content/uploads/2023/03/image4-1024x540.png 1024w, /wp-content/uploads/2023/03/image4-300x158.png 300w, /wp-content/uploads/2023/03/image4-768x405.png 768w, /wp-content/uploads/2023/03/image4-1536x809.png 1536w, /wp-content/uploads/2023/03/image4.png 1541w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="540" src="https://pages.near.org/wp-content/uploads/2023/03/image4-1024x540.png" alt="" class="wp-image-20247" srcset="https://pages.near.org/wp-content/uploads/2023/03/image4-1024x540.png 1024w, https://pages.near.org/wp-content/uploads/2023/03/image4-300x158.png 300w, https://pages.near.org/wp-content/uploads/2023/03/image4-768x405.png 768w, https://pages.near.org/wp-content/uploads/2023/03/image4-1536x809.png 1536w, https://pages.near.org/wp-content/uploads/2023/03/image4.png 1541w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1101,7 +1104,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/03/image2-1-1024x576.png" alt="" class="wp-image-20248" srcset="/wp-content/uploads/2023/03/image2-1-1024x576.png 1024w, /wp-content/uploads/2023/03/image2-1-300x169.png 300w, /wp-content/uploads/2023/03/image2-1-768x432.png 768w, /wp-content/uploads/2023/03/image2-1-1536x864.png 1536w, /wp-content/uploads/2023/03/image2-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://pages.near.org/wp-content/uploads/2023/03/image2-1-1024x576.png" alt="" class="wp-image-20248" srcset="https://pages.near.org/wp-content/uploads/2023/03/image2-1-1024x576.png 1024w, https://pages.near.org/wp-content/uploads/2023/03/image2-1-300x169.png 300w, https://pages.near.org/wp-content/uploads/2023/03/image2-1-768x432.png 768w, https://pages.near.org/wp-content/uploads/2023/03/image2-1-1536x864.png 1536w, https://pages.near.org/wp-content/uploads/2023/03/image2-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1131,6 +1134,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20243</post-id>	</item>
 	</channel>
 </rss>

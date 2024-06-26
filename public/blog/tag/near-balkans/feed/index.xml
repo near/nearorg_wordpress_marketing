@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Balkans Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/near-balkans/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR&#8217;s BOS Impact at We Are Developers 2023 World Congress</title>
 		<link>/blog/nears-bos-impact-at-we-are-developers-2023-world-congress/</link>
 		
@@ -54,7 +57,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="682" src="/wp-content/uploads/2023/07/IMG_2718-1024x682.jpg" alt="" class="wp-image-20778" srcset="/wp-content/uploads/2023/07/IMG_2718-1024x682.jpg 1024w, /wp-content/uploads/2023/07/IMG_2718-300x200.jpg 300w, /wp-content/uploads/2023/07/IMG_2718-768x512.jpg 768w, /wp-content/uploads/2023/07/IMG_2718.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="682" src="https://pages.near.org/wp-content/uploads/2023/07/IMG_2718-1024x682.jpg" alt="" class="wp-image-20778" srcset="https://pages.near.org/wp-content/uploads/2023/07/IMG_2718-1024x682.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2718-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2718-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2718.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -66,7 +69,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-1024x768.jpg" alt="" class="wp-image-20776" srcset="/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-1024x768.jpg 1024w, /wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-300x225.jpg 300w, /wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-768x576.jpg 768w, /wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-1024x768.jpg" alt="" class="wp-image-20776" srcset="https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-1024x768.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-300x225.jpg 300w, https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1-768x576.jpg 768w, https://pages.near.org/wp-content/uploads/2023/07/photo_2023-07-27_19-10-14-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -78,7 +81,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="/wp-content/uploads/2023/07/IMG_2716-1024x682.jpg" alt="" class="wp-image-20779" srcset="/wp-content/uploads/2023/07/IMG_2716-1024x682.jpg 1024w, /wp-content/uploads/2023/07/IMG_2716-300x200.jpg 300w, /wp-content/uploads/2023/07/IMG_2716-768x512.jpg 768w, /wp-content/uploads/2023/07/IMG_2716.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="https://pages.near.org/wp-content/uploads/2023/07/IMG_2716-1024x682.jpg" alt="" class="wp-image-20779" srcset="https://pages.near.org/wp-content/uploads/2023/07/IMG_2716-1024x682.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2716-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2716-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2716.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -94,7 +97,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="/wp-content/uploads/2023/07/IMG_2709-1024x682.jpg" alt="" class="wp-image-20780" srcset="/wp-content/uploads/2023/07/IMG_2709-1024x682.jpg 1024w, /wp-content/uploads/2023/07/IMG_2709-300x200.jpg 300w, /wp-content/uploads/2023/07/IMG_2709-768x512.jpg 768w, /wp-content/uploads/2023/07/IMG_2709.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://pages.near.org/wp-content/uploads/2023/07/IMG_2709-1024x682.jpg" alt="" class="wp-image-20780" srcset="https://pages.near.org/wp-content/uploads/2023/07/IMG_2709-1024x682.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2709-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2709-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/07/IMG_2709.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -112,7 +115,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20770</post-id>	</item>
 		<item>
 		<title>NEAR at We Are Developers World Congress 2023: Build with BOS in Berlin</title>
 		<link>/blog/near-at-we-are-developers-world-congress-2023-build-with-bos-in-berlin/</link>
@@ -190,7 +193,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20754</post-id>	</item>
 		<item>
 		<title>NEAR Balkans’ Tekuno and Mastercard Team Up for Gamified NFT Experience</title>
 		<link>/blog/near-balkans-tekuno-and-mastercard-team-up-for-gamified-nft-experience/</link>
@@ -315,6 +318,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20387</post-id>	</item>
 	</channel>
 </rss>

@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Governance Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/governance/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>NEAR Foundation Strengthens Governance with New Talent</title>
 		<link>/blog/near-foundation-welcomes-fresh-executive-talent-to-accelerate-its-global-reach/</link>
 		
@@ -71,7 +74,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19566</post-id>	</item>
 		<item>
 		<title>Evolving NEAR Foundation’s Funding Strategy</title>
 		<link>/blog/evolving-near-foundations-funding-strategy/</link>
@@ -149,7 +152,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19109</post-id>	</item>
 		<item>
 		<title>Ecosystem Update on Decentralizing Governance</title>
 		<link>/blog/ecosystem-update-on-decentralizing-governance/</link>
@@ -247,6 +250,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">18648</post-id>	</item>
 	</channel>
 </rss>

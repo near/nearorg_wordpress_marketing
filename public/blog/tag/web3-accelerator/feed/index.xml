@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Web3 Accelerator Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/web3-accelerator/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Case Study: NEAR Foundation&#8217;s Laura Cunningham on the NEAR Horizon Startup Accelerator</title>
 		<link>/blog/case-study-near-foundations-laura-cunningham-on-the-near-horizon-startup-accelerator/</link>
 		
@@ -62,7 +65,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20758</post-id>	</item>
 		<item>
 		<title>NEAR Horizon and Encode Club: Accelerating Blockchain Mastery for Builders</title>
 		<link>/blog/near-horizon-and-encode-club-accelerating-blockchain-mastery-for-builders/</link>
@@ -145,7 +148,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20482</post-id>	</item>
 		<item>
 		<title>Update on Near Decentralized Funding, DAOs, and Accelerator</title>
 		<link>/blog/update-on-near-decentralized-funding-daos-and-accelerator/</link>
@@ -342,6 +345,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">19785</post-id>	</item>
 	</channel>
 </rss>

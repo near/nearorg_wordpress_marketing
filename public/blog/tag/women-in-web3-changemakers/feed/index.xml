@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,13 +24,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Women in Web3 Changemakers Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/women-in-web3-changemakers/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
 		<title>Women in Web3 Changemakers: Veronica Korzh </title>
 		<link>/blog/women-in-web3-changemakers-veronica-korzh/</link>
 		
@@ -126,7 +129,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20959</post-id>	</item>
 		<item>
 		<title>Women in Web3 Changemakers: Erica Kang</title>
 		<link>/blog/women-in-web3-changemakers-erica-kang/</link>
@@ -230,7 +233,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20944</post-id>	</item>
 		<item>
 		<title>Women in Web3 Changemakers: Emily Rose Dallara</title>
 		<link>/blog/women-in-web3-changemakers-emily-rose-dallara/</link>
@@ -327,7 +330,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20923</post-id>	</item>
 		<item>
 		<title>NEAR at Collision Highlights</title>
 		<link>/blog/near-at-collision-highlights/</link>
@@ -438,7 +441,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20682</post-id>	</item>
 		<item>
 		<title>Web3&#8217;s Leading Ladies: NEAR Foundation Honors 2023&#8217;s Women Changemakers </title>
 		<link>/blog/web3s-leading-ladies-near-foundation-honors-2023s-women-changemakers/</link>
@@ -520,7 +523,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="535" src="/wp-content/uploads/2023/06/WW3-finalists-1024x535.png" alt="" class="wp-image-20680" srcset="/wp-content/uploads/2023/06/WW3-finalists-1024x535.png 1024w, /wp-content/uploads/2023/06/WW3-finalists-300x157.png 300w, /wp-content/uploads/2023/06/WW3-finalists-768x401.png 768w, /wp-content/uploads/2023/06/WW3-finalists-1536x803.png 1536w, /wp-content/uploads/2023/06/WW3-finalists-2048x1070.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="535" src="https://pages.near.org/wp-content/uploads/2023/06/WW3-finalists-1024x535.png" alt="" class="wp-image-20680" srcset="https://pages.near.org/wp-content/uploads/2023/06/WW3-finalists-1024x535.png 1024w, https://pages.near.org/wp-content/uploads/2023/06/WW3-finalists-300x157.png 300w, https://pages.near.org/wp-content/uploads/2023/06/WW3-finalists-768x401.png 768w, https://pages.near.org/wp-content/uploads/2023/06/WW3-finalists-1536x803.png 1536w, https://pages.near.org/wp-content/uploads/2023/06/WW3-finalists-2048x1070.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -566,6 +569,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">20674</post-id>	</item>
 	</channel>
 </rss>
