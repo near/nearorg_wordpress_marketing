@@ -29,6 +29,6 @@ jobs:
           echo "Preparing a commit."
           git config --local user.email "devconsole-team@pagoda.co"
           git config --local user.name "github-actions-bot"
-          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/near/nearorg_wordpress_marketing.git/
+          git remote set-url origin https://${{ secrets.REPO_TOKEN }}@github.com/near/nearorg_wordpress_marketing.git/
           git commit -m "auto-update URL paths in response to marketing content update" -a
           git push
