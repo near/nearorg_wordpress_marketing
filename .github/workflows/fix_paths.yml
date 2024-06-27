@@ -2,12 +2,16 @@ on:
   push: 
     branches: [develop]
 permissions:
-  contents: write  
+  contents: write
+  
 jobs:
   fix-paths:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      with:
+          fetch-depth: 0 
+          token: ${{ secrets.REPO_TOKEN }}
       - name: script
         shell: bash
         run: ./bin/replace_all.sh
