@@ -24,7 +24,7 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Community Archives &#8211; NEAR Protocol</title>
 	<link>/blog/category/community/</link>
 	<width>32</width>
@@ -927,7 +927,7 @@
 
 
 
-<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1600" height="1200" src="/wp-content/uploads/2024/04/image.jpeg" alt="" class="wp-image-21317" srcset="/wp-content/uploads/2024/04/image.jpeg 1600w, /wp-content/uploads/2024/04/image-300x225.jpeg 300w, /wp-content/uploads/2024/04/image-1024x768.jpeg 1024w, /wp-content/uploads/2024/04/image-768x576.jpeg 768w, /wp-content/uploads/2024/04/image-1536x1152.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1600" height="1200" src="https://pages.near.org/wp-content/uploads/2024/04/image.jpeg" alt="" class="wp-image-21317" srcset="https://pages.near.org/wp-content/uploads/2024/04/image.jpeg 1600w, https://pages.near.org/wp-content/uploads/2024/04/image-300x225.jpeg 300w, https://pages.near.org/wp-content/uploads/2024/04/image-1024x768.jpeg 1024w, https://pages.near.org/wp-content/uploads/2024/04/image-768x576.jpeg 768w, https://pages.near.org/wp-content/uploads/2024/04/image-1536x1152.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
 
 
 
