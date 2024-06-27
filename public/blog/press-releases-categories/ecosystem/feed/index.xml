@@ -15,7 +15,7 @@
 	<atom:link href="/blog/press-releases-categories/ecosystem/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/press-releases-categories/ecosystem/</link>
 	<description></description>
-	<lastBuildDate>Wed, 26 Jun 2024 13:09:58 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Jun 2024 19:05:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,7 +24,7 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Ecosystem Archives &#8211; NEAR Protocol</title>
 	<link>/blog/press-releases-categories/ecosystem/</link>
 	<width>32</width>
