@@ -3,7 +3,7 @@ on:
     branches: [develop]
 permissions:
   contents: write
-  
+
 jobs:
   fix-paths:
     runs-on: ubuntu-latest
