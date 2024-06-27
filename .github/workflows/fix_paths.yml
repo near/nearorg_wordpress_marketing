@@ -9,9 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0 
-          token: ${{ secrets.REPO_TOKEN }}
       - name: script
         shell: bash
         run: ./bin/replace_all.sh
@@ -32,5 +29,6 @@ jobs:
           echo "Preparing a commit."
           git config --local user.email "devconsole-team@pagoda.co"
           git config --local user.name "github-actions-bot"
+          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/near/nearorg_wordpress_marketing.git/
           git commit -m "auto-update URL paths in response to marketing content update" -a
           git push
