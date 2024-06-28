@@ -15,7 +15,7 @@
 	<atom:link href="/blog/category/community/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/community/</link>
 	<description></description>
-	<lastBuildDate>Thu, 13 Jun 2024 13:03:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Jun 2024 19:05:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,92 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>Shape the User-Owned Future at [REDACTED] in Bangkok</title>
+		<link>/blog/redacted/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 27 Jun 2024 15:54:23 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<guid isPermaLink="false">/?p=21428</guid>
+
+					<description><![CDATA[<p>NEARCON 2022 was epic. NEARCON 2023 was iconic. NEARCON 2024? Not this year. Gm to [REDACTED]. [REDACTED] is a global …</p>
+<p>The post <a href="/blog/redacted/">Shape the User-Owned Future at [REDACTED] in Bangkok</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>NEARCON 2022 was epic. NEARCON 2023 was iconic.</p>
+
+
+
+<p>NEARCON 2024? <em>Not this year.</em></p>
+
+
+
+<p>Gm to [REDACTED].</p>
+
+
+
+<p>[REDACTED] is a global convergence to shape the future of User-Owned AI and Chain Abstraction—a future where technology belongs to the people, not corporations. Imagine stepping into a ‘Sovereign Paradise’ where the air buzzes with inspiration and opportunities to learn about AI and Web3. At [REDACTED], you&#8217;re not just attending another tech conference: you are contributing to a pivotal moment in the digital revolution. This IRL movement unifies the AI x Web3 collective as we embark on a transformative future.&nbsp;</p>
+
+
+
+<p>[REDACTED] is November 9-11, in Bangkok, Thailand. Be a part of the learnings and insights shared at [REDACTED] by joining Keynotes, Firesides, Workshops, or Hacking.</p>
+
+
+
+<h2 class="wp-block-heading">[REDACTED] is an IRL movement, and the application to attend is LIVE at <a href="http://redactedbangkok.ai/">redactedbangkok.ai</a>.</h2>
+
+
+
+<p>AI is transforming the internet and the way we interact with computing. AI and Web3 can work together to ensure the power of intelligence is where it belongs: in the hands of users. NEAR is leading at this intersection of AI x Web3, and the NEAR Foundation is gathering the global AI x Web3 community in Bangkok to share key innovations and insights, form deep connections that can only happen IRL, and build the user-owned future together.</p>
+
+
+
+<h2 class="wp-block-heading">[REDACTED] is free, but attendance is by application only.</h2>
+
+
+
+<p><a href="http://redactedbangkok.ai/">Apply now</a> to claim your spot among 1,500+ devs, founders, researchers, regulators, creatives, and leaders. Here’s what to expect as you journey through [REDACTED]</p>
+
+
+
+<ul>
+<li>Upskill your AI knowledge in essential workshops and deep-dive discussions led by the teams defining the intersection of AI x Web3.</li>
+
+
+
+<li>Gain insights on how to develop AI x Web3 products and applications. </li>
+
+
+
+<li>Connect with collaborators on building the tools, driving adoption, empowering users and communities, and taking back sovereignty.</li>
+
+
+
+<li>Interact with projects from NEAR and other Ecosystems, solving problems with AI x Web3 technical solutions. </li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">And stay tuned to participate in the [REDACTED] hybrid hackathon for a chance to win over $500k in prizes.</h2>
+
+
+
+<p>The [REDACTED] hackathon is an opportunity to collaborate over eight weeks—both online and IRL in Bangkok—with top problem-solvers on the biggest issues in Chain Abstraction and AI x Web3, with category experts from NEAR and beyond providing interactive discussion and support.</p>
+
+
+
+<p>The future of AI, decentralized ecosystems, and community-driven innovation is taking shape live at [REDACTED]. Apply to attend at <a href="http://redactedbangkok.ai/">redactedbangkok.ai</a>.</p>
+
+
+
+<p></p>
+<p>The post <a href="/blog/redacted/">Shape the User-Owned Future at [REDACTED] in Bangkok</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21428</post-id>	</item>
+		<item>
 		<title>NEAR Modular Spins Out to Become Nuffle Labs with $13M in Funding</title>
 		<link>/blog/nuffle-labs/</link>
 		
@@ -940,94 +1026,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">21300</post-id>	</item>
-		<item>
-		<title>NEAR at NVIDIA GTC 2024: A Recap of Illia’s Appearance</title>
-		<link>/blog/nvidia-gtc-2024/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 21:31:54 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">/?p=21290</guid>
-
-					<description><![CDATA[<p>At NVIDIA GTC 2024––the flagship conference of the AI hardware supercompany in San Jose, California––the spotlight was on the intersection …</p>
-<p>The post <a href="/blog/nvidia-gtc-2024/">NEAR at NVIDIA GTC 2024: A Recap of Illia’s Appearance</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>At NVIDIA GTC 2024––the flagship conference of the AI hardware supercompany in San Jose, California––the spotlight was on the intersection of AI, blockchain, and the next era of open web innovation. Among the distinguished speakers was Illia Polosukhin, co-founder of NEAR Protocol, who contributed his insights into how AI models will evolve and how blockchain and token economies can play key roles. Polosukhin is the only blockchain industry founder to speak at the NVIDIA event.&nbsp;</p>
-
-
-
-<p>The “Transforming AI” panel was hosted by Jensen Huang, CEO and co-founder of NVIDIA. Appearing on the panel were all but one of&nbsp; the co-authors of the landmark 2017 research paper “Attention is All You Need,” which introduced the Transformer architecture that revolutionized natural language processing. That lineup of coauthors has gone on to work on projects such as OpenAI, Inceptive, and Essential AI.&nbsp;</p>
-
-
-
-<p>The group’s conversation explored the practical applications of blockchain technology, with Illia touching on programmable money and its impact on both the current and future states of digital economies. By addressing the challenges and opportunities presented by the convergence of AI and blockchain, Illia offered a grounded perspective on the potential for these technologies to facilitate a more decentralized and efficient open web.&nbsp;</p>
-
-
-
-<p>Illia’s&nbsp; insights also highlighted NEAR&#8217;s commitment to leveraging Web3 technologies&nbsp; for broader adoption and innovation across a range of future tech use cases. Jensen himself noted that he thinks “NEAR is very cool.”&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-from-accelerated-computing-to-ai-and-the-blockchain">From Accelerated Computing to AI and the Blockchain</h2>
-
-
-
-<p>Jensen kicked off the panel by providing context around the evolution of computing power and the potential of generative AI as the next industrial revolution. After a round of introductions, Illia dove into the beginnings of his research at Google and the unique challenges that brought AI to the forefront during that time.</p>
-
-
-
-<p>&#8220;The team and I were working on simple question answering. You’d go to Google, you ask a question, and it should give you an answer,” Illia recounted. “But Google has very low latency requirements, so if you want to ship actual models that read search results, like tons of documents, you need something that can process that quickly. And models at the time just couldn’t do that.&#8221;</p>
-
-
-
-<p>After publishing the paper and leaving Google to explore new opportunities, Illia first worked on NEAR as an AI startup, then pivoted when he and co-founder Alex Skidanov recognized an opportunity in the blockchain space they first encountered as users. They recognized a clear need in the space back in 2018: to make blockchain technology accessible and intuitive for everyday use. Illia discussed with the panel how that realization led him to the concept of programmable money, and subsequently built NEAR Protocol to address blockchain scalability and usability challenges, creating a shift towards a more user-friendly open web economy.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-the-genesis-of-near-and-programmable-money">The Genesis of NEAR and Programmable Money&nbsp;</h2>
-
-
-
-<p>Illia further discussed how his shift from pure AI research to Web3 was driven by the concept of programmable money, not just for cross-border payments but for a range of powerful use cases. This was a direct response to the challenges of coordinating on complex networks and the increasing demand for scalable blockchain solutions. The result is a platform that can handle large transaction volumes without compromising speed or security.</p>
-
-
-
-<p>“NEAR has the most users in the world in the blockchain space,” Illia explained. “We’re talking about multiple millions of daily users who don’t even know they’re using blockchain. But they’re actually interfacing with programmable money and programmable value. And now we’re bringing back some of those AI tools to generate more data.”</p>
-
-
-
-<p>He then highlighted the need for a shift in how creators are rewarded in an emerging age of generative AI, suggesting that the century-old copyright system must evolve. With artists and creators now leveraging tools like Midjourney and OpenAI for everything from visual art to storytelling, the panel agreed that copyright laws will need an overhaul sooner than later.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-integrating-ai-for-fairer-user-and-creator-economies">Integrating AI for Fairer User and Creator Economies</h2>
-
-
-
-<p>With the generative age already underway, Illia further unpacked how NEAR will be central to this new AI-enabled creator economy.&nbsp;</p>
-
-
-
-<p>“The way we’re rewarding creators right now is broken,” Illia continued. “And the only way to fix that is to leverage programmable money, programmable value, and blockchain. You need the basic primitive of programmable money because it’s what allows users and groups to coordinate people at scale.”</p>
-
-
-
-<p>Illia&#8217;s vision extends to building a version of the open web where programmable value underpins a positive feedback loop, fostering a novel economy enriched by equitable participation. For example, he noted that NEAR is exploring ways for users to contribute their own data, which can help improve AI models. These initiatives demonstrate how tomorrow’s AI economy could benefit both creators and users by allowing more participation and collaboration underpinned by Web3 infrastructure and incentives.&nbsp;</p>
-
-
-
-<p>“I strongly believe that the way we&#8217;re going to make progress towards software eating the world to machine learning is eating software,” Illia argued. “And the most direct way is to teach machines to code, so you&#8217;re able to actually generate software and transform everyone&#8217;s access.”</p>
-
-
-
-<p>Throughout his appearance at NVIDIA GTC 2024, Illia underscored NEAR’s pivotal role in bridging the gap between the open web, programmable money, and AI. By advocating for a reimagined copyright framework and more equitable creator compensation models, Illia presented an accessible and compelling vision for NEAR at the forefront of tomorrow’s user and creator centric AI economy. While this was just a brief glimpse of the emerging AI+Web3 ecosystem on NEAR, it was met with a wave of excitement from the NEAR community and served as a reminder for the whole Web3 space about Illia’s and NEAR’s early roots in the world of AI.</p>
-<p>The post <a href="/blog/nvidia-gtc-2024/">NEAR at NVIDIA GTC 2024: A Recap of Illia’s Appearance</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21290</post-id>	</item>
 	</channel>
 </rss>
