@@ -12,7 +12,7 @@ This repo contains static html blog files which are automatically committed to t
 
     3. create a PR and merge those changes into the `develop` branch
 
-2. Verify the develop branch UI works as expected @ [beta.near.org/blog](https://beta.near.org/blog) 
+2. Verify the develop branch UI works as expected [on the nearorg preview environment](https://nearorg-marketing.vercel.app/blog) 
 3. If the above UI looks good, open a PR to merge the `develop` branch into `main`
 
 
