@@ -12,8 +12,12 @@ This repo contains static html blog files which are automatically committed to t
 
     3. create a PR and merge those changes into the `develop` branch
 
-2. Verify the develop branch UI works as expected [on the nearorg preview environment](https://nearorg-marketing.vercel.app/blog) 
-3. If the above UI looks good, open a PR to merge the `develop` branch into `main`
+2. Verify the develop branch UI works as expected [on the nearorg preview environment](https://nearorg-marketing.vercel.app/blog). 
+3. Be sure to click into a couple blog posts, naviate using the paginated links, and if the UI looks good, open a PR to merge the `develop` branch into `main`.
+
+
+## A note on paginated links. 
+The `1,2,3...` page links towards the bottom of the UI are served from the repo that drives [dev.near.org](https://github.com/near/nearorg). These should be manually updated periodically, perhaps once a month, by copying into `nearorg/public/blog` the `category`, `page`, and `tag` directories from the wordpress export and running `./bin/replace_all.sh` as was done is [this reference PR](https://github.com/near/nearorg/commit/4fb44d4d58c5e7a1322fd115a72faca6a98d59ba). It shouldn't be necessary to update this as often as new blogs are added because it's most important that direct links to blogs like `https://near.org/blog/hot-new-alpha` are working than to have each paginated link show every blog. 
 
 
 ## Automated Search and Replace
