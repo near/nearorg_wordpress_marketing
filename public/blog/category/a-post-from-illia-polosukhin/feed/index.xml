@@ -15,7 +15,7 @@
 	<atom:link href="/blog/category/a-post-from-illia-polosukhin/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/a-post-from-illia-polosukhin/</link>
 	<description></description>
-	<lastBuildDate>Wed, 22 May 2024 13:00:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Jun 2024 18:52:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,67 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>Regulation Alone Will Not Save Us from Big Tech</title>
+		<link>/blog/regulation-alone-will-not-save-us-from-big-tech/</link>
+		
+		<dc:creator><![CDATA[Illia Polosukhin]]></dc:creator>
+		<pubDate>Fri, 28 Jun 2024 18:52:39 +0000</pubDate>
+				<category><![CDATA[A Post from Illia Polosukhin]]></category>
+		<category><![CDATA[User-Owned AI]]></category>
+		<guid isPermaLink="false">/?p=21434</guid>
+
+					<description><![CDATA[<p>Every week, we see new headlines about lawsuits against major AI companies and infighting between regulators on how to properly …</p>
+<p>The post <a href="/blog/regulation-alone-will-not-save-us-from-big-tech/">Regulation Alone Will Not Save Us from Big Tech</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Every week, we see new headlines about <a href="https://www.nytimes.com/2024/06/25/arts/music/record-labels-ai-lawsuit-sony-universal-warner.html">lawsuits</a> <a href="https://www.axios.com/2024/06/18/forbes-perplexity-ai-legal-action-copyright">against</a> major AI companies and <a href="https://www.reuters.com/world/us/us-fcc-proposal-require-ai-political-ad-disclosure-draws-split-views-2024-06-06/">infighting</a> <a href="https://www.axios.com/2024/06/26/california-ai-safety-bill-industry-pushback">between</a> regulators on how to properly manage AI safety. From the notable OpenAI executive departures over the handling of safety to the whistleblower employees calling for more transparency, it’s clear that even those closest to the tech are worried about the risks that super-powerful, closed AI poses. How best can we manage this risk?&nbsp;</p>
+
+
+
+<p><a href="https://www.wired.com/story/user-owned-ai-illia-polosukhin-open-source-web3/">I would argue</a> that regulation alone will not save us from Big Tech monopolizing Corporate-Owned AI. There is still time to make AI fair, open, and good for the world––but not a lot of time. AI must be user-owned and open source in order to be a positive force for humanity.&nbsp;</p>
+
+
+
+<p>I am one of the co-creators of Transformers, or the “T” in ChatGPT, which we created inside one of the biggest tech companies in the world. Shortly after publishing that research, I left to found a startup and build in open source (software whose source code is open for others to read and use). While I fundamentally believe AI can improve human lives and maximize our collective intelligence, I agree that powerful AI focused on the profit of a few is risky at best and dangerous at worst.&nbsp;</p>
+
+
+
+<p>The most prominent AI development today is happening inside of major for-profit companies. The massive economic flywheel of AI means that just a few mega-corporations will control the most advanced intelligence tooling in the world––and make decisions about it behind closed doors. The incumbents’ lead gets bigger all the time because they already have so much money for building bigger data centers, lots of available user and internet data, and established user feedback loops.&nbsp;</p>
+
+
+
+<p>Modern tech giants are flexible to adopt new technologies at a faster pace than previous enterprises and have established frameworks for doing so. Every model optimizes for something, and every closed, for-profit company will naturally optimize for profit. In turn, the models and systems that these companies build are always optimized to maximize their own revenue, rather than any kind of success metric for the users.&nbsp;</p>
+
+
+
+<p>The same story has played out time and time again with major tech corporations: when a user market gets so big that there aren’t as many new users to acquire, profit pressures require finding new ways to extract more money and capture more attention from each existing user. This often results in exploiting users, not because these companies or their employees are trying to be malicious but because this is how massive, closed companies are built to work.&nbsp;</p>
+
+
+
+<p>So what can we do about this? The whistleblowers suggest that the solution is more regulation on AI, but I disagree. Often the people writing regulations don’t understand the tech well enough to keep up and so introduce requirements that are illogical or impossible to enforce. Regulation is slow and reactive rather than proactive, stifling innovation and making it harder for startups to compete and diversify the market. Regulations alone cannot control incredibly powerful and complex technology that changes faster than even its creators often realize, which too often results in asking for forgiveness after it’s already too late to prevent the negative outcome.</p>
+
+
+
+<p>I see a more constructive solution: we need to invest in open source, <a href="https://near.org/blog/user-owned-ai-is-near">User-Owned AI</a>. Building in the open positions AI builders to collaborate on proactively managing risk, improving safety for users, and auditing and monitoring outcomes. All data that goes into training a model must be open source in order to ensure there is no malicious data, to unpack potential bias inherent to the model, and to debug issues (only sharing parameters means that malicious behavior or inherent bias can affect all subsequent applications). In corporate-owned AI, decisions about which data are and aren’t included are completely opaque to users, and that data could be (maybe already has, but I hope not) subject to prioritization of the highest bidder––we’d have no way to know for sure. Open source ensures a more diverse community of contributors and a broader base of people reviewing and testing the code and cheaply validating that models are indeed trained on a stated dataset.&nbsp;</p>
+
+
+
+<p>User-Owned AI means intelligence tooling that optimizes for the well-being and success of individual users and their communities (rather than maximizing profit for the company building the model). Well-being and success metrics could include earning opportunities for the user, guarantees around their privacy and protection of their data and assets, and time saved. Not only can researchers and companies still make money in this paradigm by building great products that users want, but so do the users, who can selectively monetize their (provably anonymized) data or get rewarded for their attention. User-owned AI will also enhance users’ ability to customize and personalize their digital experiences, rather than the current approach where big companies deliver rigid, monolithic apps and experiences.</p>
+
+
+
+<p>While big tech moats are hard to beat, there is an opportunity to introduce open source alternatives and better frameworks before it’s too late. The stakes are high enough to try.&nbsp;</p>
+
+
+
+<p>–Illia Polosukhin</p>
+<p>The post <a href="/blog/regulation-alone-will-not-save-us-from-big-tech/">Regulation Alone Will Not Save Us from Big Tech</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21434</post-id>	</item>
+		<item>
 		<title>User-Owned AI is NEAR</title>
 		<link>/blog/user-owned-ai-is-near/</link>
 		
