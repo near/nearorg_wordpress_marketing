@@ -15,165 +15,22 @@
 	<atom:link href="/blog/tag/dev-rel/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/dev-rel/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Aug 2024 14:09:27 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Sep 2023 07:21:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Developer relations Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/dev-rel/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
-		<title>[REDACTED] Speakers Announced, Hackathon Registration Is Live</title>
-		<link>/blog/redacted-speakers-announced-hackathon-registration-is-live/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 01 Aug 2024 14:09:25 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Developers]]></category>
-		<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[Developer relations]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[redacted]]></category>
-		<guid isPermaLink="false">/?p=21462</guid>
-
-					<description><![CDATA[<p>It’s getting really real: [REDACTED] is just around the corner, and we have some major updates. You may recall that …</p>
-<p>The post <a href="/blog/redacted-speakers-announced-hackathon-registration-is-live/">[REDACTED] Speakers Announced, Hackathon Registration Is Live</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>It’s getting really real: [REDACTED] is just around the corner, and we have some major updates.</p>
-
-
-
-<p>You may recall that <a href="https://redactedbangkok.ai/">[REDACTED]</a> is a global convergence to shape the future of User-Owned AI and Chain Abstraction—a future where technology belongs to the people, not corporations.&nbsp;</p>
-
-
-
-<p>It’s an IRL movement gathering November 9-11 in Bangkok. It’s a worldwide hackathon kicking off September 5. It’s a defining moment to unify the collective working on these technologies to reclaim our sovereignty.</p>
-
-
-
-<p><em>Are you in?</em></p>
-
-
-
-<h2 class="wp-block-heading">The IRL movement: speakers announced, apply to attend</h2>
-
-
-
-<p>[REDACTED] is a whole IRL movement: 1,500+ devs, builders, founders, funders, researchers, regulators, and more gathering in person, November 9-11, at the Avani+ Riverside Hotel Bangkok.</p>
-
-
-
-<p>Some things can only happen IRL, and some are just way better. Like:</p>
-
-
-
-<ul>
-<li>Gaining insights from the teams defining the intersection of AI and Web3</li>
-
-
-
-<li>Upskilling and learning how to develop AI x Web3 products and apps</li>
-
-
-
-<li>Forming deep connections to build the user-owned future together</li>
-</ul>
-
-
-
-<p>[REDACTED] will feature a wide range of curated sessions, workshops, and discussions led by the people driving AI x Web3 and Chain Abstraction. We can finally share that this includes:</p>
-
-
-
-<ul>
-<li>Illia Polosukhin (NEAR)</li>
-
-
-
-<li>Curtis Spencer (Electric Capital)</li>
-
-
-
-<li>Anand Iyer (Canonical)</li>
-
-
-
-<li>Maartje Bus (Messari)</li>
-
-
-
-<li>Matt Stephenson (Pantera)</li>
-
-
-
-<li>Calanthia Mei (Masa)</li>
-
-
-
-<li>Evrard-Nil Daillet (Google)</li>
-</ul>
-
-
-
-<p>And more to come as we get closer to Bangkok.</p>
-
-
-
-<p>Tickets to the [REDACTED] IRL movement are totally free—you just have to <a href="https://redactedbangkok.ai/">apply</a> to attend, either as a participant or as a hacker (about which, see below). Visa letters are available to support visa applications.</p>
-
-
-
-<p>For the absolute latest on the movement, <a href="https://t.me/redactedbangkok">join the official [REDACTED] Telegram channel</a>.</p>
-
-
-
-<h2 class="wp-block-heading">[REDACTED] Hackathon Registration Is Live</h2>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="[REDACTED] Hackathon Registration Is LIVE" width="500" height="281" src="https://www.youtube.com/embed/QrciN2vJ3gY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>Registration for the [REDACTED] hackathon is <a href="https://redacted.devpost.com/">OPEN</a>.</p>
-
-
-
-<p>The [REDACTED] hackathon sets top problem-solvers to collaborating on the biggest issues in AI x Web3 and Chain Abstraction. Kicking off September 5, it’s eight weeks remote so teams can go deep, and it culminates at the IRL movement in Bangkok, November 9-11.&nbsp;</p>
-
-
-
-<p>Hackers accepted into the hackathon can expect workshops and tutorials on industry-leading tools, interactive discussion and support from category/ecosystem experts, and, oh yeah, a chance at over $500k+ in bounties and prizes.</p>
-
-
-
-<p>There will also be travel scholarships so qualifying hackers can be IRL in Bangkok for the awards ceremony—and to participate in the IRL movement.</p>
-
-
-
-<h2 class="wp-block-heading">Get Involved with [REDACTED]</h2>
-
-
-
-<p>There are a lot of ways [for partners?] to get involved with [REDACTED], from digital marketing exposure and exclusive access to side events to major visibility at the IRL movement. <a href="https://airtable.com/appdLXQkwmt4rqtW0/pag8inbcwhbrWjXW9/form">Find what’s right for you.</a></p>
-<p>The post <a href="/blog/redacted-speakers-announced-hackathon-registration-is-live/">[REDACTED] Speakers Announced, Hackathon Registration Is Live</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21462</post-id>	</item>
-		<item>
 		<title>NEAR APAC Day One: Scaling Local Adoption, Regional Regulation, and AI in Web3</title>
 		<link>/blog/near-apac-day-one-scaling-local-adoption-regional-regulation-and-ai-in-focus/</link>
 		
@@ -319,7 +176,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="512" height="283" src="/wp-content/uploads/2022/04/unnamed-2.png" alt="" class="wp-image-16256" srcset="/wp-content/uploads/2022/04/unnamed-2.png 512w, /wp-content/uploads/2022/04/unnamed-2-300x166.png 300w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>NEAR Wallet Selector</figcaption></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="512" height="283" src="https://pages.near.org/wp-content/uploads/2022/04/unnamed-2.png" alt="" class="wp-image-16256" srcset="https://pages.near.org/wp-content/uploads/2022/04/unnamed-2.png 512w, https://pages.near.org/wp-content/uploads/2022/04/unnamed-2-300x166.png 300w" sizes="(max-width: 512px) 100vw, 512px" /><figcaption>NEAR Wallet Selector</figcaption></figure>
 
 
 
@@ -727,7 +584,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="512" height="288" src="/wp-content/uploads/2021/12/unnamed-9.png" alt="" class="wp-image-15436" srcset="/wp-content/uploads/2021/12/unnamed-9.png 512w, /wp-content/uploads/2021/12/unnamed-9-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="512" height="288" src="https://pages.near.org/wp-content/uploads/2021/12/unnamed-9.png" alt="" class="wp-image-15436" srcset="https://pages.near.org/wp-content/uploads/2021/12/unnamed-9.png 512w, https://pages.near.org/wp-content/uploads/2021/12/unnamed-9-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 

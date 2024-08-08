@@ -15,165 +15,22 @@
 	<atom:link href="/blog/category/near-foundation/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/near-foundation/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Aug 2024 14:09:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Jun 2024 13:03:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Foundation Archives &#8211; NEAR Protocol</title>
 	<link>/blog/category/near-foundation/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
-		<title>[REDACTED] Speakers Announced, Hackathon Registration Is Live</title>
-		<link>/blog/redacted-speakers-announced-hackathon-registration-is-live/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 01 Aug 2024 14:09:25 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Developers]]></category>
-		<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[Developer relations]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[redacted]]></category>
-		<guid isPermaLink="false">/?p=21462</guid>
-
-					<description><![CDATA[<p>It’s getting really real: [REDACTED] is just around the corner, and we have some major updates. You may recall that …</p>
-<p>The post <a href="/blog/redacted-speakers-announced-hackathon-registration-is-live/">[REDACTED] Speakers Announced, Hackathon Registration Is Live</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>It’s getting really real: [REDACTED] is just around the corner, and we have some major updates.</p>
-
-
-
-<p>You may recall that <a href="https://redactedbangkok.ai/">[REDACTED]</a> is a global convergence to shape the future of User-Owned AI and Chain Abstraction—a future where technology belongs to the people, not corporations.&nbsp;</p>
-
-
-
-<p>It’s an IRL movement gathering November 9-11 in Bangkok. It’s a worldwide hackathon kicking off September 5. It’s a defining moment to unify the collective working on these technologies to reclaim our sovereignty.</p>
-
-
-
-<p><em>Are you in?</em></p>
-
-
-
-<h2 class="wp-block-heading">The IRL movement: speakers announced, apply to attend</h2>
-
-
-
-<p>[REDACTED] is a whole IRL movement: 1,500+ devs, builders, founders, funders, researchers, regulators, and more gathering in person, November 9-11, at the Avani+ Riverside Hotel Bangkok.</p>
-
-
-
-<p>Some things can only happen IRL, and some are just way better. Like:</p>
-
-
-
-<ul>
-<li>Gaining insights from the teams defining the intersection of AI and Web3</li>
-
-
-
-<li>Upskilling and learning how to develop AI x Web3 products and apps</li>
-
-
-
-<li>Forming deep connections to build the user-owned future together</li>
-</ul>
-
-
-
-<p>[REDACTED] will feature a wide range of curated sessions, workshops, and discussions led by the people driving AI x Web3 and Chain Abstraction. We can finally share that this includes:</p>
-
-
-
-<ul>
-<li>Illia Polosukhin (NEAR)</li>
-
-
-
-<li>Curtis Spencer (Electric Capital)</li>
-
-
-
-<li>Anand Iyer (Canonical)</li>
-
-
-
-<li>Maartje Bus (Messari)</li>
-
-
-
-<li>Matt Stephenson (Pantera)</li>
-
-
-
-<li>Calanthia Mei (Masa)</li>
-
-
-
-<li>Evrard-Nil Daillet (Google)</li>
-</ul>
-
-
-
-<p>And more to come as we get closer to Bangkok.</p>
-
-
-
-<p>Tickets to the [REDACTED] IRL movement are totally free—you just have to <a href="https://redactedbangkok.ai/">apply</a> to attend, either as a participant or as a hacker (about which, see below). Visa letters are available to support visa applications.</p>
-
-
-
-<p>For the absolute latest on the movement, <a href="https://t.me/redactedbangkok">join the official [REDACTED] Telegram channel</a>.</p>
-
-
-
-<h2 class="wp-block-heading">[REDACTED] Hackathon Registration Is Live</h2>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="[REDACTED] Hackathon Registration Is LIVE" width="500" height="281" src="https://www.youtube.com/embed/QrciN2vJ3gY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>Registration for the [REDACTED] hackathon is <a href="https://redacted.devpost.com/">OPEN</a>.</p>
-
-
-
-<p>The [REDACTED] hackathon sets top problem-solvers to collaborating on the biggest issues in AI x Web3 and Chain Abstraction. Kicking off September 5, it’s eight weeks remote so teams can go deep, and it culminates at the IRL movement in Bangkok, November 9-11.&nbsp;</p>
-
-
-
-<p>Hackers accepted into the hackathon can expect workshops and tutorials on industry-leading tools, interactive discussion and support from category/ecosystem experts, and, oh yeah, a chance at over $500k+ in bounties and prizes.</p>
-
-
-
-<p>There will also be travel scholarships so qualifying hackers can be IRL in Bangkok for the awards ceremony—and to participate in the IRL movement.</p>
-
-
-
-<h2 class="wp-block-heading">Get Involved with [REDACTED]</h2>
-
-
-
-<p>There are a lot of ways [for partners?] to get involved with [REDACTED], from digital marketing exposure and exclusive access to side events to major visibility at the IRL movement. <a href="https://airtable.com/appdLXQkwmt4rqtW0/pag8inbcwhbrWjXW9/form">Find what’s right for you.</a></p>
-<p>The post <a href="/blog/redacted-speakers-announced-hackathon-registration-is-live/">[REDACTED] Speakers Announced, Hackathon Registration Is Live</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21462</post-id>	</item>
-		<item>
 		<title>NEAR Modular Spins Out to Become Nuffle Labs with $13M in Funding</title>
 		<link>/blog/nuffle-labs/</link>
 		
@@ -930,11 +787,11 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="428" src="/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg" alt="" class="wp-image-21135" style="aspect-ratio:2.392523364485981;width:1287px;height:auto" srcset="/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg 1024w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-300x125.jpg 300w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-768x321.jpg 768w, /wp-content/uploads/2023/12/photo_2023-12-20_12-30-18.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>NEAR reached #1 in daily active users for all of Web3 to close the year, per Artemis.</em></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="428" src="https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg" alt="" class="wp-image-21135" style="aspect-ratio:2.392523364485981;width:1287px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-1024x428.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-300x125.jpg 300w, https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18-768x321.jpg 768w, https://pages.near.org/wp-content/uploads/2023/12/photo_2023-12-20_12-30-18.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>NEAR reached #1 in daily active users for all of Web3 to close the year, per Artemis.</em></figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="458" src="/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png" alt="" class="wp-image-21136" srcset="/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png 1024w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-300x134.png 300w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-768x343.png 768w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1536x687.png 1536w, /wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-2048x916.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>4 of the top 10 apps in all of Web3 are built on NEAR &amp; Aurora, per DappRadar&#8217;s 30-day ranking.</em></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="458" src="https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png" alt="" class="wp-image-21136" srcset="https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1024x458.png 1024w, https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-300x134.png 300w, https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-768x343.png 768w, https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-1536x687.png 1536w, https://pages.near.org/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-12.52.24-PM-2048x916.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>4 of the top 10 apps in all of Web3 are built on NEAR &amp; Aurora, per DappRadar&#8217;s 30-day ranking.</em></figcaption></figure>
 
 
 
@@ -977,5 +834,64 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">21133</post-id>	</item>
+		<item>
+		<title>Pyth Price Feeds Launch on NEAR Protocol Bringing Equity, Commodities, and Market Data On Chain </title>
+		<link>/blog/pyth-price-feeds-launch-on-near-protocol-bringing-equity-commodities-and-market-data-on-chain/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 30 Nov 2023 14:00:00 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[Oracles]]></category>
+		<category><![CDATA[Pyth]]></category>
+		<category><![CDATA[Pyth Price Feeds]]></category>
+		<guid isPermaLink="false">/?p=21126</guid>
+
+					<description><![CDATA[<p>Pyth, the largest first-party provider of real-time market data for crypto, equities, FX, and commodities to more than 40 blockchains, …</p>
+<p>The post <a href="/blog/pyth-price-feeds-launch-on-near-protocol-bringing-equity-commodities-and-market-data-on-chain/">Pyth Price Feeds Launch on NEAR Protocol Bringing Equity, Commodities, and Market Data On Chain </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Pyth, the largest first-party provider of real-time market data for crypto, equities, FX, and commodities to more than 40 blockchains, has launched on NEAR protocol. Pyth, whose services are used by more than 80 market participants — including Jane Street, CBOE, Binance, OKX, and Bybit — brings high-fidelity, high frequency financial market data to the NEAR blockchain natively for the first time.</p>
+
+
+
+<p>Previously, Pyth had deployed its feeds to Aurora, the EVM chain built on NEAR. But today Pyth data feeds are fully compatible with NEAR Protocol.&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p>The announcement is a boon to the burgeoning DeFi ecosystem built on top of NEAR, which stands to benefit from data feeds that update every 300 milliseconds.</p>
+
+
+
+<p>While other oracle providers use third-party data providers or relayers, Pyth’s data comes from institutions directly. Additionally, Pyth does not use price triggers to prevent certain prices from being pushed. Pyth uses <a href="https://pyth.network/blog/what-is-confidence">Confidence Intervals </a>to ensure continuous price availability. This new metric allows projects to consume Pyth’s price feeds during the most volatile market conditions.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-the-importance-of-oracles">The Importance of Oracles&nbsp;</h2>
+
+
+
+<p>Oracles are an important part of any DeFi ecosystem, since they are the information bridges between blockchains and databases. Although oracles could be built by the developers of DeFi projects, out-of-box, decentralized oracles are helpful for builders to start quickly without losing time and effort creating their own oracles.&nbsp;</p>
+
+
+
+<p>&#8220;Celebrating a new era of data reliability and trust, Douro Labs is thrilled to announce the seamless integration of Pyth Network with the NEAR blockchain,&#8221; says Abhimanyu Bansal, Head of Partnerships at Douro Labs.&nbsp;</p>
+
+
+
+<p>&#8220;This strategic partnership empowers developers on NEAR with real-time, accurate data feeds, and as we bridge the gap between the physical and digital worlds this integration propels us towards a future of decentralized applications that are not only secure but also truly informed.&#8221;</p>
+
+
+
+<p>Pyth has a robust network that is able to deliver price data even during sizable events. During the LUNA/UST incident in May ‘22, Pyth managed to track the LUNA price very accurately during the UST de-peg, while other networks stopped updating the price, causing inaccurate price data.&nbsp;</p>
+
+
+
+<p>In less than a year since Pyth’s launch, the network secured more than $2.0B in total value. Pyth has facilitated over $70 billion in trading volume and received over a million client downloads from passionate developers. Pyth supports 350+ low-latency price feeds across digital assets, equities, ETFs, forex pairs, and commodities.&nbsp;</p>
+<p>The post <a href="/blog/pyth-price-feeds-launch-on-near-protocol-bringing-equity-commodities-and-market-data-on-chain/">Pyth Price Feeds Launch on NEAR Protocol Bringing Equity, Commodities, and Market Data On Chain </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21126</post-id>	</item>
 	</channel>
 </rss>

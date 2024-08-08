@@ -15,254 +15,22 @@
 	<atom:link href="/blog/category/community/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/community/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Aug 2024 14:09:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Jun 2024 19:05:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Community Archives &#8211; NEAR Protocol</title>
 	<link>/blog/category/community/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
-		<title>[REDACTED] Speakers Announced, Hackathon Registration Is Live</title>
-		<link>/blog/redacted-speakers-announced-hackathon-registration-is-live/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 01 Aug 2024 14:09:25 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Developers]]></category>
-		<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[Developer relations]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[redacted]]></category>
-		<guid isPermaLink="false">/?p=21462</guid>
-
-					<description><![CDATA[<p>It’s getting really real: [REDACTED] is just around the corner, and we have some major updates. You may recall that …</p>
-<p>The post <a href="/blog/redacted-speakers-announced-hackathon-registration-is-live/">[REDACTED] Speakers Announced, Hackathon Registration Is Live</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>It’s getting really real: [REDACTED] is just around the corner, and we have some major updates.</p>
-
-
-
-<p>You may recall that <a href="https://redactedbangkok.ai/">[REDACTED]</a> is a global convergence to shape the future of User-Owned AI and Chain Abstraction—a future where technology belongs to the people, not corporations.&nbsp;</p>
-
-
-
-<p>It’s an IRL movement gathering November 9-11 in Bangkok. It’s a worldwide hackathon kicking off September 5. It’s a defining moment to unify the collective working on these technologies to reclaim our sovereignty.</p>
-
-
-
-<p><em>Are you in?</em></p>
-
-
-
-<h2 class="wp-block-heading">The IRL movement: speakers announced, apply to attend</h2>
-
-
-
-<p>[REDACTED] is a whole IRL movement: 1,500+ devs, builders, founders, funders, researchers, regulators, and more gathering in person, November 9-11, at the Avani+ Riverside Hotel Bangkok.</p>
-
-
-
-<p>Some things can only happen IRL, and some are just way better. Like:</p>
-
-
-
-<ul>
-<li>Gaining insights from the teams defining the intersection of AI and Web3</li>
-
-
-
-<li>Upskilling and learning how to develop AI x Web3 products and apps</li>
-
-
-
-<li>Forming deep connections to build the user-owned future together</li>
-</ul>
-
-
-
-<p>[REDACTED] will feature a wide range of curated sessions, workshops, and discussions led by the people driving AI x Web3 and Chain Abstraction. We can finally share that this includes:</p>
-
-
-
-<ul>
-<li>Illia Polosukhin (NEAR)</li>
-
-
-
-<li>Curtis Spencer (Electric Capital)</li>
-
-
-
-<li>Anand Iyer (Canonical)</li>
-
-
-
-<li>Maartje Bus (Messari)</li>
-
-
-
-<li>Matt Stephenson (Pantera)</li>
-
-
-
-<li>Calanthia Mei (Masa)</li>
-
-
-
-<li>Evrard-Nil Daillet (Google)</li>
-</ul>
-
-
-
-<p>And more to come as we get closer to Bangkok.</p>
-
-
-
-<p>Tickets to the [REDACTED] IRL movement are totally free—you just have to <a href="https://redactedbangkok.ai/">apply</a> to attend, either as a participant or as a hacker (about which, see below). Visa letters are available to support visa applications.</p>
-
-
-
-<p>For the absolute latest on the movement, <a href="https://t.me/redactedbangkok">join the official [REDACTED] Telegram channel</a>.</p>
-
-
-
-<h2 class="wp-block-heading">[REDACTED] Hackathon Registration Is Live</h2>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="[REDACTED] Hackathon Registration Is LIVE" width="500" height="281" src="https://www.youtube.com/embed/QrciN2vJ3gY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p>Registration for the [REDACTED] hackathon is <a href="https://redacted.devpost.com/">OPEN</a>.</p>
-
-
-
-<p>The [REDACTED] hackathon sets top problem-solvers to collaborating on the biggest issues in AI x Web3 and Chain Abstraction. Kicking off September 5, it’s eight weeks remote so teams can go deep, and it culminates at the IRL movement in Bangkok, November 9-11.&nbsp;</p>
-
-
-
-<p>Hackers accepted into the hackathon can expect workshops and tutorials on industry-leading tools, interactive discussion and support from category/ecosystem experts, and, oh yeah, a chance at over $500k+ in bounties and prizes.</p>
-
-
-
-<p>There will also be travel scholarships so qualifying hackers can be IRL in Bangkok for the awards ceremony—and to participate in the IRL movement.</p>
-
-
-
-<h2 class="wp-block-heading">Get Involved with [REDACTED]</h2>
-
-
-
-<p>There are a lot of ways [for partners?] to get involved with [REDACTED], from digital marketing exposure and exclusive access to side events to major visibility at the IRL movement. <a href="https://airtable.com/appdLXQkwmt4rqtW0/pag8inbcwhbrWjXW9/form">Find what’s right for you.</a></p>
-<p>The post <a href="/blog/redacted-speakers-announced-hackathon-registration-is-live/">[REDACTED] Speakers Announced, Hackathon Registration Is Live</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21462</post-id>	</item>
-		<item>
-		<title>EthCC 2024: User-Owned AI Takes Center Stage</title>
-		<link>/blog/ethcc-2024-user-owned-ai-takes-center-stage/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Mon, 22 Jul 2024 18:25:13 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">/?p=21447</guid>
-
-					<description><![CDATA[<p>Last week, the Ethereum community gathered in Brussels for EthCC, the largest annual European Ethereum event focused on technology and …</p>
-<p>The post <a href="/blog/ethcc-2024-user-owned-ai-takes-center-stage/">EthCC 2024: User-Owned AI Takes Center Stage</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Last week, the Ethereum community gathered in Brussels for EthCC, the largest annual European Ethereum event focused on technology and community. Usually held in Paris, this year&#8217;s event moved to Brussels due to the Summer Olympics. Despite initial mixed reactions to the change in location, the Web3 community descended on the Belgian capital for an intense week of conferences, networking, and learning. The NEAR ecosystem was front and center, touting the same vision it has held since its inception: building a world where all people control their own assets, data, and power of governance.</p>
-
-
-
-<p>The week kicked off with NEAR co-founder Illia Polosukhin delivering a keynote at the Open Source AI Summit titled &#8220;Why the World Needs User-Owned AI.&#8221; Illia presented the case for investing in open-source, User-Owned AI, emphasizing the importance of collaboration in proactively managing risk, improving user safety, and formally verifying code. He stressed that all data used in training AI models must be open-source to ensure transparency, unpack potential biases, and debug issues effectively.</p>
-
-
-
-<p>Later in the week, Illia delivered a keynote presentation on the NEAR AI Hub and AI Developer concept. His talk sparked considerable interest, particularly regarding the transformative potential of Developer AI. The audience was captivated by the vision of a system where individuals, regardless of their technical expertise or financial resources, could transform their ideas into fully-fledged, decentralized, and scalable applications simply by interacting with an AI-driven development platform. This lower barrier to entry for app creation promises to accelerate innovation across the blockchain ecosystem and even in Web2.</p>
-
-
-
-<p>NEAR&#8217;s presence at EthCC extended beyond AI discussions. Altan Tutar, CEO of Nuffle Labs, showcased Nuffle&#8217;s pioneering work on data availability, demonstrating how NEAR technology is scaling Ethereum L2s. This presentation highlighted NEAR Protocol&#8217;s versatility beyond its L1 capabilities and its potential to defragment Web3.</p>
-
-
-
-<p>Alex Shevchenko from Aurora Labs introduced Forwarder, a personal bridge designed for seamless token transfers between centralized exchanges and various chains, addressing the rapid growth of new blockchains in the ecosystem.</p>
-
-
-
-<p>A significant highlight of NEAR&#8217;s participation was the Chain Abstraction Day Brussels on July 10th. Co-hosted with Agoric Systems, this event marked the culmination of NEAR&#8217;s year-long series on interoperability and the future of multi-chain apps and transactions. The day-long program covered different methodologies to achieve chain abstraction to intents, data availability, and infrastructure, including a talk from Illia on what&#8217;s next in the NEAR ecosystem&#8217;s <a href="https://www.youtube.com/watch?v=saCoQE39Cvo">contributions to Chain Abstraction</a>. A special fireside chat between Agoric&#8217;s Dean Tribble and Illia delved into architecting next-gen Web3 apps.</p>
-
-
-
-<p>The NEAR AI Tech Showcase on July 11th further demonstrated NEAR&#8217;s commitment to innovation. The event featured live demonstrations of AI-powered blockchain applications, giving attendees hands-on experience with the latest developments from the NEAR ecosystem. Underpinning these developments was the NEAR Horizon AI Incubation Program, a strategic initiative designed to kickstart NEAR&#8217;s AI ecosystem by collaborating with top-tier Web3 x AI projects.</p>
-
-
-
-<p>NEAR&#8217;s presence at EthCC 2024 offered the rest of the Web3 ecosystem a tangible vision of a User-Owned AI future with real technologies already taking shape. By championing the transfer of power and ownership to users, NEAR aims to unlock a myriad of benefits: enhanced productivity, improved search results, personalized experiences, and novel economic opportunities, all while maintaining a steadfast commitment to privacy and security. The ecosystem&#8217;s overarching goal remained clear: to onboard 1 billion users to a new open internet. NEAR&#8217;s unique position at the intersection of blockchain and AI showcased its readiness to address the growing demand for decentralized artificial intelligence, leveraging Web3&#8217;s inherent strengths to forge a truly user-owned digital landscape. As the event concluded, it was evident that EthCC 2024 marked a defining moment for NEAR Protocol, highlighting its visionary approach, technological prowess, and unwavering commitment to a decentralized, user-centric future.</p>
-
-
-
-<p>Interested in learning more about User-Owned AI and the teams building the ecosystem? Check out the <a href="https://www.youtube.com/playlist?list=PL9tzQn_TEuFWMuPiQOXhaE5lpOTnxLPZY">NEAR AI Office Hours</a> series.</p>
-<p>The post <a href="/blog/ethcc-2024-user-owned-ai-takes-center-stage/">EthCC 2024: User-Owned AI Takes Center Stage</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21447</post-id>	</item>
-		<item>
-		<title>NEAR at EthCC 2024: Pioneering AI x Web3 </title>
-		<link>/blog/near-at-ethcc-2024/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Wed, 03 Jul 2024 14:00:00 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<guid isPermaLink="false">/?p=21437</guid>
-
-					<description><![CDATA[<p>As EthCC 2024 descends upon Brussels, the city&#8217;s historic charm provides a captivating backdrop for one of the crypto industry&#8217;s …</p>
-<p>The post <a href="/blog/near-at-ethcc-2024/">NEAR at EthCC 2024: Pioneering AI x Web3 </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>As EthCC 2024 descends upon Brussels, the city&#8217;s historic charm provides a captivating backdrop for one of the crypto industry&#8217;s most anticipated events. Amidst cobblestone streets and Gothic architecture, NEAR Foundation is set to make waves with its pioneering approach to AI x Web3. This year&#8217;s conference promises to be a melting pot of ideas, where NEAR&#8217;s forward-thinking vision will take center stage.</p>
-
-
-
-<p>The week-long extravaganza kicks off on July 6th with the Open Source AI Summit. Here, NEAR is positioning itself as the home for User-Owned AI. Championing a User-Owned AI future means building a New Internet that democratizes AI development and access, ensuring users, not centralized companies, control AI. By championing this concept, NEAR is set to ignite discussions on how blockchain can revolutionize the AI landscape, putting power back into the hands of individuals and fostering a new era of technological autonomy.<br></p>
-
-
-
-<p>Building on the momentum of the Open Source AI Summit, the spotlight shifts on July 7th to the next-generation modular infrastructure for all layers at Contextualised Connect Brussels by YAP Global. Altan Tutar, CEO of Nuffle Labs, will take center stage before a room packed with media representatives, showcasing Nuffle&#8217;s pioneering work on data availability. By leveraging NEAR technology to scale Ethereum L2s, Nuffle demonstrates NEAR Protocol&#8217;s versatility beyond its L1 capabilities, blurring ecosystem boundaries and fostering collaboration with tier-1 projects like EigenLayer. This strategic expansion and technological validation position NEAR as a crucial player in the broader blockchain landscape, attracting more developers, users, and collaborations with major projects, thereby extending NEAR&#8217;s relevance and utility in the evolving decentralized technology space.</p>
-
-
-
-<p><br>Without missing a beat, on July 9th, EthCC&#8217;s main event showcases two game-changing presentations. Illia Polosukhin, CEO of NEAR Foundation, will dive into &#8220;Build Your Next Web3 App with AI,&#8221; offering a practical roadmap for integrating AI into blockchain development. Following this, Alex Shevchenko, CEO of Aurora Labs, will address &#8220;Simplifying Access Across Blockchain and Exchanges,&#8221; highlighting NEAR&#8217;s innovative approach to interoperability. These talks will demonstrate NEAR&#8217;s commitment to advancing AI integration and cross-chain accessibility, positioning the ecosystem at the forefront of Web3 innovation.</p>
-
-
-
-<p><br>Chain Abstraction Day Brussels on July 10th marks the culmination of NEAR&#8217;s year-long series, solidifying its place as a cornerstone event at EthCC. Co-hosted with Agoric Systems, this gathering positions Chain Abstraction at the forefront of discussions on interoperability and the future of multi-chain environments. Expect deep dives into the technical aspects of defragmenting and unifying Web3, including infrastructure, data availability, and the role of venture capital. Get hands-on with the latest tools, learn from cutting-edge research, and see real-world applications in action through developer success stories. Live lightning demos will bring the power of chain abstraction to life. This event offers invaluable insights and practical knowledge for everyone, from seasoned blockchain developers to Web3 newcomers, helping you streamline and scale your projects.<br><br>Capping off the week, Illia Polosukhin delivers a keynote at Agents Unleashed, where he deep dives into the potential of AI-powered blockchain applications. This summit is designed to unite developers and innovators in the Web3 autonomous AI agent space, offering a comprehensive look at the current use case landscape. Following this, NEAR HZN presents the NEAR AI Tech Showcase on July 11th. This event promises to be a testament to NEAR&#8217;s innovative spirit, featuring live demonstrations of AI-powered blockchain applications. Attendees will get hands-on experience with the latest developments from the NEAR ecosystem, seeing firsthand how AI is reshaping the blockchain landscape. Underpinning these developments is the NEAR Horizon AI Incubation Program, a strategic initiative designed to kickstart NEAR&#8217;s AI ecosystem. By collaborating with top-tier decentralized AI projects, this program aims to co-design crucial infrastructure that will enable sophisticated AI applications on NEAR. Collectively, these events and initiatives demonstrate NEAR&#8217;s commitment to advancing user-owned AI, where intelligence tooling optimizes for individual users and communities rather than corporate profit, unlocking benefits like higher productivity, personalized experiences, and novel economic opportunities.<br><br>As attendees move between historic venues and modern conference spaces, they&#8217;ll witness firsthand how NEAR is pioneering AI x Web3. NEAR&#8217;s presence at EthCC 2024 is more than just a series of presentations &#8211; it&#8217;s a demonstration of a User-Owned AI future. Putting the power and ownership in the hands of the user unlocks benefits such as higher productivity, better search results, more personalized experiences, and novel economic opportunities that are all privacy-first.</p>
-<p>The post <a href="/blog/near-at-ethcc-2024/">NEAR at EthCC 2024: Pioneering AI x Web3 </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21437</post-id>	</item>
-		<item>
 		<title>Shape the User-Owned Future at [REDACTED] in Bangkok</title>
 		<link>/blog/redacted/</link>
 		
@@ -1074,5 +842,189 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">21321</post-id>	</item>
+		<item>
+		<title>NEAR Ecosystem Kicks Up a Sandstorm at TOKEN2049 Dubai</title>
+		<link>/blog/near-ecosystem-kicks-up-a-sandstorm-at-token2049-dubai/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<guid isPermaLink="false">/?p=21312</guid>
+
+					<description><![CDATA[<p>After making waves at last year&#8217;s Singapore edition, we&#8217;re turning up the heat for TOKEN2049 in Dubai, the city that&#8217;s …</p>
+<p>The post <a href="/blog/near-ecosystem-kicks-up-a-sandstorm-at-token2049-dubai/">NEAR Ecosystem Kicks Up a Sandstorm at TOKEN2049 Dubai</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em>After making waves at last year&#8217;s Singapore edition, we&#8217;re turning up the heat for TOKEN2049 in Dubai, the city that&#8217;s rapidly becoming a hotbed for Fintech and AI innovation. This year, the NEAR ecosystem is buzzing with excitement to introduce discussions on chain abstraction and spotlight some of our most dynamic projects, including Calimero, Sweat Economy, and Aurora, to the forefront of the global tech scene.</em></p>
+
+
+
+<p><strong>Tech, Coffee, &amp; Bubbles!</strong><br></p>
+
+
+
+<p>By day, make your way to our booth to engage with the NEAR collective and the visionaries from Calimero, Sweat Economy, and Aurora. Unpack the ways we&#8217;re transforming the Web3 space with breakthroughs in chain abstraction, data availability, frameworks for building decentralized application protocols, and Blockchain as a Service (BaaS). Indulge in the flavors of traditional Arabic coffee and pick up the hottest swag.<br></p>
+
+
+
+<p>Yet, the experience doesn&#8217;t stop at coffee.<br></p>
+
+
+
+<p>As the enthusiastic sponsor of TOKEN2049 Dubai&#8217;s closing party, NEAR is preparing an unforgettable evening. Anticipate a gala filled with select champagne and spirits, celebrating the milestones and fellowship of the Web3 community.</p>
+
+
+
+<p><strong>Can&#8217;t-Miss Speaking Engagements</strong></p>
+
+
+
+<p>At TOKEN2049 Dubai, NEAR Protocol is diving into the conversations that are shaping the future of Web3. We&#8217;re kicking things off with a panel on &#8220;AI x Web3: Pioneering Decentralized Intelligence,&#8221; featuring NEAR&#8217;s own Illia Polosukhin alongside experts like Ahmad Shadid from io.net, Niraj Pant of Ritual, Sean Ren of Sahara, and moderated by Tarun Chitra of Gauntlet. They&#8217;ll unpack the exciting crossroads of AI and Web3 in fostering decentralized intelligence. Then, don&#8217;t miss our fireside chat, &#8220;Sweat Economy&#8217;s Billion-User Blueprint for Scaling Consumer Crypto Apps,&#8221; where Chris Donovan, COO of NEAR Foundation and Oleg Fomenko, Co-founder &amp; CEO of&nbsp; Sweat Economy open up about their ground-breaking collaboration.</p>
+
+
+
+<p>Swing by our booth for a firsthand look at how NEAR is redefining norms with chain abstraction, data availability, and more—all powered by a healthy dose of caffeine.<br><br>TOKEN2049 is gearing up to be a dynamic assembly featuring the forefront of Web3 innovation, an event you won&#8217;t want to miss. For updates on our activities, side events, and speakers, please visit our <a href="https://lu.ma/d1mzjpw3">Lu.ma</a> page and the <a href="https://week.token2049.com/">TOKEN2049</a> landing page!</p>
+<p>The post <a href="/blog/near-ecosystem-kicks-up-a-sandstorm-at-token2049-dubai/">NEAR Ecosystem Kicks Up a Sandstorm at TOKEN2049 Dubai</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21312</post-id>	</item>
+		<item>
+		<title>Korea BUIDL Week Recap: One Account to Rule Them All</title>
+		<link>/blog/korea-buidl-week-recap-one-account-to-rule-them-all/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 03 Apr 2024 05:57:14 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<guid isPermaLink="false">/?p=21306</guid>
+
+					<description><![CDATA[<p>Last week, Korea BUIDL Week was the epicenter of cutting-edge thought leadership in Web3. From cross-chain innovations to the convergence …</p>
+<p>The post <a href="/blog/korea-buidl-week-recap-one-account-to-rule-them-all/">Korea BUIDL Week Recap: One Account to Rule Them All</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Last week, Korea BUIDL Week was the epicenter of cutting-edge thought leadership in Web3. From cross-chain innovations to the convergence of AI and blockchain, the week brought together industry pioneers to explore the technologies shaping the decentralized future.</p>
+
+
+
+<p><strong>Chain Abstraction Day Tackles Interoperability</strong></p>
+
+
+
+<p>Chain Abstraction Day kicked Korea BUIDL Week off by tackling the need for seamless blockchain interoperability. NEAR’s Co-founder and CEO, Illia Polosukhin, made a compelling case for &#8220;Why Web3 Needs Chain Abstraction&#8221; by highlighting how abstracting away individual chains can unlock Web3&#8217;s full potential. Mike Purvis of Proximity Labs then painted a vision of &#8220;Ushering in the Era of Bridgeless Cross-Chain DeFi,&#8221; while Riqi Ras presented &#8220;Bitcoin Beyond Gold&#8221;, showcasing snippets of a testnet transaction where a NEAR account signed transactions on Bitcoin. This proof-of-concept highlighted the potential of chain signatures to not just interact with Bitcoin, but even enable trading of Bitcoin Ordinals natively using the cross-chain signing capabilities.&nbsp;</p>
+
+
+
+<p><strong>Blockchain Brain Trust: Vitalik Envisions Account Abstraction, Illia Unleashes Chain Signatures</strong></p>
+
+
+
+<p>At BUIDL Asia, anticipation was high for Vitalik Buterin&#8217;s talk on &#8220;The Future of Account Abstraction.&#8221; By abstracting user accounts, he explored enabling frictionless cross-chain experiences. “The next 10 years are going to be about really upgrading the ecosystem at the user level,” Buterin said at the event. Illia Polosukhin then took center stage, announcing NEAR&#8217;s groundbreaking &#8220;Chain Signatures&#8221; for managing assets across chains via a single account. Illia demonstrated how Chain Signatures allow signing transactions on multiple chains from a single NEAR account, paving the way for seamless cross-chain dApp development.</p>
+
+
+
+<p>Illia and Vitalik later joined forces for a can&#8217;t-miss fireside chat dissecting the &#8220;AI/Crypto Fact vs Fiction.&#8221; As two towering minds in their respective fields, they offered unparalleled insights into AI&#8217;s transformative potential for Web3. The lively discussion separated hype from reality, exploring how AI could enhance privacy, scalability, and usability of decentralized systems. Vitalik and Illia also examined the risks of centralized AI models and the importance of developing decentralized AI aligned with Web3&#8217;s core values.</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1600" height="1200" src="https://pages.near.org/wp-content/uploads/2024/04/image.jpeg" alt="" class="wp-image-21317" srcset="https://pages.near.org/wp-content/uploads/2024/04/image.jpeg 1600w, https://pages.near.org/wp-content/uploads/2024/04/image-300x225.jpeg 300w, https://pages.near.org/wp-content/uploads/2024/04/image-1024x768.jpeg 1024w, https://pages.near.org/wp-content/uploads/2024/04/image-768x576.jpeg 768w, https://pages.near.org/wp-content/uploads/2024/04/image-1536x1152.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+
+
+
+<p><strong>ETH Seoul Dives Deep into Chain Signatures and Decentralized Intelligence</strong></p>
+
+
+
+<p>The event baton was then passed to ETH Seoul, where Mike Purvis expounded on &#8220;Chain Signatures: Cross-Chain Without Bridges.&#8221; Purvis explained how this technology enables secure cross-chain communication, eliminating the need for centralized bridges. He demonstrated how it could pave the way for seamless blockchain interoperability and conducted a workshop showcasing potential use cases.&nbsp; Boris Polania made a case for &#8220;Decentralized Intelligence&#8221;&nbsp; discussing how combining blockchain transparency with AI data analysis could revolutionize collective decision-making processes. The conference featured comprehensive developer tracks put together by DevHub, covering everything from building on NEAR to integrating Chain Signatures. ETH Seoul also hosted a hackathon where teams built innovative decentralized apps, with members of the NEAR ecosystem serving as judges to evaluate and provide feedback on the projects.&nbsp;</p>
+
+
+
+<p>DeFiBrain, an AI-powered DeFi investment assistant that harnesses NEAR to discover and analyze promising DeFi products, won NEAR&#8217;s Chain Signatures bounty and ETH Seoul&#8217;s first prize. DeFiBrain impressed with its advanced AI models and seamless NEAR integration. The first prize of $5,000 for the NEARDevHub&#8217;s &#8220;AI Governance is NEAR&#8221; bounty was awarded to Connor AI, which integrates AI into DAOs to automate execution processes and empower decentralized decision-making. Connor AI was commended for its novel AI-DAO approach.</p>
+
+
+
+<p><strong>Vitalik Outlines Ethereum&#8217;s Scaling Roadmap, Illia Tackles AI Misconceptions</strong></p>
+
+
+
+<p>Not to be outdone, Vitalik outlined his vision for Ethereum&#8217;s future in &#8220;Dencun: Where We Go From Here.&#8221; During his talk, he primarily focused on EIP 4844, also known as “Blobs”, which represents a significant upgrade for Ethereum scaling. This upgrade allows Layer 2 networks to post batched transactions at a much lower cost. Consequently, Vitalik issued a call-to-action, encouraging developers to build solutions for today&#8217;s needs. Closing the event, Illia Polosukhin delivered a talk cheekily titled &#8220;Secrets About AI that Web3 Doesn&#8217;t Want You To Know,&#8221; likely pulling back the curtain on AI&#8217;s game-changing implications. Illia&#8217;s provocative talk challenged misconceptions about the limitations of current AI while hinting at potential breakthroughs that could supercharge decentralized applications.</p>
+
+
+
+<p><strong>SheFi Emphasizes Cultivating Inclusive Web3 Communities</strong></p>
+
+
+
+<p>Finally, SheFi spotlighted building inclusive Web3 communities. NEAR&#8217;s Yadira Blocker led the discussion on cultivating Web3 culture and community &#8211; a critical topic as the ecosystem grows. The panel emphasized genuine communities are earned through authentic connections, not purchased. It also discussed how global Web3 communities localize efforts while valuing in-person meetups to drive progress collaboratively. Unlike Web2, community heavily influences Web3 marketing and adoption.</p>
+
+
+
+<p>From multi-chain architectures to AI convergence, Korea BUIDL Week demonstrated that Web3 is rapidly evolving towards a future of seamless cross-chain functionality, enhanced intelligence, and open participation. The insights shared will undoubtedly help shape the coming decades of decentralized innovation.</p>
+<p>The post <a href="/blog/korea-buidl-week-recap-one-account-to-rule-them-all/">Korea BUIDL Week Recap: One Account to Rule Them All</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21306</post-id>	</item>
+		<item>
+		<title>LiNEAR Protocol Introduces Omnichain Liquid Restaking to Advance NEAR’s Chain Abstraction </title>
+		<link>/blog/linear-protocol-introduces-omnichain-liquid-restaking/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 02:02:43 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<guid isPermaLink="false">/?p=21300</guid>
+
+					<description><![CDATA[<p>LiNEAR, the leading DeFi protocol on NEAR with the highest TVL, is planning to enhance the security of NEAR&#8217;s Chain …</p>
+<p>The post <a href="/blog/linear-protocol-introduces-omnichain-liquid-restaking/">LiNEAR Protocol Introduces Omnichain Liquid Restaking to Advance NEAR’s Chain Abstraction </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://linearprotocol.org/">LiNEAR</a>, the leading DeFi protocol on <a href="https://near.org/">NEAR</a> with the highest TVL, is planning to enhance the security of NEAR&#8217;s Chain Abstracted network through restaking, ensuring a secure future for a chain-agnostic and chain-abstracted Web3 experience. Established by early core contributors to NEAR, LiNEAR has made significant contributions to advancing the ecosystem, beginning with its innovative liquid staking features, notably the Automatic Validator Optimization Algorithm. This algorithm greatly improves the security and decentralization of the NEAR network by dynamically reallocating stakes across as many as 200 active nodes.&nbsp;</p>
+
+
+
+<p>LiNEAR’s vision has always been enabling easier participation in the decentralized web. With the NEAR ecosystem&#8217;s commitment to advancing Chain Abstraction by removing the complexities of blockchain technology for users, LiNEAR is also expanding its offering and focusing on restaking to eliminate barriers to entry for the multichain ecosystem.&nbsp;</p>
+
+
+
+<p>LiNEAR Protocol will be providing a robust security model through <strong>omnichain liquid restaking</strong>, avoiding the pitfalls of centralized and permissioned solutions in pursuit of an improved Web3 user experience. Restaking can potentially secure Chain Abstraction infrastructures for three key reasons: it offers instant security by leveraging existing blockchain security mechanisms; ensures capital efficiency by allowing nodes and stakers of a blockchain to participate with minimal additional capital; and promotes base layer alignment, closely bonding the networks with the blockchains which they serve.</p>
+
+
+
+<p>NEAR‘s Chain Abstraction comprises social authentication, <a href="/blog/unlocking-web3-usability-with-account-aggregation/">account aggregation</a>, Chain Signatures, and the multichain intent relayer. These elements combine to allow users to transact across various blockchains using a single account and interface, without the need to understand the underlying infrastructure or switch networks.</p>
+
+
+
+<p>To realize this vision, two new decentralized infrastructures are required: the <a href="/blog/chain-signatures-launch-to-enable-transactions-on-any-blockchain-from-a-near-account/">Chain Signatures</a> MPC network and the Multichain Gas Relayer. The Chain Signatures MPC network functions as a decentralized signer of users’ NEAR accounts, controlling all other accounts on different blockchains. The Multichain Gas Relayer consists of off-chain relayers that listen to and compete to execute users&#8217; intents on different chains. Both infrastructures operate externally to any existing blockchain, including NEAR.</p>
+
+
+
+<p>LiNEAR&#8217;s liquid restaking solution aims to secure the Chain Signatures MPC network, mitigating the risks of centralization. Similarly, the Multichain Gas Relayer would be able to operate in a trustless manner with restaked verification, removing embedded trust assumptions and enabling users to confidently delegate executions to the relayer network. This entire security framework can be supported by $NEAR and $LiNEAR, and other assets such as $SOL, $BTC, and more in the future, ensuring alignment with different blockchains connected through Chain Abstraction.</p>
+
+
+
+<p>NEAR community members interested in restaking can get started on <a href="https://linearprotocol.org/">LiNEAR</a> and help move the network towards a more secure and easy-to-use Web3 world.</p>
+
+
+
+<p><strong>About LiNEAR</strong></p>
+
+
+
+<p>LiNEAR Protocol is an innovative omnichain liquidity staking/restaking platform and the leading DeFi protocol on NEAR. It pioneered revolutionary features such as automatic validator optimization, which significantly decentralizes and secures the network by allowing users to re-delegate to 200+ validators. LiNEAR offers seamless multichain restaking across multiple networks, such as NEAR, Ethereum, Bitcoin, Solana, and more, ensuring a secure future for a chain-agnostic and chain-abstracted Web3 experience.</p>
+
+
+
+<p>Join LiNEAR’s Community</p>
+
+
+
+<p><a href="https://linearprotocol.org/">Website</a> | <a href="https://twitter.com/LinearProtocol">Twitter</a> | <a href="https://medium.com/@LiNEAR_LSD">Medium</a> | <a href="https://discord.com/invite/bkkvWwMf2T">Discord</a></p>
+<p>The post <a href="/blog/linear-protocol-introduces-omnichain-liquid-restaking/">LiNEAR Protocol Introduces Omnichain Liquid Restaking to Advance NEAR’s Chain Abstraction </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21300</post-id>	</item>
 	</channel>
 </rss>
