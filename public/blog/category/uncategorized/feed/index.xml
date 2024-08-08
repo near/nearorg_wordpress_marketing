@@ -15,22 +15,155 @@
 	<atom:link href="/blog/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/uncategorized/</link>
 	<description></description>
-	<lastBuildDate>Thu, 22 Feb 2024 18:19:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Jul 2024 12:41:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Uncategorized Archives &#8211; NEAR Protocol</title>
 	<link>/blog/category/uncategorized/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>Allstake &#8211; Restaking on All Chains with Chain Signatures</title>
+		<link>/blog/allstake-restaking-on-all-chains-with-chain-signatures/</link>
+		
+		<dc:creator><![CDATA[David Morrison]]></dc:creator>
+		<pubDate>Wed, 24 Jul 2024 12:41:04 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=21454</guid>
+
+					<description><![CDATA[<p>It’s fundamental to NEAR’s vision that users, apps, and liquidity shouldn’t be siloed within one chain or another. Chain abstraction …</p>
+<p>The post <a href="/blog/allstake-restaking-on-all-chains-with-chain-signatures/">Allstake &#8211; Restaking on All Chains with Chain Signatures</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="512" src="/wp-content/uploads/2024/07/nearallstake-blog-1-1024x512.png" alt="" class="wp-image-21456" style="width:1393px;height:auto" srcset="/wp-content/uploads/2024/07/nearallstake-blog-1-1024x512.png 1024w, /wp-content/uploads/2024/07/nearallstake-blog-1-300x150.png 300w, /wp-content/uploads/2024/07/nearallstake-blog-1-768x384.png 768w, /wp-content/uploads/2024/07/nearallstake-blog-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>It’s fundamental to NEAR’s vision that users, apps, and liquidity shouldn’t be siloed within one chain or another. Chain abstraction means not only lowering the bar to users and developers by creating a seamless experience, but leveraging the power of multiple interoperable blockchains.<br> </p>
+
+
+
+<p>Built on NEAR, <a href="https://allstake.org/">Allstake</a> is bringing this vision to restaking.<br></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Restaking in a Nutshell</strong></h2>
+
+
+
+<p>Restaking, in essence, is a new primitive in crypto-economic security. As first introduced by EigenLayer on Ethereum, this protocol allows users to restake their staked ETH or liquid staking tokens (LST) to bootstrap new Proof-of-Stake networks and services within the Ethereum ecosystem in return for additional staking yield/rewards. Restaking unlocks a new era of permissionless innovation and free-market governance by reducing the complexity associated with developers bootstrapping these networks from scratch.<br></p>
+
+
+
+<p><a href="https://allstake.org/">Allstake</a> is the first meshed restaking protocol that brings restaking to <em>all</em> chains. By decoupling consensus and execution, Allstake enables trustless scaling, offering enhanced scalability, security, and decentralization. <br></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Omnichain Meshed Restaking</strong></h2>
+
+
+
+<p>Allstake builds a “verifiable cloud” for the broader crypto landscape, enabling users to <strong>natively</strong> restake a wide range of assets (LSTs, LRTs, LP tokens, stablecoins, etc.) on multiple chains, including <a href="https://near.org/">NEAR</a>, <a href="https://solana.com/zh">Solana</a>, <a href="https://bitcoin.org/en/">Bitcoin</a>, <a href="https://ethereum.org/">Ethereum</a>, <a href="https://ton.org/">Ton</a>, and more. Allstake comprises a modular toolkit that includes a programmable multi-asset economic module, a restaking hub for managing restaking logics, a Chain Signature module for synchronizing states and slashing on other chains, and light clients for trustless verification.<br></p>
+
+
+
+<p>The core infrastructure, Allstake Hub, is built on NEAR Protocol; it manages all the Actively Validated Services (AVS) and operators, and tracks all deposit, delegation, and withdrawal states of restakers. Chain Signature’s cross-chain messaging and query capabilities allow Allstake to securely and reliably monitor the users’ stake, delegation, and other messages across different chains, even including non-smart contract chains like Bitcoin and XRP. This integration enables Allstake to streamline operations such as issuing rewards and slashing on other chains, optimizing both the user experience and costs. <br></p>
+
+
+
+<p>Allstake empowers multichain applications by providing security from the application layer to even the physical level. AVS derive security from each chain they operate on, creating a decentralized ecosystem where users from all chains can contribute to AVS security. By attracting validators from multiple chains, Allstake increases decentralization and real-world censorship resistance. This validator diversification further improves the security guarantee of AVS.<br></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Use Cases</strong></h2>
+
+
+
+<p>Let’s take a look at a few use cases for Allstake’s meshed restaking.<br></p>
+
+
+
+<p><strong>Cross-Chain Bridge Secured by Each Chain It Connects</strong></p>
+
+
+
+<p>Allstake enhances the security model of cross-chain bridges by providing robust and diversified security. This is especially beneficial for native asset cross-chain bridges, which require multi-asset liquidity. Allstake&#8217;s meshed restaking can meet both the liquidity and security requirements of these bridges.<br></p>
+
+
+
+<p><strong>Omnichain Exchange</strong></p>
+
+
+
+<p>Off-chain order books that receive deposits from multiple chains can decentralize their infrastructure by using Allstake to channel security from the chains they serve. Allstake&#8217;s cross-chain interoperability and Chain Signature solutions will significantly enhance the security, performance, and user experience of Omnichain exchanges.<br></p>
+
+
+
+<p><strong>VM-Agnostic Shared Sequencer</strong></p>
+
+
+
+<p>Sequencing and block building is a major subject across the crypto space. Shared sequencers that serve different chains and environments can get unparalleled security from Allstake.<br></p>
+
+
+
+<p><strong>Decentralized Intent Solver Network</strong></p>
+
+
+
+<p>Allstake enables restaked intent solvers that can transform how people interact with blockchains. Allstake&#8217;s Chain Signature solution, combined with a decentralized intent solver network, will create a highly secure and user-friendly chain abstraction infrastructure. This solution drives mass adoption for web3, making it easy and safe for anyone to interact with decentralized apps.<br></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Allstake Is Live!</strong></h2>
+
+
+
+<p>Allstake’s<a href="https://app.allstake.org/"> Phase 0 is live</a> on mainnet, launching with top staking protocols on NEAR, <a href="https://linearprotocol.org/">LiNEAR Protocol</a> ($LiNEAR) and <a href="https://www.metapool.app/">MetaPool</a> ($stNEAR), as well as top staking protocols on Solana. The smart contracts have been fully <a href="https://medium.com/nearprotocol/allstake-passes-security-audit-by-blocksec-d3a5af2352b5">audited</a>, guaranteeing a secure environment for users to operate. In addition to the ~9% staking yield already earned through NEAR’s PoS staking, users can now earn Allstake Points, creating a unique dual reward opportunity. Users can also join Allstake’s <a href="https://app.galxe.com/quest/ARoJGeVLvYW9uQsJkqcwa7/GCmkmtgbWu">community campaign</a> to earn additional points (GEMs) to further boost the rewards.</p>
+
+
+
+<p>Allstake will soon add the support of other chains, including Ethereum, Bitcoin, Ton, and more, as well as other types of assets such as the governance tokens of Dapp protocols and L2s including <a href="https://aurora.dev/">Aurora</a>. This opens up new opportunities for users to access and diversify their restaking portfolio, providing them with higher yields and greater flexibility.&nbsp;</p>
+
+
+
+<p><a href="https://app.allstake.org/">Restake now</a>!<br><br>–</p>
+
+
+
+<p><strong>Legal and Financial Disclaimer (Restaking)</strong></p>
+
+
+
+<p>This blog post is for informational and educational purposes only and should not be construed as legal, financial, investment or tax advice. The author is not a lawyer, financial advisor, broker or tax professional.</p>
+
+
+
+<p>Restaking and delegating crypto assets involves significant risks, including potential loss of principal. Crypto prices are highly volatile and may be affected by many factors. Past staking rewards are not indicative of future results. Always do your own research and never stake more than you can afford to lose.</p>
+
+
+
+<p>The author does not endorse or recommend any specific blockchains, validators, services or strategies mentioned. The author makes no warranties as to the accuracy or completeness of the information provided and is not liable for any financial losses or damages resulting from your restaking.</p>
+
+
+
+<p>By reading this post and participating in restaking, you agree that you are doing so at your own risk and will not hold the author responsible for any losses incurred.</p>
+<p>The post <a href="/blog/allstake-restaking-on-all-chains-with-chain-signatures/">Allstake &#8211; Restaking on All Chains with Chain Signatures</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21454</post-id>	</item>
+		<item>
 		<title>NEAR at ETHDenver: Get Chain-Abstracted with the Black Dragon</title>
 		<link>/blog/near-at-ethdenver-get-chain-abstracted-with-the-black-dragon/</link>
 		
@@ -179,7 +312,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="592" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -187,7 +320,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="644" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -470,7 +603,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Create a Web3 Account in Seconds with Fast Auth" width="500" height="281" src="https://www.youtube.com/embed/gN5XlpXz9gE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" title="Create a Web3 Account in Seconds with Fast Auth" width="500" height="281" src="https://www.youtube.com/embed/gN5XlpXz9gE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
 

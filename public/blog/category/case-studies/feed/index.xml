@@ -15,22 +15,155 @@
 	<atom:link href="/blog/category/case-studies/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/case-studies/</link>
 	<description></description>
-	<lastBuildDate>Wed, 26 Jun 2024 13:09:58 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Jul 2024 12:41:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Case Studies Archives &#8211; NEAR Protocol</title>
 	<link>/blog/category/case-studies/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>Allstake &#8211; Restaking on All Chains with Chain Signatures</title>
+		<link>/blog/allstake-restaking-on-all-chains-with-chain-signatures/</link>
+		
+		<dc:creator><![CDATA[David Morrison]]></dc:creator>
+		<pubDate>Wed, 24 Jul 2024 12:41:04 +0000</pubDate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=21454</guid>
+
+					<description><![CDATA[<p>It’s fundamental to NEAR’s vision that users, apps, and liquidity shouldn’t be siloed within one chain or another. Chain abstraction …</p>
+<p>The post <a href="/blog/allstake-restaking-on-all-chains-with-chain-signatures/">Allstake &#8211; Restaking on All Chains with Chain Signatures</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="512" src="/wp-content/uploads/2024/07/nearallstake-blog-1-1024x512.png" alt="" class="wp-image-21456" style="width:1393px;height:auto" srcset="/wp-content/uploads/2024/07/nearallstake-blog-1-1024x512.png 1024w, /wp-content/uploads/2024/07/nearallstake-blog-1-300x150.png 300w, /wp-content/uploads/2024/07/nearallstake-blog-1-768x384.png 768w, /wp-content/uploads/2024/07/nearallstake-blog-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>It’s fundamental to NEAR’s vision that users, apps, and liquidity shouldn’t be siloed within one chain or another. Chain abstraction means not only lowering the bar to users and developers by creating a seamless experience, but leveraging the power of multiple interoperable blockchains.<br> </p>
+
+
+
+<p>Built on NEAR, <a href="https://allstake.org/">Allstake</a> is bringing this vision to restaking.<br></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Restaking in a Nutshell</strong></h2>
+
+
+
+<p>Restaking, in essence, is a new primitive in crypto-economic security. As first introduced by EigenLayer on Ethereum, this protocol allows users to restake their staked ETH or liquid staking tokens (LST) to bootstrap new Proof-of-Stake networks and services within the Ethereum ecosystem in return for additional staking yield/rewards. Restaking unlocks a new era of permissionless innovation and free-market governance by reducing the complexity associated with developers bootstrapping these networks from scratch.<br></p>
+
+
+
+<p><a href="https://allstake.org/">Allstake</a> is the first meshed restaking protocol that brings restaking to <em>all</em> chains. By decoupling consensus and execution, Allstake enables trustless scaling, offering enhanced scalability, security, and decentralization. <br></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Omnichain Meshed Restaking</strong></h2>
+
+
+
+<p>Allstake builds a “verifiable cloud” for the broader crypto landscape, enabling users to <strong>natively</strong> restake a wide range of assets (LSTs, LRTs, LP tokens, stablecoins, etc.) on multiple chains, including <a href="https://near.org/">NEAR</a>, <a href="https://solana.com/zh">Solana</a>, <a href="https://bitcoin.org/en/">Bitcoin</a>, <a href="https://ethereum.org/">Ethereum</a>, <a href="https://ton.org/">Ton</a>, and more. Allstake comprises a modular toolkit that includes a programmable multi-asset economic module, a restaking hub for managing restaking logics, a Chain Signature module for synchronizing states and slashing on other chains, and light clients for trustless verification.<br></p>
+
+
+
+<p>The core infrastructure, Allstake Hub, is built on NEAR Protocol; it manages all the Actively Validated Services (AVS) and operators, and tracks all deposit, delegation, and withdrawal states of restakers. Chain Signature’s cross-chain messaging and query capabilities allow Allstake to securely and reliably monitor the users’ stake, delegation, and other messages across different chains, even including non-smart contract chains like Bitcoin and XRP. This integration enables Allstake to streamline operations such as issuing rewards and slashing on other chains, optimizing both the user experience and costs. <br></p>
+
+
+
+<p>Allstake empowers multichain applications by providing security from the application layer to even the physical level. AVS derive security from each chain they operate on, creating a decentralized ecosystem where users from all chains can contribute to AVS security. By attracting validators from multiple chains, Allstake increases decentralization and real-world censorship resistance. This validator diversification further improves the security guarantee of AVS.<br></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Use Cases</strong></h2>
+
+
+
+<p>Let’s take a look at a few use cases for Allstake’s meshed restaking.<br></p>
+
+
+
+<p><strong>Cross-Chain Bridge Secured by Each Chain It Connects</strong></p>
+
+
+
+<p>Allstake enhances the security model of cross-chain bridges by providing robust and diversified security. This is especially beneficial for native asset cross-chain bridges, which require multi-asset liquidity. Allstake&#8217;s meshed restaking can meet both the liquidity and security requirements of these bridges.<br></p>
+
+
+
+<p><strong>Omnichain Exchange</strong></p>
+
+
+
+<p>Off-chain order books that receive deposits from multiple chains can decentralize their infrastructure by using Allstake to channel security from the chains they serve. Allstake&#8217;s cross-chain interoperability and Chain Signature solutions will significantly enhance the security, performance, and user experience of Omnichain exchanges.<br></p>
+
+
+
+<p><strong>VM-Agnostic Shared Sequencer</strong></p>
+
+
+
+<p>Sequencing and block building is a major subject across the crypto space. Shared sequencers that serve different chains and environments can get unparalleled security from Allstake.<br></p>
+
+
+
+<p><strong>Decentralized Intent Solver Network</strong></p>
+
+
+
+<p>Allstake enables restaked intent solvers that can transform how people interact with blockchains. Allstake&#8217;s Chain Signature solution, combined with a decentralized intent solver network, will create a highly secure and user-friendly chain abstraction infrastructure. This solution drives mass adoption for web3, making it easy and safe for anyone to interact with decentralized apps.<br></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Allstake Is Live!</strong></h2>
+
+
+
+<p>Allstake’s<a href="https://app.allstake.org/"> Phase 0 is live</a> on mainnet, launching with top staking protocols on NEAR, <a href="https://linearprotocol.org/">LiNEAR Protocol</a> ($LiNEAR) and <a href="https://www.metapool.app/">MetaPool</a> ($stNEAR), as well as top staking protocols on Solana. The smart contracts have been fully <a href="https://medium.com/nearprotocol/allstake-passes-security-audit-by-blocksec-d3a5af2352b5">audited</a>, guaranteeing a secure environment for users to operate. In addition to the ~9% staking yield already earned through NEAR’s PoS staking, users can now earn Allstake Points, creating a unique dual reward opportunity. Users can also join Allstake’s <a href="https://app.galxe.com/quest/ARoJGeVLvYW9uQsJkqcwa7/GCmkmtgbWu">community campaign</a> to earn additional points (GEMs) to further boost the rewards.</p>
+
+
+
+<p>Allstake will soon add the support of other chains, including Ethereum, Bitcoin, Ton, and more, as well as other types of assets such as the governance tokens of Dapp protocols and L2s including <a href="https://aurora.dev/">Aurora</a>. This opens up new opportunities for users to access and diversify their restaking portfolio, providing them with higher yields and greater flexibility.&nbsp;</p>
+
+
+
+<p><a href="https://app.allstake.org/">Restake now</a>!<br><br>–</p>
+
+
+
+<p><strong>Legal and Financial Disclaimer (Restaking)</strong></p>
+
+
+
+<p>This blog post is for informational and educational purposes only and should not be construed as legal, financial, investment or tax advice. The author is not a lawyer, financial advisor, broker or tax professional.</p>
+
+
+
+<p>Restaking and delegating crypto assets involves significant risks, including potential loss of principal. Crypto prices are highly volatile and may be affected by many factors. Past staking rewards are not indicative of future results. Always do your own research and never stake more than you can afford to lose.</p>
+
+
+
+<p>The author does not endorse or recommend any specific blockchains, validators, services or strategies mentioned. The author makes no warranties as to the accuracy or completeness of the information provided and is not liable for any financial losses or damages resulting from your restaking.</p>
+
+
+
+<p>By reading this post and participating in restaking, you agree that you are doing so at your own risk and will not hold the author responsible for any losses incurred.</p>
+<p>The post <a href="/blog/allstake-restaking-on-all-chains-with-chain-signatures/">Allstake &#8211; Restaking on All Chains with Chain Signatures</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21454</post-id>	</item>
+		<item>
 		<title>DapDap Streamlining User Experience &#038; Onboarding Across Web3</title>
 		<link>/blog/dapdap-foundersonnear/</link>
 		
@@ -333,7 +466,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-1024x576.png" alt="" class="wp-image-21400" srcset="https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-1024x576.png 1024w, https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-300x169.png 300w, https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-768x432.png 768w, https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram-1536x864.png 1536w, https://pages.near.org/wp-content/uploads/2024/06/cosmose-diagram.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/cosmose-diagram-1024x576.png" alt="" class="wp-image-21400" srcset="/wp-content/uploads/2024/06/cosmose-diagram-1024x576.png 1024w, /wp-content/uploads/2024/06/cosmose-diagram-300x169.png 300w, /wp-content/uploads/2024/06/cosmose-diagram-768x432.png 768w, /wp-content/uploads/2024/06/cosmose-diagram-1536x864.png 1536w, /wp-content/uploads/2024/06/cosmose-diagram.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -437,7 +570,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Case Study: Satori&#039;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy" width="500" height="281" src="https://www.youtube.com/embed/eAzuG-iQw2o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" title="Case Study: Satori&#039;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy" width="500" height="281" src="https://www.youtube.com/embed/eAzuG-iQw2o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 <p>The post <a href="/blog/case-study-satoris-jeff-bissinger-talks-near-tasks-for-the-gig-economy/">Case Study: Satori&#8217;s Jeff Bissinger Talks NEAR Tasks for the Gig Economy</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
@@ -744,37 +877,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18720</post-id>	</item>
-		<item>
-		<title>Inside the Tech: NFT.HipHop Marketplace</title>
-		<link>/blog/inside-the-tech-nft-hiphop/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Mon, 12 Jul 2021 15:59:46 +0000</pubDate>
-				<category><![CDATA[Case Studies]]></category>
-		<guid isPermaLink="false">/?p=12549</guid>
-
-					<description><![CDATA[<p>The NFT.HipHop marketplace auction of the Hip Hop Heads collection began on Juneteenth and will run for 37 days, until …</p>
-<p>The post <a href="/blog/inside-the-tech-nft-hiphop/">Inside the Tech: NFT.HipHop Marketplace</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><span style="font-weight: 400;">The </span><a href="https://nft.hiphop/"><span style="font-weight: 400;">NFT.HipHop</span></a><span style="font-weight: 400;"> marketplace auction of the Hip Hop Heads collection began on Juneteenth and will run for 37 days, until July 25. A celebration of the history of hip hop and its most iconic artists, the pop-up marketplace also highlights some engineering innovations that highlight the advanced NFT developer and user experience on NEAR. NFT.HipHop incorporates seamless NEAR account creation, the ability to purchase NFTs with a credit card, customizable royalty splits that follow NFTs across marketplaces, and the debut of NFTs displaying in the NEAR wallet. </span></p>
-<h3>Inside the User Experience</h3>
-<p><span style="font-weight: 400;">The NFT.HipHop auction marks a radical change in the way that NFT marketplaces can be executed. The user onboarding flow makes the process universally accessible and as familiar as any Web2 purchasing experience. With this new creative approach, end users with no existing crypto knowledge can easily purchase NFTs without the hurdles of onboarding to an exchange, purchasing cryptocurrency, or choosing and connecting a wallet. Thanks to the app’s wallet faucet and NEAR’s human-rea</span>dable account naming system, all a user has to do is choose a NEAR name and the application handles the rest.</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-12737" src="https://pages.near.org/wp-content/uploads/2021/07/inside-nfthiphop-ux.png" alt="" width="1400" height="520" srcset="https://pages.near.org/wp-content/uploads/2021/07/inside-nfthiphop-ux.png 1400w, https://pages.near.org/wp-content/uploads/2021/07/inside-nfthiphop-ux-300x111.png 300w, https://pages.near.org/wp-content/uploads/2021/07/inside-nfthiphop-ux-1024x380.png 1024w, https://pages.near.org/wp-content/uploads/2021/07/inside-nfthiphop-ux-768x285.png 768w" sizes="(max-width: 1400px) 100vw, 1400px" /></p>
-<p><span style="font-weight: 400;">Marketplace credits for placing NFT bids can be purchased with a credit card. There is no complex, multi-step process of purchasing crypto through an exchan</span>ge and paying high transaction fees as would be required with other NFT marketplaces today. Using crypto can be a confusing process for a novice, but by employing this progressive onboarding flow, the barrier to entry for crypto has been all but eliminated. The goal is to make NFTs accessible to all kinds of hip hop fans, not just crypto-native fans.</p>
-<h3>Inside the App</h3>
-<p><span style="font-weight: 400;">At its core, the NFT.HipHop marketplace is a standard React application with state management. dApp developers retrieve on-chain state using the NEAR API Helper, which interacts with the NEAR blockchain via CloudFlare. This tool allows caching heavy queries when the user lands on the page, as there are 103 portraits in the Hip Hop Heads collection and 37 available editions of each Head. As the user explores the marketplace, they’re only viewing one basic type of NFT. The canonical tokens, or “gem tokens,” are stored, and individual edition bids and sales are visible to the user within each gem. When clicking on an individual token, one sees which editions are for sale and the bidding history is pulled from the marketplace contract.</span></p>
-<p><span style="font-weight: 400;">When the user is ready to bid on an NFT, a React component handles the flow of creating a NEAR account; if you already have a NEAR Wallet, you go straight to buying credits. Then the user gets a prompt to add “credits” to their account using </span><a href="https://stripe.com/"><span style="font-weight: 400;">Stripe</span></a><span style="font-weight: 400;">. This happens through a custom-built </span><a href="https://github.com/mehtaphysical/stripe-pay-sandbox"><span style="font-weight: 400;">stripe-payment-sandbox</span></a><span style="font-weight: 400;">, which converts fiat into credits that are actually native fungible tokens usable only on the NFT.HipHop app. </span></p>
-<p><span style="font-weight: 400;">This Stripe payment fiat onramp is accomplished by wrapping the fungible token standard with a </span><a href="https://github.com/mehtaphysical/stripe-pay-sandbox/blob/main/contract/src/lib.rs#L197-L221"><span style="font-weight: 400;">custom API</span></a><span style="font-weight: 400;"> to ensure that only transfers to the marketplace or started by the marketplace are possible, in addition to tracking Stripe charges used to mint the tokens. The latter makes it possible to automate refunds when the auction concludes. The standard contract methods are wrapped so that an “assertion” can be added, verifying that transfer requests involve the marketplace. If the assertion fails, the smart contract will “panic,” displaying an alert indicating that “only transfers from the marketplace are allowed.”</span></p>
-<h3>Inside NFT Royalties on NEAR</h3>
-<p><span style="font-weight: 400;">Nearly all of the backend accounting is done transparently on the blockchain and is visible on </span><a href="https://explorer.nearpages.wpengine.com/"><span style="font-weight: 400;">NEAR Explorer</span></a><span style="font-weight: 400;">, allowing for transparency paired with a real ability to illustrate the flow of funds. Using the </span><a href="https://nomicon.io/Standards/NonFungibleToken/Payout.html"><span style="font-weight: 400;">Standard for a Multiple-Recipient-Payout mechanic on NFT Contracts</span></a><span style="font-weight: 400;">, royalties on NEAR follow the NFTs in perpetuity. This allows for royalty enforcement across different marketplaces and applies to secondary sales. A user could have an NFT in their NEAR wallet and go to a different marketplace on NEAR, such as </span><a href="https://paras.id/"><span style="font-weight: 400;">Paras</span></a><span style="font-weight: 400;"> or </span><a href="https://www.mintbase.io/"><span style="font-weight: 400;">Mintbase</span></a><span style="font-weight: 400;">, for a potential resale. With the royalties embedded in the actual NFT token, they must be respected in order to complete the transfer of that NFT. Completely customizable, royalties can be split between multiple contributors, beneficiaries, and even DAOs. This standard is the first of its kind and a key differentiator for NFT developers, artists, and users alike.</span></p>
-<p><span style="font-weight: 400;">When the 36-day marketplace draws to a close, every auction winner will see their NFT displayed in their NEAR wallet––in fact, all NEAR NFTs from any marketplace are displayed in a collectibles tab in the wallet. Like art hanging on a gallery wall or in your home, the user’s collection is accessible within a few clicks, and not just within an individual marketplace. </span></p>
-<h3>Inspired? Start Building!</h3>
-<p><span style="font-weight: 400;">Supporting documentation and open source repositories for building NFT marketplaces on NEAR are available to all. Any developer can utilize the concepts in this marketplace and model their dApps on this construct or remix different elements as part of a new idea. Head over to </span><a href="http://nft.hiphop/"><span style="font-weight: 400;">NFT.HipHop</span></a><span style="font-weight: 400;"> to see how NEAR’s seamless and easy tech can empower builders to create accessible, delightful user experiences.</span></p>
-<p>The post <a href="/blog/inside-the-tech-nft-hiphop/">Inside the Tech: NFT.HipHop Marketplace</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">12549</post-id>	</item>
 	</channel>
 </rss>
