@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Near One Archives &#8211; NEAR Protocol</title>
+	<atom:link href="/blog/tag/near-one/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/near-one/</link>
+	<description></description>
+	<lastBuildDate>Wed, 04 Sep 2024 01:21:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<title>Near One Archives &#8211; NEAR Protocol</title>
+	<link>/blog/tag/near-one/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>Near One Shares Q3 NEAR Protocol Roadmap Update</title>
+		<link>/blog/near-one-shares-q3-near-protocol-roadmap-update/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 04 Sep 2024 01:21:54 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Near One]]></category>
+		<category><![CDATA[NEAR Protocol]]></category>
+		<category><![CDATA[Nightshade 2.0]]></category>
+		<category><![CDATA[Protocol Roadmap]]></category>
+		<category><![CDATA[Sharding]]></category>
+		<guid isPermaLink="false">/?p=21512</guid>
+
+					<description><![CDATA[<p>A post from the Near One team The launch of stateless validation in August 2024 marks an important milestone for …</p>
+<p>The post <a href="/blog/near-one-shares-q3-near-protocol-roadmap-update/">Near One Shares Q3 NEAR Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em>A post from the Near One team</em></p>
+
+
+
+<p>The launch of stateless validation in August 2024 marks an important milestone for NEAR Protocol, but it is by no means the end state of the protocol. There is still a lot of ambitious work to be done. </p>
+
+
+
+<p>In less than four years since launching mainnet, the NEAR network has over 110 million users – a great achievement for the ecosystem. But the goal for NEAR is to onboard a billion people to the User-Owned Internet. Achieving such widespread usage will require an even more scalable, performant, secure, and fast protocol. The Near One team is already working to make improvements to Nightshade 2.0 and has started planning the next round of advancements. In this post, we describe what the protocol roadmap looks like for the rest of 2024 and into next year.</p>
+
+
+
+<p>First of all, while the stateless validation launch is a major change to the protocol, it does not immediately improve the performance of mainnet. This is because we intentionally keep the upgrade as simple as possible to avoid adding more complexity into the already humongous upgrade. To fully reap the benefits of the new design, there are a number of improvements on top of the release that we will work on for the rest of 2024 following the August launch:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Optimization of state witness size.</strong> In the current implementation, state witness size could be quite large, primarily due to the size of contract code included in a state witness. Optimization of state witness size will reduce the likelihood of a chunk hitting the size limit, thereby improving transaction throughput.</li>
+
+
+
+<li><strong>Reduce gas cost for storage operations.</strong> One of the key benefits of stateless validation is that state accesses (reads and writes) are now fully in memory. It means that the gas cost of state accesses could be significantly reduced, which allows for higher transaction throughput.</li>
+
+
+
+<li><strong>Resharding.</strong> The launch of stateless validation means that no validator node needs to track all shards, which enables scaling to potentially many more shards. However, due to the architectural change, the old method of resharding no longer works and a new method needs to be developed and tested. The new method of resharding will be quite fast and will lay the groundwork for dynamic resharding (see more about this development below).</li>
+
+
+
+<li><strong>Node synchronization.</strong> While not strictly related to stateless validation, the synchronization time for a mainnet node has been a pain point for many node operators. Work will be done in this area both to improve the speed of synchronization and ensure that the synchronization process does not depend on centralized services.</li>
+</ul>
+
+
+
+<p>In addition to the immediate priorities listed above, there are some long-term improvements that we intend to work on starting in early 2025:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Transaction priority fee.</strong> In the stateless validation launch, we introduced congestion control that provides better latency for accepted transactions under congestion conditions. However, users may want to pay more to get to the front of the queue for certain use cases such as trading or arbitrage. Establishing a transaction priority fee mechanism will make NEAR easier to use when there is short-term congestion.</li>
+
+
+
+<li><strong>Dynamic resharding.</strong> The holy grail of sharding: the network dynamically adjusts the number of shards based on the load. When a shard is overloaded, it splits itself into two shards. Similarly, when two shards are both underutilized, they get merged back into one shard for the sake of efficiency.</li>
+
+
+
+<li><strong>Runtime performance improvements.</strong> There are a number of ideas that we’d like to experiment with to improve runtime performance of NEAR, which includes pipelining contract execution, parallel execution of transactions and receipts, and using an optimizing compiler for wasm.</li>
+
+
+
+<li><strong>Leaderless consensus.</strong> The current consensus mechanism degrades in performance when some nodes are offline, which could happen during a protocol upgrade. A leaderless consensus is much less sensitive to a small number of nodes being offline and can also provide higher throughput.</li>
+
+
+
+<li><strong>Sharded smart contracts.</strong> Today each smart contract resides on a specific shard. While the more shards there are on mainnet, the better the overall throughput will be, a smart contract per se cannot take full advantage of NEAR’s sharding. Allowing a smart contract to be sharded (exist on all shards simultaneously) could unlock use cases that are not possible today and make it possible to build dapps with hundreds of millions of users on NEAR.</li>
+</ul>
+
+
+
+<p>These initiatives will significantly improve the performance and scalability of NEAR and make it possible to support hundreds of millions, even a billion daily transactions. The new level of scalability lays a solid foundation for the different verticals of initiatives in the NEAR ecosystem, such as Chain Abstraction, Modularity, and User-Owned AI. Stay tuned for more on performance and efficiency improvements in the coming months and a more detailed future roadmap update towards the end of the year.<br></p>
+<p>The post <a href="/blog/near-one-shares-q3-near-protocol-roadmap-update/">Near One Shares Q3 NEAR Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21512</post-id>	</item>
+	</channel>
+</rss>

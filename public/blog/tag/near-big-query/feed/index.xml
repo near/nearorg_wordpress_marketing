@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -94,7 +94,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>NEAR instant insights:</strong> Historic on-chain data queried at scale.</li>
 
 
@@ -116,7 +116,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Users:</strong> Create queries to track NEAR Protocol assets, monitor transactions, or analyze on-chain events at a massive scale.</li>
 
 
@@ -138,7 +138,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>NEAR Foundation/Pagoda: </strong><a href="mailto:eduardo@near.org">Eduardo Ohe</a>, <a href="mailto:pavel@near.org">Pavel Kudinov</a>, <a href="mailto:jo.yang@near.org">Jo Yang</a>, Abhishek Anirudhan, Yad Konrad, <a href="mailto:olga@near.org">Olga Telezhnaya</a>, <a href="mailto:bohdan@near.org">Bohdan Khorolets</a>,<a href="mailto:morgan@near.org">Morgan McCauley</a>, <a href="mailto:ernesto@near.org">Ernesto Cejas Padilla</a>, <a href="mailto:robert.tsai@near.org">Rob Tsai</a>, <a href="mailto:damian@near.org">Damián Parrino</a>.&nbsp;</li>
 
 

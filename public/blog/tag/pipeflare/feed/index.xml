@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -90,19 +90,19 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Scalability.</strong> One of the biggest challenges facing Web3 gaming is scalability. Traditional blockchains are not designed to handle the high volume of transactions required for gaming. NEAR is a high-performance blockchain that can handle a large number of transactions per second, making it ideal for Web3 gaming.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Security. </strong>Another important factor for Web3 gaming is security. Players need to be confident that their data and assets are safe when playing games on the blockchain. The BOS uses a variety of security measures to protect gamer data and ensure the protection and provenance of all digital assets.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>User-Friendliness.</strong> Web3 gaming needs to be user-friendly to succeed and grow in the long term. Users need to be able to easily create and manage their accounts, buy and sell NFTs, and play games. With the BOS being one of the most developer-friendly ecosystems to build on, PipeFlare is set to make big strides in Web3 gamer onboarding.</li>
 </ul>
 

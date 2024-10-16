@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -73,7 +73,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Create a Captivating Description</strong></li>
 </ol>
 
@@ -83,7 +83,7 @@
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Tag Your App</strong></li>
 </ol>
 
@@ -97,7 +97,7 @@
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Spread the Word</strong></li>
 </ol>
 
@@ -123,7 +123,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Top 8 Featured dApps</strong></li>
 </ul>
 
@@ -133,7 +133,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Category Leaders&nbsp;</strong></li>
 </ul>
 
@@ -147,7 +147,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Upvote Button Enabled 2 days Before NEARCON</strong></li>
 </ul>
 
@@ -157,7 +157,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>NEARCON attendees will be incentivized to engage with App Upvoting by earning NCON</strong></li>
 </ul>
 
@@ -171,7 +171,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>October 27th</strong> — Submit your App for Qualification. <a href="https://near.org/near/widget/AppLibrary.Nearcon.IndexPage">App Upvoting Bounty Event Page</a> made available on near.org. Qualified Apps will be Fetched (Qualified Apps will be fetched continuously on one-hour intervals throughout the NEARCON event through November 13th).</li>
 
 

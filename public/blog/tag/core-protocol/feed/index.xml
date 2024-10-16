@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -61,7 +61,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Total Transactions: 1.16B&nbsp;</li>
 
 
@@ -253,7 +253,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Stateless validation</strong>. Stateless validation is a major initiative that we have been working on for a few months. It adjusts the original Nightshade sharding design to avoid implementing fraud proofs while improving the performance of each shard significantly by putting state in memory. The stateless validation work is expected to be delivered in Q2 2024, which would also mark the completion of the original goal we set for Phase 2 of sharding. We expect the launch of stateless validation to also dramatically increase the throughput of each shard and prepare NEAR for the continued growth of usage.</li>
 
 
@@ -348,7 +348,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>NEAR has the best technology in Web3</strong>. Provably scalable, easy to onboard and use, developer friendly, secure, and decentralized, with the most advanced account model and onboarding in the blockchain space.&nbsp;</li>
 
 
@@ -707,7 +707,7 @@
 
 
 
-<ul><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/predeployed-contract">Pre-deployed contract</a>: Get introduced to minting an NFT without the need to code, create, or deploy a smart contract.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/skeleton">Contract architecture</a>: Learn the basic architecture of the NFT smart contract and you&#8217;ll compile this skeleton code with the Rust toolchain.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/minting">Minting</a>: Flesh out the skeleton so the smart contract can mint a non-fungible token.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/upgrade-contract">Upgrade a contract</a>: Discover the process to upgrade an existing smart contract.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/enumeration">Enumeration</a>: Explore different enumeration methods that can be used to return the smart contract&#8217;s states.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/core">Core</a>: Extend the NFT contract using the core standard, which will allow you to transfer non-fungible tokens.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/approvals">Approvals</a>: Expand the contract allowing other accounts to transfer NFTs on your behalf.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/royalty">Royalty</a>: Add the ability for non-fungible tokens to have royalties. This will allow people to get a percentage of the purchase price when an NFT is purchased.</li></ul>
+<ul class="wp-block-list"><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/predeployed-contract">Pre-deployed contract</a>: Get introduced to minting an NFT without the need to code, create, or deploy a smart contract.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/skeleton">Contract architecture</a>: Learn the basic architecture of the NFT smart contract and you&#8217;ll compile this skeleton code with the Rust toolchain.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/minting">Minting</a>: Flesh out the skeleton so the smart contract can mint a non-fungible token.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/upgrade-contract">Upgrade a contract</a>: Discover the process to upgrade an existing smart contract.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/enumeration">Enumeration</a>: Explore different enumeration methods that can be used to return the smart contract&#8217;s states.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/core">Core</a>: Extend the NFT contract using the core standard, which will allow you to transfer non-fungible tokens.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/approvals">Approvals</a>: Expand the contract allowing other accounts to transfer NFTs on your behalf.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/royalty">Royalty</a>: Add the ability for non-fungible tokens to have royalties. This will allow people to get a percentage of the purchase price when an NFT is purchased.</li></ul>
 
 
 
@@ -903,7 +903,7 @@
 
 
 
-<ol><li>Name</li><li>Description&nbsp;</li><li>URL</li><li>Country and country code</li><li>Email (for support)</li><li>Telegram, Discord, or Twitter</li></ol>
+<ol class="wp-block-list"><li>Name</li><li>Description&nbsp;</li><li>URL</li><li>Country and country code</li><li>Email (for support)</li><li>Telegram, Discord, or Twitter</li></ol>
 
 
 
@@ -927,7 +927,7 @@
 
 
 
-<ul><li>How have you contributed to the NEAR Ecosystem in the past?&nbsp;</li><li>How will you contribute to the NEAR Ecosystem in the future?</li><li>Have you helped to onboard any NEAR validator? Please specify the pool name of the validator you helped, and what did you do to help?&nbsp;</li><li>What is your long term marketing plan to attract delegation?</li></ul>
+<ul class="wp-block-list"><li>How have you contributed to the NEAR Ecosystem in the past?&nbsp;</li><li>How will you contribute to the NEAR Ecosystem in the future?</li><li>Have you helped to onboard any NEAR validator? Please specify the pool name of the validator you helped, and what did you do to help?&nbsp;</li><li>What is your long term marketing plan to attract delegation?</li></ul>
 
 
 

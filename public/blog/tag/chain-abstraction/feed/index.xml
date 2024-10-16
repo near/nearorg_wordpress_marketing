@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -63,7 +63,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://sweateconomy.com/">Sweat Wallet</a>: 2.5 million active Sweat Wallet users (on NEAR) can bridge assets to and from any chain, starting with BNB and Base, while paying for gas in $SWEAT.</li>
 
 
@@ -109,7 +109,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Chain Signatures: <a href="/blog/getting-started-with-chain-signatures/">Getting Started Guide</a></li>
 
 
@@ -166,9 +166,9 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Deriving Foreign Addresses:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Chain Signatures uses derivation paths to represent accounts on foreign blockchains.</li>
 
 
@@ -180,7 +180,7 @@
 
 
 <li><strong>Creating the Transaction:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>The client constructs the hash of the transaction to be signed, which varies by the target blockchain.</li>
 </ul>
 </li>
@@ -188,7 +188,7 @@
 
 
 <li><strong>Requesting the Signature:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>A NEAR account or smart contract calls the sign method of the MPC smart contract (<a href="https://nearblocks.io/address/v1.signer">v1.signer</a>) to sign a payload.</li>
 </ul>
 </li>
@@ -196,7 +196,7 @@
 
 
 <li><strong>Relaying the Signature:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>The client reconstructs the valid transaction using the signature and broadcasts it to the destination blockchain.</li>
 </ul>
 </li>
@@ -212,9 +212,9 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>DeFi on Bitcoin (and other chain without smart contracts)</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Chain signatures allow NEAR smart contract to program assets on Bitcoin.</li>
 
 
@@ -226,7 +226,7 @@
 
 
 <li><strong>Chain agnostic applications</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Since chain signatures can sign transactions for all blockchains, developers can support every single chain with just one smart contract.</li>
 
 
@@ -238,7 +238,7 @@
 
 
 <li><strong>Multichain account abstraction </strong>
-<ul>
+<ul class="wp-block-list">
 <li>Users can control assets on all chains with just their NEAR account, and can utilize account abstraction features on any chain including passkeys, key rotation, etc.</li>
 
 
@@ -250,7 +250,7 @@
 
 
 <li><strong>Privacy</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Chain signatures can be used to encrypt and decrypt information in a programmatic way.</li>
 
 
@@ -266,9 +266,9 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Familiarize Yourself with Chain Signatures:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Understand the <a href="https://docs.near.org/concepts/abstraction/chain-signatures">basics of Chain Signatures</a> and how they simplify blockchain interactions.</li>
 
 
@@ -280,7 +280,7 @@
 
 
 <li><strong>Explore the Use Cases:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Review <a href="/blog/unlocking-multichain-web3-with-near-chain-signatures/">examples of use cases for Chain Signatures</a>, such as Multichain DAO, Multichain NFT Minter, and Bitcoin Runes Airdrop.</li>
 </ul>
 </li>
@@ -288,7 +288,7 @@
 
 
 <li><strong>Access Resources and Documentation:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Visit the <a href="https://docs.near.org/build/chain-abstraction/chain-signatures">Chain Signatures documentation</a> for detailed technical information and code snippets.</li>
 
 
@@ -300,7 +300,7 @@
 
 
 <li><strong>Try the Demos:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Use the <a href="https://github.com/near-examples/chainsig-script">command-line-based demo</a> to derive accounts and send transactions on Bitcoin, Ethereum, Doge, and Ripple.</li>
 
 
@@ -312,7 +312,7 @@
 
 
 <li><strong>Engage with the Community:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Join the <a href="https://t.me/chain_abstraction">Chain Abstraction developers’ channel on Telegram</a> to connect with other developers and get support.</li>
 </ul>
 </li>
@@ -324,9 +324,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Technical Blogs and Deep Dives:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Read <a href="/blog/unlocking-multichain-web3-with-near-chain-signatures">high-level use cases</a> and technical <a href="https://near.org/blog/unlocking-web3-usability-with-account-aggregation">explainer</a> posts on the NEAR blog.</li>
 </ul>
 </li>
@@ -334,7 +334,7 @@
 
 
 <li><strong>Community and Support:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Engage with the NEAR community on <a href="http://x.com/nearprotocol">X</a> and participate in <a href="https://t.me/chain_abstraction">discussions</a> to stay updated on the latest developments.</li>
 </ul>
 </li>
@@ -483,7 +483,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>The Blob Store Contract: A contract that stores arbitrary data.</li>
 
 
@@ -649,7 +649,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Scalable, integrated blockchain that can grow to 1B+ daily active accounts.</li>
 
 
@@ -820,7 +820,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Economic and technological opportunity to enable users to onboard en masse.</li>
 
 

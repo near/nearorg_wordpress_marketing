@@ -15,13 +15,13 @@
 	<atom:link href="/blog/category/case-studies/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/case-studies/</link>
 	<description></description>
-	<lastBuildDate>Wed, 24 Jul 2024 12:41:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Aug 2024 09:04:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -48,7 +48,7 @@
 
 
 
-<p>It’s fundamental to NEAR’s vision that users, apps, and liquidity shouldn’t be siloed within one chain or another. Chain abstraction means not only lowering the bar to users and developers by creating a seamless experience, but leveraging the power of multiple interoperable blockchains.<br> </p>
+<p>It’s fundamental to NEAR’s vision that users, apps, and liquidity shouldn’t be siloed within one chain or another. Chain abstraction means not only lowering the bar to users and developers by creating a seamless experience, but leveraging the power of multiple interoperable blockchains.<br>&nbsp;</p>
 
 
 
@@ -64,7 +64,7 @@
 
 
 
-<p><a href="https://allstake.org/">Allstake</a> is the first meshed restaking protocol that brings restaking to <em>all</em> chains. By decoupling consensus and execution, Allstake enables trustless scaling, offering enhanced scalability, security, and decentralization. <br></p>
+<p><a href="https://allstake.org/">Allstake</a> is the first meshed restaking protocol that brings restaking to <em>all</em> chains. By decoupling consensus and execution, Allstake enables trustless scaling, offering enhanced scalability, security, and decentralization.&nbsp;<br></p>
 
 
 
@@ -76,7 +76,7 @@
 
 
 
-<p>The core infrastructure, Allstake Hub, is built on NEAR Protocol; it manages all the Actively Validated Services (AVS) and operators, and tracks all deposit, delegation, and withdrawal states of restakers. Chain Signature’s cross-chain messaging and query capabilities allow Allstake to securely and reliably monitor the users’ stake, delegation, and other messages across different chains, even including non-smart contract chains like Bitcoin and XRP. This integration enables Allstake to streamline operations such as issuing rewards and slashing on other chains, optimizing both the user experience and costs. <br></p>
+<p>The core infrastructure, Allstake Hub, is built on NEAR Protocol; it manages all the Actively Validated Services (AVS) and operators, and tracks all deposit, delegation, and withdrawal states of restakers. Chain Signature’s cross-chain interoperability capabilities allow Allstake to securely and reliably monitor the users’ stake, delegation, and other messages across different chains, even including non-smart contract chains like Bitcoin and XRP. This integration enables Allstake to streamline operations such as issuing rewards and slashing on other chains, optimizing both the user experience and costs. <br></p>
 
 
 
@@ -220,7 +220,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>ODYSSEY</strong></li>
 </ol>
 
@@ -254,7 +254,7 @@
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>THE SUPER BRIDGE</strong></li>
 </ol>
 

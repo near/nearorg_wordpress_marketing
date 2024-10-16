@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -356,7 +356,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>lllia Polosukhin, Near Protocol, Co-founder</li>
 
 
@@ -406,7 +406,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Joyce Yang, Founder, Global Coin Research</li>
 
 
@@ -623,7 +623,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>The ability to extend relayers and FastAuth to additional gateways beyond near.org</li>
 
 
@@ -741,7 +741,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Inclusion – driving ideas that are good for society, sustainable, and socially impactful.</li>
 
 
@@ -767,7 +767,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>June 1, 2023 — Nominations Deadline</li>
 
 
@@ -813,7 +813,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Founders: <a href="http://near.org/horizon">Join NEAR Horizon here&nbsp;</a></li>
 
 

@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -139,7 +139,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Scalable, integrated blockchain that can grow to 1B+ daily active accounts.</li>
 
 
@@ -310,7 +310,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Economic and technological opportunity to enable users to onboard en masse.</li>
 
 
@@ -435,7 +435,7 @@
 
 
 
-<ol><li>Marketing &amp; Events</li><li>Community</li><li>BD/Funding</li><li>Education</li><li>Legal</li></ol>
+<ol class="wp-block-list"><li>Marketing &amp; Events</li><li>Community</li><li>BD/Funding</li><li>Education</li><li>Legal</li></ol>
 
 
 

@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -137,7 +137,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>11am &#8211; 12pm: Breakfast bites &amp; Networking &#8211; Cafe au laits and pastries</li>
 
 
@@ -179,7 +179,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>11am &#8211; 12pm: Networking and Co-working: Cafe au laits and pastries</li>
 
 
@@ -213,7 +213,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Illia Polosukhin, CEO of Pagoda, Co-Founder of NEAR</li>
 
 

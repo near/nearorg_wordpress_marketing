@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -45,7 +45,7 @@
 <p>The post <a href="/blog/near-fastauth-competition-terms-and-conditions/">NEAR FastAuth Competition Terms and Conditions</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<ol>
+<ol class="wp-block-list">
 <li>Introduction:</li>
 </ol>
 
@@ -55,7 +55,7 @@
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li>Eligibility:</li>
 </ol>
 
@@ -65,7 +65,7 @@
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li>Participation in the Competition:</li>
 </ol>
 
@@ -75,7 +75,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Participants must submit a video of their screen while opening a NEAR wallet using FastAuth. The video should be in the form of a screen recording. All videos must be legible and any sensitive information can be blacked out.&nbsp;</li>
 
 
@@ -113,7 +113,7 @@
 
 
 
-<ol start="7">
+<ol class="wp-block-list" start="7">
 <li>Limitation of Liability:</li>
 </ol>
 
@@ -123,7 +123,7 @@
 
 
 
-<ol start="8">
+<ol class="wp-block-list" start="8">
 <li>Intellectual Property:</li>
 </ol>
 
@@ -133,7 +133,7 @@
 
 
 
-<ol start="9">
+<ol class="wp-block-list" start="9">
 <li>Modification of Terms:</li>
 </ol>
 
@@ -143,7 +143,7 @@
 
 
 
-<ol start="10">
+<ol class="wp-block-list" start="10">
 <li>Governing Law:</li>
 </ol>
 
@@ -153,7 +153,7 @@
 
 
 
-<ol start="11">
+<ol class="wp-block-list" start="11">
 <li>Dispute Resolution:</li>
 </ol>
 
@@ -163,7 +163,7 @@
 
 
 
-<ol start="12">
+<ol class="wp-block-list" start="12">
 <li>Entire Agreement:</li>
 </ol>
 
@@ -173,7 +173,7 @@
 
 
 
-<ol start="13">
+<ol class="wp-block-list" start="13">
 <li>Contact Information:</li>
 </ol>
 

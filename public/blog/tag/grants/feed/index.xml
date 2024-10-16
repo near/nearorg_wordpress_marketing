@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -54,7 +54,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Effective immediately, <strong>NEAR Foundation will cease allocating capital directly from our inbound start-up grants program</strong>, with the exception of our current events grants, which will be handed over to the MarketingDAO when they are set up to manage them.  Request events funding by following the steps <a href="https://docs.google.com/document/d/1-0kw-kV1iDa-3h6bMA9MEdmdJal8w5yiLH56K9hfKBE/edit?usp=sharing">outlined here</a>.</li>
 
 
@@ -107,7 +107,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>The payout for each project referred will be awarded a total of 10% of the project awarded grant amount. This amount is awarded in nUSDC (wrapped USDC on NEAR) and is calculated at the end of each quarter.</li>
 
 
@@ -133,7 +133,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Scene&nbsp;</li>
 
 
@@ -655,11 +655,11 @@
 
 
 
-<ul><li><strong>12</strong> closed projects in Q3 ‘22 &#8211; (<em>$92.2M)</em></li><li><strong>4</strong> finalizing rounds</li><li><strong>18</strong> new fundraising processes kicked off&nbsp;</li><li><strong>38</strong> VC intros made</li><li>Closed Rounds (September data)<ul><li><strong>Sender Wallet </strong>&#8211; <a href="https://docs.google.com/document/d/12lEcgwbcmMNhyrWh0aUmkmmH2CWOAlQB9KX6L30YPok/edit">Raised a $4.5M private round</a> led by Pantera Capital with participation from Crypto.com, Jump, Amber Group, Woo Network, SevenX Ventures, Shima Capital, and others.</li><li><strong>Hillridge</strong> &#8211; <a href="https://www.insurancebusinessmag.com/au/news/environmental/climatefocused-insurtech-hillridge-raises-2-million-seed-round-funding-419840.aspx">Raised a $2.3M seed round</a> to address climate protection in the agriculture industry with their Insurtech solution building on NEAR.</li></ul></li></ul>
+<ul class="wp-block-list"><li><strong>12</strong> closed projects in Q3 ‘22 &#8211; (<em>$92.2M)</em></li><li><strong>4</strong> finalizing rounds</li><li><strong>18</strong> new fundraising processes kicked off&nbsp;</li><li><strong>38</strong> VC intros made</li><li>Closed Rounds (September data)<ul><li><strong>Sender Wallet </strong>&#8211; <a href="https://docs.google.com/document/d/12lEcgwbcmMNhyrWh0aUmkmmH2CWOAlQB9KX6L30YPok/edit">Raised a $4.5M private round</a> led by Pantera Capital with participation from Crypto.com, Jump, Amber Group, Woo Network, SevenX Ventures, Shima Capital, and others.</li><li><strong>Hillridge</strong> &#8211; <a href="https://www.insurancebusinessmag.com/au/news/environmental/climatefocused-insurtech-hillridge-raises-2-million-seed-round-funding-419840.aspx">Raised a $2.3M seed round</a> to address climate protection in the agriculture industry with their Insurtech solution building on NEAR.</li></ul></li></ul>
 
 
 
-<ul><li>Closed Rounds (Q3 data)<ul><li><strong>Portalverse Network</strong> &#8211; <a href="https://medium.com/@PORTALVERSE_NETWORK/decentralized-cloud-gaming-platform-portalverse-network-closes-multi-million-dollar-seed-funding-776b050399cb">raised a multi-million $ seed round</a> with participation from Big Brain Holdings, 2Moon Capital, and Cogitent Ventures to bring the first decentralized cloud gaming and rendering network to the NEAR ecosystem.</li><li><strong>Scorefam</strong> &#8211; secured a <a href="https://blog.scorefam.org/scorefam-secures-25-million-capital-commitment-from-gem-digital-limited-%EF%BF%BC/">capital commitment of up to $25M</a> from GEM Digital to expand their gaming NFT suite of products.</li><li><strong>Token Terminal</strong> &#8211; raised $6.5M to expand their crypto asset data coverage, which will soon include NEAR Protocol and NEAR ecosystem projects.</li><li><strong>Mystiko.Network</strong> &#8211; raised a $10M round this past month. Mystiko received a grant from NEAR Foundation to support NEAR through their transaction privacy layer.</li><li><strong>Sweat Economy</strong> &#8211; <a href="https://medium.com/sweat-economy/london-uk-july-26-2022-the-sweat-economy-team-behind-the-most-downloaded-health-and-fitness-71a57800a785">raised $13M in funding</a> including a private token sale, to accelerate their move into Web3.</li><li><strong>Niche</strong> &#8211; <a href="https://www.businesswire.com/news/home/20220802005289/en/Niche-Announces-First-Ad-Free-Social-Media-Platform-Geared-for-Web3-from-Former-Tinder-Bumble-Facebook-Leaders">closed a $1.8M pre-seed</a> to bring decentralized social media to NEAR.</li><li><strong>Aurigami</strong> &#8211; <a href="https://www.theblock.co/post/160099/aurora-defi-protocol-aurigami-raises-funding-token?utm_source=twitter&amp;utm_medium=social">raised $12M in token rounds</a> earlier this year to continue to grow DeFi on Aurora.</li><li><strong>Play Ember</strong> &#8211; just closed a $1.4M token seed round to bring mobile gaming to NEAR. The team is currently exploring an equity round at this moment as well.&nbsp;</li></ul></li></ul>
+<ul class="wp-block-list"><li>Closed Rounds (Q3 data)<ul><li><strong>Portalverse Network</strong> &#8211; <a href="https://medium.com/@PORTALVERSE_NETWORK/decentralized-cloud-gaming-platform-portalverse-network-closes-multi-million-dollar-seed-funding-776b050399cb">raised a multi-million $ seed round</a> with participation from Big Brain Holdings, 2Moon Capital, and Cogitent Ventures to bring the first decentralized cloud gaming and rendering network to the NEAR ecosystem.</li><li><strong>Scorefam</strong> &#8211; secured a <a href="https://blog.scorefam.org/scorefam-secures-25-million-capital-commitment-from-gem-digital-limited-%EF%BF%BC/">capital commitment of up to $25M</a> from GEM Digital to expand their gaming NFT suite of products.</li><li><strong>Token Terminal</strong> &#8211; raised $6.5M to expand their crypto asset data coverage, which will soon include NEAR Protocol and NEAR ecosystem projects.</li><li><strong>Mystiko.Network</strong> &#8211; raised a $10M round this past month. Mystiko received a grant from NEAR Foundation to support NEAR through their transaction privacy layer.</li><li><strong>Sweat Economy</strong> &#8211; <a href="https://medium.com/sweat-economy/london-uk-july-26-2022-the-sweat-economy-team-behind-the-most-downloaded-health-and-fitness-71a57800a785">raised $13M in funding</a> including a private token sale, to accelerate their move into Web3.</li><li><strong>Niche</strong> &#8211; <a href="https://www.businesswire.com/news/home/20220802005289/en/Niche-Announces-First-Ad-Free-Social-Media-Platform-Geared-for-Web3-from-Former-Tinder-Bumble-Facebook-Leaders">closed a $1.8M pre-seed</a> to bring decentralized social media to NEAR.</li><li><strong>Aurigami</strong> &#8211; <a href="https://www.theblock.co/post/160099/aurora-defi-protocol-aurigami-raises-funding-token?utm_source=twitter&amp;utm_medium=social">raised $12M in token rounds</a> earlier this year to continue to grow DeFi on Aurora.</li><li><strong>Play Ember</strong> &#8211; just closed a $1.4M token seed round to bring mobile gaming to NEAR. The team is currently exploring an equity round at this moment as well.&nbsp;</li></ul></li></ul>
 
 
 
@@ -703,7 +703,7 @@
 
 
 
-<ul><li>explore the NEAR Funding&nbsp; <a href="https://linktr.ee/nearfunding">linktree</a></li><li>visit NF’s website : <a href="/">/</a></li><li>contact NF Grants : <a href="grant@near.foundation">grants@near.foundation&nbsp;</a></li></ul>
+<ul class="wp-block-list"><li>explore the NEAR Funding&nbsp; <a href="https://linktr.ee/nearfunding">linktree</a></li><li>visit NF’s website : <a href="/">/</a></li><li>contact NF Grants : <a href="grant@near.foundation">grants@near.foundation&nbsp;</a></li></ul>
 <p>The post <a href="/blog/near-foundation-funding-team-report-september-2022/">NEAR Foundation Funding Team Report: September 2022</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
@@ -776,7 +776,7 @@
 
 
 
-<ul><li>NEAR Native:&nbsp;<ul><li><a href="https://gonear.io/">GoNear</a></li><li><a href="https://skyward.finance/">Skyward Finance</a></li><li><a href="https://bocachica.io/">BocaChica</a></li></ul></li><li>Aurora:&nbsp;<ul><li><a href="https://pad.fi/">NearPad</a></li></ul></li><li>NFTs:<ul><li><a href="https://www.astrogen.io/">AstroGen</a></li><li><a href="https://secretskelliessociety.com/launchpad-utopia/">Utopia</a></li><li><a href="https://launchpad.enleap.app/en">Enleap</a></li></ul></li><li>NEAR &amp; Aurora:&nbsp;<ul><li><a href="https://smartpad.network/">SmartPad</a></li></ul></li></ul>
+<ul class="wp-block-list"><li>NEAR Native:&nbsp;<ul><li><a href="https://gonear.io/">GoNear</a></li><li><a href="https://skyward.finance/">Skyward Finance</a></li><li><a href="https://bocachica.io/">BocaChica</a></li></ul></li><li>Aurora:&nbsp;<ul><li><a href="https://pad.fi/">NearPad</a></li></ul></li><li>NFTs:<ul><li><a href="https://www.astrogen.io/">AstroGen</a></li><li><a href="https://secretskelliessociety.com/launchpad-utopia/">Utopia</a></li><li><a href="https://launchpad.enleap.app/en">Enleap</a></li></ul></li><li>NEAR &amp; Aurora:&nbsp;<ul><li><a href="https://smartpad.network/">SmartPad</a></li></ul></li></ul>
 
 
 
@@ -784,7 +784,7 @@
 
 
 
-<ul><li><a href="https://www.openwebcollective.com/">OWC</a></li><li><a href="https://accelerator.oct.network/">Octopus Network</a></li><li><a href="https://twitter.com/near_starter">NearStarter</a></li><li><a href="https://www.encode.club/near-accelerator">Encode</a></li><li><a href="https://startupwiseguys.com/">SWG</a></li><li><a href="https://stevenscenter.wharton.upenn.edu/accelerator/">Wharton Cypher Accelerator</a>&nbsp;</li></ul>
+<ul class="wp-block-list"><li><a href="https://www.openwebcollective.com/">OWC</a></li><li><a href="https://accelerator.oct.network/">Octopus Network</a></li><li><a href="https://twitter.com/near_starter">NearStarter</a></li><li><a href="https://www.encode.club/near-accelerator">Encode</a></li><li><a href="https://startupwiseguys.com/">SWG</a></li><li><a href="https://stevenscenter.wharton.upenn.edu/accelerator/">Wharton Cypher Accelerator</a>&nbsp;</li></ul>
 
 
 
@@ -792,7 +792,7 @@
 
 
 
-<ul><li><a href="https://www.metaweb.vc/">MetaWeb</a></li><li><a href="https://www.stealthcap.io/">Stealth Capital</a></li><li><a href="https://lyrik.ventures/">Lyrik Ventures</a> </li><li><a href="https://caerusventures.xyz/" target="_blank" rel="noreferrer noopener">Caerus Ventures</a></li></ul>
+<ul class="wp-block-list"><li><a href="https://www.metaweb.vc/">MetaWeb</a></li><li><a href="https://www.stealthcap.io/">Stealth Capital</a></li><li><a href="https://lyrik.ventures/">Lyrik Ventures</a> </li><li><a href="https://caerusventures.xyz/" target="_blank" rel="noreferrer noopener">Caerus Ventures</a></li></ul>
 
 
 
@@ -868,7 +868,7 @@
 
 
 
-<ul><li><strong>External Raised capital: </strong>&nbsp;<strong>$1.8M &#8211; </strong>&nbsp;<a href="https://www.businesswire.com/news/home/20220802005289/en/Niche-Announces-First-Ad-Free-Social-Media-Platform-Geared-for-Web3-from-Former-Tinder-Bumble-Facebook-Leaders" target="_blank" rel="noreferrer noopener">Announcement</a></li><li><strong>Latest update: </strong>&nbsp;Launched beta in August, read about their NEAR launch <a href="https://medium.com/nearprotocol/near-protocol-based-social-content-app-launches-private-beta-2838246b510e" target="_blank" rel="noreferrer noopener">here</a>.</li></ul>
+<ul class="wp-block-list"><li><strong>External Raised capital: </strong>&nbsp;<strong>$1.8M &#8211; </strong>&nbsp;<a href="https://www.businesswire.com/news/home/20220802005289/en/Niche-Announces-First-Ad-Free-Social-Media-Platform-Geared-for-Web3-from-Former-Tinder-Bumble-Facebook-Leaders" target="_blank" rel="noreferrer noopener">Announcement</a></li><li><strong>Latest update: </strong>&nbsp;Launched beta in August, read about their NEAR launch <a href="https://medium.com/nearprotocol/near-protocol-based-social-content-app-launches-private-beta-2838246b510e" target="_blank" rel="noreferrer noopener">here</a>.</li></ul>
 
 
 
@@ -880,7 +880,7 @@
 
 
 
-<ul><li><strong>External Raised capital: $5M</strong> &#8211; <a href="https://tonicdex.medium.com/tonic-raises-5m-seed-round-led-by-electric-capital-and-move-f84402339d49" target="_blank" rel="noreferrer noopener">Announcement</a></li><li><strong>Latest update: </strong>&nbsp;Launched mainnet in May 2022, launched Tonic Swap in July</li></ul>
+<ul class="wp-block-list"><li><strong>External Raised capital: $5M</strong> &#8211; <a href="https://tonicdex.medium.com/tonic-raises-5m-seed-round-led-by-electric-capital-and-move-f84402339d49" target="_blank" rel="noreferrer noopener">Announcement</a></li><li><strong>Latest update: </strong>&nbsp;Launched mainnet in May 2022, launched Tonic Swap in July</li></ul>
 
 
 
@@ -892,7 +892,7 @@
 
 
 
-<ul><li><strong>External Capital Raised:</strong> <strong>$2.5M &#8211; </strong>&nbsp;<a href="https://www.prnewswire.com/news-releases/decentralized-innovation-company-capsule-social-introduces-web3-journalism-with-the-launch-of-blogchain-301574014.html" target="_blank" rel="noreferrer noopener">Announcement</a></li><li><strong>Latest update:</strong>&nbsp; Launched Blogchain, a decentralized Substack competitor in June.&nbsp; You can check out the content on Blogchain or participate in writing <a href="https://blogchain.app/home">here</a>.</li></ul>
+<ul class="wp-block-list"><li><strong>External Capital Raised:</strong> <strong>$2.5M &#8211; </strong>&nbsp;<a href="https://www.prnewswire.com/news-releases/decentralized-innovation-company-capsule-social-introduces-web3-journalism-with-the-launch-of-blogchain-301574014.html" target="_blank" rel="noreferrer noopener">Announcement</a></li><li><strong>Latest update:</strong>&nbsp; Launched Blogchain, a decentralized Substack competitor in June.&nbsp; You can check out the content on Blogchain or participate in writing <a href="https://blogchain.app/home">here</a>.</li></ul>
 
 
 
@@ -904,7 +904,7 @@
 
 
 
-<ul><li><strong>External Capital Raised:</strong> <strong>$4.5M</strong> &#8211; <a href="https://www.finsmes.com/2022/09/sender-wallet-raises-us4-5m-in-funding.html" target="_blank" rel="noreferrer noopener">Announcement</a>&nbsp;</li></ul>
+<ul class="wp-block-list"><li><strong>External Capital Raised:</strong> <strong>$4.5M</strong> &#8211; <a href="https://www.finsmes.com/2022/09/sender-wallet-raises-us4-5m-in-funding.html" target="_blank" rel="noreferrer noopener">Announcement</a>&nbsp;</li></ul>
 
 
 
@@ -916,7 +916,7 @@
 
 
 
-<ul><li>Explore NEAR Funding Programs: <a href="https://linktr.ee/nearfunding" target="_blank" rel="noreferrer noopener">linktree</a></li><li>Visit the NEAR website : <a href="/" target="_blank" rel="noreferrer noopener">/</a></li><li>Contact the NEAR Grants team at grants.@near.foundation&nbsp;</li></ul>
+<ul class="wp-block-list"><li>Explore NEAR Funding Programs: <a href="https://linktr.ee/nearfunding" target="_blank" rel="noreferrer noopener">linktree</a></li><li>Visit the NEAR website : <a href="/" target="_blank" rel="noreferrer noopener">/</a></li><li>Contact the NEAR Grants team at grants.@near.foundation&nbsp;</li></ul>
 
 
 

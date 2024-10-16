@@ -15,13 +15,13 @@
 	<atom:link href="/blog/category/community/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/community/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Aug 2024 14:09:27 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Oct 2024 15:49:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -31,6 +31,309 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>NEAR Foundation and Delphi Labs Partner to Launch New AI Accelerator</title>
+		<link>/blog/delphi-labs-ai-accelerator/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2024 15:49:20 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developers]]></category>
+		<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[User-Owned AI]]></category>
+		<guid isPermaLink="false">/?p=21548</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation and Delphi Labs are pleased to announce the first cohort of their joint AI Accelerator Program, a …</p>
+<p>The post <a href="/blog/delphi-labs-ai-accelerator/">NEAR Foundation and Delphi Labs Partner to Launch New AI Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation and Delphi Labs are pleased to announce the first cohort of their joint AI Accelerator Program, a strategic initiative designed to support and rapidly scale high-potential projects building at the intersection of AI and Web3.</p>
+
+
+
+<p>The selected teams will benefit from a comprehensive support package, including technical guidance, funding opportunities, and access to NEAR and Delphi’s expert networks. Each team will also receive $50,000 in compute credits from Aethir, the accelerator program’s premier compute partner. These credits will ensure that every team has the necessary computational resources to develop and deploy resource-intensive AI models—and focus on building without being constrained by infrastructure limitations.</p>
+
+
+
+<p>Beginning October 15 and running through early December, NEAR Foundation and Delphi Labs have selected the following cohort teams:</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://hyper.space/"><strong>Hyperspace</strong></a>: Hyperspace is building a decentralized, peer-to-peer AI network. Their mission is to create a unified platform for AI interactions through a &#8220;generative browser&#8221; serving as a unified interface for AI-powered web interactions.
+<ul class="wp-block-list">
+<li><strong>Selection notes:</strong> Hyperspace has demonstrated traction with over 7,000 unique nodes in their P2P network and a robust product suite, most recently launching <a href="https://play.hyper.space/">Play</a>, a generative browser agent.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://almanak.co/"><strong>Almanak</strong></a>: Almanak is an end-to-end platform to build, test, train, optimize, and deploy agents for DeFi. Their mission is to democratize access to sophisticated financial strategies through the use of AI agents.
+<ul class="wp-block-list">
+<li><strong>Selection notes:</strong> Almanak&#8217;s team has spent the last two years building a platform that uses agent-based simulations to optimize on-chain strategies. Their agents are already managing sizable AUM for institutional partners, demonstrating strong traction and expertise in their domain.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.questflow.ai/"><strong>Questflow</strong></a>: Building a next-generation AI agent economy, Questflow is developing a decentralized network that orchestrates multi-agent AI automation. Users can dispatch incentives to both AI and human workers, creating a collaborative environment for autonomous and human-assisted processes.
+<ul class="wp-block-list">
+<li><strong>Selection notes:</strong> Questflow aims to dominate the AI agentic workflow market, particularly in SEO. Their gamified reward system and strong focus on winning specific verticals make them a standout candidate for advancing AI automation workflows.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.qstarlabs.ai/"><strong>Q Star Labs</strong></a>: Q Star Labs is developing a decentralized generative AI protocol for creating interactive, autonomous AI influencers at scale. Their Reinforcement Learning-based algorithm, Q STAR, is designed for long-term strategic planning to optimize AI content generation and engagement.
+<ul class="wp-block-list">
+<li><strong>Selection notes:</strong> The Q Star Labs team has a unique blend of expertise in AI, crypto, and finance, launching AI influencers that have organically grown to over 27,000 followers.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://zettablock.com/"><strong>ZettaBlock</strong></a><strong>:</strong> ZettaBlock is laying the groundwork for open and trustless AI development through a decentralized platform that provides developers with the infrastructure needed to unify on-chain and off-chain data. By offering modular, adaptable data solutions, ZettaBlock empowers the AI economy with the tools needed to integrate both historical and real-time data from multiple sources.
+<ul class="wp-block-list">
+<li><strong>Selection notes</strong><strong>: </strong>ZettaBlock’s leadership in both AI and data infrastructure makes them a pivotal player in the future of decentralized AI. They’re already supporting major protocols like EigenLayer and Chainlink. Their vision for a unified AI data platform aligns perfectly with NEAR Foundation and Delphi’s mission to foster open and scalable AI infrastructure that developers can rely on.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.joinmagic.ai/"><strong>Magic</strong></a><strong>: </strong>Magic is redefining how private data is used in AI. Their decentralized platform allows companies and developers to train AI models using private data, all while preserving the integrity and privacy of the underlying information. This is achieved through an innovative stack of privacy protocols and decentralized coordination.
+<ul class="wp-block-list">
+<li><strong>Selection notes</strong><strong>: </strong>Magic is tackling one of the toughest challenges in AI—privacy-preserving data access. Their team, with deep roots at Stanford AI Lab, has developed unique methods to keep data secure while enabling AI innovation at scale. Their ability to unlock private data for developers, without compromising security, makes Magic an essential piece of the decentralized AI puzzle.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.dfusion.ai/"><strong>dFusion</strong></a><strong>: </strong>dFusion is building a platform to solve one of AI’s biggest hurdles: reliable data quality. They’re focused on creating a consensus-driven framework that curates and validates high-quality data, ensuring that AI models are trained on information that is accurate, corroborated, and trustworthy.
+<ul class="wp-block-list">
+<li><strong>Selection notes</strong><strong>: </strong>dFusion’s commitment to consensus-based knowledge curation sets them apart from other players in the data space. By focusing on data integrity and consensus, they’re creating a unique foundation for AI development—one that ensures reliability and transparency. Their work opens up new opportunities for building AI applications that need trustworthy data, which is critical as decentralized AI continues to evolve.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.perilabs.net/"><strong>Peri Labs</strong></a>: Peri Labs is building an open marketplace leveraging underutilized computational resources across billions of consumer devices to power optimized AI models. The Peri Protocol abstracts the complexity of diverse hardware ecosystems, enabling seamless AI model deployment at scale.
+<ul class="wp-block-list">
+<li><strong>Selection notes</strong><strong>: </strong>Peri Labs differentiates itself with a focus on edge compute, uniquely integrating idle resources from consumer-grade devices to run AI models effectively. Their emphasis on model compression, optimization, and decentralized inference positions them as pioneers in making edge AI truly scalable, providing an efficient, privacy-preserving alternative to centralized cloud solutions.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>In addition to the resources above, the NEAR x Delphi AI Accelerator Program includes some more unique opportunities for participants:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Industry-leading speakers</strong>: Participants will hear from founders, investors, and experts from AI and Web3, providing insights into current trends and future opportunities. </li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>IRL Founder Retreat</strong>: An in-person retreat week in New York City for networking, collaboration, and team-building.</li>
+
+
+
+<li><strong>Closing Demo Day</strong>: The program will conclude with a Demo Day in early December, showcasing participating teams to our extensive investor network.</li>
+</ul>
+
+
+
+<p>NEAR is a leading blockchain platform designed to accelerate the development of decentralized applications with a focus on usability and scalability. Delphi Labs is a research and development firm that specializes in Web3 and DeFi.&nbsp;</p>
+
+
+
+<p>NEAR and Delphi Labs share the common strategic vision of a user-owned AI ecosystem, built on Web3 rails, that provides genuinely better alternatives to developers and users than the prevailing model of centralized AI controlled by big tech companies and governments. The goal is to maximize the benefits of AI for people and communities—and minimize the potential risks—by putting the power of AI where it belongs: in the hands of users.&nbsp;</p>
+
+
+
+<p>The NEAR ecosystem is quickly becoming the go-to home for decentralized, User-Owned AI, and this new AI Accelerator Program with Delphi Labs is a critical step toward integrating projects with significant potential into that ecosystem, setting the stage for the next generation of AI-powered decentralized apps.</p>
+
+
+
+<p>NEAR’s first AI x Web3 incubator cohort, which ran from June to August 2024, saw participants achieve significant early milestones while contributing essential pieces to the growing User-Owned AI stack. These milestones include: <a href="https://hyperbolic.xyz/">Hyperbolic</a> hosting the latest open source AI models, including Llama 3.1 405B; <a href="https://mizu.global/">Mizu</a> launching their beta platform and attracting 20K users in the first week; and <a href="https://cryptopond.xyz/">Pond</a> launching their first GNN model for wallet predictions and achieving a 20% prediction rate. The teams have built on the momentum from the incubator to attract serious seed funding interest, collectively raising $26M, with Hyperbolic successfully closing a $7M round.</p>
+
+
+
+<p>Stay tuned for details on the cohort’s Demo Day, which will take place on December 14. Teams with a strong vision for decentralized AI applications and infrastructure are encouraged to <a href="https://www.hzn.xyz/">apply</a> for the next accelerator program cohort to take place early next year.</p>
+<p>The post <a href="/blog/delphi-labs-ai-accelerator/">NEAR Foundation and Delphi Labs Partner to Launch New AI Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21548</post-id>	</item>
+		<item>
+		<title>At the Intersection of AI x Web3</title>
+		<link>/blog/token2049/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Fri, 13 Sep 2024 15:05:31 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<guid isPermaLink="false">/?p=21528</guid>
+
+					<description><![CDATA[<p>Get ready for a September to remember! Join NEAR at Token2049 Singapore as we showcase the seamless integration of cutting-edge …</p>
+<p>The post <a href="/blog/token2049/">At the Intersection of AI x Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Get ready for a September to remember! Join NEAR at Token2049 Singapore as we showcase the seamless integration of cutting-edge technologies shaping the future of Web3. This month, we&#8217;re not just talking about AI and chain abstraction as separate entities—we&#8217;re demonstrating how these crucial components of the modern tech stack work in harmony to create powerful, scalable, and user-centric decentralized systems.</p>
+
+
+
+<p>Don’t forget to visit us near the Main Stage during Token2049 at Booth #P28 + P29. Our team, along with partners SWEAT, Proximity Labs, and Aurora, will be on hand to answer questions and engage with the community.</p>
+
+
+
+<p><strong>Showcasing the Synergy: AI and Chain Abstraction in Action</strong></p>
+
+
+
+<p>The intersection of AI and blockchain is no longer a distant future—it&#8217;s happening now, and NEAR is at the forefront. Our packed Token2049 week kicks off with the HELLO [AI] First Token Party on September 16th, where we&#8217;ll be exploring the next frontier of AI-Powered Blockchain Applications. Expect mind-bending discussions on topics like AI-driven smart contracts, decentralized machine learning marketplaces, and the tokenization of AI models.</p>
+
+
+
+<p>Following this, we dive deep into the technical challenges and opportunities at The Scaling AI Summit (September 16-17). Here, NEAR&#8217;s co-founder, Alex Skidanov, will deliver a keynote focusing on the fundamental building blocks of user-owned AI, a concept at the forefront of NEAR’s vision. He&#8217;ll explore how this approach is reshaping the landscape of artificial intelligence and empowering users in unprecedented ways.But NEAR&#8217;s involvement goes far beyond a single keynote. Throughout the summit, we&#8217;re showcasing how our innovative approach to chain abstraction is revolutionizing the integration of AI models across diverse blockchain architectures. From optimizing cross-chain AI computations to enabling seamless data sharing for federated learning, NEAR is paving the way for a new era of scalable, interoperable AI-blockchain solutions.</p>
+
+
+
+<p><strong>NEAR is Booked &amp; Busy</strong></p>
+
+
+
+<p>September 17th stands out as a day packed with groundbreaking events:</p>
+
+
+
+<p>1. Open #AI House: We&#8217;re not just talking about AI; we&#8217;re democratizing it. NEAR joins a panel on &#8220;Let&#8217;s Democratize AI&#8221; featuring industry leaders discussing how NEAR&#8217;s open-source ethos is reshaping the AI landscape.</p>
+
+
+
+<p>2. NEAR AI Tech Showcase: Get ready for a deep dive into our latest AI innovations. We&#8217;ll demonstrate how our chain abstraction techniques are enabling more efficient training and deployment of AI models on-chain.</p>
+
+
+
+<p>3. Modular &amp; L2 Day | TOKEN2049 Singapore: Vikas Pandey from NEAR Foundation will be shedding light on how our modular approach is revolutionizing blockchain customization and optionality.</p>
+
+
+
+<p>4. Chain Abstraction X DeFi Brunch: Join us for a delicious brunch and discover how NEARy is simplifying DeFi interactions, making it easier than ever to hold many assets from different chains on one wallet.</p>
+
+
+
+<p>5. From September 17-19, NEAR Singapore is hosting a 3-day SkyPool Lounge &amp; Party during TOKEN2049 Singapore. This isn&#8217;t just a networking event; it&#8217;s a technical showcase. Expect in-depth discussions on the ecosystem, live coding sessions, and interactive demos that highlight the practical applications of our chain abstraction and AI technologies.</p>
+
+
+
+<p><strong>Spotlight on Speaking Engagements</strong></p>
+
+
+
+<p>NEAR&#8217;s visionaries are set to captivate audiences across multiple high-profile events this September. At Token2049, don&#8217;t miss Alex Skidanov&#8217;s compelling panel discussion on &#8220;Decentralized AI: The Power of Permissionless Intelligence,&#8221; where he&#8217;ll explore how blockchain technology is democratizing AI development and deployment. Alex will also deliver a solo presentation titled &#8220;Building Web3 Apps of the Future with User-Owned AI,&#8221; diving deep into the technical intricacies of integrating AI with decentralized systems and showcasing how NEAR&#8217;s infrastructure is paving the way for a new generation of intelligent, user-centric applications.&nbsp;</p>
+
+
+
+<p>Meanwhile, at Connect 2049, Mark Mi will take the stage to discuss &#8220;The Future of Open Source AI,&#8221; illuminating how NEAR&#8217;s commitment to open-source principles is fostering a more accessible, innovative, and collaborative AI ecosystem.&nbsp;</p>
+
+
+
+<p>The intellectual feast continues at The Scaling AI Summit, where cutting-edge technical demonstrations from Ringfence AI and Bitte will augment Alex Skidanov&#8217;s keynote. These demos will bring theory into practice, offering attendees a tangible glimpse of how NEAR&#8217;s technologies are being applied to solve real-world challenges at the intersection of AI and blockchain. From decentralized machine learning to blockchain-powered AI marketplaces, these presentations and demos will showcase the full spectrum of NEAR&#8217;s pioneering work in the rapidly evolving landscape of decentralized AI.</p>
+
+
+
+<p><strong>Shaping the Future of Web3 and AI</strong></p>
+
+
+
+<p>As we navigate through this action-packed Token2049 Week in Singapore, one thing becomes clear: NEAR is not just participating in the conversation about chain abstraction and AI—we&#8217;re leading it. Our technical innovations are setting new standards for interoperability, scalability, and user-owned intelligence.</p>
+
+
+
+<p>We invite you to join us at these events, either in person or through our live streams. Stay tuned to our official channels for real-time updates, technical deep-dives, and opportunities to engage with our team of experts.</p>
+
+
+
+<p>The future of Web3 and AI is being written now, and NEAR is holding the pen.</p>
+<p>The post <a href="/blog/token2049/">At the Intersection of AI x Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21528</post-id>	</item>
+		<item>
+		<title>Ecosystem Update: Announcing Near One, Chain Abstraction Spinouts </title>
+		<link>/blog/ecosystem-update-announcing-near-one-chain-abstraction-spinouts/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 13 Aug 2024 15:43:16 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Decentralization]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<guid isPermaLink="false">/?p=21492</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation announces today the formation of two new ecosystem nodes: Near One is spinning out of Pagoda and …</p>
+<p>The post <a href="/blog/ecosystem-update-announcing-near-one-chain-abstraction-spinouts/">Ecosystem Update: Announcing Near One, Chain Abstraction Spinouts </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation announces today the formation of two new ecosystem nodes: Near One is spinning out of Pagoda and a Chain Abstraction team is launching with members from Pagoda and Proximity Labs. In line with the NEAR ecosystem&#8217;s commitment to decentralization, these teams are spinning out key initiatives that have reached sufficient maturity. They join earlier spinouts including Aurora, Calimero, DevHub, and most recently Nuffle Labs, in becoming independent companies. </p>
+
+
+
+<p>Spinouts of NEAR ecosystem initiatives allow teams to focus on their core competencies and move quickly and autonomously with clear and aligned incentives. Importantly, an open and decentralized ecosystem encourages transparency and gives everyone a fair chance to seek funding and support for their contributions. A decentralized ecosystem is also more antifragile and sustainable due to an ever-increasing number of collaborating and competing projects.&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Near One</h4>
+
+
+
+<p>The Pagoda team developing the core NEAR blockchain protocol is now <a href="http://nearone.org/">Near One</a>, a team of 30 employees led by Bowen Wang, Head of Protocol. Near One’s mandate is to develop and maintain the NEAR Protocol and roadmap, providing high-performance and scalable infrastructure to support the wide range of activities in the NEAR ecosystem, including consumer apps, Chain Abstraction, modularity, DeFi, and User-Owned AI. Working independently will allow Near One to operate with greater speed and autonomy, and also makes room for multiple node/protocol teams to build on NEAR without relying on an “official” one. Near One will share exciting news about the next phase of sharding later this month.&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Chain Abstraction Spinout</h4>
+
+
+
+<p>Following the successful launch of <a href="/blog/chain-signatures-mainnet-launches/">Chain Signatures</a> mainnet, an independent team with key contributors from Pagoda and other nodes will focus on developing the technology and partnerships needed to make the Chain Abstraction vision a reality. This new team will continue the NEAR ecosystem’s leadership in advancing Chain Abstraction for all of Web3. More information and a name for this project are forthcoming in September, so stay tuned.</p>
+
+
+
+<h4 class="wp-block-heading">Future of Pagoda and Pagoda Services</h4>
+
+
+
+<p>Given that these two spinouts represent a large percentage of Pagoda’s current staff and responsibilities, the NEAR Foundation Council decided to change the model for funding the other ecosystem services Pagoda has been operating. These will now be distributed via the <a href="https://github.com/near/Infrastructure-Working-Group">Infrastructure Committee</a> to a decentralized set of providers over the next six months. For updates on Pagoda’s transition timeline and process, please consult this <a href="https://docs.near.org/blog/2024-08-13-pagoda-services">Future of Pagoda Services</a> page.</p>
+
+
+
+<p>These transitions mean that Pagoda will be winding down, with some Pagoda employees joining other ecosystem nodes including the NEAR Foundation, NEAR.AI, and DevHub teams. Remaining team members will be offered support to found new ecosystem projects, join other ecosystem teams, or bid as independent providers to take over existing work via an RFP process run by the Infrastructure Committee. People with strong knowledge of NEAR technologies are always encouraged to start new projects and seek funding support: this is the most transparent, fair, and sustainable approach for growing the ecosystem as it approaches 4 years since mainnet launch.&nbsp;</p>
+
+
+
+<p>NEAR ecosystem teams interested in hiring Pagoda team members are encouraged to share openings on the <a href="https://careers.near.org/jobs">Jobs Board</a> and to consult this <a href="https://docs.google.com/spreadsheets/d/12XYaf4SZN5s4AgyFwp27IDvn21BpvKxuZMgp2C9VHhY/edit?resourcekey=&amp;gid=761891858#gid=761891858">opt-in list</a> of people open to new roles. There will also be a hacker house-style Pagoda offsite in Tarrytown, New York in early September, now open to ecosystem contributors interested in connecting with team members and brainstorming independent projects (apply to attend <a href="https://forms.gle/QBtKMBRoPqM3ripc8">here</a>).&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Looking Ahead</h4>
+
+
+
+<p>In addition to the launch of Chain Signatures mainnet last week and the upcoming mainnet launch of Nightshade 2.0, the NEAR ecosystem has seen major recent success across a range of key metrics. Last month, in July 2024, the NEAR ecosystem had more than 20 million monthly active users across apps and projects––the highest on any L1 chain, with over 110 million accounts overall. NEAR also reached over 3 million daily active users, the highest of any chain, averaging between six and seven million transactions per day, and has the highest 12-month user retention among L1 blockchains.&nbsp;</p>
+
+
+
+<p>A more decentralized and autonomous ecosystem of independent projects will be better equipped to expand on this impressive growth and bring NEAR’s vision and best-in-class technology to a billion users. Those interested in keeping up with the latest news and launches on NEAR should follow along on <a href="https://x.com/nearprotocol">X</a>, attend monthly ecosystem <a href="https://lu.ma/3lit1jwx">Town Halls</a>, watch <a href="https://www.youtube.com/playlist?list=PL9tzQn_TEuFWMuPiQOXhaE5lpOTnxLPZY">NEAR AI Office Hours</a>, and attend the [REDACTED] <a href="https://redactedbangkok.ai/">conference and hackathon</a> in Bangkok, Nov. 9-11.</p>
+<p>The post <a href="/blog/ecosystem-update-announcing-near-one-chain-abstraction-spinouts/">Ecosystem Update: Announcing Near One, Chain Abstraction Spinouts </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21492</post-id>	</item>
+		<item>
 		<title>[REDACTED] Speakers Announced, Hackathon Registration Is Live</title>
 		<link>/blog/redacted-speakers-announced-hackathon-registration-is-live/</link>
 		
@@ -76,7 +379,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Gaining insights from the teams defining the intersection of AI and Web3</li>
 
 
@@ -94,7 +397,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Illia Polosukhin (NEAR)</li>
 
 
@@ -311,7 +614,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Upskill your AI knowledge in essential workshops and deep-dive discussions led by the teams defining the intersection of AI x Web3.</li>
 
 
@@ -406,7 +709,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Cost-efficiency: Storing data on NEAR Protocol is significantly cheaper than on Ethereum, making it easier for projects to build as well as faster.</li>
 
 
@@ -485,7 +788,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>As a simplified wallet address across hundreds of different blockchain networks</li>
 
 
@@ -618,461 +921,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">21390</post-id>	</item>
-		<item>
-		<title>Unveiling new partnerships at the International Tech Summit in Bermuda</title>
-		<link>/blog/international-tech-summit/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 13:04:43 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<guid isPermaLink="false">/?p=21341</guid>
-
-					<description><![CDATA[<p>The NEAR Foundation announced a slew of partnerships and developments at this year’s International Tech Summit in Bermuda, organized by …</p>
-<p>The post <a href="/blog/international-tech-summit/">Unveiling new partnerships at the International Tech Summit in Bermuda</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>The NEAR Foundation announced a slew of partnerships and developments at this year’s International Tech Summit in Bermuda, organized by Penrose Partners.</p>
-
-
-
-<p>The new collaborations will leverage Bermuda’s unique crypto-friendly regulatory environment to accelerate the integration of digital assets into global markets. They’ll also enhance NEAR’s role in advancing blockchain applications across sectors. From NFTs to insurance, here’s the full rundown.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-near-foundation-and-penrose-a-strategic-alliance-at-the-tech-summit">NEAR Foundation and Penrose: A strategic alliance at the Tech Summit</h2>
-
-
-
-<p>As the presenting partner of the International Tech Summit, the NEAR Foundation cemented a significant relationship with Penrose Partners, a leading international digital asset advisory firm. It’s part of NEAR&#8217;s strategic effort to tap into Bermuda&#8217;s thriving crypto scene, supported by progressive regulations under the island’s Digital Asset Business Act.</p>
-
-
-
-<p>During the summit, NEAR Foundation’s executive team and leaders from the institutional business segment were active participants, supporting various digital payment activations and Bermuda’s first-ever NFT art gallery. This engagement highlights NEAR&#8217;s commitment to exploring substantial business opportunities in Bermuda, particularly within its vast insurance sector, and strengthening its ties with local government and regulatory bodies.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-nayms-and-near-innovating-on-chain-insurance">Nayms and NEAR: Innovating on-chain insurance</h2>
-
-
-
-<p>NEAR Foundation announced a partnership with Nayms that marks a pioneering step toward revolutionizing the insurance industry through blockchain technology. Nayms, a regulated marketplace for on-chain insurance, aligns with NEAR Foundation to develop innovative web3 products linked to insurance pools.</p>
-
-
-
-<p>NEAR Foundation and Nayms aim to address the challenges of pricing and securing insurance for blockchain ventures, crucial to the legitimacy and growth of digital assets. As not only a leader in the regulation of digital assets but a massive global hub for insurance and reinsurance, Bermuda represents fertile ground for the collaboration.</p>
-
-
-
-<p>The partners are setting out to transform traditional insurance models by enabling novel ways to underwrite risks associated with NEAR-based companies. The goal is to disrupt a multi-trillion-dollar market and offer institutional investors the chance to engage with new, attractive risk-adjusted investment opportunities in the field of on-chain insurance.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-mountain-protocol-and-near-foundation-expanding-digital-dollar-use">Mountain Protocol and NEAR Foundation: Expanding digital dollar use</h2>
-
-
-
-<p>The partnership between NEAR Foundation and Mountain Protocol introduces the integration of Mountain’s USDM, a leading yield-bearing stablecoin, onto the NEAR protocol. This collaboration is set to transform how local businesses in Bermuda manage their treasuries by leveraging the stability and efficiency of digital dollars.</p>
-
-
-
-<p>This strategic alliance enhances Bermuda&#8217;s capacity to utilize digital dollars, like USDM, within its extensive insurance and reinsurance programs. It taps into a $150 billion stablecoin market, reflecting Bermuda’s advanced digital asset regulation and its thriving financial ecosystem.</p>
-
-
-
-<p>Additionally, NEAR Foundation will explore the potential of USDM in everyday applications, notably in partnership with HITCH, Bermuda&#8217;s leading transportation app. It’s about demonstrating how stablecoins can streamline transactions, reduce costs for drivers and riders, and showcase the practical benefits of blockchain technology in daily consumer interactions.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-expanding-digital-transactions-with-hitch-and-near">Expanding digital transactions with HITCH and NEAR</h2>
-
-
-
-<p>As mentioned, NEAR Foundation also announced a partnership with HITCH to further embed digital assets into everyday transactions. The goal is to reimagine how local businesses and consumers handle transactions by adopting US digital dollars—USDC and USDM—within HITCH’s payment systems.</p>
-
-
-
-<p>This initiative is expected to enhance cash management for businesses and streamline payment processes, offering greater efficiency and cost savings. By reducing transaction fees, HITCH can reinvest these gains into the local economy or offer enhanced rewards to drivers and riders.</p>
-
-
-
-<p>Beyond improving ride-sharing transactions, the collaboration is set to broaden the use of digital dollars in Bermuda. HITCH plans to enable payments for government services like vehicle licensing and payroll taxes through its app, demonstrating the broad potential of digital currencies to simplify and secure routine financial activities.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-extending-the-open-web-experience-with-mintbase-s-nft-gallery">Extending the open web experience with Mintbase’s NFT gallery</h2>
-
-
-
-<p>Following the NEAR Foundation partnerships with Mountain Protocol and HITCH, the International Tech Summit also featured a significant venture into the world of digital art, powered by Mintbase. This event marked the debut of Bermuda&#8217;s first NFT art exhibition, curated by local art consultancy Mazar-Fox Art Consulting.&nbsp;</p>
-
-
-
-<p>Aptly named “Redefining the Boundaries Between Art and Technology” and set in the iconic cruise passenger terminal at Hamilton&#8217;s Pier Six, the exhibition featured a mix of international and Bermudian artists, as well as educational workshops on NFTs conducted by Mintbase to deepen attendees’ knowledge and engagement.</p>
-
-
-
-<p>These sessions included practical onboarding for attendees that enabled them to create and interact with digital art firsthand. Special edition NFTs were also offered as exclusive rewards for those who purchased limited edition merchandise, further integrating the digital art experience into the summit’s framework and enhancing the interactive nature of the gallery.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-closing-thoughts-bermuda-as-a-nexus-of-digital-innovation">Closing thoughts: Bermuda as a nexus of digital innovation</h2>
-
-
-
-<p>The International Tech Summit highlighted Bermuda’s pivotal role as a hub for digital asset regulation and innovation—and it set the stage for significant advancements in blockchain applications.</p>
-
-
-
-<p>The partnerships announced between NEAR Foundation and key players like Penrose, Nayms, Mountain Protocol, HITCH, and Mintbase are important steps toward integrating digital assets and the open web into everyday business and consumer practices.</p>
-
-
-
-<p></p>
-<p>The post <a href="/blog/international-tech-summit/">Unveiling new partnerships at the International Tech Summit in Bermuda</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21341</post-id>	</item>
-		<item>
-		<title>Innovative Alliance Marks Milestone That Drives Digital Finance </title>
-		<link>/blog/innovative-alliance/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 15:15:30 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<guid isPermaLink="false">/?p=21336</guid>
-
-					<description><![CDATA[<p>Today NEAR Foundation announced a partnership with Lulo X and Peersyst Technology. The goal of the collaboration is to redefine …</p>
-<p>The post <a href="/blog/innovative-alliance/">Innovative Alliance Marks Milestone That Drives Digital Finance </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Today NEAR Foundation announced a partnership with Lulo X and Peersyst Technology. The goal of the collaboration is to redefine the parameters of digital finance by offering a secure, stable digital currency that broadens economic perspectives within Web3. As a result, Lulo X users will enjoy greater autonomy and less friction over their finances.</p>
-
-
-
-<p>Lulo X, a pioneering Colombian fintech firm, is on a mission to challenge financial barriers and help users build a better future. This partnership will leverage NEAR Protocol&#8217;s innovative blockchain technology to facilitate seamless and secure transactions, while also building their native stablecoin on the NEAR blockchain.</p>
-
-
-
-<p><em>“We are building a financial infrastructure that is characterized by its ease of use and robust security. We want to improve the most basic financial activities, ensuring digital transactions and making financial tools accessible to everyone,”</em> says <strong>Natalia Jiménez</strong>, CEO of Lulo X.</p>
-
-
-
-<p>Peersyst Technology brings its expertise in blockchain implementation to ensure the robustness of the platform. Together with NEAR, the two organizations will create cutting-edge solutions that simplify the complexities of digital finance, offering users more control over their economic activities.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-expanding-financial-horizons-with-lulo-x">Expanding Financial Horizons with Lulo X</h2>
-
-
-
-<p>Lulo X&#8217;s commitment, as articulated by CEO Natalia Jiménez, is to dismantle financial barriers through a platform noted for its ease of use, security, and democratization of finance.</p>
-
-
-
-<p>“We are at the forefront of a new era where technology powers sustainability in finance. Partnering with the NEAR Foundation is a step towards redefining digital finance to be secure, inclusive and democratic. This alliance is the key to a future where financial empowerment is a universal right. We are committed to a future that is not only prosperous but sustainable, aligning financial growth with the well-being of our planet,&#8221; Jiménez says.&nbsp;</p>
-
-
-
-<p>This collaboration with NEAR will amplify the security and efficiency of transactions, integrating biometric safeguards and fraud prevention measures that underline Lulo X&#8217;s dedication to user protection. It’s founded on principles of financial education, regulatory cooperation, and innovative infrastructure.&nbsp;</p>
-
-
-
-<p>NEAR&#8217;s advanced blockchain technology supports Lulo X&#8217;s vision, facilitating the development of tailored financial products that foster informed decision-making and economic inclusion. The Lulo X stablecoin on NEAR is a major step in that direction.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-ensuring-success-with-peersyst-technology">Ensuring Success with Peersyst Technology</h2>
-
-
-
-<p>Peersyst Technology will also be instrumental in implementing the NEAR Protocol&#8217;s innovative stablecoin solutions, bringing a wealth of experience in blockchain projects. Their technical prowess ensures that the infrastructure developed with Lulo X is not only scalable but also robust enough to handle the complexities of real-world financial applications.&nbsp;</p>
-
-
-
-<p>“Peersyst&#8217;s commitment to the development of blockchain-powered currencies and payment systems, especially in Latin America, has been unwavering. Our collaboration with leading protocols is a testament to the maturity of the technology, paving the way for its widespread adoption in finance.” highlights Ferran Prat, CEO of Peersyst.</p>
-
-
-
-<p>This partnership leverages Peersyst&#8217;s blockchain expertise to ensure the stable and efficient operation of financial solutions. By integrating cutting-edge blockchain technology with NEAR&#8217;s platform, Peersyst facilitates the creation of financial services that are both secure and user-friendly, enhancing the overall reliability of the system.&nbsp;</p>
-
-
-
-<p>Their contribution is vital for developing a framework that supports high transaction volumes and complex data security requirements, essential for fostering trust and widespread adoption among users.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-the-near-ecosystem-continues-to-broaden-fintech">The NEAR Ecosystem Continues to Broaden Fintech</h2>
-
-
-
-<p>The partnerships between NEAR, Lulo X, and Peersyst Technology aims to introduce robust, scalable financial solutions that make economic activities more accessible and efficient.</p>
-
-
-
-<p>&#8220;This partnership with Lulo X and Peersyst is a step forward in harnessing Stablecoins for fast and cost-effective payments. It reflects our mutual goal of democratizing financial access and expanding NEAR&#8217;s presence in Latin America. The high performance and low fees of the NEAR Protocol are poised to deliver unparalleled benefits for Web3 users and applications, catalyzing stablecoin-based payment solutions in the region.&#8221;</p>
-
-
-
-<p>The partnership is a sign of major progress in fintech. By providing the platform and resources for innovations like savings in digital dollars and – bolstered by Peersyst and the NEAR blockchain – the intersection of finance and the open web will become more safe, fair, and inclusive.</p>
-
-
-
-<p></p>
-
-
-
-<p></p>
-<p>The post <a href="/blog/innovative-alliance/">Innovative Alliance Marks Milestone That Drives Digital Finance </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21336</post-id>	</item>
-		<item>
-		<title>NEAR Launches Infrastructure Committee with $4 Million in Funding </title>
-		<link>/blog/near-launches-infrastructure-committee/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Tue, 09 Apr 2024 00:36:24 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<guid isPermaLink="false">/?p=21321</guid>
-
-					<description><![CDATA[<p>NEAR has seen a massive surge in users and transactions over the last few months. It’s important to have a …</p>
-<p>The post <a href="/blog/near-launches-infrastructure-committee/">NEAR Launches Infrastructure Committee with $4 Million in Funding </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>NEAR has seen a massive surge in users and transactions over the last few months. It’s important to have a smooth-running blockchain for project and founder expansion. Today, the NEAR Foundation launches the Infrastructure Committee, a new initiative aimed to strengthen NEAR&#8217;s Key Infrastructure. With $4 million earmarked for infrastructure projects, the initiative is meant to support the success of NEAR projects while distributing funds and sourcing projects in an open, transparent way.</p>
-
-
-
-<p>What is Key Infrastructure? It includes RPC nodes, relayers, indexers, bridges, wallets, load balancers, and oracles. Also, NEAR should be listed correctly on all the DEX tools available. Incidents and outages need to be easily reported and fixed.</p>
-
-
-
-<p><strong>The committee is made up of  ecosystem leaders and NEAR partners from across core NEAR orgs. Its goals are to:</strong></p>
-
-
-
-<ul>
-<li>Decentralize decision-making</li>
-
-
-
-<li>Enhance critical infrastructure</li>
-
-
-
-<li>Streamline efforts for greater clarity and decentralization</li>
-</ul>
-
-
-
-<p>The committee primarily focuses on proposals, with multiple Requests For Proposals (RFPs) planned to meet important ecosystem needs. These proposals will undergo review and asynchronous voting by the committee.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-progress-of-the-infrastructure-committee">Progress of the Infrastructure Committee</h2>
-
-
-
-<p><strong>The Infrastructure Committee has already funded five critical infrastructure proposals:</strong></p>
-
-
-
-<ul>
-<li>Jutsu IDE infrastructure implementation (AI development environment)</li>
-
-
-
-<li>FASTNEAR infrastructure services (new RPC nodes and custom endpoints)</li>
-
-
-
-<li>Aurora Web 3.0 Wallet Support Services</li>
-
-
-
-<li>The building of a Treasury App for use by governing committees</li>
-
-
-
-<li>An audit of the Ledger integrations</li>
-</ul>
-
-
-
-<p><strong>The committee also inherited some projects that it will now actively manage:</strong></p>
-
-
-
-<ul>
-<li>Aurora RPC SpeedUp</li>
-
-
-
-<li>MyNEARWallet maintenance by Meteor</li>
-</ul>
-
-
-
-<p><strong>With over half of the allocated $4 million budget remaining, there is an open invitation to the community to bring forward innovative infrastructure projects such as:</strong></p>
-
-
-
-<ul>
-<li>Faster RPC Nodes</li>
-
-
-
-<li>Specific common endpoints to replace broad RPC queries</li>
-
-
-
-<li>New bridges to improve cross-chain transactions and increase the number of chains supported</li>
-
-
-
-<li>ICANN-compliant DNS and expansion of top-level domains</li>
-
-
-
-<li>Focused relayers to support gas-free and other specialized relayer needs</li>
-</ul>
-
-
-
-<p>The committee encourages community members to contribute their ideas, proposals, and feedback, and welcomes a range of perspectives from founders, developers, and NEAR enthusiasts on how to improve the foundations of NEAR technology.&nbsp;</p>
-
-
-
-<p><strong>The current Infrastructure Committee is comprised of the following members:</strong></p>
-
-
-
-<ul>
-<li>Abhishek Vaidyanathan, NEAR Foundation (serving as a non-voting meeting Chair)</li>
-
-
-
-<li>Alex Shevchenko, Aurora Labs</li>
-
-
-
-<li>Bowen Wang, Director of Protocol, Pagoda</li>
-
-
-
-<li>Vlad Frolov, DevHub</li>
-
-
-
-<li>Sandi Fatic, Calimero</li>
-
-
-
-<li>Eric Winer, Pagoda</li>
-
-
-
-<li>Illia Polosukhin, NEAR Foundation (serving as an ad-hoc member on an as-needed basis)</li>
-
-
-
-<li>Christopher Donovan, NEAR Foundation (serving as an ad-hoc member on an as-needed basis)</li>
-</ul>
-
-
-
-<p><strong>The Working Group comprises the following admins and advisors:</strong><strong><br></strong></p>
-
-
-
-<ul>
-<li>Project Oversight &#8211; Konrad Merino, Head of Blockchain Success, NEAR Foundation</li>
-
-
-
-<li>Product Manager &#8211; Gautham Ravi, Sr. Product Manager, Pagoda</li>
-
-
-
-<li>Project Manager &#8211; Trentin C Bergeron, Sr. Technical Program Manager, Pagoda</li>
-
-
-
-<li>Technical BD &#8211; Vikas Pandey, Success &amp; Partner Engineering, NEAR Foundation</li>
-
-
-
-<li>Technical Advisor &#8211; Robert Tsia, SRE Manager, Pagoda</li>
-
-
-
-<li>Technical Advisor &#8211; Ernesto Cejas Padilla, Sr. SRE, Pagoda</li>
-
-
-
-<li>Technical Advisor &#8211; Firat Sertgoz, Engineering Manager, Pagoda</li>
-
-
-
-<li>Technical Advisor &#8211; Patrick Engvall, Sr. Engineer, Pagoda</li>
-
-
-
-<li>Technical Advisor &#8211; Pierre Leguen, Software Engineer, NEAR Foundation Finance</li>
-
-
-
-<li>Broadcast MC &amp; Project Advisor &#8211; Marcus Ribeiro, Ecosystem Relations, NEAR Foundation</li>
-</ul>
-
-
-
-<p>For those looking to participate, the <a href="https://github.com/near/Infrastructure-Working-Group/wiki/Proposal-Process-%E2%80%90-Team">Interim Proposal and Funding Process</a> provides a comprehensive guide on how to submit proposals. To foster transparency and public engagement, the committee has established clear processes to track and discuss proposals openly.&nbsp;</p>
-
-
-
-<p>The community can view the <a href="https://docs.google.com/spreadsheets/d/1sjUgUnY_Ufw8RjfUFj5K2RM6gYC3XBRVu1iYXzD3cBQ/edit?usp=sharing">public tracking of proposals</a> document and participate in <a href="https://github.com/near/Infrastructure-Working-Group/discussions">public discussions</a>, including announcements of Requests for Proposals (RFPs). The committee’s meeting notes will be shared with the community to maintain openness about the committee&#8217;s decisions and discussions.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-engaging-the-community-and-fostering-collaboration">Engaging the Community and Fostering Collaboration</h2>
-
-
-
-<p>To facilitate community engagement, anyone interested can join the <a href="https://github.com/near/Infrastructure-Working-Group/discussions">discussion</a> on the Github repo, which will serve as the hub for suggestions, collaboration, and support among members interested in contributing to NEAR infrastructure.<br></p>
-
-
-
-<p>The <a href="https://github.com/near/Infrastructure-Working-Group/wiki/Infrastructure-Committee">Infrastructure Mandate &amp; Charter</a> and <a href="https://github.com/near/Infrastructure-Working-Group/wiki/Infrastructure-Working-Group">Working Group Details</a> will offer additional insights into the committee’s mission, structure, and ongoing projects. These resources are designed to educate and inspire community members to contribute their skills and ideas towards building a more robust and scalable NEAR ecosystem.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-future-plans-for-the-near-infrastructure-committee">Future Plans for the NEAR Infrastructure Committee</h2>
-
-
-
-<p>As NEAR continues to grow, so will the necessity for robust infrastructure to support an increasing number of transactions and users. Future enhancements include the introduction of a more sophisticated incident management system and post-mortem processes for infrastructure outages.&nbsp;</p>
-
-
-
-<p>The development of a Blockchain Operating System (BOS)-based app for proposal management will be another significant move towards optimizing the efficiency of the funding process. This upgrade will streamline the proposal and funding workflow, making it easier for community members to submit and manage their projects.&nbsp;</p>
-
-
-
-<p>The committee’s work will also support NEAR’s growth and chain abstraction efforts, ensuring the blockchain can handle the anticipated surge in traffic as more users join the ecosystem.&nbsp;</p>
-
-
-
-<p>Those interested in getting involved with the Infrastructure Committee can join the <a href="https://github.com/near/Infrastructure-Working-Group/discussions">Working Group Discussion on GitHub</a> to collaborate on initiatives, discuss proposals and RFPs, or ask questions.</p>
-<p>The post <a href="/blog/near-launches-infrastructure-committee/">NEAR Launches Infrastructure Committee with $4 Million in Funding </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21321</post-id>	</item>
 	</channel>
 </rss>

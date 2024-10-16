@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -120,7 +120,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>The NEAR Digital Collective’s I-AM-HUMAN</strong> movement has crossed 2,000 members in the NEAR ecosystem. The initiative allows users to vote, elect candidates for office, and shape the future of NEAR. You can sign up <a href="https://i-am-human.app/?transactionHashes=Djm4ohdiWxNETWz3xZA8BUreQFbQm63rJh67SAHkMc48">here</a>.</li>
 
 

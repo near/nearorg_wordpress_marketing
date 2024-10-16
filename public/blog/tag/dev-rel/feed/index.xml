@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -76,7 +76,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Gaining insights from the teams defining the intersection of AI and Web3</li>
 
 
@@ -94,7 +94,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Illia Polosukhin (NEAR)</li>
 
 
@@ -331,7 +331,7 @@
 
 
 
-<ul><li><a href="https://wallet.nearpages.wpengine.com/">NEAR Wallet</a> &#8211; a simple, easy to use web-based wallet. </li><li><a href="https://senderwallet.io/">Sender Wallet</a> &#8211; a browser extension available Chrome, Brave, and other browsers.</li><li><a href="https://www.ledger.com/">Ledger Wallet</a> &#8211; the secure hardware wallet that allows users to store their wallet in a secure place. </li><li><a href="https://meteorwallet.app/">Meteor Wallet</a> &#8211; the simple and secure wallet to manage your crypto, access DeFi, and explore NEAR.</li></ul>
+<ul class="wp-block-list"><li><a href="https://wallet.nearpages.wpengine.com/">NEAR Wallet</a> &#8211; a simple, easy to use web-based wallet. </li><li><a href="https://senderwallet.io/">Sender Wallet</a> &#8211; a browser extension available Chrome, Brave, and other browsers.</li><li><a href="https://www.ledger.com/">Ledger Wallet</a> &#8211; the secure hardware wallet that allows users to store their wallet in a secure place. </li><li><a href="https://meteorwallet.app/">Meteor Wallet</a> &#8211; the simple and secure wallet to manage your crypto, access DeFi, and explore NEAR.</li></ul>
 
 
 
@@ -502,7 +502,7 @@
 
 
 
-<ul><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/predeployed-contract">Pre-deployed contract</a>: Get introduced to minting an NFT without the need to code, create, or deploy a smart contract.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/skeleton">Contract architecture</a>: Learn the basic architecture of the NFT smart contract and you&#8217;ll compile this skeleton code with the Rust toolchain.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/minting">Minting</a>: Flesh out the skeleton so the smart contract can mint a non-fungible token.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/upgrade-contract">Upgrade a contract</a>: Discover the process to upgrade an existing smart contract.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/enumeration">Enumeration</a>: Explore different enumeration methods that can be used to return the smart contract&#8217;s states.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/core">Core</a>: Extend the NFT contract using the core standard, which will allow you to transfer non-fungible tokens.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/approvals">Approvals</a>: Expand the contract allowing other accounts to transfer NFTs on your behalf.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/royalty">Royalty</a>: Add the ability for non-fungible tokens to have royalties. This will allow people to get a percentage of the purchase price when an NFT is purchased.</li></ul>
+<ul class="wp-block-list"><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/predeployed-contract">Pre-deployed contract</a>: Get introduced to minting an NFT without the need to code, create, or deploy a smart contract.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/skeleton">Contract architecture</a>: Learn the basic architecture of the NFT smart contract and you&#8217;ll compile this skeleton code with the Rust toolchain.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/minting">Minting</a>: Flesh out the skeleton so the smart contract can mint a non-fungible token.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/upgrade-contract">Upgrade a contract</a>: Discover the process to upgrade an existing smart contract.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/enumeration">Enumeration</a>: Explore different enumeration methods that can be used to return the smart contract&#8217;s states.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/core">Core</a>: Extend the NFT contract using the core standard, which will allow you to transfer non-fungible tokens.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/approvals">Approvals</a>: Expand the contract allowing other accounts to transfer NFTs on your behalf.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/royalty">Royalty</a>: Add the ability for non-fungible tokens to have royalties. This will allow people to get a percentage of the purchase price when an NFT is purchased.</li></ul>
 
 
 
@@ -559,7 +559,7 @@
 
 
 
-<ul><li>TL;DR: Added support for RPC Server API Keys (<a href="https://github.com/near/near-api-js/pull/729">PR #729</a>)</li></ul>
+<ul class="wp-block-list"><li>TL;DR: Added support for RPC Server API Keys (<a href="https://github.com/near/near-api-js/pull/729">PR #729</a>)</li></ul>
 
 
 
@@ -575,7 +575,7 @@
 
 
 
-<ul><li>TL;DR: Added a verify method on PublicKey type to verify signature correctness (<a href="https://github.com/near/near-api-js/pull/710">PR #710</a>)</li></ul>
+<ul class="wp-block-list"><li>TL;DR: Added a verify method on PublicKey type to verify signature correctness (<a href="https://github.com/near/near-api-js/pull/710">PR #710</a>)</li></ul>
 
 
 
@@ -591,7 +591,7 @@
 
 
 
-<ul><li>TL;DR: Key file permissions changed to 0o600 (<a href="https://github.com/near/near-api-js/pull/706">#706</a>)</li></ul>
+<ul class="wp-block-list"><li>TL;DR: Key file permissions changed to 0o600 (<a href="https://github.com/near/near-api-js/pull/706">#706</a>)</li></ul>
 
 
 

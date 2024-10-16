@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Nightshade 2.0 Archives &#8211; NEAR Protocol</title>
+	<atom:link href="/blog/tag/nightshade-2-0/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/tag/nightshade-2-0/</link>
+	<description></description>
+	<lastBuildDate>Wed, 04 Sep 2024 01:21:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<title>Nightshade 2.0 Archives &#8211; NEAR Protocol</title>
+	<link>/blog/tag/nightshade-2-0/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>Near One Shares Q3 NEAR Protocol Roadmap Update</title>
+		<link>/blog/near-one-shares-q3-near-protocol-roadmap-update/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 04 Sep 2024 01:21:54 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Near One]]></category>
+		<category><![CDATA[NEAR Protocol]]></category>
+		<category><![CDATA[Nightshade 2.0]]></category>
+		<category><![CDATA[Protocol Roadmap]]></category>
+		<category><![CDATA[Sharding]]></category>
+		<guid isPermaLink="false">/?p=21512</guid>
+
+					<description><![CDATA[<p>A post from the Near One team The launch of stateless validation in August 2024 marks an important milestone for …</p>
+<p>The post <a href="/blog/near-one-shares-q3-near-protocol-roadmap-update/">Near One Shares Q3 NEAR Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em>A post from the Near One team</em></p>
+
+
+
+<p>The launch of stateless validation in August 2024 marks an important milestone for NEAR Protocol, but it is by no means the end state of the protocol. There is still a lot of ambitious work to be done. </p>
+
+
+
+<p>In less than four years since launching mainnet, the NEAR network has over 110 million users – a great achievement for the ecosystem. But the goal for NEAR is to onboard a billion people to the User-Owned Internet. Achieving such widespread usage will require an even more scalable, performant, secure, and fast protocol. The Near One team is already working to make improvements to Nightshade 2.0 and has started planning the next round of advancements. In this post, we describe what the protocol roadmap looks like for the rest of 2024 and into next year.</p>
+
+
+
+<p>First of all, while the stateless validation launch is a major change to the protocol, it does not immediately improve the performance of mainnet. This is because we intentionally keep the upgrade as simple as possible to avoid adding more complexity into the already humongous upgrade. To fully reap the benefits of the new design, there are a number of improvements on top of the release that we will work on for the rest of 2024 following the August launch:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Optimization of state witness size.</strong> In the current implementation, state witness size could be quite large, primarily due to the size of contract code included in a state witness. Optimization of state witness size will reduce the likelihood of a chunk hitting the size limit, thereby improving transaction throughput.</li>
+
+
+
+<li><strong>Reduce gas cost for storage operations.</strong> One of the key benefits of stateless validation is that state accesses (reads and writes) are now fully in memory. It means that the gas cost of state accesses could be significantly reduced, which allows for higher transaction throughput.</li>
+
+
+
+<li><strong>Resharding.</strong> The launch of stateless validation means that no validator node needs to track all shards, which enables scaling to potentially many more shards. However, due to the architectural change, the old method of resharding no longer works and a new method needs to be developed and tested. The new method of resharding will be quite fast and will lay the groundwork for dynamic resharding (see more about this development below).</li>
+
+
+
+<li><strong>Node synchronization.</strong> While not strictly related to stateless validation, the synchronization time for a mainnet node has been a pain point for many node operators. Work will be done in this area both to improve the speed of synchronization and ensure that the synchronization process does not depend on centralized services.</li>
+</ul>
+
+
+
+<p>In addition to the immediate priorities listed above, there are some long-term improvements that we intend to work on starting in early 2025:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Transaction priority fee.</strong> In the stateless validation launch, we introduced congestion control that provides better latency for accepted transactions under congestion conditions. However, users may want to pay more to get to the front of the queue for certain use cases such as trading or arbitrage. Establishing a transaction priority fee mechanism will make NEAR easier to use when there is short-term congestion.</li>
+
+
+
+<li><strong>Dynamic resharding.</strong> The holy grail of sharding: the network dynamically adjusts the number of shards based on the load. When a shard is overloaded, it splits itself into two shards. Similarly, when two shards are both underutilized, they get merged back into one shard for the sake of efficiency.</li>
+
+
+
+<li><strong>Runtime performance improvements.</strong> There are a number of ideas that we’d like to experiment with to improve runtime performance of NEAR, which includes pipelining contract execution, parallel execution of transactions and receipts, and using an optimizing compiler for wasm.</li>
+
+
+
+<li><strong>Leaderless consensus.</strong> The current consensus mechanism degrades in performance when some nodes are offline, which could happen during a protocol upgrade. A leaderless consensus is much less sensitive to a small number of nodes being offline and can also provide higher throughput.</li>
+
+
+
+<li><strong>Sharded smart contracts.</strong> Today each smart contract resides on a specific shard. While the more shards there are on mainnet, the better the overall throughput will be, a smart contract per se cannot take full advantage of NEAR’s sharding. Allowing a smart contract to be sharded (exist on all shards simultaneously) could unlock use cases that are not possible today and make it possible to build dapps with hundreds of millions of users on NEAR.</li>
+</ul>
+
+
+
+<p>These initiatives will significantly improve the performance and scalability of NEAR and make it possible to support hundreds of millions, even a billion daily transactions. The new level of scalability lays a solid foundation for the different verticals of initiatives in the NEAR ecosystem, such as Chain Abstraction, Modularity, and User-Owned AI. Stay tuned for more on performance and efficiency improvements in the coming months and a more detailed future roadmap update towards the end of the year.<br></p>
+<p>The post <a href="/blog/near-one-shares-q3-near-protocol-roadmap-update/">Near One Shares Q3 NEAR Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21512</post-id>	</item>
+		<item>
+		<title>Nightshade 2.0 Launches on NEAR Mainnet, Introducing Stateless Validation and Greater Scalability</title>
+		<link>/blog/nightshade-2-launches-on-near-mainnet-introducing-stateless-validation/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 22 Aug 2024 13:01:31 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Nightshade 2.0]]></category>
+		<category><![CDATA[Protocol Roadmap]]></category>
+		<category><![CDATA[scalability]]></category>
+		<category><![CDATA[Sharding]]></category>
+		<category><![CDATA[stateless validation]]></category>
+		<guid isPermaLink="false">/?p=21503</guid>
+
+					<description><![CDATA[<p>TLDR: Nightshade 2.0, the latest advancement in the NEAR Protocol sharding roadmap, is now live on Mainnet. This upgrade introduces …</p>
+<p>The post <a href="/blog/nightshade-2-launches-on-near-mainnet-introducing-stateless-validation/">Nightshade 2.0 Launches on NEAR Mainnet, Introducing Stateless Validation and Greater Scalability</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>TLDR:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Introduces stateless validation</strong>: an innovative approach to validating state transition, or the process of updating the status of all the data posted to the blockchain. Now, NEAR validators no longer have to maintain the state of a shard locally.</li>
+
+
+
+<li><strong>Scalability, usability improvements: </strong>Nightshade 2.0 Improves single-shard performance significantly and adds capacity for more shards: NEAR currently has 6 shards and the plan is to have 10 shards by the end of 2024.</li>
+
+
+
+<li><strong>Advancing towards NEAR vision:</strong> Upgrades NEAR’s already high-performance and scalable infrastructure to support the growing number of users and activities in the NEAR ecosystem, including consumer apps, Chain Abstraction, modularity, DeFi, and User-Owned AI, to a billion users and beyond. NEAR saw over 20 million monthly active users in July 2024, with over 110 million accounts overall. </li>
+</ul>
+
+
+
+<p>Nightshade 2.0, the latest advancement in the NEAR Protocol sharding roadmap, is now live on Mainnet. This upgrade introduces stateless validation and improves the scalability, performance, and decentralization of the protocol. Nightshade 2.0 is a major milestone for the NEAR network, marking the biggest change to the protocol since mainnet launched in October 2020.&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Introducing Stateless Validation</h4>
+
+
+
+<p>Introducing stateless validation to the sharding architecture of NEAR Protocol both improves single-shard performance as well as adds capacity for more shards on the network. The upgrade happens live, without affecting mainnet users and applications. Currently at six shards, NEAR aims to have ten shards by the end of 2024.&nbsp;</p>
+
+
+
+<p>Stateless validation is an innovative approach to validating state transition, or the process of updating the status of all the data posted to the blockchain. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” With Nightshade sharding, both the state and processing are divided among shards. Now, NEAR validators no longer have to maintain the state of a shard locally and can retrieve all the information they need to validate state changes, or “state witness,” from the network. Stateless validation was originally proposed by Vitalik Buterin in 2017 and NEAR is one of the only blockchain networks to implement the approach.&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Unlocking Even Higher Performance &amp; Scalability</h4>
+
+
+
+<p>In Nightshade 2.0, validators no longer need to track all shards and there are lower hardware requirements and costs for running a validator, potentially allowing more validators to join the ecosystem—which will further decentralize the network and enhance its security over time. </p>
+
+
+
+<p>“Nightshade 2.0 is a fundamental reworking of NEAR sharding and is a major milestone in NEAR’s development roadmap that will greatly increase NEAR’s efficiency and scalability,” said Bowen Wang, Head of Protocol at <a href="https://nearone.org/">NEAR One</a>. “In particular, the new sharding implementation paves the way to significantly increase NEAR’s already-fast transaction throughput. It also substantially lowers the cost of operating validators, lowering the barrier to entry for&nbsp; more people to become validators, which will improve the decentralization of the network. These performance and scalability upgrades will ensure that NEAR remains fast, cost-effective, and efficient even with millions more users.”&nbsp;</p>
+
+
+
+<p>“Nightshade 2.0 solves the fundamental bottleneck issue on most L1s of how to scale while preserving both usability and security,” said Illia Polosukhin, Co-Founder of NEAR Protocol and CEO of the NEAR Foundation. “By improving the performance of each shard and adding more shards, while also further decentralizing the network, NEAR sets yet another new technical standard with this upgrade. With Nightshade 2.0, NEAR sharding now enables the network to support hundreds of millions of users with high performance and speeds across consumer apps, modularity, Chain Abstraction, DeFi, and User-Owned AI.”</p>
+
+
+
+<h4 class="wp-block-heading">What’s Next for NEAR Sharding?</h4>
+
+
+
+<p>How does Nightshade 2.0 fit into the long-term sharding roadmap for the NEAR Protocol? Nightshade 2.0 is a shift in direction from the original Nightshade sharding architecture NEAR launched with in 2020, bypassing some fundamental roadblocks in that protocol design around the implementation of challenges in the initial idea of Phase 2, while also unlocking additional benefits.&nbsp;</p>
+
+
+
+<p>From here, the focus for the remainder of 2024 will be on making further performance improvements and optimizations on top of those unlocked by Nightshade 2.0. These include introducing a new method of resharding, reducing gas costs for storage operations, and optimization of state witness size. Starting in early 2025, planning for the next phase of NEAR scalability and sharding will begin, including on dynamic re-sharding, the holy grail of sharding, where the network dynamically adjusts the number of shards based on the load. The Near One team will share a more detailed roadmap update in the coming days.&nbsp;</p>
+
+
+
+<p>For more information on Nightshade 2.0, watch Bowen Wang and Illia Polosukhin’s <a href="https://www.youtube.com/watch?v=YGUeTu4Cco4">Whiteboard Series</a> unpacking the NEAR Protocol. For deep technical details on how NEAR sharding and stateless validation works, read the Nightshade 2.0 <a href="https://discovery-domain.org/papers/nightshade.pdf">whitepaper</a>.&nbsp;</p>
+<p>The post <a href="/blog/nightshade-2-launches-on-near-mainnet-introducing-stateless-validation/">Nightshade 2.0 Launches on NEAR Mainnet, Introducing Stateless Validation and Greater Scalability</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21503</post-id>	</item>
+	</channel>
+</rss>

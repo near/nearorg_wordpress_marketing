@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -44,7 +44,7 @@
 <p>The post <a href="/blog/near-foundations-response-to-the-uk-crypto-asset-consultation/">NEAR Foundation&#8217;s Response to the UK Crypto Asset Consultation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<ol start="1">
+<ol class="wp-block-list" start="1">
 <li><strong>Introduction</strong></li>
 </ol>
 
@@ -70,7 +70,7 @@
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Chapter 11 Responses</strong></li>
 </ol>
 
@@ -108,7 +108,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Decentralised</strong>. Decentralisation (as HMT appropriately notes<sup><a href="#ftnt11">[11]</a></sup>) can exist on a spectrum and in our view is most appropriately defined in terms of various forms of intrinsic network power/control being more or less distributed (we discuss these different forms of network power/control in more detail below).&nbsp;Where a project sits on the ‘spectrum’ of decentralisation is impacted, among other things, by factors such as decisions subjected to cryptoasset holder voting, governance participants, cryptoasset ownership distribution, the scope and extent of the original development team&#8217;s involvement, whether authority to alter, pause or shut down the protocol is present, the presence of a multi-signature wallet (“<strong>Multisig</strong>”) with elevated privileges, the members of the Multisig, the responsibility for addressing security issues, and treasury management methods.&nbsp;Decentralisation should be a critical aspect of any approach to cryptoasset regulation because it can impact the nature, number and geographic distribution of participants involved in a DeFi system (a much larger, distributed, fluctuating body of actors) as compared to any TradFi system.</li>
 
 
@@ -210,7 +210,7 @@
 
 
 
-<ol start="1">
+<ol class="wp-block-list" start="1">
 <li>The proposal&#8217;s focus on tokens without distinguishing between different types of transactions.</li>
 
 
@@ -228,7 +228,7 @@
 
 
 
-<ol start="1">
+<ol class="wp-block-list" start="1">
 <li>Focusing on exempting &#8220;qualifying distributions&#8221; of tokens to users and builders, rather than the token itself, allowing regulators to address potential abuses or unanticipated issues.</li>
 
 
@@ -342,7 +342,7 @@
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Chapter 12: Other Crypto Asset Activities (Miners and Validators)</strong></li>
 </ol>
 
@@ -380,31 +380,31 @@
 
 
 
-<ol start="1">
+<ol class="wp-block-list" start="1">
 <li><strong>Single participant</strong><strong>&nbsp;running a validator node</strong>. A participant operates their own validator node, contributing their resources to maintain network security and earn rewards in return.</li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Delegated staking</strong>. Users delegate their cryptoassets to a trusted validator, who then stakes on their behalf, generally sharing the rewards and risks proportionally.</li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Pooled staking</strong>. Participants pool their tokens together to create a shared validator node, distributing rewards and risks among the group based on each individual&#8217;s stake.</li>
 </ol>
 
 
 
-<ol start="4">
+<ol class="wp-block-list" start="4">
 <li><strong>Custodial staking</strong>. Users entrust their tokens to a third-party custodial service, which stakes on their behalf and manages rewards and risks, often for a fee.</li>
 </ol>
 
 
 
-<ol start="5">
+<ol class="wp-block-list" start="5">
 <li><strong>Liquid validator staking</strong>. Users stake their cryptoassets through a smart contract, with such staking contributions themselves made freely transferable (often in&nbsp;tokenised&nbsp;form), providing liquidity while still participating in staking.</li>
 </ol>
 
@@ -462,7 +462,7 @@
 
 
 
-<ol start="1">
+<ol class="wp-block-list" start="1">
 <li><strong>Positive (value-add) MEV strategies</strong>.&nbsp;These strategies are generally seen as beneficial or neutral to the network and its participants. They involve miners/validators extracting value without negatively impacting other users or the overall ecosystem. Examples of so-called positive MEV strategies include: (i) transaction prioritisation (transactions with higher fees are prioritised, which helps maintain a free market and the network’s incentivisation system); and (ii) arbitrage (exploitation of price differences across different cryptoasset markets, contributing to market efficiency).</li>
 
 
@@ -476,7 +476,7 @@
 
 
 
-<ol start="1">
+<ol class="wp-block-list" start="1">
 <li><strong>MEV Auctions (e.g. Flashbots)</strong>. Flashbots is a research organisation<sup><a href="#ftnt50">[50]</a></sup>&nbsp;that focuses on addressing the negative externalities of MEV. They have introduced a system called MEV-Geth, which enables miners to participate in sealed-bid auctions for transaction ordering rights. Users can submit their transactions directly to miners along with a bid representing the tip they are &nbsp;willing to pay. This system creates a more transparent marketplace for MEV, reducing the likelihood of potentially harmful strategies.</li>
 
 
@@ -510,7 +510,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>The types and levels of risks associated with these activities and how they can be mitigated or managed by the participants or the platforms.</li>
 
 

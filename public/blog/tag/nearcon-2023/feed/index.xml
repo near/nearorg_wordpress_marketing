@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -216,7 +216,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Internet aberta &#8211; aprenda como a tecnologia aberta e seus ideais se juntam em blockchains como NEAR para a criação de uma internet onde todos podem aproveitar o controle dos seus dados, ideias e criações.</li>
 
 
@@ -242,7 +242,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Ser estudante registrado em Portugal</li>
 
 
@@ -366,9 +366,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>The Hackathon is held November 7-10th.
-<ul>
+<ul class="wp-block-list">
 <li><strong>November 7th</strong> — Hackathon orientation, team matching, and a welcome party hosted by NEARWEEK.&nbsp;</li>
 
 
@@ -444,7 +444,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Open Web </strong>— Learn how open source technologies and ideals are colliding with blockchain technologies like NEAR to create an open web where everyone can be fairly rewarded for their data, ideas, and effort.&nbsp;</li>
 
 
@@ -536,7 +536,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Join 5,000+ delegates as the NEAR community explores the power and possibilities of an open web</li>
 
 
@@ -578,7 +578,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Michael Casey — CoinDesk</li>
 
 
@@ -620,7 +620,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>FREE access to NEARCON</li>
 
 
@@ -720,7 +720,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Join 5,000+ delegates as we explore the power and possibilities of an open web</li>
 
 

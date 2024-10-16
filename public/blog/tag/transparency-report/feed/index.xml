@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -84,7 +84,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>NEAR is the Blockchain Operating System (BOS)</strong>: the open web is only possible with an open operating system, which only NEAR can deliver.</li>
 
 
@@ -142,9 +142,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>NEAR is the BOS
-<ul>
+<ul class="wp-block-list">
 <li>Successful launch and migration of near.org on to the BOS — this was done at Consensus with a huge activation.&nbsp;</li>
 
 
@@ -164,7 +164,7 @@
 
 
 <li>NEAR is a thriving decentralized ecosystem
-<ul>
+<ul class="wp-block-list">
 <li>Marketing &amp; Creatives DAO now fully transitioned to the NDC.</li>
 
 
@@ -188,7 +188,7 @@
 
 
 <li>NEAR is where web2 comes to become web3
-<ul>
+<ul class="wp-block-list">
 <li>42 new strategic partners have been signed in Q2, including the announcement of 7 flagship deals and over 15 tier 2 deals. The challenge here remains the lag between announcement and launch on mainnet.&nbsp;</li>
 </ul>
 </li>
@@ -368,7 +368,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://techcrunch.com/2023/04/24/near-cosmose-ai/">Cosmose AI</a> — Loyalty-based shopping app that enables users to buy with crypto in order to lower transaction fees for both merchants and consumers. Cosmose represents a practical and real-world use case with initial traction in Singapore.</li>
 
 
@@ -390,7 +390,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://twitter.com/NEARProtocol/status/1628140507183386626?lang=en-GB">SLiC Images</a>&nbsp; — A digital rights-management platform for independent photographers and videographers to license and monetize their content founded and led by former NBA all-star Baron Davis and built on Mintbase technology.</li>
 
 
@@ -412,7 +412,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="/blog/near-foundation-and-marblex-to-expand-koreas-web3-gaming-industry-with-warp-bridge/">Netmarble</a> — One of the largest game publishers worldwide is bringing a suite of Web3 games to NEAR.</li>
 
 
@@ -434,7 +434,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.prnewswire.com/in/news-releases/near-foundation-and-airchains-join-forces-with-sankalptaru-foundation-to-boost-accountability-in-tree-plantations-301822068.html">SankalpTaru</a> — One of the largest sustainability NGOs in India is leveraging the blockchain to bring accountability and transparency to afforestation activities. They have planted over 3.5 million trees and supported&nbsp; over 30,000 farmers.&nbsp;</li>
 
 
@@ -452,7 +452,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="/blog/near-and-alibaba-cloud-team-up-to-grow-the-open-web/?_gl=1%2A1rhxlbf%2A_up%2AMQ..%2A_ga%2AMjEyNzM2NjI0NC4xNjg4NjYyNzM0%2A_ga_9GWCXQJ62J%2AMTY4ODY2MjczMS4xLjAuMTY4ODY2MjczMS4wLjAuMA..">Alibaba Cloud</a> — Alibaba Cloud is collaborating with NEAR Foundation to provide Remote Procedure Call (RPC) as a service to NEAR ecosystem projects. In addition, Alibaba Cloud will focus on multi-chain data indexing which helps drive the adoption of the Blockchain Operating System (BOS) through supporting interoperability across different blockchains.&nbsp;</li>
 
 
@@ -482,7 +482,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://sweatco.in/"><strong>SWEAT</strong></a> — The number 1 free app in over 60 countries which rewards users daily steps with a new-generation currency, launched a highly successful USDT campaign that acquired over 300K monthly active users (MAUs). Plans for supporting SWEAT’s launch in the US during Q3/Q4 are in place. Additionally, the testing and launch of Web3 new products, such as the Swap Feature and NFT game, are currently underway, aimed at further engaging new users.</li>
 
 
@@ -556,7 +556,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Actively leveraging NEAR platforms such as the Official <a href="https://discord.gg/qmRAacr6ze">NEAR Discord</a>, <a href="https://t.me/cryptonear">Telegram</a>, and <a href="https://twitter.com/NEARProtocol">NEARProtocol Twitter</a>, the NEAR Foundation Community Team has been running regular Twitter Spaces and AMAs with many NEAR projects to continuously surface the many amazing things being built on NEAR throughout the wider network.</li>
 
 
@@ -666,7 +666,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>“<a href="https://ln.keymate.ai/9gtiQf">Illia Polosukhin: Building Near&#8217;s Blockchain, Embedding AI</a>”: This article discusses Illia Polosukhin&#8217;s journey to blockchain success and his work on NEAR&#8217;s blockchain, including the integration of AI.</li>
 
 
@@ -692,7 +692,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Participants Model — </strong>the Participants are the entities that take action within the ecosystem. This looks at three core audiences: Developers, Businesses, and Accounts. Developers build applications for Businesses, who in turn create experiences for the Accounts who interact with them. Each audience is important to monitor as each is dependent on each other.</li>
 
 
@@ -784,7 +784,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>The number of accounts on the NEAR Protocol grew from <strong>15.6 million </strong>at the end of Q2 to<strong> over 20.6 million accounts </strong>at the end of Q3<strong>.&nbsp;</strong></li>
 
 
@@ -878,7 +878,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>$350M – Proximity DeFi Grants</strong> – to help projects in the space of financial innovation within the NEAR ecosystem. (Proximity will be publishing its own transparency report on December 21, 2022.)&nbsp;</li>
 
 
@@ -936,13 +936,13 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.metaweb.vc/"><strong>MetaWeb</strong></a>, a NEAR-native investment fund, has raised $30m from Sequoia, in addition to NF. MetaWeb has deployed over $11m across 36 investments to date, including <strong>Niche</strong>, <strong>Orderly</strong>, <strong>Above.Land</strong>, and <strong>Sender Wallet</strong>.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.move.capital/"><strong>MOVE Capital</strong></a> is a NEAR-native investment fund that has raised $13m from Accomplice and DCG, in addition to NF. MOVE has made 20 investments to date totalling over $7m, including <strong>Tonic</strong>, <strong>Calimero</strong>, <strong>Few &amp; Far</strong>, and <strong>Sweatcoin</strong>.</li>
 
 
@@ -984,9 +984,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Infrastructure and Integrations </strong>– “Infrastructure” is a catch-all term for key ecosystem partnerships, integrations, and technologies that support access to mainnet and successful development on NEAR. These key components include: frictionless onboarding solutions, wallets, bridges, oracles, custodians, zero-knowledge technologies, privacy tools, and improved tooling for developers. Integrations with the NEAR network are laying the groundwork for the next phase of the community’s growth, which is bringing more users from Web2 into Web3 — what the Foundation calls Web 2.5. The following partnerships have been instrumental in making progress towards this initiative.
-<ul>
+<ul class="wp-block-list">
 <li><strong><em>Key projects:</em></strong><em> </em><a href="https://aurora.dev/"><strong><em>Aurora</em></strong></a><em>, </em><a href="https://www.pagoda.co/"><strong><em>Pagoda</em></strong></a><em>, </em><a href="https://www.calimero.network/"><strong><em>Calimero</em></strong></a><em>, </em><a href="https://switchboard.xyz/"><strong><em>Switchboard</em></strong></a><em>, </em><a href="https://oct.network/"><strong><em>Octopus</em></strong></a>, <a href="https://brave.com/near-aurora/"><strong><em>Brave</em></strong></a><em>, </em><a href="/blog/near-launches-sustainable-learn-and-earn-program-with-coinbase/"><strong><em>Coinbase</em></strong></a><em>, </em><a href="/blog/bitgo-becomes-first-qualified-custodian-to-support-near-protocol-and-its-assets/#:~:text=NEAR%20is%20so%20confident%20in,institutional%20investors%20across%2050%2B%20countries."><strong><em>BitGo</em></strong></a><em>, </em><a href="/blog/fireblocks-provides-custody-facility-for-institutional-investors-on-near/"><strong><em>Fireblocks</em></strong></a><em>, </em><a href="https://tether.to/"><strong><em>USDT</em></strong></a><em>, USDC, </em><a href="https://tokenterminal.com/"><strong><em>Token Terminal</em></strong></a><em>, </em><strong><em>OnMachina, Keypom</em></strong></li>
 </ul>
 </li>
@@ -994,7 +994,7 @@
 
 
 <li><strong>Gaming / Entertainment </strong>– The Web3 gaming space is still wide open and rapidly evolving. The first wave of Web3 games proved that there was consumer demand for blockchain-based gaming. Right now, there is a great deal of room for experimentation, iterating on long-term sustainable models, introducing permissionless composability, and creating new forms of NFTs as well as games that are partially or even fully on-chain.
-<ul>
+<ul class="wp-block-list">
 <li><strong><em>Key projects:</em></strong><em> </em><a href="http://armoredkingdom.com/"><strong><em>Armored Kingdom</em></strong></a><em>, </em><a href="https://sweatco.in/"><strong><em>SWEAT</em></strong></a><em>, </em><a href="https://endlesss.fm/"><strong><em>Endlesss</em></strong></a><em>, </em><a href="http://niche.club/"><strong><em>Niche</em></strong></a><em>, </em><a href="https://playember.com/"><strong><em>playEmber</em></strong></a><strong><em>, </em></strong><a href="https://efuse.gg/"><strong><em>eFuse</em></strong></a></li>
 </ul>
 </li>
@@ -1002,7 +1002,7 @@
 
 
 <li><strong>NFTs </strong>–&nbsp; NFTs on NEAR present a massive opportunity, in which NEAR’s flexible infrastructure and focus on usability are ideal for many NFT use cases, especially those focused on utility. With its strong position in the Web3 space, NEAR has the potential to become a leader in fostering sustainable and innovative NFT use cases that provide lasting value for all participants.
-<ul>
+<ul class="wp-block-list">
 <li><strong><em>Key projects:</em></strong><em> </em><a href="https://fewfar.com/"><strong><em>Few &amp; Far</em></strong></a><strong><em>,</em></strong><strong><em> </em></strong><a href="https://paras.id/"><strong><em>Paras</em></strong></a><strong><em>, </em></strong><a href="https://www.mintbase.io/"><strong><em>Mintbase</em></strong></a><strong><em>, </em></strong><strong><em>Satori, </em></strong><a href="https://apollo42.world/"><strong><em>Apollo42</em></strong></a><strong><em>, </em></strong><a href="https://www.tradeport.xyz/"><strong><em>Tradeport</em></strong></a><strong><em>, </em></strong><a href="https://paras.id/collection/beenftofficial.near"><strong><em>Bee NFT</em></strong></a><strong><em>/</em></strong><a href="https://beexperience.io/"><strong><em>Beexperience</em></strong></a><strong><em>, </em></strong><a href="https://www.tamastream.io/"><strong><em>Tamago</em></strong></a></li>
 </ul>
 </li>
@@ -1010,7 +1010,7 @@
 
 
 <li><strong>DAOs – </strong>The Foundation believes NEAR has the strongest no-code, easy to use DAO tech stack in Web3 and sees DAOs as key enablers of decentralization. NEAR is helping communities govern their treasuries and activities in a completely decentralized way, with the help of our DAO stack.&nbsp; We will continue to facilitate DAO use cases in investments, NFTs, gaming, sustainability, science, and beyond.
-<ul>
+<ul class="wp-block-list">
 <li><strong><em>Key projects:</em></strong><em> </em><a href="https://astrodao.com/"><strong><em>AstroDAO</em></strong></a><strong><em>, </em></strong><a href="https://sailgp.com/"><strong><em>SailGP</em></strong></a><strong><em>, </em></strong><a href="https://unchain.fund/"><strong><em>Unchain Fund </em></strong></a>, <a href="https://flamingodao.xyz/"><strong><em>Flamingo DAO</em></strong></a>, <a href="https://www.breederdao.io/"><strong><em>Breeder DAO</em></strong></a></li>
 </ul>
 </li>
@@ -1046,13 +1046,13 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.nearua.com/">Ukraine Hub</a> (winding down as of Q4 2022)&nbsp;</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="/blog/near-launches-kenya-regional-hub-to-support-blockchain-projects-and-talent-in-africa/">Kenya Hub</a> (Sankore)&nbsp;</li>
 
 
@@ -1094,7 +1094,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>NEAR Constitution</strong> &#8211; Creation and ratification of shared values and basic rights for all community members. NEAR ecosystem’s north star.</li>
 
 
@@ -1867,7 +1867,7 @@
 
 
 
-<ul><li><strong>2</strong> closed projects in Q4 ‘22 &#8211; (<em>$6.2M)</em></li><li><strong>2</strong> finalizing rounds</li><li><strong>20</strong> new fundraising processes kicked off&nbsp;</li><li><strong>22</strong> VC intros made</li></ul>
+<ul class="wp-block-list"><li><strong>2</strong> closed projects in Q4 ‘22 &#8211; (<em>$6.2M)</em></li><li><strong>2</strong> finalizing rounds</li><li><strong>20</strong> new fundraising processes kicked off&nbsp;</li><li><strong>22</strong> VC intros made</li></ul>
 
 
 
@@ -1875,11 +1875,11 @@
 
 
 
-<ul><li><strong>EmpireDAO</strong> &#8211; <a href="https://twitter.com/MikeFraietta/status/1582099450914226179?s=20&amp;t=sExoEhHGMQ5nx3yUbKvEmQ">Raised a $2.8m seed round</a> with participation from NEAR Foundation to build a global community starting with a flagship location in NYC. Please stop by the NEAR space at EmpireDAO if you are ever in NYC!&nbsp;</li></ul>
+<ul class="wp-block-list"><li><strong>EmpireDAO</strong> &#8211; <a href="https://twitter.com/MikeFraietta/status/1582099450914226179?s=20&amp;t=sExoEhHGMQ5nx3yUbKvEmQ">Raised a $2.8m seed round</a> with participation from NEAR Foundation to build a global community starting with a flagship location in NYC. Please stop by the NEAR space at EmpireDAO if you are ever in NYC!&nbsp;</li></ul>
 
 
 
-<ul><li><strong>t2.world</strong> &#8211; <a href="https://cryptonews.com/news/t2world-raises-34m-empower-readers-writers-decentralized-future.htm">Raised a $3.4m seed round</a> led by Inflection and Archetype to empower readers and writers to grow their communities in the Web3 space.</li></ul>
+<ul class="wp-block-list"><li><strong>t2.world</strong> &#8211; <a href="https://cryptonews.com/news/t2world-raises-34m-empower-readers-writers-decentralized-future.htm">Raised a $3.4m seed round</a> led by Inflection and Archetype to empower readers and writers to grow their communities in the Web3 space.</li></ul>
 
 
 
@@ -1923,7 +1923,7 @@
 
 
 
-<ul><li>explore the NEAR Funding&nbsp; <a href="https://linktr.ee/nearfunding">linktree</a></li><li>visit NF’s website : <a href="/">/</a></li><li>contact NF Grants : grants.@near.foundation&nbsp;</li></ul>
+<ul class="wp-block-list"><li>explore the NEAR Funding&nbsp; <a href="https://linktr.ee/nearfunding">linktree</a></li><li>visit NF’s website : <a href="/">/</a></li><li>contact NF Grants : grants.@near.foundation&nbsp;</li></ul>
 <p>The post <a href="/blog/near-foundation-funding-team-report-october-2022/">NEAR Foundation Funding Team Report: October 2022 </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
@@ -2101,7 +2101,7 @@
 
 
 
-<ul><li>The number of accounts on the NEAR Protocol has grown from <strong>1.1 million at the beginning of 2022 to 15.6 million accounts at the end of Q2.&nbsp;</strong></li><li>The number of weekly active developers deploying on mainnet has grown from <strong>250 to 1,500 per week.</strong></li><li>DAOs have surged from <strong>50 to 700</strong> and the number of projects deployed on NEAR has increased from <strong>100 to 750</strong>.</li></ul>
+<ul class="wp-block-list"><li>The number of accounts on the NEAR Protocol has grown from <strong>1.1 million at the beginning of 2022 to 15.6 million accounts at the end of Q2.&nbsp;</strong></li><li>The number of weekly active developers deploying on mainnet has grown from <strong>250 to 1,500 per week.</strong></li><li>DAOs have surged from <strong>50 to 700</strong> and the number of projects deployed on NEAR has increased from <strong>100 to 750</strong>.</li></ul>
 
 
 
@@ -2113,7 +2113,7 @@
 
 
 
-<ul><li><strong>$350M &#8211; Proximity DeFi Grants</strong> &#8211; to help projects in the space of financial innovation within the NEAR Ecosystem.</li><li><strong>$250M &#8211; Foundation Grants</strong> &#8211; to support projects building on NEAR, through direct investment and grants.</li><li><strong>$100M &#8211; Startup Funds</strong> &#8211; to decentralize capital deployment into dedicated investment funds within the ecosystem.</li><li><strong>$100M &#8211; Regional Funds </strong>&#8211; to establish physical hubs in key regions around the world to provide a local presence.</li></ul>
+<ul class="wp-block-list"><li><strong>$350M &#8211; Proximity DeFi Grants</strong> &#8211; to help projects in the space of financial innovation within the NEAR Ecosystem.</li><li><strong>$250M &#8211; Foundation Grants</strong> &#8211; to support projects building on NEAR, through direct investment and grants.</li><li><strong>$100M &#8211; Startup Funds</strong> &#8211; to decentralize capital deployment into dedicated investment funds within the ecosystem.</li><li><strong>$100M &#8211; Regional Funds </strong>&#8211; to establish physical hubs in key regions around the world to provide a local presence.</li></ul>
 
 
 
@@ -2181,19 +2181,19 @@
 
 
 
-<ul><li><strong>Infrastructure and Integrations </strong>&#8211; Infrastructure is a catch all term for key parts of the ecosystem that are needed to help unlock mass adoption. These include things like wallets, bridges, oracles, zk technologies, privacy tools, and improved tools for developers. Integrations with the NEAR network are crucial to bring more users into web3. The following partnerships have been instrumental in accelerating NEAR’s connection with the rest of web3.<ul><li><strong><em>Key projects:</em></strong><em> </em><a href="https://aurora.dev/"><strong><em>Aurora</em></strong></a><em>, </em><a href="https://www.pagoda.co/"><strong><em>Pagoda</em></strong></a><em>, </em><a href="https://www.calimero.network/"><strong><em>Calimero</em></strong></a><em>, </em><a href="https://switchboard.xyz/"><strong><em>Switchboard</em></strong></a><em>, </em><a href="https://oct.network/"><strong><em>Octopus</em></strong></a>, <a href="https://brave.com/near-aurora/"><strong><em>Brave</em></strong></a><em>, </em><a href="/blog/near-launches-sustainable-learn-and-earn-program-with-coinbase/"><strong><em>Coinbase Earn</em></strong></a><em>, </em><a href="/blog/bitgo-becomes-first-qualified-custodian-to-support-near-protocol-and-its-assets/#:~:text=NEAR%20is%20so%20confident%20in,institutional%20investors%20across%2050%2B%20countries."><strong><em>BitGo</em></strong></a><em>, </em><a href="https://tether.to/"><strong><em>USDT</em></strong></a><em>, </em><a href="/blog/fireblocks-provides-custody-facility-for-institutional-investors-on-near/"><strong><em>Fireblocks</em></strong></a><em>, </em><a href="https://tokenterminal.com/"><strong><em>Token Terminal</em></strong></a><em>, </em><a href="https://copper.co/about"><strong><em>Copper</em></strong></a></li></ul></li></ul>
+<ul class="wp-block-list"><li><strong>Infrastructure and Integrations </strong>&#8211; Infrastructure is a catch all term for key parts of the ecosystem that are needed to help unlock mass adoption. These include things like wallets, bridges, oracles, zk technologies, privacy tools, and improved tools for developers. Integrations with the NEAR network are crucial to bring more users into web3. The following partnerships have been instrumental in accelerating NEAR’s connection with the rest of web3.<ul><li><strong><em>Key projects:</em></strong><em> </em><a href="https://aurora.dev/"><strong><em>Aurora</em></strong></a><em>, </em><a href="https://www.pagoda.co/"><strong><em>Pagoda</em></strong></a><em>, </em><a href="https://www.calimero.network/"><strong><em>Calimero</em></strong></a><em>, </em><a href="https://switchboard.xyz/"><strong><em>Switchboard</em></strong></a><em>, </em><a href="https://oct.network/"><strong><em>Octopus</em></strong></a>, <a href="https://brave.com/near-aurora/"><strong><em>Brave</em></strong></a><em>, </em><a href="/blog/near-launches-sustainable-learn-and-earn-program-with-coinbase/"><strong><em>Coinbase Earn</em></strong></a><em>, </em><a href="/blog/bitgo-becomes-first-qualified-custodian-to-support-near-protocol-and-its-assets/#:~:text=NEAR%20is%20so%20confident%20in,institutional%20investors%20across%2050%2B%20countries."><strong><em>BitGo</em></strong></a><em>, </em><a href="https://tether.to/"><strong><em>USDT</em></strong></a><em>, </em><a href="/blog/fireblocks-provides-custody-facility-for-institutional-investors-on-near/"><strong><em>Fireblocks</em></strong></a><em>, </em><a href="https://tokenterminal.com/"><strong><em>Token Terminal</em></strong></a><em>, </em><a href="https://copper.co/about"><strong><em>Copper</em></strong></a></li></ul></li></ul>
 
 
 
-<ul><li><strong>Gaming / Entertainment </strong>&#8211; The web3 gaming space is still wide open. The first iteration of web3 games proved consumer demand. Now, there is room to iterate on long-term sustainable models, introduce permissionless composability, and create new forms of NFTs in addition to games that are primarily or even fully on-chain.<ul><li><strong><em>Key projects:</em></strong><em> </em><a href="http://armoredkingdom.com/"><strong><em>Armored Kingdom</em></strong></a><em>, </em><a href="https://sweatco.in/"><strong><em>SWEAT</em></strong></a><em>, </em><a href="https://endlesss.fm/"><strong><em>Endlesss</em></strong></a><em>, </em><a href="http://niche.club/"><strong><em>Niche</em></strong></a><em>, </em><a href="https://playember.com/"><strong><em>playEmber</em></strong></a><strong><em>, </em></strong><a href="https://efuse.gg/"><strong><em>eFuse</em></strong></a></li></ul></li></ul>
+<ul class="wp-block-list"><li><strong>Gaming / Entertainment </strong>&#8211; The web3 gaming space is still wide open. The first iteration of web3 games proved consumer demand. Now, there is room to iterate on long-term sustainable models, introduce permissionless composability, and create new forms of NFTs in addition to games that are primarily or even fully on-chain.<ul><li><strong><em>Key projects:</em></strong><em> </em><a href="http://armoredkingdom.com/"><strong><em>Armored Kingdom</em></strong></a><em>, </em><a href="https://sweatco.in/"><strong><em>SWEAT</em></strong></a><em>, </em><a href="https://endlesss.fm/"><strong><em>Endlesss</em></strong></a><em>, </em><a href="http://niche.club/"><strong><em>Niche</em></strong></a><em>, </em><a href="https://playember.com/"><strong><em>playEmber</em></strong></a><strong><em>, </em></strong><a href="https://efuse.gg/"><strong><em>eFuse</em></strong></a></li></ul></li></ul>
 
 
 
-<ul><li><strong>NFTs </strong>&#8211;&nbsp; NFTs on NEAR is a large and extremely important opportunity in which NEAR has a unique tech advantage as NEAR NFTs are applications that are programmable. NEAR has a chance to be the first mover in true, long-term, sustainable and unique NFT use cases.<ul><li><strong><em>Key projects:</em></strong><em> </em><a href="https://fewfar.com/"><strong><em>Few &amp; Far</em></strong></a><strong><em>, </em></strong><a href="https://www.mintbase.io/"><strong><em>Mintbase</em></strong></a><strong><em>, </em></strong><a href="https://paras.id/"><strong><em>Paras</em></strong></a><strong><em>, </em></strong><a href="https://www.seatlabnft.com/"><strong><em>Seatlab</em></strong></a><strong><em>, </em></strong><a href="https://stacksports.com/"><strong><em>Stack Sports&nbsp;</em></strong></a></li></ul></li></ul>
+<ul class="wp-block-list"><li><strong>NFTs </strong>&#8211;&nbsp; NFTs on NEAR is a large and extremely important opportunity in which NEAR has a unique tech advantage as NEAR NFTs are applications that are programmable. NEAR has a chance to be the first mover in true, long-term, sustainable and unique NFT use cases.<ul><li><strong><em>Key projects:</em></strong><em> </em><a href="https://fewfar.com/"><strong><em>Few &amp; Far</em></strong></a><strong><em>, </em></strong><a href="https://www.mintbase.io/"><strong><em>Mintbase</em></strong></a><strong><em>, </em></strong><a href="https://paras.id/"><strong><em>Paras</em></strong></a><strong><em>, </em></strong><a href="https://www.seatlabnft.com/"><strong><em>Seatlab</em></strong></a><strong><em>, </em></strong><a href="https://stacksports.com/"><strong><em>Stack Sports&nbsp;</em></strong></a></li></ul></li></ul>
 
 
 
-<ul><li><strong>DAOs &#8211; </strong>We believe NEAR has the strongest no-code, easy to use, DAO tech stack that is already helping to decentrally govern key ecosystems and hundreds of millions of dollars. We will facilitate DAO use cases in investing, gaming, NFTs, sustainability, and science.&nbsp;<ul><li><strong><em>Key projects:</em></strong><em> </em><a href="https://astrodao.com/"><strong><em>AstroDAO</em></strong></a><strong><em>, </em></strong><a href="https://www.orangedao.xyz/"><strong><em>OrangeDAO</em></strong></a><strong><em>, </em></strong><a href="https://sailgp.com/"><strong><em>SailGP</em></strong></a><strong><em>, </em></strong><a href="https://flamingodao.xyz/"><strong><em>Flamingo DAO</em></strong></a><strong><em>, </em></strong><a href="https://unchain.fund/"><strong><em>Unchain Fund&nbsp;</em></strong></a></li></ul></li></ul>
+<ul class="wp-block-list"><li><strong>DAOs &#8211; </strong>We believe NEAR has the strongest no-code, easy to use, DAO tech stack that is already helping to decentrally govern key ecosystems and hundreds of millions of dollars. We will facilitate DAO use cases in investing, gaming, NFTs, sustainability, and science.&nbsp;<ul><li><strong><em>Key projects:</em></strong><em> </em><a href="https://astrodao.com/"><strong><em>AstroDAO</em></strong></a><strong><em>, </em></strong><a href="https://www.orangedao.xyz/"><strong><em>OrangeDAO</em></strong></a><strong><em>, </em></strong><a href="https://sailgp.com/"><strong><em>SailGP</em></strong></a><strong><em>, </em></strong><a href="https://flamingodao.xyz/"><strong><em>Flamingo DAO</em></strong></a><strong><em>, </em></strong><a href="https://unchain.fund/"><strong><em>Unchain Fund&nbsp;</em></strong></a></li></ul></li></ul>
 
 
 
@@ -2221,7 +2221,7 @@
 
 
 
-<ul><li><a href="https://www.metaweb.vc/"><strong>MetaWeb</strong></a>, another NEAR native investment fund, has raised $30m from Sequoia, in addition to NF. MetaWeb have made 33 investments to date, including <strong>Niche</strong>, <strong>Orderly</strong>, <strong>Above.Land</strong>, and <strong>Sender Wallet</strong>.</li><li><a href="https://www.move.capital/"><strong>MOVE Capital</strong></a> is a NEAR native investment fund that has raised $13m from Accomplice and DCG, in addition to NF. MOVE has made 15 investments to date, including <strong>Tonic</strong>, <strong>Calimero</strong>, <strong>Few &amp; Far</strong>, and <strong>Sweatcoin</strong>.</li><li><a href="https://www.stealthcap.io/"><strong>Stealth Capital</strong></a> is an investment fund for founders, and brings a wealth of experience supporting the development of projects on Solana and Polygon, as well as NEAR.&nbsp;</li><li><a href="https://www.openwebcollective.com/"><strong>Open Web Collective</strong></a> is a blockchain accelerator and investor backing the builders of the multi-chain, decentralized web. Open Web Collective&#8217;s approach to supporting founders is hands-on, user-centric, and analytical.&nbsp;</li></ul>
+<ul class="wp-block-list"><li><a href="https://www.metaweb.vc/"><strong>MetaWeb</strong></a>, another NEAR native investment fund, has raised $30m from Sequoia, in addition to NF. MetaWeb have made 33 investments to date, including <strong>Niche</strong>, <strong>Orderly</strong>, <strong>Above.Land</strong>, and <strong>Sender Wallet</strong>.</li><li><a href="https://www.move.capital/"><strong>MOVE Capital</strong></a> is a NEAR native investment fund that has raised $13m from Accomplice and DCG, in addition to NF. MOVE has made 15 investments to date, including <strong>Tonic</strong>, <strong>Calimero</strong>, <strong>Few &amp; Far</strong>, and <strong>Sweatcoin</strong>.</li><li><a href="https://www.stealthcap.io/"><strong>Stealth Capital</strong></a> is an investment fund for founders, and brings a wealth of experience supporting the development of projects on Solana and Polygon, as well as NEAR.&nbsp;</li><li><a href="https://www.openwebcollective.com/"><strong>Open Web Collective</strong></a> is a blockchain accelerator and investor backing the builders of the multi-chain, decentralized web. Open Web Collective&#8217;s approach to supporting founders is hands-on, user-centric, and analytical.&nbsp;</li></ul>
 
 
 
@@ -2261,7 +2261,7 @@
 
 
 
-<ul><li><a href="https://www.nearua.com/">Ukraine Hub</a> (in exile in Lisbon)&nbsp;</li><li><a href="/blog/near-launches-kenya-regional-hub-to-support-blockchain-projects-and-talent-in-africa/">Kenya Hub</a> (Sankore)&nbsp;</li><li><a href="https://nearbalkans.org/">Balkans Hub</a></li></ul>
+<ul class="wp-block-list"><li><a href="https://www.nearua.com/">Ukraine Hub</a> (in exile in Lisbon)&nbsp;</li><li><a href="/blog/near-launches-kenya-regional-hub-to-support-blockchain-projects-and-talent-in-africa/">Kenya Hub</a> (Sankore)&nbsp;</li><li><a href="https://nearbalkans.org/">Balkans Hub</a></li></ul>
 
 
 

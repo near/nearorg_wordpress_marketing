@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -124,25 +124,25 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Armazem (Hacker HQ) closes at 12:30 PM. </li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Garagem (Community HQ) closes at 5:30 immediately after the happy hour. </li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Convento Do Beato Layer 2 Stage closes at 12:00 PM. The Layer 1 Stage and venue closes at 4:00 PM. </li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Closing party at LX Factory (Fábrica) from 9:00 PM &#8211; 4:00 AM. Open to badge holders. </li>
 </ul>
 
@@ -156,7 +156,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>The Littles</strong></li>
 
 

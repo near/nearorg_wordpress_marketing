@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -208,7 +208,7 @@
 
 
 
-<ul><li>Funding: treasury management and diversification</li><li>Protocol operations: validator ecosystem &amp; decentralization</li><li>Core development: the protocol and developer ecosystem</li><li>Governance and decision-making: decentralization and transparency</li><li>Brand: awareness, traction, consistency</li><li>Ecosystem services: founder support (legal, marketing, ops, community)&nbsp;</li><li>App layer: tooling, number of projects building, active users</li></ul>
+<ul class="wp-block-list"><li>Funding: treasury management and diversification</li><li>Protocol operations: validator ecosystem &amp; decentralization</li><li>Core development: the protocol and developer ecosystem</li><li>Governance and decision-making: decentralization and transparency</li><li>Brand: awareness, traction, consistency</li><li>Ecosystem services: founder support (legal, marketing, ops, community)&nbsp;</li><li>App layer: tooling, number of projects building, active users</li></ul>
 
 
 

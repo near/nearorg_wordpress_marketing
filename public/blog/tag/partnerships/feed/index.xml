@@ -15,13 +15,13 @@
 	<atom:link href="/blog/tag/partnerships/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/partnerships/</link>
 	<description></description>
-	<lastBuildDate>Wed, 05 Jun 2024 13:18:43 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Sep 2024 17:48:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -31,6 +31,80 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>NEAR Foundation and Delphi Labs Partner on AI x Web3 Accelerator</title>
+		<link>/blog/near-foundation-and-delphi-labs-partner-on-ai-x-web3-accelerator/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 12 Sep 2024 16:53:43 +0000</pubDate>
+				<category><![CDATA[User-Owned AI]]></category>
+		<category><![CDATA[Accelerator]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[NEAR Horizon]]></category>
+		<category><![CDATA[Partnerships]]></category>
+		<guid isPermaLink="false">/?p=21521</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation is excited to partner with Delphi Labs to co-host a new accelerator program for high-potential projects at …</p>
+<p>The post <a href="/blog/near-foundation-and-delphi-labs-partner-on-ai-x-web3-accelerator/">NEAR Foundation and Delphi Labs Partner on AI x Web3 Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation is excited to partner with Delphi Labs to co-host a new accelerator program for high-potential projects at the intersection of AI and Web3. The new cohort will launch in October and teams with a strong vision for decentralized AI applications and infrastructure are encouraged to <a href="https://www.hzn.xyz/">apply</a>.</p>
+
+
+
+<p>Building on the success of NEAR’s first <a href="https://near.org/blog/near-foundation-launches-ai-incubation-program">AI x Web3 incubator</a>, the NEAR x Delphi Labs AI Accelerator will provide participating founders and teams with the technical, operational, and financial resources to succeed—including access to $50k in compute credits, advisory support from the NEAR co-founders, funding opportunities beginning at $100k, and token launch support.</p>
+
+
+
+<p><a href="https://www.hzn.xyz/"><strong>Applications are open</strong></a><strong> until October 4 for teams interested in joining the accelerator</strong>, which begins on October 14.</p>
+
+
+
+<p>NEAR Foundation and Delphi Labs share the common strategic vision of a <a href="https://near.org/blog/user-owned-ai-is-near">User-Owned AI</a> ecosystem, built on Web3 rails, that provides genuinely better alternatives to developers and users than the prevailing model of centralized AI controlled by big tech companies. The goal is to maximize the benefits of AI for people and communities—and minimize the potential risks—by putting the power of AI where it belongs: in the hands of users.&nbsp;</p>
+
+
+
+<p>NEAR is a leading blockchain platform designed to accelerate the development of decentralized applications with a focus on usability and scalability—co-founded by Illia Polosukhin, one of the originators of the transformer architecture underpinning the present AI surge. The NEAR ecosystem vision for <a href="https://near.org/blog/user-owned-ai-is-near">User-Owned AI</a> includes building a community of aligned teams where innovations are shared openly, ensuring consistency and interoperability across projects. It also includes supporting development of the robust, open infrastructure needed to build and deploy AI applications on a decentralized network, ensuring that the future of AI is not only owned by users but is scalable, secure, and efficient for businesses and founders.</p>
+
+
+
+<p><a href="https://delphilabs.io/">Delphi Labs</a>, a research and development firm specializing in Web3 and DeFi, brings to the accelerator a deep understanding of blockchain technology and a strong track record of supporting successful projects. </p>
+
+
+
+<p>“Crypto x AI is the sector we’re most excited about and, given how early it is, we thought it made a lot of sense for an accelerator cohort,” explains Delphi Labs co-founder José Macedo. “NEAR is the ideal partner given that Illia is one of the original co-authors of the transformer paper and has an unparalleled understanding and network within AI.” The Delphi team’s conviction is that competitive dynamics will result in a world of millions of AI models and that Web3 is the ideal substrate for this many-model world. They are interested in finding exceptional founders who have a strong vision for how Web3 can benefit from AI, or how AI can benefit from Web3, and want to rapidly execute on this vision.</p>
+
+
+
+<p>NEAR and Delphi are co-designing the upcoming accelerator cohort experience, slated to begin October 14 with a live kickoff gathering planned. Each participating team will receive mentorship, resources, and opportunities for investment: $100k in investment from NEAR Foundation, along with $50k in compute credits, and potential investment of up to $250k from Delphi Labs for further incubation or acceleration following the completion of the program. The program culminates mid-December at an investor-focused demo day with several top funds and angels in the space.&nbsp;</p>
+
+
+
+<p>NEAR’s first AI x Web3 incubator cohort, which ran from June to August 2024, saw participants achieve significant early milestones while contributing essential pieces to the growing User-Owned AI stack. These milestones include: <a href="https://hyperbolic.xyz/">Hyperbolic</a> hosting the latest open source AI models, including Llama 3.1 405B; <a href="https://mizu.global/">Mizu</a> launching their beta platform and attracting 20K users in the first week; and <a href="https://cryptopond.xyz/">Pond</a> launching their first GNN model for wallet predictions and achieving a 20% prediction rate. The teams have built on the momentum from the incubator to attract serious seed funding interest, with Hyperbolic successfully closing a $7M round.</p>
+
+
+
+<p>In addition to the NEAR x Delphi Labs AI Accelerator Program, the NEAR Foundation has also teamed up with <a href="https://www.betaworks.com/camp#about-camp">Betaworks</a> on an in-person acceleration cohort in New York City focused on consumer AI applications in the Web2 space. Running through November 2024, the Betaworks collaboration welcomes a wider roster of projects into the growing User-Owned AI ecosystem and opens further opportunities for bridging the Web3 x AI space to Web2 consumer AI.</p>
+
+
+
+<p>To learn more about the NEAR ecosystem vision for User-Owned AI, Illia’s perspective on the intersection of AI x Web3, and the Delphi Labs team’s investment thesis in the decentralized AI space, check out <a href="https://www.youtube.com/watch?v=NgDykvSBYzo">Delphi’s new podcast episode</a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Illia Polosukhin: AI thesis, crypto x AI, and announcing the Delphi Labs x Near accelerator" width="500" height="281" src="https://www.youtube.com/embed/NgDykvSBYzo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><br>To follow along with the latest in the User-Owned AI ecosystem, join the NEAR.AI and HZN teams in <a href="https://lu.ma/NEAR_Token2049_SG">Singapore</a> (September) or <a href="https://redactedbangkok.ai/">Bangkok</a> (November) and tune in to <a href="https://www.youtube.com/playlist?list=PL9tzQn_TEuFWMuPiQOXhaE5lpOTnxLPZY">NEAR AI Office Hours</a> every Tuesday.</p>
+<p>The post <a href="/blog/near-foundation-and-delphi-labs-partner-on-ai-x-web3-accelerator/">NEAR Foundation and Delphi Labs Partner on AI x Web3 Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21521</post-id>	</item>
+		<item>
 		<title>COSMOSE AI: TRANSFORMING CONSUMER EMPOWERMENT WITH AI AND BLOCKCHAIN</title>
 		<link>/blog/cosmose-ai-transforming-consumer-empowerment-with-ai-and-blockchain/</link>
 		
@@ -162,7 +236,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Cutting-Edge Workshops:</strong> Engage with industry experts and thought leaders through immersive workshops exploring the latest trends and technologies in AI x Web3.</li>
 
 
@@ -351,7 +425,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>The NEAR Digital Collective’s I-AM-HUMAN</strong> movement has crossed 2,000 members in the NEAR ecosystem. The initiative allows users to vote, elect candidates for office, and shape the future of NEAR. You can sign up <a href="https://i-am-human.app/?transactionHashes=Djm4ohdiWxNETWz3xZA8BUreQFbQm63rJh67SAHkMc48">here</a>.</li>
 
 
@@ -742,64 +816,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">20565</post-id>	</item>
-		<item>
-		<title>NEAR Foundation Partners with Absolute Labs to Accelerate How Brands Connect with Customers in Web3</title>
-		<link>/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 20 Apr 2023 13:29:00 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[Infrastructure]]></category>
-		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">/?p=20444</guid>
-
-					<description><![CDATA[<p>NEAR Foundation is excited to announce a new partnership with Absolute Labs, a company revolutionizing Web3’s marketing stack. Its “Wallet …</p>
-<p>The post <a href="/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/">NEAR Foundation Partners with Absolute Labs to Accelerate How Brands Connect with Customers in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>NEAR Foundation is excited to announce a new partnership with <a href="https://absolutelabs.io/">Absolute Labs</a>, a company revolutionizing Web3’s marketing stack. Its “Wallet Relationship Management™ platform can be used by Web2 brands and Web3 startups alike to acquire, convert and retain customers on the Open Web. </p>
-
-
-
-<p>To help in this endeavor, the company <a href="https://finance.yahoo.com/news/absolute-labs-announces-8-million-150000487.html">announced</a> an $8M seed round of funding at NFT NYC in the past week. Other funding partners include backers like Samsung Next, Aglae Ventures, Sparkle Ventures (Animoca Brands), The Luxury Fund and MoonPay. </p>
-
-
-
-<p>”We are thrilled to have the NEAR Foundation as a partner in helping us to accelerate how marketing is done in the next Internet,” says Samir Addamine, Absolute Labs’ CEO and co-founder. “Both our organizations share a vision to accelerate the world’s transition to decentralized marketplaces and more open, transparent and valued user engagement, so it’s a great fit for us.”</p>
-
-
-
-<h2 class="wp-block-heading" id="h-what-is-wallet-relationship-management">What is Wallet Relationship Management</h2>
-
-
-
-<p>Wallet Relationship Management (WRM™) starts with the premise that wallets hold the keys to everything Web3 — from proving identity, providing access to value-rich brand experiences, facilitating payments, creating “ownership” opportunities for customers, and much more. Combining on-chain data from wallets along with assets that Web2 brands can also inject from their Web2 systems, this platform supports all facets of the marketing funnel, from acquisition to conversion and retention of loyalty.</p>
-
-
-
-<p>Users of the platform can gain deep insights into their customers and their on-chain preferences and behaviors, identify actionable segments to track and engage, and craft cross-chain and cross-channel (Web2 and Web3) campaigns to develop and nurture relationships</p>
-
-
-
-<p>Absolute Labs customers can also use WRM to reactivate dormant wallet customers by using the WRM dashboard to distribute meaningful incentives such as rewards tokens, NFTs, and more. </p>
-
-
-
-<p>To date, Absolute Labs has 40+ companies using their services. With WRM, these customers get an enterprise-grade suite of connectors and APIs to seamlessly integrate with their existing marketing tech stack. </p>
-
-
-
-<p>Absolute Labs has an incredibly strong product and is a fantastic addition to the NEAR ecosystem. Their Wallet Relationship Management platform is a clear market leader in the burgeoning Web3 martech space, and is already an indispensable component of the modern marketing stack. By bringing Absolute Labs into the NEAR ecosystem, it creates a seamless Web3 on-ramp for brands  and will enable them to engage, retain, and reactivate customers like never before.</p>
-
-
-
-<p>DISCLOSURE: <em>Any information shared in this announcement regarding our partnership with Absolute Labs should not be considered as a binding agreement or representation, and may be subject to change without notice. The information presented in this communication is for informational purposes only and should not be construed as investment advice. Any decisions made based on this information are solely the responsibility of the individual or entity making them.</em></p>
-<p>The post <a href="/blog/near-foundation-partners-with-absolute-labs-to-accelerate-how-brands-connect-with-customers-in-web3/">NEAR Foundation Partners with Absolute Labs to Accelerate How Brands Connect with Customers in Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">20444</post-id>	</item>
 	</channel>
 </rss>

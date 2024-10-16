@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -65,7 +65,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.hankyung.com/it/article/202306074291g">Hankyung</a> (Korea Economy) &#8211; &#8220;Blockchain and AI will Create the Best Synergy&#8221;</li>
 
 
@@ -247,7 +247,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>1st. <a href="https://devfolio.co/projects/pokatika-6406">Pokatika</a>, is a mobile application that enhances the post-event experience with unique NFT photo cards.</li>
 
 

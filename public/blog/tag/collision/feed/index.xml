@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -209,7 +209,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>lllia Polosukhin, Near Protocol, Co-founder</li>
 
 
@@ -259,7 +259,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Joyce Yang, Founder, Global Coin Research</li>
 
 

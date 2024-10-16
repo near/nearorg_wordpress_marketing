@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -91,7 +91,7 @@ https://www.youtube.com/watch?v=Fyl1Hlo-rM0
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Founders: <a href="http://near.org/horizon">Join NEAR Horizon here&nbsp;</a></li>
 
 

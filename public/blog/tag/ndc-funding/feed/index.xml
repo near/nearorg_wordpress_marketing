@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -49,7 +49,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>The Foundation has set the future of funding for the NDC based on significant milestones post V1 Governance</li>
 
 

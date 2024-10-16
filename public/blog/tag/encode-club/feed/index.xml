@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -66,25 +66,25 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Encode x NEAR Horizon Educational Series:</strong> The journey commences with a four-week program of building awareness of Web3 and NEAR Technology. These sessions aim to demystify blockchain technology, making it approachable for newcomers while offering valuable insights for seasoned professionals. From introductory presentations to in-depth technical demos, the educational series lays a solid foundation for all participants.</li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Encode x NEAR Horizon Bootcamp: </strong>An intense eight-week program offers a deep dive into the world of blockchain development. Participants engage in live classes, practical assignments, and collaborative group projects — all under the expert guidance of seasoned instructors. The bootcamp offers a hands-on learning experience, accelerating the participants&#8217; transition from theory to practice.</li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Encode x NEAR Horizon Hackathon:</strong> A four-week hackathon that supports builders in launching high-quality projects. This event is designed to challenge participants and allow them to apply their newfound skills. With technical workshops, mentorship, and continual support, the hackathon provides an excellent platform for budding developers to build, learn, and innovate.</li>
 </ol>
 
 
 
-<ol start="4">
+<ol class="wp-block-list" start="4">
 <li><strong>Encode x NEAR Horizon Accelerator Program: </strong>This eight-week program focuses on nurturing the most promising hackathon projects and ecosystem builders. By offering mentorship and weekly workshops, the accelerator program aims to transform innovative ideas into operational startups, contributing to the growth and diversity of the NEAR ecosystem.</li>
 </ol>
 

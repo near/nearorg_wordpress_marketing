@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -70,7 +70,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Mitchell Amador: </strong>Founder and CEO of <a href="https://immunefi.com/">Immunefi</a>. Mitchell is a leading voice in blockchain security and will explore how incentivized bounties enhance security.</li>
 
 
@@ -124,7 +124,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Developers: </strong>Engage in technical workshops and learn from the best in the business. These sessions are designed to meet you at any point in your open web journey.</li>
 
 

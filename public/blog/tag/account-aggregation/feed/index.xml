@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -68,7 +68,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>NEAR Account</strong>: account abstraction for smooth onboarding and recovery of accounts.</li>
 
 
@@ -166,7 +166,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>User has a root.near account that maps to the remote Ethereum address 0xabc via the relayer’s smart contract.</li>
 
 
@@ -236,13 +236,13 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Smart contract <em>dex.near </em>internally maintains:&nbsp;</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>derivation=/0/0/1 → root.near</li>
 
 
@@ -252,13 +252,13 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>alice.near can sell root.near the derivation inside this smart contract for some amount on NEAR and now it will be inside dex.near. Then root.near can request to draw Ethereum assets from it later.&nbsp;</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>derivation=/0/0/1 → root.near</li>
 
 

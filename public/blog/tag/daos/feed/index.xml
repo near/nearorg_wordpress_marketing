@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -143,9 +143,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>MarketingDAO</strong> is actively reviewing proposals related to amplification and marketing via the <a href="https://gov.nearpages.wpengine.com/c/marketing/marketingdao">MarketingDAO forum channel</a>. At the moment, the core focus of applications is around content and social media, with an exciting <a href="https://gov.nearpages.wpengine.com/t/introducing-the-near-day-community-content-bounty-program-for-eth-denver-2023/32935/9">ETHDenver bounties</a> initiative having just recently been announced.
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://gov.nearpages.wpengine.com/t/the-marketing-dao-vertical/3554">What is the Marketing DAO</a></li>
 
 
@@ -161,9 +161,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>DevGov</strong> is ramping up and reviewing proposals supporting technical ecosystem projects via their <a href="https://near.social/#/mob.near/widget/MyPage?accountId=devgovgigs.near">NEAR.social gig board</a>.
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.neardevgov.org/">What is the Developer Governance DAO</a></li>
 
 
@@ -175,9 +175,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Creatives DAO</strong> is on track for accepting proposals for funding before the end of March.
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://creativesdao.org/">What is the Creatives DAO</a></li>
 
 
@@ -193,9 +193,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>NEAR Digital Collective (NDC)</strong> is a grassroots movement by the NEAR Community to decentralize. NDC V0 Governance is coming soon! The initial milestone is for the Community Treasury to come online, and it is actively being finalized. V0 focuses on funding the GrassrootsDAOs listed above: Marketing, Developer, and Creatives.
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://medium.com/near-digital-collective/a-beginners-guide-to-v0-of-the-ndc-governance-structure-39f977d91b3e">A beginner’s guide to V0 of the NDC governance structure</a></li>
 
 
@@ -205,9 +205,9 @@
 
 
 <li>How to Get Involved:
-<ul>
+<ul class="wp-block-list">
 <li>Join the NDC movement on <a href="https://t.me/+SkmIlkkXB9UzYjM0">Telegram</a>:
-<ul>
+<ul class="wp-block-list">
 <li>Join the Movement</li>
 
 
@@ -239,9 +239,9 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>We are building a product on NEAR Discovery that will allow founders to connect with a range of contributors (e.g., investors, subject matter experts in areas like legal and finance) who can support them in their journey. We are launching an MVP in early March.
-<ol>
+<ol class="wp-block-list">
 <li>If you are a founder, investor, mentor, or subject matter expert interested in being a beta tester, please fill out this <a href="https://airtable.com/shrALYWH9TBQr8jxh">form</a>.&nbsp;</li>
 
 
@@ -253,9 +253,9 @@
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li>We recently made <a href="/blog/open-call-for-near-accelerator-partners/">an open call to partner with accelerator programs</a> that can help us fast track support needs for projects. We will be releasing additional open calls in the coming weeks as we continue building out the support network available for founders. These open calls will be for:
-<ol>
+<ol class="wp-block-list">
 <li>Engineering support resources</li>
 
 
@@ -283,7 +283,7 @@
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li>We are continuously developing and identifying learning content and tooling that are most helpful for early stage founders (e.g., accounting software geared towards Web3 teams, Go To Market exemplars, etc.). These resources will be available within the product.</li>
 </ol>
 
@@ -498,7 +498,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>NEAR has the best technology in Web3</strong>. Provably scalable, easy to onboard and use, developer friendly, secure, and decentralized, with the most advanced account model and onboarding in the blockchain space.&nbsp;</li>
 
 
@@ -902,7 +902,7 @@
 
 
 
-<ul><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/near-community-in-focus-web3-vs-web2-communities/">Part 1: Web3 vs Web2 Communities  </a></a></li><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/near-community-in-focus-decentralized-community-building-on-near/">Part 2: Decentralized Community Building on NEAR</a></a></li><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/near-community-in-focus-near-regional-hubs/">Part 3: NEAR Regional Hubs</a></a></li><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/the-future-of-community-on-near/">Part 4: The Future of Community on NEAR</a></a></li></ul>
+<ul class="wp-block-list"><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/near-community-in-focus-web3-vs-web2-communities/">Part 1: Web3 vs Web2 Communities  </a></a></li><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/near-community-in-focus-decentralized-community-building-on-near/">Part 2: Decentralized Community Building on NEAR</a></a></li><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/near-community-in-focus-near-regional-hubs/">Part 3: NEAR Regional Hubs</a></a></li><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/the-future-of-community-on-near/">Part 4: The Future of Community on NEAR</a></a></li></ul>
 <p>The post <a href="/blog/the-future-of-community-on-near/">NEAR Community in Focus: The Future of Community on NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
@@ -1043,7 +1043,7 @@
 
 
 
-<ul><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/near-community-in-focus-web3-vs-web2-communities/">Part 1: Web3 vs Web2 Communities  </a></a></li><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/near-community-in-focus-decentralized-community-building-on-near/">Part 2: Decentralized Community Building on NEAR</a></a></li><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/near-community-in-focus-near-regional-hubs/">Part 3: NEAR Regional Hubs</a></a></li><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/the-future-of-community-on-near/">Part 4: The Future of Community on NEAR</a></a></li></ul>
+<ul class="wp-block-list"><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/near-community-in-focus-web3-vs-web2-communities/">Part 1: Web3 vs Web2 Communities  </a></a></li><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/near-community-in-focus-decentralized-community-building-on-near/">Part 2: Decentralized Community Building on NEAR</a></a></li><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/near-community-in-focus-near-regional-hubs/">Part 3: NEAR Regional Hubs</a></a></li><li><a href="/blog/near-community-in-focus-web3-vs-web2-communities/"><a href="/blog/the-future-of-community-on-near/">Part 4: The Future of Community on NEAR</a></a></li></ul>
 <p>The post <a href="/blog/near-community-in-focus-decentralized-community-building-on-near/">NEAR Community in Focus: Decentralized Community Building on NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
@@ -1522,7 +1522,7 @@
 
 
 
-<ul><li>P<a href="/blog/a-deep-dive-into-daos-reinventing-community/">art 1: DAOs are changing everything</a></li><li><a href="/blog/a-deep-dive-into-daos-exploring-astro-dao/">Part 2: Exploring Astro DAO</a></li><li><a href="/blog/a-deep-dive-into-daos-life-changing-daos/">Part 3: Life Changing DAOs</a></li><li><a href="/blog/the-future-of-daos-tooling-standards-and-management-part-i/">Part 4: Future of DAOs part 1</a></li></ul>
+<ul class="wp-block-list"><li>P<a href="/blog/a-deep-dive-into-daos-reinventing-community/">art 1: DAOs are changing everything</a></li><li><a href="/blog/a-deep-dive-into-daos-exploring-astro-dao/">Part 2: Exploring Astro DAO</a></li><li><a href="/blog/a-deep-dive-into-daos-life-changing-daos/">Part 3: Life Changing DAOs</a></li><li><a href="/blog/the-future-of-daos-tooling-standards-and-management-part-i/">Part 4: Future of DAOs part 1</a></li></ul>
 <p>The post <a href="/blog/the-future-of-daos-daos-at-work-and-irl-part-ii/">The Future of DAOs: DAOs at Work and IRL</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					

@@ -15,13 +15,13 @@
 	<atom:link href="/blog/tag/ecosystem/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/ecosystem/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Aug 2024 14:09:27 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Aug 2024 17:02:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -31,6 +31,76 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>Ecosystem Update: Announcing Near One, Chain Abstraction Spinouts </title>
+		<link>/blog/ecosystem-update-announcing-near-one-chain-abstraction-spinouts/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 13 Aug 2024 15:43:16 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Decentralization]]></category>
+		<category><![CDATA[Ecosystem]]></category>
+		<guid isPermaLink="false">/?p=21492</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation announces today the formation of two new ecosystem nodes: Near One is spinning out of Pagoda and …</p>
+<p>The post <a href="/blog/ecosystem-update-announcing-near-one-chain-abstraction-spinouts/">Ecosystem Update: Announcing Near One, Chain Abstraction Spinouts </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation announces today the formation of two new ecosystem nodes: Near One is spinning out of Pagoda and a Chain Abstraction team is launching with members from Pagoda and Proximity Labs. In line with the NEAR ecosystem&#8217;s commitment to decentralization, these teams are spinning out key initiatives that have reached sufficient maturity. They join earlier spinouts including Aurora, Calimero, DevHub, and most recently Nuffle Labs, in becoming independent companies. </p>
+
+
+
+<p>Spinouts of NEAR ecosystem initiatives allow teams to focus on their core competencies and move quickly and autonomously with clear and aligned incentives. Importantly, an open and decentralized ecosystem encourages transparency and gives everyone a fair chance to seek funding and support for their contributions. A decentralized ecosystem is also more antifragile and sustainable due to an ever-increasing number of collaborating and competing projects.&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Near One</h4>
+
+
+
+<p>The Pagoda team developing the core NEAR blockchain protocol is now <a href="http://nearone.org/">Near One</a>, a team of 30 employees led by Bowen Wang, Head of Protocol. Near One’s mandate is to develop and maintain the NEAR Protocol and roadmap, providing high-performance and scalable infrastructure to support the wide range of activities in the NEAR ecosystem, including consumer apps, Chain Abstraction, modularity, DeFi, and User-Owned AI. Working independently will allow Near One to operate with greater speed and autonomy, and also makes room for multiple node/protocol teams to build on NEAR without relying on an “official” one. Near One will share exciting news about the next phase of sharding later this month.&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Chain Abstraction Spinout</h4>
+
+
+
+<p>Following the successful launch of <a href="/blog/chain-signatures-mainnet-launches/">Chain Signatures</a> mainnet, an independent team with key contributors from Pagoda and other nodes will focus on developing the technology and partnerships needed to make the Chain Abstraction vision a reality. This new team will continue the NEAR ecosystem’s leadership in advancing Chain Abstraction for all of Web3. More information and a name for this project are forthcoming in September, so stay tuned.</p>
+
+
+
+<h4 class="wp-block-heading">Future of Pagoda and Pagoda Services</h4>
+
+
+
+<p>Given that these two spinouts represent a large percentage of Pagoda’s current staff and responsibilities, the NEAR Foundation Council decided to change the model for funding the other ecosystem services Pagoda has been operating. These will now be distributed via the <a href="https://github.com/near/Infrastructure-Working-Group">Infrastructure Committee</a> to a decentralized set of providers over the next six months. For updates on Pagoda’s transition timeline and process, please consult this <a href="https://docs.near.org/blog/2024-08-13-pagoda-services">Future of Pagoda Services</a> page.</p>
+
+
+
+<p>These transitions mean that Pagoda will be winding down, with some Pagoda employees joining other ecosystem nodes including the NEAR Foundation, NEAR.AI, and DevHub teams. Remaining team members will be offered support to found new ecosystem projects, join other ecosystem teams, or bid as independent providers to take over existing work via an RFP process run by the Infrastructure Committee. People with strong knowledge of NEAR technologies are always encouraged to start new projects and seek funding support: this is the most transparent, fair, and sustainable approach for growing the ecosystem as it approaches 4 years since mainnet launch.&nbsp;</p>
+
+
+
+<p>NEAR ecosystem teams interested in hiring Pagoda team members are encouraged to share openings on the <a href="https://careers.near.org/jobs">Jobs Board</a> and to consult this <a href="https://docs.google.com/spreadsheets/d/12XYaf4SZN5s4AgyFwp27IDvn21BpvKxuZMgp2C9VHhY/edit?resourcekey=&amp;gid=761891858#gid=761891858">opt-in list</a> of people open to new roles. There will also be a hacker house-style Pagoda offsite in Tarrytown, New York in early September, now open to ecosystem contributors interested in connecting with team members and brainstorming independent projects (apply to attend <a href="https://forms.gle/QBtKMBRoPqM3ripc8">here</a>).&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Looking Ahead</h4>
+
+
+
+<p>In addition to the launch of Chain Signatures mainnet last week and the upcoming mainnet launch of Nightshade 2.0, the NEAR ecosystem has seen major recent success across a range of key metrics. Last month, in July 2024, the NEAR ecosystem had more than 20 million monthly active users across apps and projects––the highest on any L1 chain, with over 110 million accounts overall. NEAR also reached over 3 million daily active users, the highest of any chain, averaging between six and seven million transactions per day, and has the highest 12-month user retention among L1 blockchains.&nbsp;</p>
+
+
+
+<p>A more decentralized and autonomous ecosystem of independent projects will be better equipped to expand on this impressive growth and bring NEAR’s vision and best-in-class technology to a billion users. Those interested in keeping up with the latest news and launches on NEAR should follow along on <a href="https://x.com/nearprotocol">X</a>, attend monthly ecosystem <a href="https://lu.ma/3lit1jwx">Town Halls</a>, watch <a href="https://www.youtube.com/playlist?list=PL9tzQn_TEuFWMuPiQOXhaE5lpOTnxLPZY">NEAR AI Office Hours</a>, and attend the [REDACTED] <a href="https://redactedbangkok.ai/">conference and hackathon</a> in Bangkok, Nov. 9-11.</p>
+<p>The post <a href="/blog/ecosystem-update-announcing-near-one-chain-abstraction-spinouts/">Ecosystem Update: Announcing Near One, Chain Abstraction Spinouts </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21492</post-id>	</item>
+		<item>
 		<title>[REDACTED] Speakers Announced, Hackathon Registration Is Live</title>
 		<link>/blog/redacted-speakers-announced-hackathon-registration-is-live/</link>
 		
@@ -76,7 +146,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Gaining insights from the teams defining the intersection of AI and Web3</li>
 
 
@@ -94,7 +164,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Illia Polosukhin (NEAR)</li>
 
 
@@ -255,9 +325,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://mizu.global/"><strong>Mizu</strong></a> is building the first synthetic open data layer aimed at fostering an open, collaborative data ecosystem for AI developers.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Mizu are developing expansive, open <strong>data platforms that support AI research and applications</strong>.</li>
 </ul>
 </li>
@@ -265,9 +335,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://cryptopond.xyz/"><strong>Pond</strong></a> develops foundational crypto models using Graph Neural Networks (GNNs) to analyze on-chain data and predict future behaviors.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Pond are collaborating on <strong>NEAR-native foundational AI models </strong>and tools that enhance decentralized applications’ ability to operate at scale.</li>
 </ul>
 </li>
@@ -275,9 +345,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://nevermined.io/"><strong>Nevermined</strong></a> creates robust payment infrastructure tailored for AI-commerce, facilitating transactional ease for AI developers.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Hyperbolic are innovating <strong>AI agents for applications</strong> to streamline and secure payment processes within the AI ecosystem.</li>
 </ul>
 </li>
@@ -285,9 +355,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.hyperbolic.xyz/"><strong>Hyperbolic</strong></a> provides an open-access AI cloud, featuring a GPU marketplace and AI inference services.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Hyperbolic are working to provide projects with the <strong>computational power and hosting AI models necessary for intensive AI tasks</strong>.<br></li>
 </ul>
 </li>
@@ -295,7 +365,7 @@
 
 
 <li><a href="https://www.ringfence.ai/"><strong>Ringfence</strong></a><strong> </strong>empowers creators and artists to monetize their work while maintaining secure ownership, aiming to be a Web3 version of DALLE-3 that directly benefits creators.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Ringfence are collaborating on pathways for <strong>data monetization, labeling, and indexing of user-generated content</strong>.<br></li>
 </ul>
 </li>
@@ -303,7 +373,7 @@
 
 
 <li><a href="https://exabits.ai/"><strong>Exabits</strong></a> supplies GPU compute in a data center environment, providing the essential physical and technical conditions for serious AI training, inference, and fine-tuning.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Exabits are working to democratize access to <strong>high-performance compute resources</strong> for the NEAR ecosystem.<br></li>
 </ul>
 </li>
@@ -327,7 +397,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Join the NEAR Foundation at ETHCC in Brussels, July 11, for the NEAR AI Tech Showcase and hear directly from the founders in the current incubation cohort. RSVP: <a href="https://lu.ma/AITechShowcase">NEAR AI Tech Showcase</a>.<br></li>
 
 
@@ -465,7 +535,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Total Transactions: 1.16B&nbsp;</li>
 
 
@@ -647,7 +717,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Scalable, integrated blockchain that can grow to 1B+ daily active accounts.</li>
 
 
@@ -1080,44 +1150,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">20835</post-id>	</item>
-		<item>
-		<title>Update on the Grassroots Support Initiative</title>
-		<link>/blog/update-on-the-grassroots-support-initiative/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Mon, 28 Aug 2023 16:14:02 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[Community]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<category><![CDATA[Grassroots Support Initiative]]></category>
-		<guid isPermaLink="false">/?p=20816</guid>
-
-					<description><![CDATA[<p>One of the things the NEAR Foundation has always been most proud of is the passion and enthusiasm of our …</p>
-<p>The post <a href="/blog/update-on-the-grassroots-support-initiative/">Update on the Grassroots Support Initiative</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>One of the things the NEAR Foundation has always been most proud of is the passion and enthusiasm of our builders and grassroots projects — something we have seen demonstrated again since the <a href="/blog/an-update-on-the-ndc-funding-and-support-for-grassroots-projects/?_gl=1%2A1nhhje7%2A_up%2AMQ..%2A_ga%2AMTE0NTY2MjU3OS4xNjkyOTY4MDg2%2A_ga_9GWCXQJ62J%2AMTY5Mjk2ODA4NC4xLjAuMTY5Mjk2ODA4NC4wLjAuMA..">recent post</a> about the NDC. Over the past week alone, over 30 projects have reached out to the Ecosystem Team and a number of conversations are already underway. This has allowed NEAR Foundation to begin mapping out current needs, and understand the best way to provide support that will ensure the NEAR ecosystem remains a vibrant, open, and accessible place to build.&nbsp;</p>
-
-
-
-<p>For us at the Foundation, hearing directly from builders provides invaluable insight into the state of the ecosystem and how we can best continue to support the people and projects that make it what it is. What we have heard so far is that while financial support is important as the NDC fully ramps up, every project has a unique set of needs that requires a holistic approach to provide the right support, and that simply re-starting a grants program is not the right solution. To make sure that we get as many perspectives from across the ecosystem, we will be leaving the form open for one more week (until September 4th) to give anyone who needs support a chance to have their voice heard.</p>
-
-
-
-<p>Once the form is closed and we have had a chance to review all of the inputs, we will then begin setting out a broader plan — in alignment with the NDC —&nbsp;to ensure projects get the support they need as we continue moving forward on the path to decentralization. The moment we have the full insights from these conversations, which should be within the next few weeks, we will share them in a follow-up blog post along with a clear plan on how we will be moving forward.&nbsp;</p>
-
-
-
-<p>We are excited to have so much interest from builders, and look forward to creating a plan that can help keep grassroots projects engaged and building.</p>
-
-
-
-<p>You can sign up for a time to speak with the Ecosystem Relations Team <a href="https://airtable.com/app5mCfwTVtmOhfHW/shrbpLz5XQHqrt4rQ">here</a>.&nbsp;&nbsp;</p>
-<p>The post <a href="/blog/update-on-the-grassroots-support-initiative/">Update on the Grassroots Support Initiative</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">20816</post-id>	</item>
 	</channel>
 </rss>

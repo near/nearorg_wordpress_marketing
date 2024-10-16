@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
@@ -149,7 +149,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Stateless validation</strong>. Stateless validation is a major initiative that we have been working on for a few months. It adjusts the original Nightshade sharding design to avoid implementing fraud proofs while improving the performance of each shard significantly by putting state in memory. The stateless validation work is expected to be delivered in Q2 2024, which would also mark the completion of the original goal we set for Phase 2 of sharding. We expect the launch of stateless validation to also dramatically increase the throughput of each shard and prepare NEAR for the continued growth of usage.</li>
 
 
