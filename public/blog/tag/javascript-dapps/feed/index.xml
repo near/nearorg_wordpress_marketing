@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Javascript dApps Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/javascript-dapps/</link>
 	<width>32</width>
@@ -70,7 +70,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>A <a href="https://near.org/dataplatform.near/widget/QueryApi.App?selectedIndexerPath=dataplatform.near/social_feed&amp;view=editor-window">social feed indexer</a> for posts, likes, and comments with a corresponding <a href="https://near.org/dataplatform.near/widget/QueryApi.Feed">component</a>. This API currently powers the activity feed on near.org.</li>
 
 
@@ -88,7 +88,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Access to all indexers built on the platform. Developers can learn from practical examples as indexers’ code and schemas are stored on-chain.</li>
 
 

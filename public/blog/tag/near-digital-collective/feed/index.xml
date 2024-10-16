@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Digital Collective Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/near-digital-collective/</link>
 	<width>32</width>
@@ -49,7 +49,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>The Foundation has set the future of funding for the NDC based on significant milestones post V1 Governance</li>
 
 
@@ -169,7 +169,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>July 19, 15:00:00 UTC — Start date for <a href="https://www.near.org/nomination.ndctools.near/widget/NDC.Nomination.Page">candidacy submissions on BOS</a> and get I-AM-HUMAN SBT</li>
 
 
@@ -247,7 +247,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="629" src="https://pages.near.org/wp-content/uploads/2023/08/Screenshot-2023-08-18-at-7.53.17-AM-1024x629.png" alt="" class="wp-image-20810" srcset="https://pages.near.org/wp-content/uploads/2023/08/Screenshot-2023-08-18-at-7.53.17-AM-1024x629.png 1024w, https://pages.near.org/wp-content/uploads/2023/08/Screenshot-2023-08-18-at-7.53.17-AM-300x184.png 300w, https://pages.near.org/wp-content/uploads/2023/08/Screenshot-2023-08-18-at-7.53.17-AM-768x472.png 768w, https://pages.near.org/wp-content/uploads/2023/08/Screenshot-2023-08-18-at-7.53.17-AM-1536x943.png 1536w, https://pages.near.org/wp-content/uploads/2023/08/Screenshot-2023-08-18-at-7.53.17-AM-2048x1258.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="629" src="/wp-content/uploads/2023/08/Screenshot-2023-08-18-at-7.53.17-AM-1024x629.png" alt="" class="wp-image-20810" srcset="/wp-content/uploads/2023/08/Screenshot-2023-08-18-at-7.53.17-AM-1024x629.png 1024w, /wp-content/uploads/2023/08/Screenshot-2023-08-18-at-7.53.17-AM-300x184.png 300w, /wp-content/uploads/2023/08/Screenshot-2023-08-18-at-7.53.17-AM-768x472.png 768w, /wp-content/uploads/2023/08/Screenshot-2023-08-18-at-7.53.17-AM-1536x943.png 1536w, /wp-content/uploads/2023/08/Screenshot-2023-08-18-at-7.53.17-AM-2048x1258.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -319,7 +319,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>A Champion of the NDC that is still actively contributing to the ecosystem. Champions are ecosystem leaders that run nodes or projects and contribute to a workgroup or initiative they feel passionate about to help bring NDC V1 Gov online. They contribute by lending time or resources and also help by referring or recruiting contributors to help deliver objectives.</li>
 
 
@@ -607,7 +607,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>&nbsp;for the benefit of one or more beneficiaries; or in certain cases,</li>
 
 
@@ -677,7 +677,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://twitter.com/ATustanovska">Alina Tustanovska </a>&nbsp;</li>
 
 
@@ -755,7 +755,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>fulfill grant requests;</li>
 
 
@@ -777,7 +777,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong><em>Participant Liability</em></strong></li>
 </ol>
 
@@ -791,7 +791,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>The Trustees undertake (in their capacity as Trustees) certain activities and actions (e.g. holding treasury, making grants) that might otherwise expose ecosystem participants to potential liability. Other ecosystem participants do not undertake these activities and instead exercise oversight over the Trustees and Enforcer.</li>
 
 
@@ -805,7 +805,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>The Trustees are indemnified under the Trust Instrument, meaning that they will be compensated for any liability/losses suffered by them in carrying out their duties as Trustees from the assets held in the NEAR Community Treasury.</li>
 
 
@@ -815,7 +815,7 @@
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong><em>Off-chain activities</em></strong></li>
 </ol>
 
@@ -825,7 +825,7 @@
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong><em>Tax</em></strong></li>
 </ol>
 
@@ -839,7 +839,7 @@
 
 
 
-<ol start="4">
+<ol class="wp-block-list" start="4">
 <li><strong><em>Efficient and trustless</em></strong></li>
 </ol>
 
@@ -943,13 +943,13 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Voting Body</strong> &#8211; This is every active near account, as qualified by the governance framework</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>House of Merit</strong> &#8211; A group of experienced community members appointed by members of the ecosystem to represent them during votes and key decisions.&nbsp;</li>
 
 
@@ -987,7 +987,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>NEAR Constitution.&nbsp;</li>
 
 
@@ -1085,7 +1085,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Constitution</li>
 
 

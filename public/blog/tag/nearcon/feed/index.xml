@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEARCON Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/nearcon/</link>
 	<width>32</width>
@@ -104,7 +104,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Developers </strong>— Devs should drop in on a number of hands-on workshops and coding sessions. These are the best sessions for getting first-hand looks at NEAR’s latest open web innovations.</li>
 
 
@@ -205,7 +205,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Mitchell Amador: </strong>Founder and CEO of <a href="https://immunefi.com/">Immunefi</a>. Mitchell is a leading voice in blockchain security and will explore how incentivized bounties enhance security.</li>
 
 
@@ -259,7 +259,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Developers: </strong>Engage in technical workshops and learn from the best in the business. These sessions are designed to meet you at any point in your open web journey.</li>
 
 
@@ -482,7 +482,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Internet aberta &#8211; aprenda como a tecnologia aberta e seus ideais se juntam em blockchains como NEAR para a criação de uma internet onde todos podem aproveitar o controle dos seus dados, ideias e criações.</li>
 
 
@@ -508,7 +508,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Ser estudante registrado em Portugal</li>
 
 
@@ -647,7 +647,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Ви є українцем, що тимчасово проживає в Іспанії/Португалії</li>
 
 
@@ -707,7 +707,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Open Web </strong>— Learn how open source technologies and ideals are colliding with blockchain technologies like NEAR to create an open web where everyone can be fairly rewarded for their data, ideas, and effort.&nbsp;</li>
 
 
@@ -799,7 +799,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Join 5,000+ delegates as the NEAR community explores the power and possibilities of an open web</li>
 
 
@@ -841,7 +841,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Michael Casey — CoinDesk</li>
 
 
@@ -883,7 +883,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>FREE access to NEARCON</li>
 
 
@@ -1011,7 +1011,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ol><li>Africa &#8211; 5 pieces of coverage</li><li>Brazil &#8211; 5 pieces of coverage</li><li>China &#8211; 5 pieces of coverage</li><li>French &#8211; 8 pieces of coverage</li><li>German &#8211; 2 pieces of coverage</li><li>Italy &#8211; 4 pieces of coverage</li><li>India &#8211; 18 pieces of coverage</li><li>Japan &#8211; 2 pieces of coverage</li><li>Korea &#8211; 11 pieces of coverage</li><li>Spain &#8211; 5 pieces of coverage </li><li>UK &#8211; 12 pieces of coverage</li><li>US &#8211; 25 pieces of coverage</li><li>Vietnam &#8211; 5 pieces of coverage</li><li>Global &#8211; 150+pieces of coverage</li></ol>
+<ol class="wp-block-list"><li>Africa &#8211; 5 pieces of coverage</li><li>Brazil &#8211; 5 pieces of coverage</li><li>China &#8211; 5 pieces of coverage</li><li>French &#8211; 8 pieces of coverage</li><li>German &#8211; 2 pieces of coverage</li><li>Italy &#8211; 4 pieces of coverage</li><li>India &#8211; 18 pieces of coverage</li><li>Japan &#8211; 2 pieces of coverage</li><li>Korea &#8211; 11 pieces of coverage</li><li>Spain &#8211; 5 pieces of coverage </li><li>UK &#8211; 12 pieces of coverage</li><li>US &#8211; 25 pieces of coverage</li><li>Vietnam &#8211; 5 pieces of coverage</li><li>Global &#8211; 150+pieces of coverage</li></ol>
 
 
 
@@ -1133,7 +1133,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul><li>Few and Far, a next-generation NFT marketplace built on NEAR, won a grant&nbsp; to advance NFTs across the ecosystem.</li><li>NEAR unveiled the eleven winners of the Women in Web3 Changemakers competition to spotlight the achievement of women in Web3 and to showcase female role models in the ecosystem.</li><li>Tether, the first and most widely used stablecoin (“USDT”), launched on NEAR.</li><li>Sender Wallet raised US$4.5 Million in a private round led by Pantera&nbsp; Capital.</li><li>NEAR Digital Collective (NDC) will help decentralize NEAR’s ecosystem governance and move decision-making on-chain to make community more resilient, transparent, and fair.</li><li>Phase 1 of NEAR’s Nightshade sharding was unveiled, making NEAR even more decentralized and scalable.</li><li>In a new Entertainment Fund, NEAR is backing a new $100m VC Fund and Lab focused on Web3’s evolution of culture, media, and entertainment&nbsp;</li><li>The Fireblocks integration on NEAR went live.</li></ul>
+<ul class="wp-block-list"><li>Few and Far, a next-generation NFT marketplace built on NEAR, won a grant&nbsp; to advance NFTs across the ecosystem.</li><li>NEAR unveiled the eleven winners of the Women in Web3 Changemakers competition to spotlight the achievement of women in Web3 and to showcase female role models in the ecosystem.</li><li>Tether, the first and most widely used stablecoin (“USDT”), launched on NEAR.</li><li>Sender Wallet raised US$4.5 Million in a private round led by Pantera&nbsp; Capital.</li><li>NEAR Digital Collective (NDC) will help decentralize NEAR’s ecosystem governance and move decision-making on-chain to make community more resilient, transparent, and fair.</li><li>Phase 1 of NEAR’s Nightshade sharding was unveiled, making NEAR even more decentralized and scalable.</li><li>In a new Entertainment Fund, NEAR is backing a new $100m VC Fund and Lab focused on Web3’s evolution of culture, media, and entertainment&nbsp;</li><li>The Fireblocks integration on NEAR went live.</li></ul>
 
 
 
@@ -1141,7 +1141,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul><li><a href="https://youtu.be/YtQnabo7EeE">Layer 1 Stage</a></li><li><a href="https://www.youtube.com/watch?v=5SPUtzpbIIo">Nightshade Stage</a></li><li><a href="https://www.youtube.com/watch?v=Ggpw1yklsAs">Doomslug Stage</a></li></ul>
+<ul class="wp-block-list"><li><a href="https://youtu.be/YtQnabo7EeE">Layer 1 Stage</a></li><li><a href="https://www.youtube.com/watch?v=5SPUtzpbIIo">Nightshade Stage</a></li><li><a href="https://www.youtube.com/watch?v=Ggpw1yklsAs">Doomslug Stage</a></li></ul>
 
 
 
@@ -1269,7 +1269,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul><li>New NEAR Regional Hubs launched in India and Vietnam to support Web3 innovation, education, and talent.&nbsp;</li><li>Pagoda Console lets devs create without limits from an ad hoc toolkit, a one-stop tool shop that gives devs all they need to build Web3 apps.</li><li>Switchboard goes multichain with NEAR to give developers the best tools and data to build their apps.</li><li>Fayyr launched first NFT Marketplace for Social Impact Organizations on NEAR.</li><li>Chainstack, a leading blockchain managed services provider, launched support for NEAR on its platform.</li><li>Contented Media Group (CMG) received a Near Foundation grant to launch a Web3 platform where brands can interact with content creators.&nbsp;</li><li>Bitstamp listed NEAR token on its exchange.</li></ul>
+<ul class="wp-block-list"><li>New NEAR Regional Hubs launched in India and Vietnam to support Web3 innovation, education, and talent.&nbsp;</li><li>Pagoda Console lets devs create without limits from an ad hoc toolkit, a one-stop tool shop that gives devs all they need to build Web3 apps.</li><li>Switchboard goes multichain with NEAR to give developers the best tools and data to build their apps.</li><li>Fayyr launched first NFT Marketplace for Social Impact Organizations on NEAR.</li><li>Chainstack, a leading blockchain managed services provider, launched support for NEAR on its platform.</li><li>Contented Media Group (CMG) received a Near Foundation grant to launch a Web3 platform where brands can interact with content creators.&nbsp;</li><li>Bitstamp listed NEAR token on its exchange.</li></ul>
 
 
 
@@ -1277,7 +1277,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul><li><a href="https://www.youtube.com/watch?v=2duD7rSX0U8">Layer 1 Stage</a></li><li><a href="https://www.youtube.com/watch?v=VrK46yUEh9s">Nightshade Stage</a></li><li><a href="https://www.youtube.com/watch?v=7eGctqz44RU">Doomslug Stage</a></li><li><a href="https://www.youtube.com/watch?v=Khn7zX7ZtqI">Proof of Sound Stage</a></li></ul>
+<ul class="wp-block-list"><li><a href="https://www.youtube.com/watch?v=2duD7rSX0U8">Layer 1 Stage</a></li><li><a href="https://www.youtube.com/watch?v=VrK46yUEh9s">Nightshade Stage</a></li><li><a href="https://www.youtube.com/watch?v=7eGctqz44RU">Doomslug Stage</a></li><li><a href="https://www.youtube.com/watch?v=Khn7zX7ZtqI">Proof of Sound Stage</a></li></ul>
 
 
 
@@ -1413,7 +1413,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul><li>SWEAT and NEAR partner to enable the masses to ‘walk into crypto.’</li><li>OnMachina to provide native large-scale storage system to dApps and services building on NEAR, creating capacity to support billions of users.&nbsp;</li></ul>
+<ul class="wp-block-list"><li>SWEAT and NEAR partner to enable the masses to ‘walk into crypto.’</li><li>OnMachina to provide native large-scale storage system to dApps and services building on NEAR, creating capacity to support billions of users.&nbsp;</li></ul>
 
 
 
@@ -1421,7 +1421,7 @@ https://www.youtube.com/watch?v=qMrJheF0ZdE
 
 
 
-<ul><li><a href="https://www.youtube.com/watch?v=2duD7rSX0U8">Layer 1 Stage</a></li><li><a href="https://www.youtube.com/watch?v=VrK46yUEh9s">Nightshade Stage</a></li><li><a href="https://www.youtube.com/watch?v=7eGctqz44RU">Doomslug Stage</a></li><li><a href="https://www.youtube.com/watch?v=Khn7zX7ZtqI">Proof of Sound Stage</a></li></ul>
+<ul class="wp-block-list"><li><a href="https://www.youtube.com/watch?v=2duD7rSX0U8">Layer 1 Stage</a></li><li><a href="https://www.youtube.com/watch?v=VrK46yUEh9s">Nightshade Stage</a></li><li><a href="https://www.youtube.com/watch?v=7eGctqz44RU">Doomslug Stage</a></li><li><a href="https://www.youtube.com/watch?v=Khn7zX7ZtqI">Proof of Sound Stage</a></li></ul>
 
 
 

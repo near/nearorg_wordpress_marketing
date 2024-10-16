@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Aurora Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/aurora/</link>
 	<width>32</width>
@@ -796,7 +796,7 @@
 
 
 
-<ul><li><a href="https://t.me/auroraisnear">Telegram</a></li><li><a href="https://discord.aurora.dev/">Discord</a> </li><li><a href="https://twitter.com/auroraisnear">Twitter</a> </li><li><a href="https://aurora.dev/">Website</a></li></ul>
+<ul class="wp-block-list"><li><a href="https://t.me/auroraisnear">Telegram</a></li><li><a href="https://discord.aurora.dev/">Discord</a> </li><li><a href="https://twitter.com/auroraisnear">Twitter</a> </li><li><a href="https://aurora.dev/">Website</a></li></ul>
 <p>The post <a href="/blog/aurora-consensys-partnership-metamask-infura/">Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					

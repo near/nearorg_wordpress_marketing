@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Block Explorers Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/near-block-explorers/</link>
 	<width>32</width>
@@ -49,7 +49,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Explorer.near.org will be transitioned to the <a href="https://explorer.near.org/">Explorer Selector</a> by the end of November 2023.&nbsp;</li>
 
 
@@ -79,9 +79,9 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>October 10, 2023:
-<ol>
+<ol class="wp-block-list">
 <li>Notice within explorer.near.org explaining that it will be sunsetted by January 31, 2024, and linking to this blog post. The details of which Explorer DBs are sunsetting can be found in the <a href="https://docs.near.org/tools/indexer-for-explorer#what-is-the-timeline">NEAR documentation</a>.</li>
 
 
@@ -97,7 +97,7 @@
 
 
 <li>November/December 2023:
-<ol>
+<ol class="wp-block-list">
 <li>Shared Public access to the Explorer DB will be sunset on Thursday, November 30, at 12:00 p.m. PT. Check out <a href="https://docs.near.org/tools/indexer-for-explorer#what-are-the-alternatives">ExplorerDB alternatives</a> to maintain interruption-free service for your product.</li>
 
 
@@ -113,7 +113,7 @@
 
 
 <li>January 31, 2024:
-<ol>
+<ol class="wp-block-list">
 <li>The legacy NEAR Explorer will be removed from the Explorer Selector and turned off.&nbsp;</li>
 </ol>
 </li>
@@ -121,7 +121,7 @@
 
 
 <li>April 30, 2024
-<ol>
+<ol class="wp-block-list">
 <li>ExplorerDB private API gated access will be completely shut off.</li>
 
 

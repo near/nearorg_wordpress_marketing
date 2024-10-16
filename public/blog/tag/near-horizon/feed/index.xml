@@ -15,22 +15,96 @@
 	<atom:link href="/blog/tag/near-horizon/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/near-horizon/</link>
 	<description></description>
-	<lastBuildDate>Thu, 20 Jun 2024 13:00:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Sep 2024 17:48:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Horizon Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/near-horizon/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>NEAR Foundation and Delphi Labs Partner on AI x Web3 Accelerator</title>
+		<link>/blog/near-foundation-and-delphi-labs-partner-on-ai-x-web3-accelerator/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 12 Sep 2024 16:53:43 +0000</pubDate>
+				<category><![CDATA[User-Owned AI]]></category>
+		<category><![CDATA[Accelerator]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[NEAR Horizon]]></category>
+		<category><![CDATA[Partnerships]]></category>
+		<guid isPermaLink="false">/?p=21521</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation is excited to partner with Delphi Labs to co-host a new accelerator program for high-potential projects at …</p>
+<p>The post <a href="/blog/near-foundation-and-delphi-labs-partner-on-ai-x-web3-accelerator/">NEAR Foundation and Delphi Labs Partner on AI x Web3 Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation is excited to partner with Delphi Labs to co-host a new accelerator program for high-potential projects at the intersection of AI and Web3. The new cohort will launch in October and teams with a strong vision for decentralized AI applications and infrastructure are encouraged to <a href="https://www.hzn.xyz/">apply</a>.</p>
+
+
+
+<p>Building on the success of NEAR’s first <a href="https://near.org/blog/near-foundation-launches-ai-incubation-program">AI x Web3 incubator</a>, the NEAR x Delphi Labs AI Accelerator will provide participating founders and teams with the technical, operational, and financial resources to succeed—including access to $50k in compute credits, advisory support from the NEAR co-founders, funding opportunities beginning at $100k, and token launch support.</p>
+
+
+
+<p><a href="https://www.hzn.xyz/"><strong>Applications are open</strong></a><strong> until October 4 for teams interested in joining the accelerator</strong>, which begins on October 14.</p>
+
+
+
+<p>NEAR Foundation and Delphi Labs share the common strategic vision of a <a href="https://near.org/blog/user-owned-ai-is-near">User-Owned AI</a> ecosystem, built on Web3 rails, that provides genuinely better alternatives to developers and users than the prevailing model of centralized AI controlled by big tech companies. The goal is to maximize the benefits of AI for people and communities—and minimize the potential risks—by putting the power of AI where it belongs: in the hands of users.&nbsp;</p>
+
+
+
+<p>NEAR is a leading blockchain platform designed to accelerate the development of decentralized applications with a focus on usability and scalability—co-founded by Illia Polosukhin, one of the originators of the transformer architecture underpinning the present AI surge. The NEAR ecosystem vision for <a href="https://near.org/blog/user-owned-ai-is-near">User-Owned AI</a> includes building a community of aligned teams where innovations are shared openly, ensuring consistency and interoperability across projects. It also includes supporting development of the robust, open infrastructure needed to build and deploy AI applications on a decentralized network, ensuring that the future of AI is not only owned by users but is scalable, secure, and efficient for businesses and founders.</p>
+
+
+
+<p><a href="https://delphilabs.io/">Delphi Labs</a>, a research and development firm specializing in Web3 and DeFi, brings to the accelerator a deep understanding of blockchain technology and a strong track record of supporting successful projects. </p>
+
+
+
+<p>“Crypto x AI is the sector we’re most excited about and, given how early it is, we thought it made a lot of sense for an accelerator cohort,” explains Delphi Labs co-founder José Macedo. “NEAR is the ideal partner given that Illia is one of the original co-authors of the transformer paper and has an unparalleled understanding and network within AI.” The Delphi team’s conviction is that competitive dynamics will result in a world of millions of AI models and that Web3 is the ideal substrate for this many-model world. They are interested in finding exceptional founders who have a strong vision for how Web3 can benefit from AI, or how AI can benefit from Web3, and want to rapidly execute on this vision.</p>
+
+
+
+<p>NEAR and Delphi are co-designing the upcoming accelerator cohort experience, slated to begin October 14 with a live kickoff gathering planned. Each participating team will receive mentorship, resources, and opportunities for investment: $100k in investment from NEAR Foundation, along with $50k in compute credits, and potential investment of up to $250k from Delphi Labs for further incubation or acceleration following the completion of the program. The program culminates mid-December at an investor-focused demo day with several top funds and angels in the space.&nbsp;</p>
+
+
+
+<p>NEAR’s first AI x Web3 incubator cohort, which ran from June to August 2024, saw participants achieve significant early milestones while contributing essential pieces to the growing User-Owned AI stack. These milestones include: <a href="https://hyperbolic.xyz/">Hyperbolic</a> hosting the latest open source AI models, including Llama 3.1 405B; <a href="https://mizu.global/">Mizu</a> launching their beta platform and attracting 20K users in the first week; and <a href="https://cryptopond.xyz/">Pond</a> launching their first GNN model for wallet predictions and achieving a 20% prediction rate. The teams have built on the momentum from the incubator to attract serious seed funding interest, with Hyperbolic successfully closing a $7M round.</p>
+
+
+
+<p>In addition to the NEAR x Delphi Labs AI Accelerator Program, the NEAR Foundation has also teamed up with <a href="https://www.betaworks.com/camp#about-camp">Betaworks</a> on an in-person acceleration cohort in New York City focused on consumer AI applications in the Web2 space. Running through November 2024, the Betaworks collaboration welcomes a wider roster of projects into the growing User-Owned AI ecosystem and opens further opportunities for bridging the Web3 x AI space to Web2 consumer AI.</p>
+
+
+
+<p>To learn more about the NEAR ecosystem vision for User-Owned AI, Illia’s perspective on the intersection of AI x Web3, and the Delphi Labs team’s investment thesis in the decentralized AI space, check out <a href="https://www.youtube.com/watch?v=NgDykvSBYzo">Delphi’s new podcast episode</a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Illia Polosukhin: AI thesis, crypto x AI, and announcing the Delphi Labs x Near accelerator" width="500" height="281" src="https://www.youtube.com/embed/NgDykvSBYzo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><br>To follow along with the latest in the User-Owned AI ecosystem, join the NEAR.AI and HZN teams in <a href="https://lu.ma/NEAR_Token2049_SG">Singapore</a> (September) or <a href="https://redactedbangkok.ai/">Bangkok</a> (November) and tune in to <a href="https://www.youtube.com/playlist?list=PL9tzQn_TEuFWMuPiQOXhaE5lpOTnxLPZY">NEAR AI Office Hours</a> every Tuesday.</p>
+<p>The post <a href="/blog/near-foundation-and-delphi-labs-partner-on-ai-x-web3-accelerator/">NEAR Foundation and Delphi Labs Partner on AI x Web3 Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21521</post-id>	</item>
+		<item>
 		<title>NEAR Foundation Launches Incubation Program to Build Infrastructure for User-Owned AI</title>
 		<link>/blog/near-foundation-launches-ai-incubation-program/</link>
 		
@@ -59,9 +133,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://mizu.global/"><strong>Mizu</strong></a> is building the first synthetic open data layer aimed at fostering an open, collaborative data ecosystem for AI developers.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Mizu are developing expansive, open <strong>data platforms that support AI research and applications</strong>.</li>
 </ul>
 </li>
@@ -69,9 +143,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://cryptopond.xyz/"><strong>Pond</strong></a> develops foundational crypto models using Graph Neural Networks (GNNs) to analyze on-chain data and predict future behaviors.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Pond are collaborating on <strong>NEAR-native foundational AI models </strong>and tools that enhance decentralized applications’ ability to operate at scale.</li>
 </ul>
 </li>
@@ -79,9 +153,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://nevermined.io/"><strong>Nevermined</strong></a> creates robust payment infrastructure tailored for AI-commerce, facilitating transactional ease for AI developers.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Hyperbolic are innovating <strong>AI agents for applications</strong> to streamline and secure payment processes within the AI ecosystem.</li>
 </ul>
 </li>
@@ -89,9 +163,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.hyperbolic.xyz/"><strong>Hyperbolic</strong></a> provides an open-access AI cloud, featuring a GPU marketplace and AI inference services.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Hyperbolic are working to provide projects with the <strong>computational power and hosting AI models necessary for intensive AI tasks</strong>.<br></li>
 </ul>
 </li>
@@ -99,7 +173,7 @@
 
 
 <li><a href="https://www.ringfence.ai/"><strong>Ringfence</strong></a><strong> </strong>empowers creators and artists to monetize their work while maintaining secure ownership, aiming to be a Web3 version of DALLE-3 that directly benefits creators.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Ringfence are collaborating on pathways for <strong>data monetization, labeling, and indexing of user-generated content</strong>.<br></li>
 </ul>
 </li>
@@ -107,7 +181,7 @@
 
 
 <li><a href="https://exabits.ai/"><strong>Exabits</strong></a> supplies GPU compute in a data center environment, providing the essential physical and technical conditions for serious AI training, inference, and fine-tuning.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Exabits are working to democratize access to <strong>high-performance compute resources</strong> for the NEAR ecosystem.<br></li>
 </ul>
 </li>
@@ -131,7 +205,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Join the NEAR Foundation at ETHCC in Brussels, July 11, for the NEAR AI Tech Showcase and hear directly from the founders in the current incubation cohort. RSVP: <a href="https://lu.ma/AITechShowcase">NEAR AI Tech Showcase</a>.<br></li>
 
 
@@ -248,7 +322,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>lllia Polosukhin, Near Protocol, Co-founder</li>
 
 
@@ -298,7 +372,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Joyce Yang, Founder, Global Coin Research</li>
 
 
@@ -461,25 +535,25 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Encode x NEAR Horizon Educational Series:</strong> The journey commences with a four-week program of building awareness of Web3 and NEAR Technology. These sessions aim to demystify blockchain technology, making it approachable for newcomers while offering valuable insights for seasoned professionals. From introductory presentations to in-depth technical demos, the educational series lays a solid foundation for all participants.</li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Encode x NEAR Horizon Bootcamp: </strong>An intense eight-week program offers a deep dive into the world of blockchain development. Participants engage in live classes, practical assignments, and collaborative group projects — all under the expert guidance of seasoned instructors. The bootcamp offers a hands-on learning experience, accelerating the participants&#8217; transition from theory to practice.</li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Encode x NEAR Horizon Hackathon:</strong> A four-week hackathon that supports builders in launching high-quality projects. This event is designed to challenge participants and allow them to apply their newfound skills. With technical workshops, mentorship, and continual support, the hackathon provides an excellent platform for budding developers to build, learn, and innovate.</li>
 </ol>
 
 
 
-<ol start="4">
+<ol class="wp-block-list" start="4">
 <li><strong>Encode x NEAR Horizon Accelerator Program: </strong>This eight-week program focuses on nurturing the most promising hackathon projects and ecosystem builders. By offering mentorship and weekly workshops, the accelerator program aims to transform innovative ideas into operational startups, contributing to the growth and diversity of the NEAR ecosystem.</li>
 </ol>
 
@@ -537,7 +611,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/bos-blog-1024x512.png" alt="" class="wp-image-20432" srcset="https://pages.near.org/wp-content/uploads/2023/04/bos-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/bos-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/bos-blog-1024x512.png" alt="" class="wp-image-20432" srcset="/wp-content/uploads/2023/04/bos-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/bos-blog-300x150.png 300w, /wp-content/uploads/2023/04/bos-blog-768x384.png 768w, /wp-content/uploads/2023/04/bos-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -557,7 +631,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-1024x512.png" alt="" class="wp-image-20430" srcset="https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/horizon-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/horizon-blog-1024x512.png" alt="" class="wp-image-20430" srcset="/wp-content/uploads/2023/04/horizon-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/horizon-blog-300x150.png 300w, /wp-content/uploads/2023/04/horizon-blog-768x384.png 768w, /wp-content/uploads/2023/04/horizon-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -581,7 +655,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-1024x512.png" alt="" class="wp-image-20455" srcset="https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/ww3-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/ww3-blog-1024x512.png" alt="" class="wp-image-20455" srcset="/wp-content/uploads/2023/04/ww3-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/ww3-blog-300x150.png 300w, /wp-content/uploads/2023/04/ww3-blog-768x384.png 768w, /wp-content/uploads/2023/04/ww3-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -601,7 +675,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Inclusion – driving ideas that are good for society, sustainable, and socially impactful.</li>
 
 
@@ -627,7 +701,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>June 1, 2023 — Nominations Deadline</li>
 
 
@@ -653,7 +727,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-1024x512.png" alt="" class="wp-image-20454" srcset="https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-1024x512.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-300x150.png 300w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog-768x384.png 768w, https://pages.near.org/wp-content/uploads/2023/04/gcloud-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="512" src="/wp-content/uploads/2023/04/gcloud-blog-1024x512.png" alt="" class="wp-image-20454" srcset="/wp-content/uploads/2023/04/gcloud-blog-1024x512.png 1024w, /wp-content/uploads/2023/04/gcloud-blog-300x150.png 300w, /wp-content/uploads/2023/04/gcloud-blog-768x384.png 768w, /wp-content/uploads/2023/04/gcloud-blog.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -673,7 +747,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Founders: <a href="http://near.org/horizon">Join NEAR Horizon here&nbsp;</a></li>
 
 
@@ -715,7 +789,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png" alt="" class="wp-image-20462" srcset="https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-300x158.png 300w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social-768x403.png 768w, https://pages.near.org/wp-content/uploads/2023/04/around-ecosystem-social.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png" alt="" class="wp-image-20462" srcset="/wp-content/uploads/2023/04/around-ecosystem-social-1024x538.png 1024w, /wp-content/uploads/2023/04/around-ecosystem-social-300x158.png 300w, /wp-content/uploads/2023/04/around-ecosystem-social-768x403.png 768w, /wp-content/uploads/2023/04/around-ecosystem-social.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
