@@ -15,22 +15,171 @@
 	<atom:link href="/blog/tag/infrastructure/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/infrastructure/</link>
 	<description></description>
-	<lastBuildDate>Mon, 10 Jul 2023 22:31:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Sep 2024 14:55:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Infrastructure Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/infrastructure/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>RFPs Now Open to Maintain Critical Infrastructure on NEAR</title>
+		<link>/blog/rfps-now-open-to-maintain-critical-infrastructure-on-near/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 24 Sep 2024 14:55:11 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Decentralization]]></category>
+		<category><![CDATA[DevHub]]></category>
+		<category><![CDATA[Infrastructure]]></category>
+		<category><![CDATA[Infrastructure Committee]]></category>
+		<category><![CDATA[Pagoda]]></category>
+		<guid isPermaLink="false">/?p=21533</guid>
+
+					<description><![CDATA[<p>The NEAR Infrastructure Committee (IC) has released four Requests-for-Proposal (RFPs) as part of the Pagoda wind-down and decentralization initiative. Qualified …</p>
+<p>The post <a href="/blog/rfps-now-open-to-maintain-critical-infrastructure-on-near/">RFPs Now Open to Maintain Critical Infrastructure on NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Infrastructure Committee (IC) has released four Requests-for-Proposal (RFPs) as part of the <a href="/blog/ecosystem-update-announcing-near-one-chain-abstraction-spinouts/">Pagoda wind-down</a> and decentralization initiative. Qualified ecosystem players can make bids to the IC to create decentralized infrastructure and maintain critical tech for the NEAR community. The goal is to improve transparency, increase competition to provide excellent services, and reduce centralization of key ecosystem tech and teams. The committee is actively looking for builders and infrastructure providers to bid on these projects starting today.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>A New Stage in NEAR Ecosystem Decentralization</strong></h2>
+
+
+
+<p>As the NEAR ecosystem continues its journey towards full decentralization, the IC invites experienced infrastructure vendors, whether already within or new to the NEAR ecosystem, to participate in maintaining and enhancing essential services. This initiative not only ensures that critical infrastructure remains operational, but also opens up funding opportunities for providers who can bring innovative solutions and cost-effective strategies to the table.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Available RFPs:</strong></h3>
+
+
+
+<ol class="wp-block-list">
+<li><strong>NEAR Lake Maintenance and Development</strong>: Oversee the continued operation and improvement of NEAR Lake, the data availability layer crucial for developers and applications.</li>
+
+
+
+<li><strong>Kit Wallet API Support</strong>: Manage and enhance the API services that power Kit Wallet, facilitating seamless transactions and user interactions.</li>
+
+
+
+<li><strong>BigQuery Data Services</strong>: Maintain and optimize the BigQuery datasets, enabling efficient data analysis and insights for developers and stakeholders.</li>
+
+
+
+<li><strong>NEAR.org RPC Services</strong>: Ensure the reliability and performance of the Remote Procedure Call (RPC) services vital for communication between clients and the NEAR blockchain.</li>
+</ol>
+
+
+
+<p><em>Note: The first three RFPs are interconnected, as Kit Wallet API and BigQuery depend on NEAR Lake. Providers are encouraged to consider bidding on these together to ensure seamless integration and service continuity.</em></p>
+
+
+
+<p>Access all <a href="https://dev.near.org/infrastructure-committee.near/widget/app?page=rfps">RFPs and submission details</a> on the NEAR Infrastructure Committee Portal.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Why This Matters</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>For NEAR Ecosystem</strong>: Maintaining critical infrastructure is essential for the NEAR network&#8217;s reliability and growth. This initiative ensures that these services remain uninterrupted and continue to support the ecosystem effectively.</li>
+
+
+
+<li><strong>For Infrastructure Providers</strong>: An open bidding process offers a fair opportunity to secure funding and contribute significantly to NEAR infrastructure, leveraging your expertise to drive innovation.</li>
+
+
+
+<li><strong>For Developers and Users</strong>: A robust and decentralized infrastructure means better performance, reliability, and new opportunities for engagement within the NEAR ecosystem.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>About the Infrastructure Committee and the Proposal Process</strong></h2>
+
+
+
+<p>The NEAR Infrastructure Committee is committed to transparency and decentralization in funding. The proposal process is conducted openly through the IC&#8217;s on-chain portal, ensuring fair evaluation and selection of candidates. Here&#8217;s how it works:</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Submission</strong>: Interested providers submit their proposals via the IC&#8217;s on-chain portal. Applications will be open for a two-week period starting <strong>September</strong> <strong>24</strong> and ending on <strong>October 8</strong>.</li>
+
+
+
+<li><strong>Evaluation</strong>: The IC reviews proposals based on technical expertise, proposed budgets, and cost-reduction strategies aligned with current usage statistics. Evaluations will be completed within one week after the submission period ends.</li>
+
+
+
+<li><strong>Selection</strong>: Successful candidates will be awarded contracts to manage and develop critical infrastructure components.</li>
+</ol>
+
+
+
+<p><em>Please note</em>: The IC expects vendors to propose reasonable budgets rather than posting expected budgets up front. It is up to the infrastructure partners to calculate funding based on usage and pricing. Accurate pricing will help determine viable candidates. While the committee  may have potential providers in mind, this is an open bidding process that will fairly consider all qualified applicants.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Stay Connected and Informed</strong></h2>
+
+
+
+<p>For updates and more information about the Infrastructure Committee and the <a href="https://dev.near.org/infrastructure-committee.near/widget/app?page=rfps">RFP process</a>, explore the following resources:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Pagoda Wind-Down and Spin-Out</strong>: <a href="/blog/ecosystem-update-announcing-near-one-chain-abstraction-spinouts/">Ecosystem Update</a></li>
+
+
+
+<li><strong>Future of Pagoda Services</strong>: <a href="https://docs.near.org/blog/2024-08-13-pagoda-services">Read More</a></li>
+
+
+
+<li><strong>About the Infrastructure Committee</strong>: <a href="/blog/near-launches-infrastructure-committee/">NEAR Blog</a></li>
+
+
+
+<li><strong>NEAR Infrastructure Committee Portal</strong>: Proposals and <a href="https://dev.near.org/infrastructure-committee.near/widget/app?page=rfps">RFPs</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Call to Action: Make a Bid</strong></h2>
+
+
+
+<p>If you are an infrastructure provider with the expertise to manage and enhance critical NEAR services, the IC encourages you to review the RFPs and submit your proposal. This is your opportunity to contribute to the future of decentralized infrastructure on NEAR.</p>
+
+
+
+<p><strong>Submit your proposal today via the </strong><a href="https://dev.near.org/infrastructure-committee.near/widget/app?page=rfps"><strong>NEAR Infrastructure Committee Portal</strong></a><strong>.</strong></p>
+
+
+
+<p>Help the IC spread the word! Share this announcement with any stakeholders or organizations that might be interested in this opportunity.</p>
+<p>The post <a href="/blog/rfps-now-open-to-maintain-critical-infrastructure-on-near/">RFPs Now Open to Maintain Critical Infrastructure on NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21533</post-id>	</item>
+		<item>
 		<title>Vistara Lands in the NEAR Ecosystem for Seamless Base Layer Roll-up Deployment</title>
 		<link>/blog/vistara-lands-in-the-near-ecosystem-for-seamless-base-layer-roll-up-deployment/</link>
 		
@@ -215,7 +364,7 @@
 
 
 
-<ul><li><strong>Qualified Wallet: </strong>institutional-grade cold vault<strong> </strong>storage</li><li><strong>Prime Wallet</strong>: warm wallet infrastructure offering instantaneous transactions between Binance Custody and the Binance exchange, with sub-accounts.</li><li><strong>Binance Mirror</strong>: matches an institution’s cold storage custody funds with 1:1 availability on their Binance exchange account to access deep liquidity venues.</li><li><strong>Cold Convert</strong>: trade tokens from cold storage with zero counterparty risk and customized slippage tolerance without compromising on security.</li></ul>
+<ul class="wp-block-list"><li><strong>Qualified Wallet: </strong>institutional-grade cold vault<strong> </strong>storage</li><li><strong>Prime Wallet</strong>: warm wallet infrastructure offering instantaneous transactions between Binance Custody and the Binance exchange, with sub-accounts.</li><li><strong>Binance Mirror</strong>: matches an institution’s cold storage custody funds with 1:1 availability on their Binance exchange account to access deep liquidity venues.</li><li><strong>Cold Convert</strong>: trade tokens from cold storage with zero counterparty risk and customized slippage tolerance without compromising on security.</li></ul>
 
 
 
@@ -402,7 +551,7 @@
 
 
 
-<ul><li><a href="https://t.me/auroraisnear">Telegram</a></li><li><a href="https://discord.aurora.dev/">Discord</a> </li><li><a href="https://twitter.com/auroraisnear">Twitter</a> </li><li><a href="https://aurora.dev/">Website</a></li></ul>
+<ul class="wp-block-list"><li><a href="https://t.me/auroraisnear">Telegram</a></li><li><a href="https://discord.aurora.dev/">Discord</a> </li><li><a href="https://twitter.com/auroraisnear">Twitter</a> </li><li><a href="https://aurora.dev/">Website</a></li></ul>
 <p>The post <a href="/blog/aurora-consensys-partnership-metamask-infura/">Aurora Partners With ConsenSys, Bringing MetaMask, Infura and More Ethereum Tools to NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
 ]]></content:encoded>
 					
@@ -451,7 +600,7 @@
 
 
 
-<figure class="wp-block-image alignnone size-large wp-image-14230 size-full"><img fetchpriority="high" decoding="async" width="1024" height="546" src="https://pages.near.org/wp-content/uploads/2021/10/private-shard-1-1024x546.png" alt="" class="wp-image-14657" srcset="https://pages.near.org/wp-content/uploads/2021/10/private-shard-1-1024x546.png 1024w, https://pages.near.org/wp-content/uploads/2021/10/private-shard-1-300x160.png 300w, https://pages.near.org/wp-content/uploads/2021/10/private-shard-1-768x410.png 768w, https://pages.near.org/wp-content/uploads/2021/10/private-shard-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>In consortium models, blockchains aren&#8217;t interoperable.</figcaption></figure>
+<figure class="wp-block-image alignnone size-large wp-image-14230 size-full"><img fetchpriority="high" decoding="async" width="1024" height="546" src="/wp-content/uploads/2021/10/private-shard-1-1024x546.png" alt="" class="wp-image-14657" srcset="/wp-content/uploads/2021/10/private-shard-1-1024x546.png 1024w, /wp-content/uploads/2021/10/private-shard-1-300x160.png 300w, /wp-content/uploads/2021/10/private-shard-1-768x410.png 768w, /wp-content/uploads/2021/10/private-shard-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>In consortium models, blockchains aren&#8217;t interoperable.</figcaption></figure>
 
 
 
@@ -491,7 +640,7 @@
 
 
 
-<figure class="wp-block-image alignnone size-large wp-image-14229 size-full"><img decoding="async" width="1024" height="546" src="https://pages.near.org/wp-content/uploads/2021/10/private-shard-2-1024x546.png" alt="" class="wp-image-14658" srcset="https://pages.near.org/wp-content/uploads/2021/10/private-shard-2-1024x546.png 1024w, https://pages.near.org/wp-content/uploads/2021/10/private-shard-2-300x160.png 300w, https://pages.near.org/wp-content/uploads/2021/10/private-shard-2-768x410.png 768w, https://pages.near.org/wp-content/uploads/2021/10/private-shard-2.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>In private shards, blockchains can share information without compromising on security.</figcaption></figure>
+<figure class="wp-block-image alignnone size-large wp-image-14229 size-full"><img decoding="async" width="1024" height="546" src="/wp-content/uploads/2021/10/private-shard-2-1024x546.png" alt="" class="wp-image-14658" srcset="/wp-content/uploads/2021/10/private-shard-2-1024x546.png 1024w, /wp-content/uploads/2021/10/private-shard-2-300x160.png 300w, /wp-content/uploads/2021/10/private-shard-2-768x410.png 768w, /wp-content/uploads/2021/10/private-shard-2.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>In private shards, blockchains can share information without compromising on security.</figcaption></figure>
 
 
 

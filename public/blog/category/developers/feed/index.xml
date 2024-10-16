@@ -15,22 +15,480 @@
 	<atom:link href="/blog/category/developers/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/developers/</link>
 	<description></description>
-	<lastBuildDate>Thu, 08 Aug 2024 13:18:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Oct 2024 15:49:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Developers Archives &#8211; NEAR Protocol</title>
 	<link>/blog/category/developers/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>NEAR Foundation and Delphi Labs Partner to Launch New AI Accelerator</title>
+		<link>/blog/delphi-labs-ai-accelerator/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2024 15:49:20 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developers]]></category>
+		<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[User-Owned AI]]></category>
+		<guid isPermaLink="false">/?p=21548</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation and Delphi Labs are pleased to announce the first cohort of their joint AI Accelerator Program, a …</p>
+<p>The post <a href="/blog/delphi-labs-ai-accelerator/">NEAR Foundation and Delphi Labs Partner to Launch New AI Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation and Delphi Labs are pleased to announce the first cohort of their joint AI Accelerator Program, a strategic initiative designed to support and rapidly scale high-potential projects building at the intersection of AI and Web3.</p>
+
+
+
+<p>The selected teams will benefit from a comprehensive support package, including technical guidance, funding opportunities, and access to NEAR and Delphi’s expert networks. Each team will also receive $50,000 in compute credits from Aethir, the accelerator program’s premier compute partner. These credits will ensure that every team has the necessary computational resources to develop and deploy resource-intensive AI models—and focus on building without being constrained by infrastructure limitations.</p>
+
+
+
+<p>Beginning October 15 and running through early December, NEAR Foundation and Delphi Labs have selected the following cohort teams:</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://hyper.space/"><strong>Hyperspace</strong></a>: Hyperspace is building a decentralized, peer-to-peer AI network. Their mission is to create a unified platform for AI interactions through a &#8220;generative browser&#8221; serving as a unified interface for AI-powered web interactions.
+<ul class="wp-block-list">
+<li><strong>Selection notes:</strong> Hyperspace has demonstrated traction with over 7,000 unique nodes in their P2P network and a robust product suite, most recently launching <a href="https://play.hyper.space/">Play</a>, a generative browser agent.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://almanak.co/"><strong>Almanak</strong></a>: Almanak is an end-to-end platform to build, test, train, optimize, and deploy agents for DeFi. Their mission is to democratize access to sophisticated financial strategies through the use of AI agents.
+<ul class="wp-block-list">
+<li><strong>Selection notes:</strong> Almanak&#8217;s team has spent the last two years building a platform that uses agent-based simulations to optimize on-chain strategies. Their agents are already managing sizable AUM for institutional partners, demonstrating strong traction and expertise in their domain.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.questflow.ai/"><strong>Questflow</strong></a>: Building a next-generation AI agent economy, Questflow is developing a decentralized network that orchestrates multi-agent AI automation. Users can dispatch incentives to both AI and human workers, creating a collaborative environment for autonomous and human-assisted processes.
+<ul class="wp-block-list">
+<li><strong>Selection notes:</strong> Questflow aims to dominate the AI agentic workflow market, particularly in SEO. Their gamified reward system and strong focus on winning specific verticals make them a standout candidate for advancing AI automation workflows.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.qstarlabs.ai/"><strong>Q Star Labs</strong></a>: Q Star Labs is developing a decentralized generative AI protocol for creating interactive, autonomous AI influencers at scale. Their Reinforcement Learning-based algorithm, Q STAR, is designed for long-term strategic planning to optimize AI content generation and engagement.
+<ul class="wp-block-list">
+<li><strong>Selection notes:</strong> The Q Star Labs team has a unique blend of expertise in AI, crypto, and finance, launching AI influencers that have organically grown to over 27,000 followers.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://zettablock.com/"><strong>ZettaBlock</strong></a><strong>:</strong> ZettaBlock is laying the groundwork for open and trustless AI development through a decentralized platform that provides developers with the infrastructure needed to unify on-chain and off-chain data. By offering modular, adaptable data solutions, ZettaBlock empowers the AI economy with the tools needed to integrate both historical and real-time data from multiple sources.
+<ul class="wp-block-list">
+<li><strong>Selection notes</strong><strong>: </strong>ZettaBlock’s leadership in both AI and data infrastructure makes them a pivotal player in the future of decentralized AI. They’re already supporting major protocols like EigenLayer and Chainlink. Their vision for a unified AI data platform aligns perfectly with NEAR Foundation and Delphi’s mission to foster open and scalable AI infrastructure that developers can rely on.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.joinmagic.ai/"><strong>Magic</strong></a><strong>: </strong>Magic is redefining how private data is used in AI. Their decentralized platform allows companies and developers to train AI models using private data, all while preserving the integrity and privacy of the underlying information. This is achieved through an innovative stack of privacy protocols and decentralized coordination.
+<ul class="wp-block-list">
+<li><strong>Selection notes</strong><strong>: </strong>Magic is tackling one of the toughest challenges in AI—privacy-preserving data access. Their team, with deep roots at Stanford AI Lab, has developed unique methods to keep data secure while enabling AI innovation at scale. Their ability to unlock private data for developers, without compromising security, makes Magic an essential piece of the decentralized AI puzzle.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.dfusion.ai/"><strong>dFusion</strong></a><strong>: </strong>dFusion is building a platform to solve one of AI’s biggest hurdles: reliable data quality. They’re focused on creating a consensus-driven framework that curates and validates high-quality data, ensuring that AI models are trained on information that is accurate, corroborated, and trustworthy.
+<ul class="wp-block-list">
+<li><strong>Selection notes</strong><strong>: </strong>dFusion’s commitment to consensus-based knowledge curation sets them apart from other players in the data space. By focusing on data integrity and consensus, they’re creating a unique foundation for AI development—one that ensures reliability and transparency. Their work opens up new opportunities for building AI applications that need trustworthy data, which is critical as decentralized AI continues to evolve.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.perilabs.net/"><strong>Peri Labs</strong></a>: Peri Labs is building an open marketplace leveraging underutilized computational resources across billions of consumer devices to power optimized AI models. The Peri Protocol abstracts the complexity of diverse hardware ecosystems, enabling seamless AI model deployment at scale.
+<ul class="wp-block-list">
+<li><strong>Selection notes</strong><strong>: </strong>Peri Labs differentiates itself with a focus on edge compute, uniquely integrating idle resources from consumer-grade devices to run AI models effectively. Their emphasis on model compression, optimization, and decentralized inference positions them as pioneers in making edge AI truly scalable, providing an efficient, privacy-preserving alternative to centralized cloud solutions.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>In addition to the resources above, the NEAR x Delphi AI Accelerator Program includes some more unique opportunities for participants:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Industry-leading speakers</strong>: Participants will hear from founders, investors, and experts from AI and Web3, providing insights into current trends and future opportunities. </li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>IRL Founder Retreat</strong>: An in-person retreat week in New York City for networking, collaboration, and team-building.</li>
+
+
+
+<li><strong>Closing Demo Day</strong>: The program will conclude with a Demo Day in early December, showcasing participating teams to our extensive investor network.</li>
+</ul>
+
+
+
+<p>NEAR is a leading blockchain platform designed to accelerate the development of decentralized applications with a focus on usability and scalability. Delphi Labs is a research and development firm that specializes in Web3 and DeFi.&nbsp;</p>
+
+
+
+<p>NEAR and Delphi Labs share the common strategic vision of a user-owned AI ecosystem, built on Web3 rails, that provides genuinely better alternatives to developers and users than the prevailing model of centralized AI controlled by big tech companies and governments. The goal is to maximize the benefits of AI for people and communities—and minimize the potential risks—by putting the power of AI where it belongs: in the hands of users.&nbsp;</p>
+
+
+
+<p>The NEAR ecosystem is quickly becoming the go-to home for decentralized, User-Owned AI, and this new AI Accelerator Program with Delphi Labs is a critical step toward integrating projects with significant potential into that ecosystem, setting the stage for the next generation of AI-powered decentralized apps.</p>
+
+
+
+<p>NEAR’s first AI x Web3 incubator cohort, which ran from June to August 2024, saw participants achieve significant early milestones while contributing essential pieces to the growing User-Owned AI stack. These milestones include: <a href="https://hyperbolic.xyz/">Hyperbolic</a> hosting the latest open source AI models, including Llama 3.1 405B; <a href="https://mizu.global/">Mizu</a> launching their beta platform and attracting 20K users in the first week; and <a href="https://cryptopond.xyz/">Pond</a> launching their first GNN model for wallet predictions and achieving a 20% prediction rate. The teams have built on the momentum from the incubator to attract serious seed funding interest, collectively raising $26M, with Hyperbolic successfully closing a $7M round.</p>
+
+
+
+<p>Stay tuned for details on the cohort’s Demo Day, which will take place on December 14. Teams with a strong vision for decentralized AI applications and infrastructure are encouraged to <a href="https://www.hzn.xyz/">apply</a> for the next accelerator program cohort to take place early next year.</p>
+<p>The post <a href="/blog/delphi-labs-ai-accelerator/">NEAR Foundation and Delphi Labs Partner to Launch New AI Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21548</post-id>	</item>
+		<item>
+		<title>RFPs Now Open to Maintain Critical Infrastructure on NEAR</title>
+		<link>/blog/rfps-now-open-to-maintain-critical-infrastructure-on-near/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 24 Sep 2024 14:55:11 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Decentralization]]></category>
+		<category><![CDATA[DevHub]]></category>
+		<category><![CDATA[Infrastructure]]></category>
+		<category><![CDATA[Infrastructure Committee]]></category>
+		<category><![CDATA[Pagoda]]></category>
+		<guid isPermaLink="false">/?p=21533</guid>
+
+					<description><![CDATA[<p>The NEAR Infrastructure Committee (IC) has released four Requests-for-Proposal (RFPs) as part of the Pagoda wind-down and decentralization initiative. Qualified …</p>
+<p>The post <a href="/blog/rfps-now-open-to-maintain-critical-infrastructure-on-near/">RFPs Now Open to Maintain Critical Infrastructure on NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Infrastructure Committee (IC) has released four Requests-for-Proposal (RFPs) as part of the <a href="/blog/ecosystem-update-announcing-near-one-chain-abstraction-spinouts/">Pagoda wind-down</a> and decentralization initiative. Qualified ecosystem players can make bids to the IC to create decentralized infrastructure and maintain critical tech for the NEAR community. The goal is to improve transparency, increase competition to provide excellent services, and reduce centralization of key ecosystem tech and teams. The committee is actively looking for builders and infrastructure providers to bid on these projects starting today.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>A New Stage in NEAR Ecosystem Decentralization</strong></h2>
+
+
+
+<p>As the NEAR ecosystem continues its journey towards full decentralization, the IC invites experienced infrastructure vendors, whether already within or new to the NEAR ecosystem, to participate in maintaining and enhancing essential services. This initiative not only ensures that critical infrastructure remains operational, but also opens up funding opportunities for providers who can bring innovative solutions and cost-effective strategies to the table.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Available RFPs:</strong></h3>
+
+
+
+<ol class="wp-block-list">
+<li><strong>NEAR Lake Maintenance and Development</strong>: Oversee the continued operation and improvement of NEAR Lake, the data availability layer crucial for developers and applications.</li>
+
+
+
+<li><strong>Kit Wallet API Support</strong>: Manage and enhance the API services that power Kit Wallet, facilitating seamless transactions and user interactions.</li>
+
+
+
+<li><strong>BigQuery Data Services</strong>: Maintain and optimize the BigQuery datasets, enabling efficient data analysis and insights for developers and stakeholders.</li>
+
+
+
+<li><strong>NEAR.org RPC Services</strong>: Ensure the reliability and performance of the Remote Procedure Call (RPC) services vital for communication between clients and the NEAR blockchain.</li>
+</ol>
+
+
+
+<p><em>Note: The first three RFPs are interconnected, as Kit Wallet API and BigQuery depend on NEAR Lake. Providers are encouraged to consider bidding on these together to ensure seamless integration and service continuity.</em></p>
+
+
+
+<p>Access all <a href="https://dev.near.org/infrastructure-committee.near/widget/app?page=rfps">RFPs and submission details</a> on the NEAR Infrastructure Committee Portal.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Why This Matters</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>For NEAR Ecosystem</strong>: Maintaining critical infrastructure is essential for the NEAR network&#8217;s reliability and growth. This initiative ensures that these services remain uninterrupted and continue to support the ecosystem effectively.</li>
+
+
+
+<li><strong>For Infrastructure Providers</strong>: An open bidding process offers a fair opportunity to secure funding and contribute significantly to NEAR infrastructure, leveraging your expertise to drive innovation.</li>
+
+
+
+<li><strong>For Developers and Users</strong>: A robust and decentralized infrastructure means better performance, reliability, and new opportunities for engagement within the NEAR ecosystem.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>About the Infrastructure Committee and the Proposal Process</strong></h2>
+
+
+
+<p>The NEAR Infrastructure Committee is committed to transparency and decentralization in funding. The proposal process is conducted openly through the IC&#8217;s on-chain portal, ensuring fair evaluation and selection of candidates. Here&#8217;s how it works:</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Submission</strong>: Interested providers submit their proposals via the IC&#8217;s on-chain portal. Applications will be open for a two-week period starting <strong>September</strong> <strong>24</strong> and ending on <strong>October 8</strong>.</li>
+
+
+
+<li><strong>Evaluation</strong>: The IC reviews proposals based on technical expertise, proposed budgets, and cost-reduction strategies aligned with current usage statistics. Evaluations will be completed within one week after the submission period ends.</li>
+
+
+
+<li><strong>Selection</strong>: Successful candidates will be awarded contracts to manage and develop critical infrastructure components.</li>
+</ol>
+
+
+
+<p><em>Please note</em>: The IC expects vendors to propose reasonable budgets rather than posting expected budgets up front. It is up to the infrastructure partners to calculate funding based on usage and pricing. Accurate pricing will help determine viable candidates. While the committee  may have potential providers in mind, this is an open bidding process that will fairly consider all qualified applicants.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Stay Connected and Informed</strong></h2>
+
+
+
+<p>For updates and more information about the Infrastructure Committee and the <a href="https://dev.near.org/infrastructure-committee.near/widget/app?page=rfps">RFP process</a>, explore the following resources:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Pagoda Wind-Down and Spin-Out</strong>: <a href="/blog/ecosystem-update-announcing-near-one-chain-abstraction-spinouts/">Ecosystem Update</a></li>
+
+
+
+<li><strong>Future of Pagoda Services</strong>: <a href="https://docs.near.org/blog/2024-08-13-pagoda-services">Read More</a></li>
+
+
+
+<li><strong>About the Infrastructure Committee</strong>: <a href="/blog/near-launches-infrastructure-committee/">NEAR Blog</a></li>
+
+
+
+<li><strong>NEAR Infrastructure Committee Portal</strong>: Proposals and <a href="https://dev.near.org/infrastructure-committee.near/widget/app?page=rfps">RFPs</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Call to Action: Make a Bid</strong></h2>
+
+
+
+<p>If you are an infrastructure provider with the expertise to manage and enhance critical NEAR services, the IC encourages you to review the RFPs and submit your proposal. This is your opportunity to contribute to the future of decentralized infrastructure on NEAR.</p>
+
+
+
+<p><strong>Submit your proposal today via the </strong><a href="https://dev.near.org/infrastructure-committee.near/widget/app?page=rfps"><strong>NEAR Infrastructure Committee Portal</strong></a><strong>.</strong></p>
+
+
+
+<p>Help the IC spread the word! Share this announcement with any stakeholders or organizations that might be interested in this opportunity.</p>
+<p>The post <a href="/blog/rfps-now-open-to-maintain-critical-infrastructure-on-near/">RFPs Now Open to Maintain Critical Infrastructure on NEAR</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21533</post-id>	</item>
+		<item>
+		<title>Near One Shares Q3 NEAR Protocol Roadmap Update</title>
+		<link>/blog/near-one-shares-q3-near-protocol-roadmap-update/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Wed, 04 Sep 2024 01:21:54 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Near One]]></category>
+		<category><![CDATA[NEAR Protocol]]></category>
+		<category><![CDATA[Nightshade 2.0]]></category>
+		<category><![CDATA[Protocol Roadmap]]></category>
+		<category><![CDATA[Sharding]]></category>
+		<guid isPermaLink="false">/?p=21512</guid>
+
+					<description><![CDATA[<p>A post from the Near One team The launch of stateless validation in August 2024 marks an important milestone for …</p>
+<p>The post <a href="/blog/near-one-shares-q3-near-protocol-roadmap-update/">Near One Shares Q3 NEAR Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em>A post from the Near One team</em></p>
+
+
+
+<p>The launch of stateless validation in August 2024 marks an important milestone for NEAR Protocol, but it is by no means the end state of the protocol. There is still a lot of ambitious work to be done. </p>
+
+
+
+<p>In less than four years since launching mainnet, the NEAR network has over 110 million users – a great achievement for the ecosystem. But the goal for NEAR is to onboard a billion people to the User-Owned Internet. Achieving such widespread usage will require an even more scalable, performant, secure, and fast protocol. The Near One team is already working to make improvements to Nightshade 2.0 and has started planning the next round of advancements. In this post, we describe what the protocol roadmap looks like for the rest of 2024 and into next year.</p>
+
+
+
+<p>First of all, while the stateless validation launch is a major change to the protocol, it does not immediately improve the performance of mainnet. This is because we intentionally keep the upgrade as simple as possible to avoid adding more complexity into the already humongous upgrade. To fully reap the benefits of the new design, there are a number of improvements on top of the release that we will work on for the rest of 2024 following the August launch:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Optimization of state witness size.</strong> In the current implementation, state witness size could be quite large, primarily due to the size of contract code included in a state witness. Optimization of state witness size will reduce the likelihood of a chunk hitting the size limit, thereby improving transaction throughput.</li>
+
+
+
+<li><strong>Reduce gas cost for storage operations.</strong> One of the key benefits of stateless validation is that state accesses (reads and writes) are now fully in memory. It means that the gas cost of state accesses could be significantly reduced, which allows for higher transaction throughput.</li>
+
+
+
+<li><strong>Resharding.</strong> The launch of stateless validation means that no validator node needs to track all shards, which enables scaling to potentially many more shards. However, due to the architectural change, the old method of resharding no longer works and a new method needs to be developed and tested. The new method of resharding will be quite fast and will lay the groundwork for dynamic resharding (see more about this development below).</li>
+
+
+
+<li><strong>Node synchronization.</strong> While not strictly related to stateless validation, the synchronization time for a mainnet node has been a pain point for many node operators. Work will be done in this area both to improve the speed of synchronization and ensure that the synchronization process does not depend on centralized services.</li>
+</ul>
+
+
+
+<p>In addition to the immediate priorities listed above, there are some long-term improvements that we intend to work on starting in early 2025:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Transaction priority fee.</strong> In the stateless validation launch, we introduced congestion control that provides better latency for accepted transactions under congestion conditions. However, users may want to pay more to get to the front of the queue for certain use cases such as trading or arbitrage. Establishing a transaction priority fee mechanism will make NEAR easier to use when there is short-term congestion.</li>
+
+
+
+<li><strong>Dynamic resharding.</strong> The holy grail of sharding: the network dynamically adjusts the number of shards based on the load. When a shard is overloaded, it splits itself into two shards. Similarly, when two shards are both underutilized, they get merged back into one shard for the sake of efficiency.</li>
+
+
+
+<li><strong>Runtime performance improvements.</strong> There are a number of ideas that we’d like to experiment with to improve runtime performance of NEAR, which includes pipelining contract execution, parallel execution of transactions and receipts, and using an optimizing compiler for wasm.</li>
+
+
+
+<li><strong>Leaderless consensus.</strong> The current consensus mechanism degrades in performance when some nodes are offline, which could happen during a protocol upgrade. A leaderless consensus is much less sensitive to a small number of nodes being offline and can also provide higher throughput.</li>
+
+
+
+<li><strong>Sharded smart contracts.</strong> Today each smart contract resides on a specific shard. While the more shards there are on mainnet, the better the overall throughput will be, a smart contract per se cannot take full advantage of NEAR’s sharding. Allowing a smart contract to be sharded (exist on all shards simultaneously) could unlock use cases that are not possible today and make it possible to build dapps with hundreds of millions of users on NEAR.</li>
+</ul>
+
+
+
+<p>These initiatives will significantly improve the performance and scalability of NEAR and make it possible to support hundreds of millions, even a billion daily transactions. The new level of scalability lays a solid foundation for the different verticals of initiatives in the NEAR ecosystem, such as Chain Abstraction, Modularity, and User-Owned AI. Stay tuned for more on performance and efficiency improvements in the coming months and a more detailed future roadmap update towards the end of the year.<br></p>
+<p>The post <a href="/blog/near-one-shares-q3-near-protocol-roadmap-update/">Near One Shares Q3 NEAR Protocol Roadmap Update</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21512</post-id>	</item>
+		<item>
+		<title>Nightshade 2.0 Launches on NEAR Mainnet, Introducing Stateless Validation and Greater Scalability</title>
+		<link>/blog/nightshade-2-launches-on-near-mainnet-introducing-stateless-validation/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 22 Aug 2024 13:01:31 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[Nightshade 2.0]]></category>
+		<category><![CDATA[Protocol Roadmap]]></category>
+		<category><![CDATA[scalability]]></category>
+		<category><![CDATA[Sharding]]></category>
+		<category><![CDATA[stateless validation]]></category>
+		<guid isPermaLink="false">/?p=21503</guid>
+
+					<description><![CDATA[<p>TLDR: Nightshade 2.0, the latest advancement in the NEAR Protocol sharding roadmap, is now live on Mainnet. This upgrade introduces …</p>
+<p>The post <a href="/blog/nightshade-2-launches-on-near-mainnet-introducing-stateless-validation/">Nightshade 2.0 Launches on NEAR Mainnet, Introducing Stateless Validation and Greater Scalability</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>TLDR:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Introduces stateless validation</strong>: an innovative approach to validating state transition, or the process of updating the status of all the data posted to the blockchain. Now, NEAR validators no longer have to maintain the state of a shard locally.</li>
+
+
+
+<li><strong>Scalability, usability improvements: </strong>Nightshade 2.0 Improves single-shard performance significantly and adds capacity for more shards: NEAR currently has 6 shards and the plan is to have 10 shards by the end of 2024.</li>
+
+
+
+<li><strong>Advancing towards NEAR vision:</strong> Upgrades NEAR’s already high-performance and scalable infrastructure to support the growing number of users and activities in the NEAR ecosystem, including consumer apps, Chain Abstraction, modularity, DeFi, and User-Owned AI, to a billion users and beyond. NEAR saw over 20 million monthly active users in July 2024, with over 110 million accounts overall. </li>
+</ul>
+
+
+
+<p>Nightshade 2.0, the latest advancement in the NEAR Protocol sharding roadmap, is now live on Mainnet. This upgrade introduces stateless validation and improves the scalability, performance, and decentralization of the protocol. Nightshade 2.0 is a major milestone for the NEAR network, marking the biggest change to the protocol since mainnet launched in October 2020.&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Introducing Stateless Validation</h4>
+
+
+
+<p>Introducing stateless validation to the sharding architecture of NEAR Protocol both improves single-shard performance as well as adds capacity for more shards on the network. The upgrade happens live, without affecting mainnet users and applications. Currently at six shards, NEAR aims to have ten shards by the end of 2024.&nbsp;</p>
+
+
+
+<p>Stateless validation is an innovative approach to validating state transition, or the process of updating the status of all the data posted to the blockchain. Sharding is NEAR’s unique approach to scaling, which partitions the blockchain into multiple parallel “shards.” With Nightshade sharding, both the state and processing are divided among shards. Now, NEAR validators no longer have to maintain the state of a shard locally and can retrieve all the information they need to validate state changes, or “state witness,” from the network. Stateless validation was originally proposed by Vitalik Buterin in 2017 and NEAR is one of the only blockchain networks to implement the approach.&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">Unlocking Even Higher Performance &amp; Scalability</h4>
+
+
+
+<p>In Nightshade 2.0, validators no longer need to track all shards and there are lower hardware requirements and costs for running a validator, potentially allowing more validators to join the ecosystem—which will further decentralize the network and enhance its security over time. </p>
+
+
+
+<p>“Nightshade 2.0 is a fundamental reworking of NEAR sharding and is a major milestone in NEAR’s development roadmap that will greatly increase NEAR’s efficiency and scalability,” said Bowen Wang, Head of Protocol at <a href="https://nearone.org/">NEAR One</a>. “In particular, the new sharding implementation paves the way to significantly increase NEAR’s already-fast transaction throughput. It also substantially lowers the cost of operating validators, lowering the barrier to entry for&nbsp; more people to become validators, which will improve the decentralization of the network. These performance and scalability upgrades will ensure that NEAR remains fast, cost-effective, and efficient even with millions more users.”&nbsp;</p>
+
+
+
+<p>“Nightshade 2.0 solves the fundamental bottleneck issue on most L1s of how to scale while preserving both usability and security,” said Illia Polosukhin, Co-Founder of NEAR Protocol and CEO of the NEAR Foundation. “By improving the performance of each shard and adding more shards, while also further decentralizing the network, NEAR sets yet another new technical standard with this upgrade. With Nightshade 2.0, NEAR sharding now enables the network to support hundreds of millions of users with high performance and speeds across consumer apps, modularity, Chain Abstraction, DeFi, and User-Owned AI.”</p>
+
+
+
+<h4 class="wp-block-heading">What’s Next for NEAR Sharding?</h4>
+
+
+
+<p>How does Nightshade 2.0 fit into the long-term sharding roadmap for the NEAR Protocol? Nightshade 2.0 is a shift in direction from the original Nightshade sharding architecture NEAR launched with in 2020, bypassing some fundamental roadblocks in that protocol design around the implementation of challenges in the initial idea of Phase 2, while also unlocking additional benefits.&nbsp;</p>
+
+
+
+<p>From here, the focus for the remainder of 2024 will be on making further performance improvements and optimizations on top of those unlocked by Nightshade 2.0. These include introducing a new method of resharding, reducing gas costs for storage operations, and optimization of state witness size. Starting in early 2025, planning for the next phase of NEAR scalability and sharding will begin, including on dynamic re-sharding, the holy grail of sharding, where the network dynamically adjusts the number of shards based on the load. The Near One team will share a more detailed roadmap update in the coming days.&nbsp;</p>
+
+
+
+<p>For more information on Nightshade 2.0, watch Bowen Wang and Illia Polosukhin’s <a href="https://www.youtube.com/watch?v=YGUeTu4Cco4">Whiteboard Series</a> unpacking the NEAR Protocol. For deep technical details on how NEAR sharding and stateless validation works, read the Nightshade 2.0 <a href="https://discovery-domain.org/papers/nightshade.pdf">whitepaper</a>.&nbsp;</p>
+<p>The post <a href="/blog/nightshade-2-launches-on-near-mainnet-introducing-stateless-validation/">Nightshade 2.0 Launches on NEAR Mainnet, Introducing Stateless Validation and Greater Scalability</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21503</post-id>	</item>
+		<item>
 		<title>Chain Signatures Mainnet Launches: Smart Contracts Can Sign Transactions on Any Blockchain</title>
 		<link>/blog/chain-signatures-mainnet-launches/</link>
 		
@@ -63,7 +521,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://sweateconomy.com/">Sweat Wallet</a>: 2.5 million active Sweat Wallet users (on NEAR) can bridge assets to and from any chain, starting with BNB and Base, while paying for gas in $SWEAT.</li>
 
 
@@ -109,7 +567,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Chain Signatures: <a href="/blog/getting-started-with-chain-signatures/">Getting Started Guide</a></li>
 
 
@@ -166,9 +624,9 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Deriving Foreign Addresses:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Chain Signatures uses derivation paths to represent accounts on foreign blockchains.</li>
 
 
@@ -180,7 +638,7 @@
 
 
 <li><strong>Creating the Transaction:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>The client constructs the hash of the transaction to be signed, which varies by the target blockchain.</li>
 </ul>
 </li>
@@ -188,7 +646,7 @@
 
 
 <li><strong>Requesting the Signature:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>A NEAR account or smart contract calls the sign method of the MPC smart contract (<a href="https://nearblocks.io/address/v1.signer">v1.signer</a>) to sign a payload.</li>
 </ul>
 </li>
@@ -196,7 +654,7 @@
 
 
 <li><strong>Relaying the Signature:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>The client reconstructs the valid transaction using the signature and broadcasts it to the destination blockchain.</li>
 </ul>
 </li>
@@ -212,9 +670,9 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>DeFi on Bitcoin (and other chain without smart contracts)</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Chain signatures allow NEAR smart contract to program assets on Bitcoin.</li>
 
 
@@ -226,7 +684,7 @@
 
 
 <li><strong>Chain agnostic applications</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Since chain signatures can sign transactions for all blockchains, developers can support every single chain with just one smart contract.</li>
 
 
@@ -238,7 +696,7 @@
 
 
 <li><strong>Multichain account abstraction </strong>
-<ul>
+<ul class="wp-block-list">
 <li>Users can control assets on all chains with just their NEAR account, and can utilize account abstraction features on any chain including passkeys, key rotation, etc.</li>
 
 
@@ -250,7 +708,7 @@
 
 
 <li><strong>Privacy</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Chain signatures can be used to encrypt and decrypt information in a programmatic way.</li>
 
 
@@ -266,9 +724,9 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Familiarize Yourself with Chain Signatures:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Understand the <a href="https://docs.near.org/concepts/abstraction/chain-signatures">basics of Chain Signatures</a> and how they simplify blockchain interactions.</li>
 
 
@@ -280,7 +738,7 @@
 
 
 <li><strong>Explore the Use Cases:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Review <a href="/blog/unlocking-multichain-web3-with-near-chain-signatures/">examples of use cases for Chain Signatures</a>, such as Multichain DAO, Multichain NFT Minter, and Bitcoin Runes Airdrop.</li>
 </ul>
 </li>
@@ -288,7 +746,7 @@
 
 
 <li><strong>Access Resources and Documentation:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Visit the <a href="https://docs.near.org/build/chain-abstraction/chain-signatures">Chain Signatures documentation</a> for detailed technical information and code snippets.</li>
 
 
@@ -300,7 +758,7 @@
 
 
 <li><strong>Try the Demos:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Use the <a href="https://github.com/near-examples/chainsig-script">command-line-based demo</a> to derive accounts and send transactions on Bitcoin, Ethereum, Doge, and Ripple.</li>
 
 
@@ -312,7 +770,7 @@
 
 
 <li><strong>Engage with the Community:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Join the <a href="https://t.me/chain_abstraction">Chain Abstraction developers’ channel on Telegram</a> to connect with other developers and get support.</li>
 </ul>
 </li>
@@ -324,9 +782,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Technical Blogs and Deep Dives:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Read <a href="/blog/unlocking-multichain-web3-with-near-chain-signatures">high-level use cases</a> and technical <a href="https://near.org/blog/unlocking-web3-usability-with-account-aggregation">explainer</a> posts on the NEAR blog.</li>
 </ul>
 </li>
@@ -334,7 +792,7 @@
 
 
 <li><strong>Community and Support:</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Engage with the NEAR community on <a href="http://x.com/nearprotocol">X</a> and participate in <a href="https://t.me/chain_abstraction">discussions</a> to stay updated on the latest developments.</li>
 </ul>
 </li>
@@ -391,7 +849,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Gaining insights from the teams defining the intersection of AI and Web3</li>
 
 
@@ -409,7 +867,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Illia Polosukhin (NEAR)</li>
 
 
@@ -526,7 +984,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>As a simplified wallet address across hundreds of different blockchain networks</li>
 
 
@@ -616,7 +1074,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Demystifies NEAR’s new protocol feature, Chain Signatures, both for developers and end users.</li>
 
 
@@ -646,7 +1104,7 @@
 
 
 
-<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1600" height="914" src="https://pages.near.org/wp-content/uploads/2024/05/image-2.png" alt="" class="wp-image-21375" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-2.png 1600w, https://pages.near.org/wp-content/uploads/2024/05/image-2-300x171.png 300w, https://pages.near.org/wp-content/uploads/2024/05/image-2-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-2-768x439.png 768w, https://pages.near.org/wp-content/uploads/2024/05/image-2-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1600" height="914" src="/wp-content/uploads/2024/05/image-2.png" alt="" class="wp-image-21375" srcset="/wp-content/uploads/2024/05/image-2.png 1600w, /wp-content/uploads/2024/05/image-2-300x171.png 300w, /wp-content/uploads/2024/05/image-2-1024x585.png 1024w, /wp-content/uploads/2024/05/image-2-768x439.png 768w, /wp-content/uploads/2024/05/image-2-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
 
 
 
@@ -666,7 +1124,7 @@
 
 
 
-<figure class="wp-block-image"><img decoding="async" width="1600" height="914" src="https://pages.near.org/wp-content/uploads/2024/05/image-4.png" alt="" class="wp-image-21377" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-4.png 1600w, https://pages.near.org/wp-content/uploads/2024/05/image-4-300x171.png 300w, https://pages.near.org/wp-content/uploads/2024/05/image-4-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-4-768x439.png 768w, https://pages.near.org/wp-content/uploads/2024/05/image-4-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+<figure class="wp-block-image"><img decoding="async" width="1600" height="914" src="/wp-content/uploads/2024/05/image-4.png" alt="" class="wp-image-21377" srcset="/wp-content/uploads/2024/05/image-4.png 1600w, /wp-content/uploads/2024/05/image-4-300x171.png 300w, /wp-content/uploads/2024/05/image-4-1024x585.png 1024w, /wp-content/uploads/2024/05/image-4-768x439.png 768w, /wp-content/uploads/2024/05/image-4-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
 
 
 
@@ -702,7 +1160,7 @@
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1600" height="914" src="https://pages.near.org/wp-content/uploads/2024/05/image-3.png" alt="" class="wp-image-21376" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-3.png 1600w, https://pages.near.org/wp-content/uploads/2024/05/image-3-300x171.png 300w, https://pages.near.org/wp-content/uploads/2024/05/image-3-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-3-768x439.png 768w, https://pages.near.org/wp-content/uploads/2024/05/image-3-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1600" height="914" src="/wp-content/uploads/2024/05/image-3.png" alt="" class="wp-image-21376" srcset="/wp-content/uploads/2024/05/image-3.png 1600w, /wp-content/uploads/2024/05/image-3-300x171.png 300w, /wp-content/uploads/2024/05/image-3-1024x585.png 1024w, /wp-content/uploads/2024/05/image-3-768x439.png 768w, /wp-content/uploads/2024/05/image-3-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
 
 
 
@@ -722,9 +1180,9 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>You have the primary sales logic and NFT logic deployed to each chain. This forces you to predetermine the amounts you will allow on each chain.
-<ol>
+<ol class="wp-block-list">
 <li>This creates UX issues for users, who are forced to use a particular chain.</li>
 
 
@@ -736,7 +1194,7 @@
 
 
 <li>You have the primary sales logic on one chain and allow users to mint NFTs through a message-passing bridge to the chain of their choice.
-<ol>
+<ol class="wp-block-list">
 <li>Introduces UX issues; multiple transactions and wallets for users.</li>
 
 
@@ -748,7 +1206,7 @@
 
 
 <li>Primary sales logic and NFT mints are done on one chain and the NFTs are bridged after the fact.
-<ol>
+<ol class="wp-block-list">
 <li>This introduces the above UX challenges and bridging risks.</li>
 
 
@@ -772,7 +1230,7 @@
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1600" height="914" src="https://pages.near.org/wp-content/uploads/2024/05/image-1.png" alt="" class="wp-image-21374" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-1.png 1600w, https://pages.near.org/wp-content/uploads/2024/05/image-1-300x171.png 300w, https://pages.near.org/wp-content/uploads/2024/05/image-1-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-1-768x439.png 768w, https://pages.near.org/wp-content/uploads/2024/05/image-1-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1600" height="914" src="/wp-content/uploads/2024/05/image-1.png" alt="" class="wp-image-21374" srcset="/wp-content/uploads/2024/05/image-1.png 1600w, /wp-content/uploads/2024/05/image-1-300x171.png 300w, /wp-content/uploads/2024/05/image-1-1024x585.png 1024w, /wp-content/uploads/2024/05/image-1-768x439.png 768w, /wp-content/uploads/2024/05/image-1-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
 
 
 
@@ -800,7 +1258,7 @@
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1600" height="914" src="https://pages.near.org/wp-content/uploads/2024/05/image.png" alt="" class="wp-image-21373" srcset="https://pages.near.org/wp-content/uploads/2024/05/image.png 1600w, https://pages.near.org/wp-content/uploads/2024/05/image-300x171.png 300w, https://pages.near.org/wp-content/uploads/2024/05/image-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-768x439.png 768w, https://pages.near.org/wp-content/uploads/2024/05/image-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1600" height="914" src="/wp-content/uploads/2024/05/image.png" alt="" class="wp-image-21373" srcset="/wp-content/uploads/2024/05/image.png 1600w, /wp-content/uploads/2024/05/image-300x171.png 300w, /wp-content/uploads/2024/05/image-1024x585.png 1024w, /wp-content/uploads/2024/05/image-768x439.png 768w, /wp-content/uploads/2024/05/image-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
 
 
 
@@ -858,7 +1316,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg" alt="" class="wp-image-21359" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-300x200.jpeg 300w, https://pages.near.org/wp-content/uploads/2024/05/image-768x512.jpeg 768w, https://pages.near.org/wp-content/uploads/2024/05/image.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/05/image-1024x683.jpeg" alt="" class="wp-image-21359" srcset="/wp-content/uploads/2024/05/image-1024x683.jpeg 1024w, /wp-content/uploads/2024/05/image-300x200.jpeg 300w, /wp-content/uploads/2024/05/image-768x512.jpeg 768w, /wp-content/uploads/2024/05/image.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -866,7 +1324,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Total Transactions: 1.16B&nbsp;</li>
 
 
@@ -928,7 +1386,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="724" height="1024" src="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png" alt="" class="wp-image-21365" style="width:303px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png 724w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-212x300.png 212w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-768x1086.png 768w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1086x1536.png 1086w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1448x2048.png 1448w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="724" height="1024" src="/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png" alt="" class="wp-image-21365" style="width:303px;height:auto" srcset="/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png 724w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-212x300.png 212w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-768x1086.png 768w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1086x1536.png 1086w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1448x2048.png 1448w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
 
 
 
@@ -939,367 +1397,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">21349</post-id>	</item>
-		<item>
-		<title>Chain Signatures Launch to Enable Transactions on Any Blockchain from a NEAR Account</title>
-		<link>/blog/chain-signatures-launch-to-enable-transactions-on-any-blockchain-from-a-near-account/</link>
-		
-		<dc:creator><![CDATA[Mally Anderson]]></dc:creator>
-		<pubDate>Wed, 27 Mar 2024 02:10:00 +0000</pubDate>
-				<category><![CDATA[Developers]]></category>
-		<category><![CDATA[Chain Signatures]]></category>
-		<guid isPermaLink="false">/?p=21295</guid>
-
-					<description><![CDATA[<p>Today at BUIDL Asia in Seoul, Korea, NEAR Co-Founder and NEAR Foundation CEO Illia Polosukhin announced the launch of Chain …</p>
-<p>The post <a href="/blog/chain-signatures-launch-to-enable-transactions-on-any-blockchain-from-a-near-account/">Chain Signatures Launch to Enable Transactions on Any Blockchain from a NEAR Account</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Today at BUIDL Asia in Seoul, Korea, NEAR Co-Founder and NEAR Foundation CEO Illia Polosukhin announced the launch of Chain Signatures on NEAR. Chain Signatures enable NEAR accounts, including smart contracts, to sign transactions for any blockchain. This is powered by a decentralized MPC network which uses NEAR staking and Eigenlayer ETH restakers for security. Chain Signatures currently supports Bitcoin, Ethereum, Cosmos chains, DogeCoin, and XRP Ledger and will soon support Solana, TON Network, Polkadot, and others. </p>
-
-
-
-<p><strong>How Chain Signatures Work</strong></p>
-
-
-
-<p>Chain signatures introduce threshold signatures for any blockchain, controlled by NEAR accounts &amp; smart contracts. A NEAR account, which can also be a smart contract thanks to the NEAR account model, can request that the NEAR validators or MPC nodes sign an arbitrary payload, which could be a transaction for some other blockchain, and get a signed payload back to then send to the destination chain. </p>
-
-
-
-<p>This is made possible by building an account-based decentralized Multi-Party Computation (MPC) network, allowing NEAR accounts to control multiple addresses on various chains and ensuring that the users are the only ones who can request signatures for transactions. Chain Signatures uses an account-based pattern, as opposed to a deposit-based or bridge-based pattern, as most other MPC networks currently in production do. The Chain Signatures MPC network functions as a decentralized signer for NEAR accounts and smart contracts, managing requests to addresses on different blockchains while placing zero burden on the user to manage these.</p>
-
-
-
-<figure class="wp-block-image is-resized"><img loading="lazy" decoding="async" width="1600" height="928" src="https://pages.near.org/wp-content/uploads/2024/03/image.png" alt="" class="wp-image-21297" style="width:707px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/03/image.png 1600w, https://pages.near.org/wp-content/uploads/2024/03/image-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/03/image-1024x594.png 1024w, https://pages.near.org/wp-content/uploads/2024/03/image-768x445.png 768w, https://pages.near.org/wp-content/uploads/2024/03/image-1536x891.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
-
-
-
-<p>The first of its kind, Chain Signatures is a major advancement in DeFi adoption by enhancing cross chain interoperability and unlocking a new variety of use cases for mainstream users and Web3 builders. Chain signatures makes it easier to build DeFi products for particular chains and assets (while utilizing assets from other chains e.g. USDC/T, SOL, etc). For example, users can use XRP as collateral to borrow USDC, or trade DOGE for SOL. The launch of Chain Signatures delivers an elevated user experience that simplifies the transaction process while increasing accessibility to liquidity on non-smart contract chains such as Bitcoin, DogeCoin, XRP Ledger, and more. This also means that Chain Signatures let app developers serve all ecosystems at once from one interface rather than having to commit to a single chain or pool of liquidity.</p>
-
-
-
-<p>The Chain Signatures MPC network is launching with Eigenlayer as a key partner and will be secured by Eigenlayer ETH restakers and NEAR stakers. The initial operator set is a trust-minimized network of ten node providers, which includes some top Eigen AVS infrastructure providers, using a Proof of Authority security model at launch. The future state is a permissionless network of node operators based on staking requirements and slashing conditions, planned to roll out in the coming months.  </p>
-
-
-
-<p><strong>Multichain Gas Relayer</strong></p>
-
-
-
-<p>Launching alongside Chain Signatures is the Multichain Gas Relayer, which removes the need to have the native gas token of another chain in order to transact. This is a big hurdle for users today, often requiring purchasing multiple tokens on exchanges and sending them to different accounts just to complete a single cross-chain action. Now, with the Multichain Gas Relayer, users can just use NEAR or NEP-141 tokens to cover gas on any chain, not just NEAR or EVM chains. </p>
-
-
-
-<p>This unlocks true multichain account abstraction. Whereas cross-chain bridges vary significantly depending on which assets are bridging to which chains, chain signatures makes transacting on smart contract and non-smart contract chains possible from a single account or interface, while simultaneously unlocking liquidity that wouldn’t have been accessible before. </p>
-
-
-
-<figure class="wp-block-image is-resized"><img loading="lazy" decoding="async" width="1318" height="846" src="https://pages.near.org/wp-content/uploads/2024/03/image-1.png" alt="" class="wp-image-21298" style="width:623px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/03/image-1.png 1318w, https://pages.near.org/wp-content/uploads/2024/03/image-1-300x193.png 300w, https://pages.near.org/wp-content/uploads/2024/03/image-1-1024x657.png 1024w, https://pages.near.org/wp-content/uploads/2024/03/image-1-768x493.png 768w" sizes="(max-width: 1318px) 100vw, 1318px" /></figure>
-
-
-
-<p>For a longer technical deep dive on Chain Signatures and the Multichain Gas Relayer, see this <a href="/blog/unlocking-web3-usability-with-account-aggregation/">post from February 2024</a> about NEAR account aggregation technologies.&nbsp;</p>
-
-
-
-<p><strong>New Web3 Design Patterns with Chain Signatures</strong></p>
-
-
-
-<p>Chain Signatures unlocks a range of powerful new use cases for application builders and DeFi developers while also enabling much simpler user interfaces across different contexts. Smart contracts on NEAR will be able to custody assets on any chain (since they can sign transactions on any chain via chain signatures), and maintain user balances similar to how single chain lending protocols or DEXs do now. For example, a user will be able to atomically swap their BTC in a Bitcoin account for another user’s ETH in an Ethereum account. This works because they can first deposit into accounts on these respective chains that are fully controlled by a NEAR smart contract, which will then settle the trade and allow the user’s to withdraw their “new” assets post-trade.</p>
-
-
-
-<ul>
-<li><strong>DeFi on non-smart contract chains: </strong>NEAR smart contracts can sign transactions for non-smart contract chains like Bitcoin, Celestia, Bittensor, XRP Ledger, and others. This enables DEXs, lending protocols, and other DeFi apps to be built using the native assets of these chains, unlocking previously inaccessible liquidity.&nbsp;</li>
-</ul>
-
-
-
-<ul>
-<li><strong>Bridgeless cross-chain DeFi: </strong>Since NEAR smart contracts can custody assets on any chain, users can build truly cross chain applications such as RFQs, orderbooks, AMMs, lending protocols, and more. It is also possible to build swaps and other apps without bridges and message passing layers, meaning that new chains and assets can be added at launch. Additionally, chain signatures can be used to build two-way bridges to non-smart contract chains, using NEAR as the intermediate chain.<br></li>
-
-
-
-<li><strong>Multichain Account Abstraction: </strong>A single NEAR account can manage any number of accounts on any number of chains. This means users can get ERC 4337-like functionality (natively supported by NEAR) without deploying any new smart contracts (so they can use non-EVM and non-smart contract chains), or needing to update their accounts on each individual chain. Chain Signatures also enables users to pay for gas costs on various chains with USDC, including non-EVM chains.<br></li>
-
-
-
-<li><strong>Instantly multichain apps at launch:</strong> Thanks to Chain Signatures and the Multichain Gas Relayer, app developers don’t need to commit to a single chain when they start building––now, they can make many chains accessible to their users immediately after launching and dramatically increase their addressable market of users.&nbsp;</li>
-</ul>
-
-
-
-<p><strong>Advancing the Chain Abstraction Vision</strong></p>
-
-
-
-<p>Chain Signatures advances the NEAR ecosystem’s <a href="https://near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3">vision of Chain Abstraction</a>, or the idea that Web3 hurdles should be abstracted away from user interfaces for the sake of simplicity and accessibility. Many of these hurdles arise with multichain use cases as users need to deal with long lists of accounts on different chains, manually move assets between them, and manage all the related security. Now, with Chain Signatures, users can simply create and secure one account and then start transacting on any network in Web3. Chain Signatures also help dapp developers deliver better multichain experiences to their users and get access to all available liquidity across blockchains.</p>
-
-
-
-<p>As Illia noted, &#8220;Since day one, the NEAR ecosystem has focused on simplifying access to Web3 for developers and mainstream users. Chain Signatures is the next step in that journey, making it significantly easier to transact on any blockchain while also defragmenting liquidity across the ecosystem. This will enable the next generation of truly decentralized apps to deliver much more powerful experiences and address the entire market of Web3 users.&#8221;   </p>
-
-
-
-<p><strong>Live Use Cases In the Ecosystem</strong></p>
-
-
-
-<p>Several projects in the NEAR ecosystem are already building with Chain Signatures to introduce new design patterns and experiences to users. More information on the node provider ecosystem as well as news about additional projects building with Chain Signatures across Web3 is coming in the next few weeks.</p>
-
-
-
-<ul>
-<li>SWEAT Economy, a <a href="https://dappradar.com/rankings">top ten</a> most used decentralized app (dApp), utilizes Multichain Gas Relayer to let users send transactions from NEAR to BNB chain and pay for the gas in SWEAT tokens earned in-app.</li>
-
-
-
-<li>East Blue, a Bitcoin Layer 2, <a href="https://youtu.be/YpcCRglr6vc">uses NEAR Chain Signatures</a> to develop Bitcoin DeFi use cases that were not possible until now, providing a new way to extend Bitcoin with smart contract logic.&nbsp;</li>
-
-
-
-<li><a href="https://linearprotocol.org/">LiNEAR</a> is building a multichain, multi-asset restaking framework on top of Eigenlayer, enabling non-ETH assets including NEAR to be restaked and used for securing applications.</li>
-
-
-
-<li>Mintbase, an NFT infrastructure platform, enables NEAR-based Mintbase wallet holders to purchase <a href="https://x.com/mintbase/status/1769748329619992792?s=20">Ethereum NFTs directly</a>.</li>
-</ul>
-
-
-
-<p><strong>Start Building with Chain Signatures</strong></p>
-
-
-
-<p>Chain Signatures makes possible a range of new use cases for Web3 developers and users alike, opening up an exciting new design space and expanding the landscape of multichain apps and experiences utilizing Chain Abstraction. </p>
-
-
-
-<p>Builders and developers interested in getting started with Chain Signatures can visit the <a href="https://bit.ly/what-are-chain-signatures">documentation</a> or <a href="https://bit.ly/create-a-chain-signature">explore code examples</a> and begin building today. Projects looking for support implementing Chain Signatures can register their interest <a href="https://form.jotform.com/240777569453167">here</a>.</p>
-<p>The post <a href="/blog/chain-signatures-launch-to-enable-transactions-on-any-blockchain-from-a-near-account/">Chain Signatures Launch to Enable Transactions on Any Blockchain from a NEAR Account</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21295</post-id>	</item>
-		<item>
-		<title>NEAR at NVIDIA GTC 2024: A Recap of Illia’s Appearance</title>
-		<link>/blog/nvidia-gtc-2024/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 21:31:54 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">/?p=21290</guid>
-
-					<description><![CDATA[<p>At NVIDIA GTC 2024––the flagship conference of the AI hardware supercompany in San Jose, California––the spotlight was on the intersection …</p>
-<p>The post <a href="/blog/nvidia-gtc-2024/">NEAR at NVIDIA GTC 2024: A Recap of Illia’s Appearance</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>At NVIDIA GTC 2024––the flagship conference of the AI hardware supercompany in San Jose, California––the spotlight was on the intersection of AI, blockchain, and the next era of open web innovation. Among the distinguished speakers was Illia Polosukhin, co-founder of NEAR Protocol, who contributed his insights into how AI models will evolve and how blockchain and token economies can play key roles. Polosukhin is the only blockchain industry founder to speak at the NVIDIA event.&nbsp;</p>
-
-
-
-<p>The “Transforming AI” panel was hosted by Jensen Huang, CEO and co-founder of NVIDIA. Appearing on the panel were all but one of&nbsp; the co-authors of the landmark 2017 research paper “Attention is All You Need,” which introduced the Transformer architecture that revolutionized natural language processing. That lineup of coauthors has gone on to work on projects such as OpenAI, Inceptive, and Essential AI.&nbsp;</p>
-
-
-
-<p>The group’s conversation explored the practical applications of blockchain technology, with Illia touching on programmable money and its impact on both the current and future states of digital economies. By addressing the challenges and opportunities presented by the convergence of AI and blockchain, Illia offered a grounded perspective on the potential for these technologies to facilitate a more decentralized and efficient open web.&nbsp;</p>
-
-
-
-<p>Illia’s&nbsp; insights also highlighted NEAR&#8217;s commitment to leveraging Web3 technologies&nbsp; for broader adoption and innovation across a range of future tech use cases. Jensen himself noted that he thinks “NEAR is very cool.”&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-from-accelerated-computing-to-ai-and-the-blockchain">From Accelerated Computing to AI and the Blockchain</h2>
-
-
-
-<p>Jensen kicked off the panel by providing context around the evolution of computing power and the potential of generative AI as the next industrial revolution. After a round of introductions, Illia dove into the beginnings of his research at Google and the unique challenges that brought AI to the forefront during that time.</p>
-
-
-
-<p>&#8220;The team and I were working on simple question answering. You’d go to Google, you ask a question, and it should give you an answer,” Illia recounted. “But Google has very low latency requirements, so if you want to ship actual models that read search results, like tons of documents, you need something that can process that quickly. And models at the time just couldn’t do that.&#8221;</p>
-
-
-
-<p>After publishing the paper and leaving Google to explore new opportunities, Illia first worked on NEAR as an AI startup, then pivoted when he and co-founder Alex Skidanov recognized an opportunity in the blockchain space they first encountered as users. They recognized a clear need in the space back in 2018: to make blockchain technology accessible and intuitive for everyday use. Illia discussed with the panel how that realization led him to the concept of programmable money, and subsequently built NEAR Protocol to address blockchain scalability and usability challenges, creating a shift towards a more user-friendly open web economy.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-the-genesis-of-near-and-programmable-money">The Genesis of NEAR and Programmable Money&nbsp;</h2>
-
-
-
-<p>Illia further discussed how his shift from pure AI research to Web3 was driven by the concept of programmable money, not just for cross-border payments but for a range of powerful use cases. This was a direct response to the challenges of coordinating on complex networks and the increasing demand for scalable blockchain solutions. The result is a platform that can handle large transaction volumes without compromising speed or security.</p>
-
-
-
-<p>“NEAR has the most users in the world in the blockchain space,” Illia explained. “We’re talking about multiple millions of daily users who don’t even know they’re using blockchain. But they’re actually interfacing with programmable money and programmable value. And now we’re bringing back some of those AI tools to generate more data.”</p>
-
-
-
-<p>He then highlighted the need for a shift in how creators are rewarded in an emerging age of generative AI, suggesting that the century-old copyright system must evolve. With artists and creators now leveraging tools like Midjourney and OpenAI for everything from visual art to storytelling, the panel agreed that copyright laws will need an overhaul sooner than later.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-integrating-ai-for-fairer-user-and-creator-economies">Integrating AI for Fairer User and Creator Economies</h2>
-
-
-
-<p>With the generative age already underway, Illia further unpacked how NEAR will be central to this new AI-enabled creator economy.&nbsp;</p>
-
-
-
-<p>“The way we’re rewarding creators right now is broken,” Illia continued. “And the only way to fix that is to leverage programmable money, programmable value, and blockchain. You need the basic primitive of programmable money because it’s what allows users and groups to coordinate people at scale.”</p>
-
-
-
-<p>Illia&#8217;s vision extends to building a version of the open web where programmable value underpins a positive feedback loop, fostering a novel economy enriched by equitable participation. For example, he noted that NEAR is exploring ways for users to contribute their own data, which can help improve AI models. These initiatives demonstrate how tomorrow’s AI economy could benefit both creators and users by allowing more participation and collaboration underpinned by Web3 infrastructure and incentives.&nbsp;</p>
-
-
-
-<p>“I strongly believe that the way we&#8217;re going to make progress towards software eating the world to machine learning is eating software,” Illia argued. “And the most direct way is to teach machines to code, so you&#8217;re able to actually generate software and transform everyone&#8217;s access.”</p>
-
-
-
-<p>Throughout his appearance at NVIDIA GTC 2024, Illia underscored NEAR’s pivotal role in bridging the gap between the open web, programmable money, and AI. By advocating for a reimagined copyright framework and more equitable creator compensation models, Illia presented an accessible and compelling vision for NEAR at the forefront of tomorrow’s user and creator centric AI economy. While this was just a brief glimpse of the emerging AI+Web3 ecosystem on NEAR, it was met with a wave of excitement from the NEAR community and served as a reminder for the whole Web3 space about Illia’s and NEAR’s early roots in the world of AI.</p>
-<p>The post <a href="/blog/nvidia-gtc-2024/">NEAR at NVIDIA GTC 2024: A Recap of Illia’s Appearance</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21290</post-id>	</item>
-		<item>
-		<title>The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</title>
-		<link>/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 14 Mar 2024 17:03:07 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">/?p=21275</guid>
-
-					<description><![CDATA[<p>The Graph Foundation recently announced the inclusion of NEAR into its expansive subgraph support, now encompassing over 40 leading L1 …</p>
-<p>The post <a href="/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>The Graph Foundation recently announced the inclusion of NEAR into its expansive subgraph support, now encompassing over 40 leading L1 and L2 blockchains including Arbitrum, Base, Fantom, Celo, Optimism, Polygon Labs, and Scroll. By integrating with The Graph, NEAR developers gain access to a decentralized network for streamlined data querying, significantly reducing costs and improving synchronization speeds.&nbsp;</p>
-
-
-
-<p>The partnership highlights the NEAR Foundation&#8217;s ongoing commitment to enhancing developer resources and interoperability within open web ecosystems as part of advancing the Chain Abstraction vision. In 2021, NEAR became The Graph&#8217;s <a href="https://thegraph.com/blog/graph-near/">first non-EVM chain integration</a> for its hosted service, kickstarting the evolution towards a multichain open web ecosystem.&nbsp;</p>
-
-
-
-<p>Subgraph support will take things a step further, facilitating better multichain data accessibility for NEAR builders and increasing the reach and breadth of tools and technologies to support Chain Abstraction. This moment also marks NEAR as the first non-EVM chain to become available on The Graph Network.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-how-subgraph-support-empowers-near-developers">How Subgraph Support Empowers NEAR Developers</h2>
-
-
-
-<p>Subgraphs on The Graph are transformative open APIs that efficiently organize and serve blockchain data, accelerating the development of decentralized applications (dApps) on the NEAR Protocol. This integration offers developers further support in efficient data querying, swift access to indexed blockchain data, and seamless interoperability across multiple chains.</p>
-
-
-
-<p>By streamlining data retrieval, The Graph&#8217;s subgraph support eliminates the need for exhaustive blockchain scans, allowing for quick navigation, filtering, and location of specific data points. This advancement equips NEAR developers with tools similar to Web 2.0 search engine capabilities, tailored for the precision and complexity of blockchain data.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-the-graph-s-multichain-support-and-expansion-goals">The Graph&#8217;s Multichain Support and Expansion Goals&nbsp;</h2>
-
-
-
-<p>The Graph&#8217;s integration with NEAR and over 40 additional blockchains is a step towards more rich multichain development. By extending beyond Ethereum, The Graph is facilitating a unified, accessible ecosystem for designing advanced, user-focused decentralized applications (dApps) across a diverse range of blockchains.&nbsp;</p>
-
-
-
-<p>Enhancing interoperability among different blockchain networks also grants developers access to a broader spectrum of data, supporting the creation of dApps that are both feature-dense and user-friendly. These improvements also promote more unrestricted data exchange across chains for the purposes of dApp development.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-near-protocol-and-future-of-the-graph-network">NEAR Protocol and Future of The Graph Network</h2>
-
-
-
-<p>Looking forward, The Graph Network is aiming to break the barriers of decentralized access to blockchain data, as it plans to introduce new data services to meet the growing needs of Web3. The Graph’s core devs are planning ahead on executing the “<a href="https://thegraph.com/blog/unveiling-updated-sunrise-decentralized-data/">Sunrise of decentralized data</a>” initiative, designed to improve tooling and developer experience.&nbsp;</p>
-
-
-
-<p>Soon, NEAR devs building on The Graph Network will be able to take advantage of a free query plan, an intuitive subgraph upgrade wizard, and more. The Graph-NEAR Foundation collaboration will further emphasize the shared mission of both teams for a more interconnected and inclusive Web3 ecosystem via Chain Abstraction, enhancing the value of indexing and querying blockchain data.&nbsp;&nbsp;</p>
-<p>The post <a href="/blog/the-graph-expands-subgraph-support-to-near-and-40-blockchains/">The Graph Expands Subgraph Support to NEAR and 40+ Blockchains</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21275</post-id>	</item>
-		<item>
-		<title>FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</title>
-		<link>/blog/frax-deploys-decentralized-stablecoin/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 14 Mar 2024 13:00:00 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">/?p=21270</guid>
-
-					<description><![CDATA[<p>Frax Finance announced the launch of FRAX stablecoin on NEAR via Ref Finance and Burrow through FraxFerry and the Rainbow …</p>
-<p>The post <a href="/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Frax Finance announced the launch of FRAX stablecoin on NEAR via Ref Finance and Burrow through FraxFerry and the Rainbow Bridge. This marks a significant milestone for Frax as its first major venture into a non-Ethereum Virtual Machine (EVM) ecosystem.&nbsp;</p>
-
-
-
-<p>Frax Finance is the second-largest issuer of decentralized dollar-pegged stablecoins and an industry leader for DeFi infrastructure.</p>
-
-
-
-<p>The NEAR ecosystem and Frax contributors will now collaborate through ongoing in-depth research and protocol integrations. One of the biggest opportunities between the two teams will be the introduction of short-term treasury yields on NEAR using sFRAX, a yield-bearing asset that tracks the Federal Reserve&#8217;s Interest on Reserve Balance (IORB).</p>
-
-
-
-<p>In the coming months, Frax will natively issue their suite of assets, FRAX, sFRAX, frxETH, and sfrxETH on NEAR and Fraxtal, along with exploring opportunities around NEAR LSTs. Other protocols on NEAR will also be able to explore these exciting frontiers with Frax. While NEAR supports various stablecoins, the decentralized Frax platform sets itself apart by offering additional features like yield and LSTs. These offerings can be utilized by NEAR&#8217;s DeFi protocols for novel ventures.&nbsp;</p>
-
-
-
-<p>This deployment is led by Ref and Burrow and will soon expand to other protocols. <a href="https://www.ref.finance/">Ref Finance</a> is a decentralized finance (DeFi) platform built on NEAR Protocol, designed to facilitate the swapping, lending, and borrowing of digital assets. It is a multi-purpose DeFi platform that integrates various financial mechanisms, offering users a comprehensive suite of DeFi tools. <a href="https://burrow.finance/">Burrow</a> is a decentralized finance (DeFi) platform on the NEAR blockchain, offering non-custodial, pool-based lending and borrowing services.</p>
-
-
-
-<p class="has-medium-font-size"><strong>Highlighting the Incentive Campaign</strong></p>
-
-
-
-<p>To boost activity and foster growth of Frax on NEAR, Ref will introduce an incentive program offering rewards for Liquidity Providers (LPs) in the USDC/FRAX and NEAR/FRAX pools, as well as the Curve style stableswap pools.</p>
-
-
-
-<p>The proliferation of native stablecoins is crucial to the growth of DeFi as it facilitates effortless access to liquidity between protocols for users across various types of exchanges. This allows for more seamless interactions with different projects across the Web3 ecosystem, effectively removing bottlenecks and promoting a smooth trading experience. This also advances the NEAR ecosystem vision of Chain Abstraction, streamlining usability and defragmenting liquidity and UX across all of Web3. Moreover, native stablecoins will significantly enhance the visibility of the NEAR Ecosystem&#8217;s Total Value Locked (TVL) within the market.</p>
-
-
-
-<p>On Burrow, borrowers and lenders will earn incentives for using USDC, USDT, and FRAX. Additionally, Burrow will offer rewards for NEAR and liquid staked NEAR, with more details to be announced soon.</p>
-
-
-
-<p>This incentive campaign will be expanded&nbsp; to other qualifying DeFi protocols and primitives after the initial rollout on Ref and Burrow.&nbsp;</p>
-
-
-
-<p>If you’re new to NEAR, you can find free resources for building apps, deploying smart contracts,creating blockchain operating system(BOS) components, and more on the <a href="https://docs.near.org/#">DevRel resources page.&nbsp;</a>Checkout the official documentation of <a href="https://docs.frax.finance/">Frax</a> to learn more about protocol and other technical specifications.&nbsp;</p>
-
-
-
-<p></p>
-<p>The post <a href="/blog/frax-deploys-decentralized-stablecoin/">FRAX Deploys Decentralized Stablecoin Infrastructure on NEAR Protocol</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21270</post-id>	</item>
 	</channel>
 </rss>

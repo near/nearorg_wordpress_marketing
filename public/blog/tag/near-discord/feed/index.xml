@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NEAR Discord Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/near-discord/</link>
 	<width>32</width>
@@ -56,7 +56,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Successful spear-phishing:</strong> One of the NEAR Discord moderators was targeted by a phishing campaign, leading to the theft of their Discord credentials.&nbsp;</li>
 
 
@@ -70,7 +70,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Unauthorized Access:</strong> The attacker gained unauthorized access to our Discord server.&nbsp;</li>
 
 
@@ -92,11 +92,11 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Incident Response and Investigation: </strong>Immediately upon detection, our security team initiated an incident response plan. They conducted a thorough investigation to determine the extent of the incidents and identify the source of the entry point.
-<ul>
+<ul class="wp-block-list">
 <li><strong>Timeline of events:&nbsp;</strong>
-<ol>
+<ol class="wp-block-list">
 <li>At 7:47 PM UTC, a malicious webhook was installed by a compromised Discord Moderator account.</li>
 
 
@@ -138,7 +138,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Regular Security Audits:</strong> Implement regular security audits of our Discord server to identify and address vulnerabilities promptly.</li>
 
 

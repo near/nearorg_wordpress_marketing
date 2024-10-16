@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Transparency Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/transparency/</link>
 	<width>32</width>
@@ -79,7 +79,7 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" data-id="20395" src="https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new-1024x538.png" alt="" class="wp-image-20395" srcset="https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new-300x158.png 300w, https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new-768x403.png 768w, https://pages.near.org/wp-content/uploads/2023/04/near-2023-bowtie-new.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" data-id="20395" src="/wp-content/uploads/2023/04/near-2023-bowtie-new-1024x538.png" alt="" class="wp-image-20395" srcset="/wp-content/uploads/2023/04/near-2023-bowtie-new-1024x538.png 1024w, /wp-content/uploads/2023/04/near-2023-bowtie-new-300x158.png 300w, /wp-content/uploads/2023/04/near-2023-bowtie-new-768x403.png 768w, /wp-content/uploads/2023/04/near-2023-bowtie-new.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 
 
@@ -124,7 +124,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>SWEAT (which still represents the majority of MAA) is revisiting their MAA ramp up. Current expectations are that MAA growth will occur mostly in the second half of the year, with the US app launching in September.</li>
 
 
@@ -142,7 +142,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Crystalized strategy around the BOS with new branding + alpha.nearpages.wpengine.com launched in Denver (6K+ accounts).</li>
 
 
@@ -296,7 +296,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Engineering support resources</li>
 
 
@@ -342,7 +342,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-1024x538.png" alt="" class="wp-image-20393" srcset="https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-300x158.png 300w, https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-768x403.png 768w, https://pages.near.org/wp-content/uploads/2023/04/transparency-q1-2023-flywheel.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-1024x538.png" alt="" class="wp-image-20393" srcset="/wp-content/uploads/2023/04/transparency-q1-2023-flywheel-1024x538.png 1024w, /wp-content/uploads/2023/04/transparency-q1-2023-flywheel-300x158.png 300w, /wp-content/uploads/2023/04/transparency-q1-2023-flywheel-768x403.png 768w, /wp-content/uploads/2023/04/transparency-q1-2023-flywheel.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -362,37 +362,37 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="/blog/near-and-dropt-to-revolutionize-loyalty-and-engagement/">Dropt</a> — By using Dropt, teams and enterprises can now easily and seamlessly introduce blockchain-powered loyalty and engagement mechanics into their customer journey. These Web3 features will help increase engagement, retention, and lifetime value without customers ever even knowing they are interacting with the blockchain.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="/blog/near-partners-with-bora-one-of-koreas-largest-gamefi-platforms/">BORA (Kakao games)</a> — An affiliate of Kakao Games and its parent company BORANETWORK, BORA is focused on game development and blockchain-based gaming ecosystems. NEAR and BORA will support each other in spreading local brand awareness, invest in research and collaboration on cross-chain, host events, and generate Web3 opportunities in Korea.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="/blog/near-and-wemade-team-up-to-accelerate-mainstream-web3-adoption/">WEMADE</a>&nbsp; &#8211; As one of the largest publicly-listed gaming companies in South Korea and a leading game developer in South Korea for over 20 years, WEMADE will be vital in NEAR’s push toward mainstream adoption of Web3. NEAR and WEMADE will support the development of blockchain apps in Korea as well as other markets.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://twitter.com/naramunz/status/1635329844002316289?s=20">Crystals of Naramunz</a> &#8211; Featured in a premium spot under Sweden Showcases side by side with traditional games at one of the biggest gaming events in the country.&nbsp; Their alpha waitlist surpassed <a href="https://twitter.com/naramunz/status/1634542395504164866?s=20">10,000 signups</a>.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://decrypt.co/121586/nba-all-star-baron-davis-photography-nft-platform-slic-images">SLiC Images</a> &#8211; In February, NBA All-Star Baron Davis announced SLiC Images, a photo and video rights management platform. Built on NEAR, it has received a grant worth $250K funded by Mintbase Grants Program.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://twitter.com/SeatlabNFT/status/1633801871126044675?s">SeatlabNFT</a> &#8211; Recently named as finalists in the Mobile and Emerging Technologies category for StartUp of the Year.</li>
 
 
@@ -478,7 +478,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.businessinsider.com/open-forest-protocol-startup-pitch-deck-climate-tech-crypto-blockchain-2023-1">Open Forest Protocol raised $4.1 million</a></li>
 
 
@@ -500,7 +500,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>The NDC GWG <a href="https://twitter.com/neardc/status/1638182194744111105?s=20">announced</a> the NEAR Community Treasury is now live. 5.7 million NEAR is now available for decentralized funding of grassroots initiatives through the NDC. This is a major milestone in the efforts in decentralization of the NEAR ecosystem.</li>
 
 
@@ -538,7 +538,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>NEAR protocol saw a peak of $88m TVL in Q1 2023. Ref.Finance led the way for TVL on NEAR protocol, followed by MetaPool. There was, however, a 34% drop in TVL at the beginning of April as a result of the bankruptcy of <a href="https://twitter.com/pikespeak_ai/status/1643185809296883713?s=46&amp;t=sWQUZZQb2Gs3QchDRA6vtg">Alameda</a>, following on from the effects of FTX.</li>
 
 
@@ -556,7 +556,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Duel Network, an innovative play-to-earn gaming project on BSC, launched their <a href="https://twitter.com/duel_network/status/1630977716198440982?s=20">token on NEAR</a>. By embracing NEAR&#8217;s technology and growing ecosystem, Duel Network is positioned to attract and engage users from BSC. This strategic move not only amplifies the Dual Network’s reach, but also strengthens the collaboration between NEAR protocol and other leading chains.</li>
 </ul>
 
@@ -566,13 +566,13 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>EveryoneEatsEntertainment recently launched <a href="http://www.musicfeast.io/">Music Feast</a>, a decentralized label and NFT marketplace, on NEAR protocol. With Music Feast the team is aiming to bridge the gap between the traditional music industry and Web3 by utilizing high caliber talent, and simplifying the purchase process for the end user by masking the current complexities. For example, there is fiat on-ramping with auto generated non-custodial wallets. The platform launched with a NEARWEEK AMA, along with their pioneer artists<a href="https://twitter.com/AshleeBANKZ"> AshleeBANKZ</a> and world-renowned hip-hop icon <a href="https://twitter.com/DJWhooKid">DJWhooKid</a>.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>They are currently working with 8 artists, and others are on the way.&nbsp;</li>
 
 
@@ -586,7 +586,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://salmonwallet.io/">Salmon Wallet</a> is building an all-in-one, open-source wallet with an integrated bridge, NFT marketplace, and other features. According to the project, the Source of Water NFTs work as an exclusive membership program — holding a Source of Water NFT grants a wallet perpetual free commissions on any swap/bridge/on-off-ramp.&nbsp;</li>
 
 
@@ -600,7 +600,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>A 2022 Near Foundation grant recipient completed and launched their<a href="https://twitter.com/timurguvenkaya/status/1636709981960687616?s=20"> Rust Smart Contract Security Course</a>. And the best part? It&#8217;s completely<a href="https://www.youtube.com/playlist?list=PL7Gwuo_MOL740lhKTvouCJvk4sAyuqZqT"> free on YouTube</a>.</li>
 
 

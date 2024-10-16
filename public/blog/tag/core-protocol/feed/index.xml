@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Core protocol Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/core-protocol/</link>
 	<width>32</width>
@@ -53,7 +53,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg" alt="" class="wp-image-21359" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-300x200.jpeg 300w, https://pages.near.org/wp-content/uploads/2024/05/image-768x512.jpeg 768w, https://pages.near.org/wp-content/uploads/2024/05/image.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/05/image-1024x683.jpeg" alt="" class="wp-image-21359" srcset="/wp-content/uploads/2024/05/image-1024x683.jpeg 1024w, /wp-content/uploads/2024/05/image-300x200.jpeg 300w, /wp-content/uploads/2024/05/image-768x512.jpeg 768w, /wp-content/uploads/2024/05/image.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Total Transactions: 1.16B&nbsp;</li>
 
 
@@ -123,7 +123,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" width="724" height="1024" src="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png" alt="" class="wp-image-21365" style="width:303px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png 724w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-212x300.png 212w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-768x1086.png 768w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1086x1536.png 1086w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1448x2048.png 1448w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="724" height="1024" src="/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png" alt="" class="wp-image-21365" style="width:303px;height:auto" srcset="/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png 724w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-212x300.png 212w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-768x1086.png 768w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1086x1536.png 1086w, /wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1448x2048.png 1448w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
 
 
 
@@ -253,7 +253,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Stateless validation</strong>. Stateless validation is a major initiative that we have been working on for a few months. It adjusts the original Nightshade sharding design to avoid implementing fraud proofs while improving the performance of each shard significantly by putting state in memory. The stateless validation work is expected to be delivered in Q2 2024, which would also mark the completion of the original goal we set for Phase 2 of sharding. We expect the launch of stateless validation to also dramatically increase the throughput of each shard and prepare NEAR for the continued growth of usage.</li>
 
 
@@ -287,7 +287,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="592" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png" alt="" class="wp-image-21157" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-1024x592.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-300x174.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience-768x444.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Experience.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -295,7 +295,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="644" src="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, https://pages.near.org/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="644" src="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png" alt="" class="wp-image-21158" srcset="/wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-1024x644.png 1024w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-300x189.png 300w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core-768x483.png 768w, /wp-content/uploads/2024/01/Protocol-Roadmap-2024-Core.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -336,7 +336,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-1024x538.png" alt="" class="wp-image-19583" srcset="https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-progress.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2022/12/near-2023-progress-1024x538.png" alt="" class="wp-image-19583" srcset="/wp-content/uploads/2022/12/near-2023-progress-1024x538.png 1024w, /wp-content/uploads/2022/12/near-2023-progress-300x158.png 300w, /wp-content/uploads/2022/12/near-2023-progress-768x403.png 768w, /wp-content/uploads/2022/12/near-2023-progress.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -348,7 +348,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>NEAR has the best technology in Web3</strong>. Provably scalable, easy to onboard and use, developer friendly, secure, and decentralized, with the most advanced account model and onboarding in the blockchain space.&nbsp;</li>
 
 
@@ -370,7 +370,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2-1024x538.png" alt="" class="wp-image-19601" srcset="https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-bowtie2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2022/12/near-2023-bowtie2-1024x538.png" alt="" class="wp-image-19601" srcset="/wp-content/uploads/2022/12/near-2023-bowtie2-1024x538.png 1024w, /wp-content/uploads/2022/12/near-2023-bowtie2-300x158.png 300w, /wp-content/uploads/2022/12/near-2023-bowtie2-768x403.png 768w, /wp-content/uploads/2022/12/near-2023-bowtie2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -398,7 +398,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack-1024x538.png" alt="" class="wp-image-19582" srcset="https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack-1024x538.png 1024w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack-300x158.png 300w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack-768x403.png 768w, https://pages.near.org/wp-content/uploads/2022/12/near-2023-stack.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="538" src="/wp-content/uploads/2022/12/near-2023-stack-1024x538.png" alt="" class="wp-image-19582" srcset="/wp-content/uploads/2022/12/near-2023-stack-1024x538.png 1024w, /wp-content/uploads/2022/12/near-2023-stack-300x158.png 300w, /wp-content/uploads/2022/12/near-2023-stack-768x403.png 768w, /wp-content/uploads/2022/12/near-2023-stack.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -707,7 +707,7 @@
 
 
 
-<ul><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/predeployed-contract">Pre-deployed contract</a>: Get introduced to minting an NFT without the need to code, create, or deploy a smart contract.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/skeleton">Contract architecture</a>: Learn the basic architecture of the NFT smart contract and you&#8217;ll compile this skeleton code with the Rust toolchain.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/minting">Minting</a>: Flesh out the skeleton so the smart contract can mint a non-fungible token.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/upgrade-contract">Upgrade a contract</a>: Discover the process to upgrade an existing smart contract.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/enumeration">Enumeration</a>: Explore different enumeration methods that can be used to return the smart contract&#8217;s states.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/core">Core</a>: Extend the NFT contract using the core standard, which will allow you to transfer non-fungible tokens.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/approvals">Approvals</a>: Expand the contract allowing other accounts to transfer NFTs on your behalf.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/royalty">Royalty</a>: Add the ability for non-fungible tokens to have royalties. This will allow people to get a percentage of the purchase price when an NFT is purchased.</li></ul>
+<ul class="wp-block-list"><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/predeployed-contract">Pre-deployed contract</a>: Get introduced to minting an NFT without the need to code, create, or deploy a smart contract.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/skeleton">Contract architecture</a>: Learn the basic architecture of the NFT smart contract and you&#8217;ll compile this skeleton code with the Rust toolchain.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/minting">Minting</a>: Flesh out the skeleton so the smart contract can mint a non-fungible token.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/upgrade-contract">Upgrade a contract</a>: Discover the process to upgrade an existing smart contract.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/enumeration">Enumeration</a>: Explore different enumeration methods that can be used to return the smart contract&#8217;s states.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/core">Core</a>: Extend the NFT contract using the core standard, which will allow you to transfer non-fungible tokens.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/approvals">Approvals</a>: Expand the contract allowing other accounts to transfer NFTs on your behalf.</li><li><a href="https://docs.near.org/docs/tutorials/contracts/nfts/royalty">Royalty</a>: Add the ability for non-fungible tokens to have royalties. This will allow people to get a percentage of the purchase price when an NFT is purchased.</li></ul>
 
 
 
@@ -903,7 +903,7 @@
 
 
 
-<ol><li>Name</li><li>Description&nbsp;</li><li>URL</li><li>Country and country code</li><li>Email (for support)</li><li>Telegram, Discord, or Twitter</li></ol>
+<ol class="wp-block-list"><li>Name</li><li>Description&nbsp;</li><li>URL</li><li>Country and country code</li><li>Email (for support)</li><li>Telegram, Discord, or Twitter</li></ol>
 
 
 
@@ -927,7 +927,7 @@
 
 
 
-<ul><li>How have you contributed to the NEAR Ecosystem in the past?&nbsp;</li><li>How will you contribute to the NEAR Ecosystem in the future?</li><li>Have you helped to onboard any NEAR validator? Please specify the pool name of the validator you helped, and what did you do to help?&nbsp;</li><li>What is your long term marketing plan to attract delegation?</li></ul>
+<ul class="wp-block-list"><li>How have you contributed to the NEAR Ecosystem in the past?&nbsp;</li><li>How will you contribute to the NEAR Ecosystem in the future?</li><li>Have you helped to onboard any NEAR validator? Please specify the pool name of the validator you helped, and what did you do to help?&nbsp;</li><li>What is your long term marketing plan to attract delegation?</li></ul>
 
 
 

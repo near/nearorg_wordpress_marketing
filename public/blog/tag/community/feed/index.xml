@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Community Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/community/</link>
 	<width>32</width>
@@ -76,7 +76,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Gaining insights from the teams defining the intersection of AI and Web3</li>
 
 
@@ -94,7 +94,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Illia Polosukhin (NEAR)</li>
 
 
@@ -255,9 +255,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://mizu.global/"><strong>Mizu</strong></a> is building the first synthetic open data layer aimed at fostering an open, collaborative data ecosystem for AI developers.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Mizu are developing expansive, open <strong>data platforms that support AI research and applications</strong>.</li>
 </ul>
 </li>
@@ -265,9 +265,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://cryptopond.xyz/"><strong>Pond</strong></a> develops foundational crypto models using Graph Neural Networks (GNNs) to analyze on-chain data and predict future behaviors.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Pond are collaborating on <strong>NEAR-native foundational AI models </strong>and tools that enhance decentralized applications’ ability to operate at scale.</li>
 </ul>
 </li>
@@ -275,9 +275,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://nevermined.io/"><strong>Nevermined</strong></a> creates robust payment infrastructure tailored for AI-commerce, facilitating transactional ease for AI developers.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Hyperbolic are innovating <strong>AI agents for applications</strong> to streamline and secure payment processes within the AI ecosystem.</li>
 </ul>
 </li>
@@ -285,9 +285,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.hyperbolic.xyz/"><strong>Hyperbolic</strong></a> provides an open-access AI cloud, featuring a GPU marketplace and AI inference services.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Hyperbolic are working to provide projects with the <strong>computational power and hosting AI models necessary for intensive AI tasks</strong>.<br></li>
 </ul>
 </li>
@@ -295,7 +295,7 @@
 
 
 <li><a href="https://www.ringfence.ai/"><strong>Ringfence</strong></a><strong> </strong>empowers creators and artists to monetize their work while maintaining secure ownership, aiming to be a Web3 version of DALLE-3 that directly benefits creators.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Ringfence are collaborating on pathways for <strong>data monetization, labeling, and indexing of user-generated content</strong>.<br></li>
 </ul>
 </li>
@@ -303,7 +303,7 @@
 
 
 <li><a href="https://exabits.ai/"><strong>Exabits</strong></a> supplies GPU compute in a data center environment, providing the essential physical and technical conditions for serious AI training, inference, and fine-tuning.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Exabits are working to democratize access to <strong>high-performance compute resources</strong> for the NEAR ecosystem.<br></li>
 </ul>
 </li>
@@ -327,7 +327,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Join the NEAR Foundation at ETHCC in Brussels, July 11, for the NEAR AI Tech Showcase and hear directly from the founders in the current incubation cohort. RSVP: <a href="https://lu.ma/AITechShowcase">NEAR AI Tech Showcase</a>.<br></li>
 
 
@@ -378,7 +378,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Cutting-Edge Workshops:</strong> Engage with industry experts and thought leaders through immersive workshops exploring the latest trends and technologies in AI x Web3.</li>
 
 
@@ -567,7 +567,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg" alt="" class="wp-image-20876" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0065-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg" alt="" class="wp-image-20876" srcset="/wp-content/uploads/2023/09/MIH_0065-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0065-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0065-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0065-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0065-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -583,7 +583,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg" alt="" class="wp-image-20874" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0058-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg" alt="" class="wp-image-20874" srcset="/wp-content/uploads/2023/09/MIH_0058-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0058-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0058-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0058-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0058-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -599,7 +599,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg" alt="" class="wp-image-20871" srcset="https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-1536x1024.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/QUR_0011-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg" alt="" class="wp-image-20871" srcset="/wp-content/uploads/2023/09/QUR_0011-1024x683.jpg 1024w, /wp-content/uploads/2023/09/QUR_0011-300x200.jpg 300w, /wp-content/uploads/2023/09/QUR_0011-768x512.jpg 768w, /wp-content/uploads/2023/09/QUR_0011-1536x1024.jpg 1536w, /wp-content/uploads/2023/09/QUR_0011-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -619,7 +619,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg" alt="" class="wp-image-20873" srcset="https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-768x512.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-1536x1024.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/QUR_9815-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg" alt="" class="wp-image-20873" srcset="/wp-content/uploads/2023/09/QUR_9815-1024x683.jpg 1024w, /wp-content/uploads/2023/09/QUR_9815-300x200.jpg 300w, /wp-content/uploads/2023/09/QUR_9815-768x512.jpg 768w, /wp-content/uploads/2023/09/QUR_9815-1536x1024.jpg 1536w, /wp-content/uploads/2023/09/QUR_9815-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -639,7 +639,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg" alt="" class="wp-image-20872" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0824-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg" alt="" class="wp-image-20872" srcset="/wp-content/uploads/2023/09/MIH_0824-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0824-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0824-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0824-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0824-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -651,7 +651,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg" alt="" class="wp-image-20875" srcset="https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg 1024w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-300x200.jpg 300w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-768x511.jpg 768w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-1536x1022.jpg 1536w, https://pages.near.org/wp-content/uploads/2023/09/MIH_0845-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg" alt="" class="wp-image-20875" srcset="/wp-content/uploads/2023/09/MIH_0845-1024x681.jpg 1024w, /wp-content/uploads/2023/09/MIH_0845-300x200.jpg 300w, /wp-content/uploads/2023/09/MIH_0845-768x511.jpg 768w, /wp-content/uploads/2023/09/MIH_0845-1536x1022.jpg 1536w, /wp-content/uploads/2023/09/MIH_0845-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -768,7 +768,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg" alt="" class="wp-image-20842" srcset="https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg 1024w, https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-300x225.jpeg 300w, https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-768x576.jpeg 768w, https://pages.near.org/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg" alt="" class="wp-image-20842" srcset="/wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-1024x768.jpeg 1024w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-300x225.jpeg 300w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09-768x576.jpeg 768w, /wp-content/uploads/2023/09/photo_2023-09-10-21.14.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1047,7 +1047,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>The NEAR Digital Collective’s I-AM-HUMAN</strong> movement has crossed 2,000 members in the NEAR ecosystem. The initiative allows users to vote, elect candidates for office, and shape the future of NEAR. You can sign up <a href="https://i-am-human.app/?transactionHashes=Djm4ohdiWxNETWz3xZA8BUreQFbQm63rJh67SAHkMc48">here</a>.</li>
 
 

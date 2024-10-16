@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Web3 Accelerator Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/web3-accelerator/</link>
 	<width>32</width>
@@ -102,25 +102,25 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Encode x NEAR Horizon Educational Series:</strong> The journey commences with a four-week program of building awareness of Web3 and NEAR Technology. These sessions aim to demystify blockchain technology, making it approachable for newcomers while offering valuable insights for seasoned professionals. From introductory presentations to in-depth technical demos, the educational series lays a solid foundation for all participants.</li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Encode x NEAR Horizon Bootcamp: </strong>An intense eight-week program offers a deep dive into the world of blockchain development. Participants engage in live classes, practical assignments, and collaborative group projects — all under the expert guidance of seasoned instructors. The bootcamp offers a hands-on learning experience, accelerating the participants&#8217; transition from theory to practice.</li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Encode x NEAR Horizon Hackathon:</strong> A four-week hackathon that supports builders in launching high-quality projects. This event is designed to challenge participants and allow them to apply their newfound skills. With technical workshops, mentorship, and continual support, the hackathon provides an excellent platform for budding developers to build, learn, and innovate.</li>
 </ol>
 
 
 
-<ol start="4">
+<ol class="wp-block-list" start="4">
 <li><strong>Encode x NEAR Horizon Accelerator Program: </strong>This eight-week program focuses on nurturing the most promising hackathon projects and ecosystem builders. By offering mentorship and weekly workshops, the accelerator program aims to transform innovative ideas into operational startups, contributing to the growth and diversity of the NEAR ecosystem.</li>
 </ol>
 
@@ -185,9 +185,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>MarketingDAO</strong> is actively reviewing proposals related to amplification and marketing via the <a href="https://gov.nearpages.wpengine.com/c/marketing/marketingdao">MarketingDAO forum channel</a>. At the moment, the core focus of applications is around content and social media, with an exciting <a href="https://gov.nearpages.wpengine.com/t/introducing-the-near-day-community-content-bounty-program-for-eth-denver-2023/32935/9">ETHDenver bounties</a> initiative having just recently been announced.
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://gov.nearpages.wpengine.com/t/the-marketing-dao-vertical/3554">What is the Marketing DAO</a></li>
 
 
@@ -203,9 +203,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>DevGov</strong> is ramping up and reviewing proposals supporting technical ecosystem projects via their <a href="https://near.social/#/mob.near/widget/MyPage?accountId=devgovgigs.near">NEAR.social gig board</a>.
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.neardevgov.org/">What is the Developer Governance DAO</a></li>
 
 
@@ -217,9 +217,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Creatives DAO</strong> is on track for accepting proposals for funding before the end of March.
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://creativesdao.org/">What is the Creatives DAO</a></li>
 
 
@@ -235,9 +235,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>NEAR Digital Collective (NDC)</strong> is a grassroots movement by the NEAR Community to decentralize. NDC V0 Governance is coming soon! The initial milestone is for the Community Treasury to come online, and it is actively being finalized. V0 focuses on funding the GrassrootsDAOs listed above: Marketing, Developer, and Creatives.
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://medium.com/near-digital-collective/a-beginners-guide-to-v0-of-the-ndc-governance-structure-39f977d91b3e">A beginner’s guide to V0 of the NDC governance structure</a></li>
 
 
@@ -247,9 +247,9 @@
 
 
 <li>How to Get Involved:
-<ul>
+<ul class="wp-block-list">
 <li>Join the NDC movement on <a href="https://t.me/+SkmIlkkXB9UzYjM0">Telegram</a>:
-<ul>
+<ul class="wp-block-list">
 <li>Join the Movement</li>
 
 
@@ -281,9 +281,9 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>We are building a product on NEAR Discovery that will allow founders to connect with a range of contributors (e.g., investors, subject matter experts in areas like legal and finance) who can support them in their journey. We are launching an MVP in early March.
-<ol>
+<ol class="wp-block-list">
 <li>If you are a founder, investor, mentor, or subject matter expert interested in being a beta tester, please fill out this <a href="https://airtable.com/shrALYWH9TBQr8jxh">form</a>.&nbsp;</li>
 
 
@@ -295,9 +295,9 @@
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li>We recently made <a href="/blog/open-call-for-near-accelerator-partners/">an open call to partner with accelerator programs</a> that can help us fast track support needs for projects. We will be releasing additional open calls in the coming weeks as we continue building out the support network available for founders. These open calls will be for:
-<ol>
+<ol class="wp-block-list">
 <li>Engineering support resources</li>
 
 
@@ -325,7 +325,7 @@
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li>We are continuously developing and identifying learning content and tooling that are most helpful for early stage founders (e.g., accounting software geared towards Web3 teams, Go To Market exemplars, etc.). These resources will be available within the product.</li>
 </ol>
 

@@ -15,22 +15,233 @@
 	<atom:link href="/blog/category/user-owned-ai/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/user-owned-ai/</link>
 	<description></description>
-	<lastBuildDate>Thu, 20 Jun 2024 13:00:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Oct 2024 15:49:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>User-Owned AI Archives &#8211; NEAR Protocol</title>
 	<link>/blog/category/user-owned-ai/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>NEAR Foundation and Delphi Labs Partner to Launch New AI Accelerator</title>
+		<link>/blog/delphi-labs-ai-accelerator/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2024 15:49:20 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developers]]></category>
+		<category><![CDATA[NEAR Foundation]]></category>
+		<category><![CDATA[User-Owned AI]]></category>
+		<guid isPermaLink="false">/?p=21548</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation and Delphi Labs are pleased to announce the first cohort of their joint AI Accelerator Program, a …</p>
+<p>The post <a href="/blog/delphi-labs-ai-accelerator/">NEAR Foundation and Delphi Labs Partner to Launch New AI Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation and Delphi Labs are pleased to announce the first cohort of their joint AI Accelerator Program, a strategic initiative designed to support and rapidly scale high-potential projects building at the intersection of AI and Web3.</p>
+
+
+
+<p>The selected teams will benefit from a comprehensive support package, including technical guidance, funding opportunities, and access to NEAR and Delphi’s expert networks. Each team will also receive $50,000 in compute credits from Aethir, the accelerator program’s premier compute partner. These credits will ensure that every team has the necessary computational resources to develop and deploy resource-intensive AI models—and focus on building without being constrained by infrastructure limitations.</p>
+
+
+
+<p>Beginning October 15 and running through early December, NEAR Foundation and Delphi Labs have selected the following cohort teams:</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://hyper.space/"><strong>Hyperspace</strong></a>: Hyperspace is building a decentralized, peer-to-peer AI network. Their mission is to create a unified platform for AI interactions through a &#8220;generative browser&#8221; serving as a unified interface for AI-powered web interactions.
+<ul class="wp-block-list">
+<li><strong>Selection notes:</strong> Hyperspace has demonstrated traction with over 7,000 unique nodes in their P2P network and a robust product suite, most recently launching <a href="https://play.hyper.space/">Play</a>, a generative browser agent.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://almanak.co/"><strong>Almanak</strong></a>: Almanak is an end-to-end platform to build, test, train, optimize, and deploy agents for DeFi. Their mission is to democratize access to sophisticated financial strategies through the use of AI agents.
+<ul class="wp-block-list">
+<li><strong>Selection notes:</strong> Almanak&#8217;s team has spent the last two years building a platform that uses agent-based simulations to optimize on-chain strategies. Their agents are already managing sizable AUM for institutional partners, demonstrating strong traction and expertise in their domain.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.questflow.ai/"><strong>Questflow</strong></a>: Building a next-generation AI agent economy, Questflow is developing a decentralized network that orchestrates multi-agent AI automation. Users can dispatch incentives to both AI and human workers, creating a collaborative environment for autonomous and human-assisted processes.
+<ul class="wp-block-list">
+<li><strong>Selection notes:</strong> Questflow aims to dominate the AI agentic workflow market, particularly in SEO. Their gamified reward system and strong focus on winning specific verticals make them a standout candidate for advancing AI automation workflows.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.qstarlabs.ai/"><strong>Q Star Labs</strong></a>: Q Star Labs is developing a decentralized generative AI protocol for creating interactive, autonomous AI influencers at scale. Their Reinforcement Learning-based algorithm, Q STAR, is designed for long-term strategic planning to optimize AI content generation and engagement.
+<ul class="wp-block-list">
+<li><strong>Selection notes:</strong> The Q Star Labs team has a unique blend of expertise in AI, crypto, and finance, launching AI influencers that have organically grown to over 27,000 followers.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://zettablock.com/"><strong>ZettaBlock</strong></a><strong>:</strong> ZettaBlock is laying the groundwork for open and trustless AI development through a decentralized platform that provides developers with the infrastructure needed to unify on-chain and off-chain data. By offering modular, adaptable data solutions, ZettaBlock empowers the AI economy with the tools needed to integrate both historical and real-time data from multiple sources.
+<ul class="wp-block-list">
+<li><strong>Selection notes</strong><strong>: </strong>ZettaBlock’s leadership in both AI and data infrastructure makes them a pivotal player in the future of decentralized AI. They’re already supporting major protocols like EigenLayer and Chainlink. Their vision for a unified AI data platform aligns perfectly with NEAR Foundation and Delphi’s mission to foster open and scalable AI infrastructure that developers can rely on.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.joinmagic.ai/"><strong>Magic</strong></a><strong>: </strong>Magic is redefining how private data is used in AI. Their decentralized platform allows companies and developers to train AI models using private data, all while preserving the integrity and privacy of the underlying information. This is achieved through an innovative stack of privacy protocols and decentralized coordination.
+<ul class="wp-block-list">
+<li><strong>Selection notes</strong><strong>: </strong>Magic is tackling one of the toughest challenges in AI—privacy-preserving data access. Their team, with deep roots at Stanford AI Lab, has developed unique methods to keep data secure while enabling AI innovation at scale. Their ability to unlock private data for developers, without compromising security, makes Magic an essential piece of the decentralized AI puzzle.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.dfusion.ai/"><strong>dFusion</strong></a><strong>: </strong>dFusion is building a platform to solve one of AI’s biggest hurdles: reliable data quality. They’re focused on creating a consensus-driven framework that curates and validates high-quality data, ensuring that AI models are trained on information that is accurate, corroborated, and trustworthy.
+<ul class="wp-block-list">
+<li><strong>Selection notes</strong><strong>: </strong>dFusion’s commitment to consensus-based knowledge curation sets them apart from other players in the data space. By focusing on data integrity and consensus, they’re creating a unique foundation for AI development—one that ensures reliability and transparency. Their work opens up new opportunities for building AI applications that need trustworthy data, which is critical as decentralized AI continues to evolve.</li>
+</ul>
+</li>
+
+
+
+<li><a href="https://www.perilabs.net/"><strong>Peri Labs</strong></a>: Peri Labs is building an open marketplace leveraging underutilized computational resources across billions of consumer devices to power optimized AI models. The Peri Protocol abstracts the complexity of diverse hardware ecosystems, enabling seamless AI model deployment at scale.
+<ul class="wp-block-list">
+<li><strong>Selection notes</strong><strong>: </strong>Peri Labs differentiates itself with a focus on edge compute, uniquely integrating idle resources from consumer-grade devices to run AI models effectively. Their emphasis on model compression, optimization, and decentralized inference positions them as pioneers in making edge AI truly scalable, providing an efficient, privacy-preserving alternative to centralized cloud solutions.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>In addition to the resources above, the NEAR x Delphi AI Accelerator Program includes some more unique opportunities for participants:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Industry-leading speakers</strong>: Participants will hear from founders, investors, and experts from AI and Web3, providing insights into current trends and future opportunities. </li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>IRL Founder Retreat</strong>: An in-person retreat week in New York City for networking, collaboration, and team-building.</li>
+
+
+
+<li><strong>Closing Demo Day</strong>: The program will conclude with a Demo Day in early December, showcasing participating teams to our extensive investor network.</li>
+</ul>
+
+
+
+<p>NEAR is a leading blockchain platform designed to accelerate the development of decentralized applications with a focus on usability and scalability. Delphi Labs is a research and development firm that specializes in Web3 and DeFi.&nbsp;</p>
+
+
+
+<p>NEAR and Delphi Labs share the common strategic vision of a user-owned AI ecosystem, built on Web3 rails, that provides genuinely better alternatives to developers and users than the prevailing model of centralized AI controlled by big tech companies and governments. The goal is to maximize the benefits of AI for people and communities—and minimize the potential risks—by putting the power of AI where it belongs: in the hands of users.&nbsp;</p>
+
+
+
+<p>The NEAR ecosystem is quickly becoming the go-to home for decentralized, User-Owned AI, and this new AI Accelerator Program with Delphi Labs is a critical step toward integrating projects with significant potential into that ecosystem, setting the stage for the next generation of AI-powered decentralized apps.</p>
+
+
+
+<p>NEAR’s first AI x Web3 incubator cohort, which ran from June to August 2024, saw participants achieve significant early milestones while contributing essential pieces to the growing User-Owned AI stack. These milestones include: <a href="https://hyperbolic.xyz/">Hyperbolic</a> hosting the latest open source AI models, including Llama 3.1 405B; <a href="https://mizu.global/">Mizu</a> launching their beta platform and attracting 20K users in the first week; and <a href="https://cryptopond.xyz/">Pond</a> launching their first GNN model for wallet predictions and achieving a 20% prediction rate. The teams have built on the momentum from the incubator to attract serious seed funding interest, collectively raising $26M, with Hyperbolic successfully closing a $7M round.</p>
+
+
+
+<p>Stay tuned for details on the cohort’s Demo Day, which will take place on December 14. Teams with a strong vision for decentralized AI applications and infrastructure are encouraged to <a href="https://www.hzn.xyz/">apply</a> for the next accelerator program cohort to take place early next year.</p>
+<p>The post <a href="/blog/delphi-labs-ai-accelerator/">NEAR Foundation and Delphi Labs Partner to Launch New AI Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21548</post-id>	</item>
+		<item>
+		<title>NEAR Foundation and Delphi Labs Partner on AI x Web3 Accelerator</title>
+		<link>/blog/near-foundation-and-delphi-labs-partner-on-ai-x-web3-accelerator/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 12 Sep 2024 16:53:43 +0000</pubDate>
+				<category><![CDATA[User-Owned AI]]></category>
+		<category><![CDATA[Accelerator]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[NEAR Horizon]]></category>
+		<category><![CDATA[Partnerships]]></category>
+		<guid isPermaLink="false">/?p=21521</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation is excited to partner with Delphi Labs to co-host a new accelerator program for high-potential projects at …</p>
+<p>The post <a href="/blog/near-foundation-and-delphi-labs-partner-on-ai-x-web3-accelerator/">NEAR Foundation and Delphi Labs Partner on AI x Web3 Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation is excited to partner with Delphi Labs to co-host a new accelerator program for high-potential projects at the intersection of AI and Web3. The new cohort will launch in October and teams with a strong vision for decentralized AI applications and infrastructure are encouraged to <a href="https://www.hzn.xyz/">apply</a>.</p>
+
+
+
+<p>Building on the success of NEAR’s first <a href="https://near.org/blog/near-foundation-launches-ai-incubation-program">AI x Web3 incubator</a>, the NEAR x Delphi Labs AI Accelerator will provide participating founders and teams with the technical, operational, and financial resources to succeed—including access to $50k in compute credits, advisory support from the NEAR co-founders, funding opportunities beginning at $100k, and token launch support.</p>
+
+
+
+<p><a href="https://www.hzn.xyz/"><strong>Applications are open</strong></a><strong> until October 4 for teams interested in joining the accelerator</strong>, which begins on October 14.</p>
+
+
+
+<p>NEAR Foundation and Delphi Labs share the common strategic vision of a <a href="https://near.org/blog/user-owned-ai-is-near">User-Owned AI</a> ecosystem, built on Web3 rails, that provides genuinely better alternatives to developers and users than the prevailing model of centralized AI controlled by big tech companies. The goal is to maximize the benefits of AI for people and communities—and minimize the potential risks—by putting the power of AI where it belongs: in the hands of users.&nbsp;</p>
+
+
+
+<p>NEAR is a leading blockchain platform designed to accelerate the development of decentralized applications with a focus on usability and scalability—co-founded by Illia Polosukhin, one of the originators of the transformer architecture underpinning the present AI surge. The NEAR ecosystem vision for <a href="https://near.org/blog/user-owned-ai-is-near">User-Owned AI</a> includes building a community of aligned teams where innovations are shared openly, ensuring consistency and interoperability across projects. It also includes supporting development of the robust, open infrastructure needed to build and deploy AI applications on a decentralized network, ensuring that the future of AI is not only owned by users but is scalable, secure, and efficient for businesses and founders.</p>
+
+
+
+<p><a href="https://delphilabs.io/">Delphi Labs</a>, a research and development firm specializing in Web3 and DeFi, brings to the accelerator a deep understanding of blockchain technology and a strong track record of supporting successful projects. </p>
+
+
+
+<p>“Crypto x AI is the sector we’re most excited about and, given how early it is, we thought it made a lot of sense for an accelerator cohort,” explains Delphi Labs co-founder José Macedo. “NEAR is the ideal partner given that Illia is one of the original co-authors of the transformer paper and has an unparalleled understanding and network within AI.” The Delphi team’s conviction is that competitive dynamics will result in a world of millions of AI models and that Web3 is the ideal substrate for this many-model world. They are interested in finding exceptional founders who have a strong vision for how Web3 can benefit from AI, or how AI can benefit from Web3, and want to rapidly execute on this vision.</p>
+
+
+
+<p>NEAR and Delphi are co-designing the upcoming accelerator cohort experience, slated to begin October 14 with a live kickoff gathering planned. Each participating team will receive mentorship, resources, and opportunities for investment: $100k in investment from NEAR Foundation, along with $50k in compute credits, and potential investment of up to $250k from Delphi Labs for further incubation or acceleration following the completion of the program. The program culminates mid-December at an investor-focused demo day with several top funds and angels in the space.&nbsp;</p>
+
+
+
+<p>NEAR’s first AI x Web3 incubator cohort, which ran from June to August 2024, saw participants achieve significant early milestones while contributing essential pieces to the growing User-Owned AI stack. These milestones include: <a href="https://hyperbolic.xyz/">Hyperbolic</a> hosting the latest open source AI models, including Llama 3.1 405B; <a href="https://mizu.global/">Mizu</a> launching their beta platform and attracting 20K users in the first week; and <a href="https://cryptopond.xyz/">Pond</a> launching their first GNN model for wallet predictions and achieving a 20% prediction rate. The teams have built on the momentum from the incubator to attract serious seed funding interest, with Hyperbolic successfully closing a $7M round.</p>
+
+
+
+<p>In addition to the NEAR x Delphi Labs AI Accelerator Program, the NEAR Foundation has also teamed up with <a href="https://www.betaworks.com/camp#about-camp">Betaworks</a> on an in-person acceleration cohort in New York City focused on consumer AI applications in the Web2 space. Running through November 2024, the Betaworks collaboration welcomes a wider roster of projects into the growing User-Owned AI ecosystem and opens further opportunities for bridging the Web3 x AI space to Web2 consumer AI.</p>
+
+
+
+<p>To learn more about the NEAR ecosystem vision for User-Owned AI, Illia’s perspective on the intersection of AI x Web3, and the Delphi Labs team’s investment thesis in the decentralized AI space, check out <a href="https://www.youtube.com/watch?v=NgDykvSBYzo">Delphi’s new podcast episode</a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Illia Polosukhin: AI thesis, crypto x AI, and announcing the Delphi Labs x Near accelerator" width="500" height="281" src="https://www.youtube.com/embed/NgDykvSBYzo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><br>To follow along with the latest in the User-Owned AI ecosystem, join the NEAR.AI and HZN teams in <a href="https://lu.ma/NEAR_Token2049_SG">Singapore</a> (September) or <a href="https://redactedbangkok.ai/">Bangkok</a> (November) and tune in to <a href="https://www.youtube.com/playlist?list=PL9tzQn_TEuFWMuPiQOXhaE5lpOTnxLPZY">NEAR AI Office Hours</a> every Tuesday.</p>
+<p>The post <a href="/blog/near-foundation-and-delphi-labs-partner-on-ai-x-web3-accelerator/">NEAR Foundation and Delphi Labs Partner on AI x Web3 Accelerator</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21521</post-id>	</item>
+		<item>
 		<title>NEAR Foundation Launches Incubation Program to Build Infrastructure for User-Owned AI</title>
 		<link>/blog/near-foundation-launches-ai-incubation-program/</link>
 		
@@ -59,9 +270,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://mizu.global/"><strong>Mizu</strong></a> is building the first synthetic open data layer aimed at fostering an open, collaborative data ecosystem for AI developers.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Mizu are developing expansive, open <strong>data platforms that support AI research and applications</strong>.</li>
 </ul>
 </li>
@@ -69,9 +280,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://cryptopond.xyz/"><strong>Pond</strong></a> develops foundational crypto models using Graph Neural Networks (GNNs) to analyze on-chain data and predict future behaviors.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Pond are collaborating on <strong>NEAR-native foundational AI models </strong>and tools that enhance decentralized applications’ ability to operate at scale.</li>
 </ul>
 </li>
@@ -79,9 +290,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://nevermined.io/"><strong>Nevermined</strong></a> creates robust payment infrastructure tailored for AI-commerce, facilitating transactional ease for AI developers.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Hyperbolic are innovating <strong>AI agents for applications</strong> to streamline and secure payment processes within the AI ecosystem.</li>
 </ul>
 </li>
@@ -89,9 +300,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.hyperbolic.xyz/"><strong>Hyperbolic</strong></a> provides an open-access AI cloud, featuring a GPU marketplace and AI inference services.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Hyperbolic are working to provide projects with the <strong>computational power and hosting AI models necessary for intensive AI tasks</strong>.<br></li>
 </ul>
 </li>
@@ -99,7 +310,7 @@
 
 
 <li><a href="https://www.ringfence.ai/"><strong>Ringfence</strong></a><strong> </strong>empowers creators and artists to monetize their work while maintaining secure ownership, aiming to be a Web3 version of DALLE-3 that directly benefits creators.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Ringfence are collaborating on pathways for <strong>data monetization, labeling, and indexing of user-generated content</strong>.<br></li>
 </ul>
 </li>
@@ -107,7 +318,7 @@
 
 
 <li><a href="https://exabits.ai/"><strong>Exabits</strong></a> supplies GPU compute in a data center environment, providing the essential physical and technical conditions for serious AI training, inference, and fine-tuning.
-<ul>
+<ul class="wp-block-list">
 <li>NEAR and Exabits are working to democratize access to <strong>high-performance compute resources</strong> for the NEAR ecosystem.<br></li>
 </ul>
 </li>
@@ -131,7 +342,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Join the NEAR Foundation at ETHCC in Brussels, July 11, for the NEAR AI Tech Showcase and hear directly from the founders in the current incubation cohort. RSVP: <a href="https://lu.ma/AITechShowcase">NEAR AI Tech Showcase</a>.<br></li>
 
 

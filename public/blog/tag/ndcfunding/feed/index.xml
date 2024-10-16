@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>NDCfunding Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/ndcfunding/</link>
 	<width>32</width>
@@ -62,7 +62,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Is the project built on NEAR and live on mainnet?</li>
 
 

@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>OKRs Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/okrs/</link>
 	<width>32</width>
@@ -69,9 +69,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>NEAR is the blockchain operating system: brand, marketing
-<ul>
+<ul class="wp-block-list">
 <li>100% of content and processes running on NEAR Discovery</li>
 
 
@@ -87,7 +87,7 @@
 
 
 <li>NEAR is a thriving decentralized ecosystem: community, legal, accelerator
-<ul>
+<ul class="wp-block-list">
 <li>NDC and 3 community DAOs set up with core contributors and legal structure</li>
 
 
@@ -103,7 +103,7 @@
 
 
 <li>NEAR is transforming the best Web2 projects: BD
-<ul>
+<ul class="wp-block-list">
 <li>5M+ MAAs added to NEAR through minimum of 3 major partnerships</li>
 
 
@@ -135,9 +135,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>NEAR has the best-in-class protocol and infrastructure: core, protocol, security
-<ul>
+<ul class="wp-block-list">
 <li>100% on-chain availability and security to support product growth</li>
 </ul>
 </li>
@@ -145,7 +145,7 @@
 
 
 <li>NEAR has solutions that support millions of users: solutions &amp; product
-<ul>
+<ul class="wp-block-list">
 <li>10+ partnerships integrated with companies of 1M+ users, 100K+ MAA growth</li>
 </ul>
 </li>
@@ -153,7 +153,7 @@
 
 
 <li>NEAR onboards and retains millions of users: product, Discovery, DevOps
-<ul>
+<ul class="wp-block-list">
 <li>20%+ month-over-month growth in MAAs</li>
 
 
