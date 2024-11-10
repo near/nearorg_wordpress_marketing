@@ -15,7 +15,7 @@
 	<atom:link href="/blog/category/developers/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/developers/</link>
 	<description></description>
-	<lastBuildDate>Tue, 15 Oct 2024 15:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Nov 2024 04:50:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,91 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>Introducing NEAR Intents: A New Type of Transaction Between AI and the Real World</title>
+		<link>/blog/introducing-near-intents/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Sun, 10 Nov 2024 04:50:54 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[User-Owned AI]]></category>
+		<category><![CDATA[Chain Abstraction]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[intents]]></category>
+		<category><![CDATA[NEAR Intents]]></category>
+		<guid isPermaLink="false">/?p=21570</guid>
+
+					<description><![CDATA[<p>Currently the Web3 DeFi experience is complex and siloed in different chains, with fragmented liquidity. Instead of transacting directly on …</p>
+<p>The post <a href="/blog/introducing-near-intents/">Introducing NEAR Intents: A New Type of Transaction Between AI and the Real World</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Currently the Web3 DeFi experience is complex and siloed in different chains, with fragmented liquidity. Instead of transacting directly on every chain, a new approach called “Intents” has been introduced to allow users to express what they want to happen and let other on-chain participants figure out how to execute it. But despite becoming a Web3 buzzword in 2024, so far every example of intents has been limited to very primitive cases.&nbsp;</p>
+
+
+
+<p>At the same time, the rise of AI agents across the entire Web has created a need for their interoperability. Agents need a negotiation and commitment framework that allows them to work together across a variety of systems under the hood. While some may see on-chain DeFi participants and AI agents as completely separate today, the NEAR ecosystem envisions an AI-first economy where AI agents and solvers are both responsible for executing intents and fulfilling the transaction commitment to users.&nbsp;</p>
+
+
+
+<p>Today, we are excited to introduce NEAR Intents as part of the core NEAR Protocol. NEAR Intents are a new type of transaction that allows multiple actors to commit to certain changes of their state. This allows the exchange of information, assets, physical goods, and services between AI agents, services, and end users. Intents represent a novel transaction framework for both Web2 and Web3, allowing the execution of off-chain actions and multichain transactions with unparalleled speed, security, ease of use, and reliability.</p>
+
+
+
+<p>As the blockchain for AI, NEAR Protocol is launching NEAR Intents to unlock a new era of interactions between AI and the real world, making AI agents and on-chain liquidity readily available to everyone. NEAR Intents are starting in beta today on <a href="http://near.org/intents">near.org/intents</a> and will fully launch in Q1 2025.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Defuse" width="500" height="375" src="https://www.youtube.com/embed/lJeWZO3NIwA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><br></p>
+
+
+
+<p>Leveraging NEAR Protocol’s chain abstraction stack and the intent solver network, NEAR Intents allow trading of any asset on any chain from a single account or by any agent, without the need for bridging or wrapping assets. Both AI agents and end users can take action with NEAR Intents across Web2 and Web3, unlocking a massive range of new functionalities and use cases with better usability than ever.&nbsp;</p>
+
+
+
+<p>In addition to unifying liquidity across all chains, NEAR Intents enable use cases above and beyond simple swaps, including on-chain functions natively for stablecoins across any chains, DeFi programmability for non-smart contract assets like Bitcoin and Dogecoin, collateralizing existing derivatives positions to borrow stablecoins on another chain, or even swapping/selling entire accounts. When you combine any intent type with the power of AI agents, net-new primitives like inter-agent trading, communication, and much more become possible, creating even more new and innovative DeFi opportunities.&nbsp;</p>
+
+
+
+<p>Some of the key features of NEAR Intents include:&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li>Decentralized Finance Infrastructure: NEAR Intents enable decentralized, cross-chain DeFi infrastructure for trading of various financial instruments. Designed to be open and permissionless, any developer can launch their own financial products.</li>
+
+
+
+<li>Multichain Abstraction: Leveraging NEAR Protocol’s chain abstraction technology, NEAR Intents seamlessly integrate multiple blockchain networks without relying on traditional bridges, reducing associated risks and costs, as well as wait times. This ensures that any app can add instant support for new networks and tokens.</li>
+
+
+
+<li>Intent-Based Architecture: Instead of a traditional AMM architecture that requires on-chain pools, NEAR Intents operate on an intent-based model with requests for quotes fulfilled by solvers. This allows for better liquidity access (DeFi, CeFi, and off-chain), resulting in better prices.</li>
+
+
+
+<li>AccountFi: Leveraging the concept of AccountFi where financial operations are conducted upon accounts rather than individual tokens, NEAR Intents allow for the trading, lending, and management of accounts possessing different assets, such as fungible tokens, NFTs, and non-transferable tokens like Soulbound Tokens (SBTs).</li>
+</ul>
+
+
+
+<p>The NEAR ecosystem believes that the next wave of DeFi will power the future AI economy. NEAR Intents are a major step towards realizing this vision, opening up amazing new use cases for DeFi and unlocking the true power of Chain Abstracted blockchain and AI combined.&nbsp;</p>
+
+
+
+<p>To learn more and get started, go to <a href="http://near.org/intents">near.org/intents</a>.&nbsp;</p>
+<p>The post <a href="/blog/introducing-near-intents/">Introducing NEAR Intents: A New Type of Transaction Between AI and the Real World</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21570</post-id>	</item>
+		<item>
 		<title>NEAR Foundation and Delphi Labs Partner to Launch New AI Accelerator</title>
 		<link>/blog/delphi-labs-ai-accelerator/</link>
 		
@@ -1124,7 +1209,7 @@
 
 
 
-<figure class="wp-block-image"><img decoding="async" width="1600" height="914" src="https://pages.near.org/wp-content/uploads/2024/05/image-4.png" alt="" class="wp-image-21377" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-4.png 1600w, https://pages.near.org/wp-content/uploads/2024/05/image-4-300x171.png 300w, https://pages.near.org/wp-content/uploads/2024/05/image-4-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-4-768x439.png 768w, https://pages.near.org/wp-content/uploads/2024/05/image-4-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1600" height="914" src="https://pages.near.org/wp-content/uploads/2024/05/image-4.png" alt="" class="wp-image-21377" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-4.png 1600w, https://pages.near.org/wp-content/uploads/2024/05/image-4-300x171.png 300w, https://pages.near.org/wp-content/uploads/2024/05/image-4-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-4-768x439.png 768w, https://pages.near.org/wp-content/uploads/2024/05/image-4-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
 
 
 
@@ -1293,109 +1378,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">21369</post-id>	</item>
-		<item>
-		<title>Legends of NEAR: Expansion from 4 to 6 Shards</title>
-		<link>/blog/legends-of-near-expansion-from-4-to-6-shards/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Mon, 13 May 2024 16:16:00 +0000</pubDate>
-				<category><![CDATA[Developers]]></category>
-		<category><![CDATA[Core protocol]]></category>
-		<category><![CDATA[Ecosystem]]></category>
-		<guid isPermaLink="false">/?p=21349</guid>
-
-					<description><![CDATA[<p>TLDR: NEAR is growing fast, leading to a need for more capacity, so it increased its shards from 4 to …</p>
-<p>The post <a href="/blog/legends-of-near-expansion-from-4-to-6-shards/">Legends of NEAR: Expansion from 4 to 6 Shards</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>TLDR: </strong>NEAR is growing fast, leading to a need for more capacity, so it increased its shards from 4 to 6 to handle more transactions smoothly. This upgrade boosts the network’s ability by 50% and was done without any disruption to the system, ensuring users continue to have a fast and stable experience.</p>
-
-
-
-<p>Over the last six months, NEAR has experienced a significant increase in users and transactions. NEAR has 3 of the top ten <a href="https://dappradar.com/rankings">dapps</a> in Web3 by users with KAI-CHING and HOT Wallet both reaching millions of daily active users in April 2024.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg" alt="" class="wp-image-21359" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-1024x683.jpeg 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-300x200.jpeg 300w, https://pages.near.org/wp-content/uploads/2024/05/image-768x512.jpeg 768w, https://pages.near.org/wp-content/uploads/2024/05/image.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Chart from <a href="https://pikespeak.ai/near-world/overview">Pikespeak</a></p>
-
-
-
-<ul class="wp-block-list">
-<li>Total Transactions: 1.16B&nbsp;</li>
-
-
-
-<li>Daily Unique Active Accounts: 1.3M</li>
-</ul>
-
-
-
-<p>NEAR has 3 of the top ten dapps in Web3 by users according to <a href="https://dappradar.com/rankings">dappradar</a> with KAI-CHING and HOT Wallet both reaching millions of daily active users in April 2024.</p>
-
-
-
-<p>All of this demand led to some congestion on one of the shards, so Bowen Wang, Director of Protocol, and the Protocol team worked on further optimizations that rolled out within days to address it. Over the course of 2 weeks, they added 2 more shards to NEAR – for a total of 6 live shards. This increased the network’s capacity by 50%.&nbsp;</p>
-
-
-
-<p>At the end of Q2, stateless validation is expected to&nbsp; launch on Mainnet – this upgrade is projected to improve throughput for each shard by 5x and grow the total number of shards available for the network.</p>
-
-
-
-<p>One of the most remarkable aspects of this upgrade is that it was implemented live—there was no need to take the blockchain offline. There was no break in user transactions.</p>
-
-
-
-<p>What is sharding on a blockchain? Let&#8217;s simplify using an analogy.</p>
-
-
-
-<p>Imagine you have a library that&#8217;s become too large and crowded. To manage this, you divide your books into several smaller sections and place them in different rooms. Each room now holds part of the entire collection, making finding and managing books easier. Most importantly, the separate collections will minimize congestion when the library is busy.</p>
-
-
-
-<p>Now, think of the NEAR blockchain like that crowded library. Sharding is like dividing this big blockchain into smaller, manageable pieces called &#8220;shards.&#8221; Each shard is like one of those rooms, with only the contract interactions within that shard. When someone needs information, they go directly to the room (shard) where it&#8217;s stored instead of waiting for the whole chain. This way, sharding helps handle more data and serve more users efficiently without affecting users of the entire chain every time.</p>
-
-
-
-<p>In NEAR&#8217;s case, the blockchain is split into multiple shards, akin to these rooms, where each shard processes transactions and maintains the state independently. This division allows for parallel processing, significantly boosting the network&#8217;s capacity and speed.</p>
-
-
-
-<p>What sets NEAR apart is how these shards interact and synchronize. A developer doesn’t have to worry about which shard a specific contract might be on. This approach maintains high security and interconnectivity while allowing the network to scale effectively. As the network grows and demands increase, more shards can be added, like expanding the library with more rooms, to ensure that&nbsp; NEAR can adapt to increasing usage and more complex applications.</p>
-
-
-
-<p>NEAR is focusing on future-proofing the protocol to handle even more growth and usage. This proactive approach aims to minimize disruptions and maintain a consistent developer and user experience, no matter how much the demand grows.</p>
-
-
-
-<p>This further validates NEAR’s thesis that sharding is the best scaling approach given what is currently&nbsp; happening across the whole Web3 space. Many non-sharded chain/rollups are getting congested with transactions and have been forced to raise fees, while NEAR was able to expand capacity by adding more shards and keeping fees stable.</p>
-
-
-
-<p>Homogeneous Sharding isn’t just a tech tweak; it’s a critical evolution in the blockchain that keeps transactions flowing. And it takes a team of superheroes for NEAR Protocol to be a top blockchain in Web3. The ultimate goal? To ensure that users never notice the complexity behind their seamless digital experience.</p>
-
-
-
-<p>        <a href="https://shard.dog/legendsofnear-bowen">Claim your Proof of Legends of NEAR NFT</a></p>
-
-
-
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="724" height="1024" src="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png" alt="" class="wp-image-21365" style="width:303px;height:auto" srcset="https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-724x1024.png 724w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-212x300.png 212w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-768x1086.png 768w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1086x1536.png 1086w, https://pages.near.org/wp-content/uploads/2024/05/LoN-Bowen-Wang-Card-Final-1448x2048.png 1448w" sizes="(max-width: 724px) 100vw, 724px" /></figure>
-
-
-
-<p></p>
-<p>The post <a href="/blog/legends-of-near-expansion-from-4-to-6-shards/">Legends of NEAR: Expansion from 4 to 6 Shards</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21349</post-id>	</item>
 	</channel>
 </rss>

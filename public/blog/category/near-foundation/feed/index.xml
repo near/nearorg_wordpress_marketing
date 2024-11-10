@@ -15,7 +15,7 @@
 	<atom:link href="/blog/category/near-foundation/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/near-foundation/</link>
 	<description></description>
-	<lastBuildDate>Tue, 15 Oct 2024 15:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Oct 2024 15:49:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,96 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>NEAR HZN Launches Chain Abstraction Accelerator for Teams Building New Cross-Chain Opportunities in DeFi</title>
+		<link>/blog/chain-abstraction-accelerator-for-teams-building-new-cross-chain-opportunities-in-defi/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Thu, 31 Oct 2024 14:36:19 +0000</pubDate>
+				<category><![CDATA[NEAR Foundation]]></category>
+		<guid isPermaLink="false">/?p=21559</guid>
+
+					<description><![CDATA[<p>The NEAR Foundation is excited to announce the inaugural accelerator focused on Chain Abstraction. This kickoff cohort includes a select …</p>
+<p>The post <a href="/blog/chain-abstraction-accelerator-for-teams-building-new-cross-chain-opportunities-in-defi/">NEAR HZN Launches Chain Abstraction Accelerator for Teams Building New Cross-Chain Opportunities in DeFi</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The NEAR Foundation is excited to announce the inaugural accelerator focused on Chain Abstraction. This kickoff cohort includes a select group of teams building new DeFi primitives and cross-chain capabilities using NEAR’s Chain Signatures and other components of its chain abstraction stack—and demonstrating the power of cross-chain interoperability and native asset composability&nbsp; to drive user engagement and use cases.</p>
+
+
+
+<p>The Web3 space today suffers from chronic fragmentation of liquidity and attention, but thanks to NEAR account aggregation and a scalable, fully sharded blockchain, developers can now unify liquidity and assets across chains. NEAR Chain Signatures enables novel primitives that also serve DeFi use cases across chains. Users can control accounts on other blockchains with their NEAR account, without having to wrap or bridge assets, unlocking true asset composability. NEAR is also the natural home for scalable on-chain AI use cases and powering the future AI economy with the next wave of DeFi.&nbsp;</p>
+
+
+
+<p>This accelerator aims to bring together top NEAR-native DeFi teams and support them to develop diverse, novel use cases and create new opportunities for degens from any native chain.</p>
+
+
+
+<p>The cohort teams are:</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://atlasprotocol.com/"><strong>Atlas Protocol</strong></a><strong>:</strong> Bitcoin liquid staking</li>
+
+
+
+<li><a href="https://omnilane.xyz/"><strong>Omnilane</strong></a><strong>:</strong> Cross-chain RFQ (request-for-quote) protocol</li>
+
+
+
+<li><a href="https://covenant.finance/"><strong>Covenant Finance</strong></a><strong>:</strong> Perpetual debt and fixed income products</li>
+
+
+
+<li><a href="https://www.templarprotocol.com/"><strong>Templar Protocol</strong></a><strong>:</strong> Zero-interest money market</li>
+
+
+
+<li><strong>Vita Finance: </strong>Automated market maker<strong>&nbsp;</strong></li>
+
+
+
+<li><strong>Kairo Money: </strong>Lending protocol</li>
+
+
+
+<li><a href="https://testnet.thunderhood.com/home"><strong>Thunderhood:</strong></a> Leverage trading for memecoins</li>
+
+
+
+<li><a href="https://www.deltatrade.ai/"><strong>Delta Trade</strong></a><strong>:</strong> Grid trading bot on Telegram</li>
+
+
+
+<li><a href="https://allstake.org/"><strong>Allstake</strong></a><strong>: </strong>Multi-asset re-staking</li>
+</ul>
+
+
+
+<p>The HZN team is  also proud to have the partnership of supporting teams in the NEAR ecosystem to provide distribution and bootstrap liquidity on the primitives developed by the cohort. Those teams include <a href="https://www.ref.finance/"><strong>Ref Finance</strong></a>, <a href="https://burrow.finance/"><strong>Burrow Cash</strong></a>, <a href="https://www.herewallet.app/"><strong>HOT</strong></a>, <a href="https://www.dapdap.net/"><strong>DapDap</strong></a>, and more.</p>
+
+
+
+<p>NEAR’s chain abstraction accelerator builds on this year’s successful <a href="https://near.org/blog/near-foundation-launches-ai-incubation-program">NEAR Horizon AI</a> Incubator and <a href="https://near.org/blog/delphi-labs-ai-accelerator">NEAR x Delphi Labs AI Accelerator</a> cohorts. As with the other cohorts, part of the goal for the accelerator is for teams to work together on building and problem-solving; for the Chain Abstraction cohort, this will involve creating experiences that span multiple teams’ apps and protocols–which means net-new opportunities to attract DeFi users and enthusiasts to NEAR.</p>
+
+
+
+<p>Participating founders receive dedicated mentorship from notable founders and investors in the space, and seed round preparation, as well as high-quality collaborator referrals and collaboration on go-to-market, incentive programs, and use cases through a multi-month engagement. The inaugural cohort officially launches today, and officially wraps at the end of December, with dedicated support for each team through 2025.</p>
+
+
+
+<p>Some members of the cohort will present a first look at their work November 9-11 at NEAR Foundation’s <a href="https://redactedbangkok.ai/">[REDACTED]</a> event in Bangkok, Thailand, a major convening of the visionaries, builders, and developers shaping chain abstraction and user-owned AI on NEAR.&nbsp;</p>
+
+
+
+<p>Follow <a href="https://x.com/NEARProtocol">NEAR Protocol on X </a>to stay up to date on the latest from the cohort including product demos,, mainnet launches, and the future of DeFi on NEAR.</p>
+<p>The post <a href="/blog/chain-abstraction-accelerator-for-teams-building-new-cross-chain-opportunities-in-defi/">NEAR HZN Launches Chain Abstraction Accelerator for Teams Building New Cross-Chain Opportunities in DeFi</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21559</post-id>	</item>
+		<item>
 		<title>NEAR Foundation and Delphi Labs Partner to Launch New AI Accelerator</title>
 		<link>/blog/delphi-labs-ai-accelerator/</link>
 		
@@ -934,79 +1024,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">21148</post-id>	</item>
-		<item>
-		<title>Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </title>
-		<link>/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 21 Dec 2023 15:00:00 +0000</pubDate>
-				<category><![CDATA[NEAR Foundation]]></category>
-		<category><![CDATA[Arbitrum]]></category>
-		<category><![CDATA[Ethereum Rollups]]></category>
-		<guid isPermaLink="false">/?p=21140</guid>
-
-					<description><![CDATA[<p>The NEAR Data Availability layer (NEAR DA) was one of the most exciting announcements to come out of NEARCON ‘23. …</p>
-<p>The post <a href="/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/">Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>The <a href="https://near.org/data-availability">NEAR Data Availability layer</a> (NEAR DA) was one of the most exciting announcements to come out of NEARCON ‘23. Unveiled by NEAR Protocol co-founder and new NEAR Foundation CEO, Illia Polosukhin, NEAR DA is a highly efficient and robust data availability layer, designed to help Ethereum rollup builders simplify their network and lower costs, while ensuring they can scale like the NEAR Protocol.</p>
-
-
-
-<p>The latest technical integration for NEAR DA’s efficient and highly scalable data availability is now available for <a href="https://arbitrum.io/orbit">Arbitrum Orbit</a>, the tech stack that allows developers to launch their own configurable rollups based on Arbitrum’s technology.</p>
-
-
-
-<p>Arbitrum Orbit is a L2/L3 scaling solution for Ethereum that lets developers build their own dedicated chains with their own configurations. Arbitrum Orbit chains derive trustless security, while scaling Ethereum. With the latest NEAR DA integration, rollup builders could benefit from cheaper data availability costs to significantly reduce their overall rollup overheads.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-develop-ethereum-rollups-within-the-arbitrum-orbit-ecosystem-enabled-by-near-da">Develop Ethereum rollups within the Arbitrum Orbit ecosystem enabled by NEAR DA</h2>
-
-
-
-<p>The NEAR-Arbitrum integration allows devs&nbsp; building their own rollups to be part of <a href="https://docs.arbitrum.io/launch-orbit-chain/orbit-gentle-introduction#:~:text=In%20a%20nutshell%3A%E2%80%8B,token%2C%20governance%2C%20and%20more.">Arbitrum Orbit</a>, an ecosystem of blockchains that settle onto Arbitrum or Ethereum Mainnet, while leveraging the cost effectiveness and scalability of the NEAR Protocol.&nbsp;</p>
-
-
-
-<p>Arbitrum is a clear innovative leader in developing the Optimistic Rollup technology, while also operating as an L2 with the highest TVL. Arbitrum now offers its own stack to other rollups builders with Arbitrum Orbit, one step closer to decentralizing Ethereum.&nbsp;&nbsp;</p>
-
-
-
-<p>Arbitrum Orbit chains leverage the Arbitrum Nitro tech stack, the technology that Arbitrum developed to scale Ethereum. It allows builders to create their own blockchains, which settles transactions on Arbitrum One, Arbitrum Nova, or Ethereum Mainnet if the Arbitrum DAO grants an L2 license.&nbsp;</p>
-
-
-
-<p>These Orbit chains, which use Arbitrum’s Rollup and AnyTrust protocols, offer customization across throughput, privacy, gas token, and governance to cater to specific use cases and business requirements. For instance, rollup builders looking for cheaper DA alternatives can now utilize NEAR DA within the Arbitrum Orbit stack. With this, developers can build self-managed, configurable blockchains with enhanced control over its features and governance, while deriving the security guarantees of Ethereum.&nbsp;&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-near-da-paves-the-way-for-modular-blockchain-development">NEAR DA paves the way for modular blockchain development</h2>
-
-
-
-<p>This integration empowers rollup builders on Arbitrum Orbit to use NEAR DA as a complete out-of-the-box modular DA solution.&nbsp;</p>
-
-
-
-<p>As of December 2023, 231 kB of calldata on <a href="https://nearblocks.io/txns/HCA1dMLjYE9bTMNUpTG4sbcwhC9X1tXRtpUSxUEhjhLm">NEAR costs $0.0016</a>, while the same calldata on <a href="https://etherscan.io/tx/0x53a0d93d88e0dc050ca86ab45b26c952a79aa0116825a9e3a5276a36fa897bbe">Ethereum L1 costs users $140.54</a>. </p>
-
-
-
-<p>NEAR DA helps developers reduce costs and enhance their rollup’s reliability, while maintaining the security guarantees provided by Ethereum. Another upside to NEAR DA is that high quality projects launching an app-chain or L2 will be able to get out of the box NEAR DA compatibility and support.&nbsp;</p>
-
-
-
-<p>“Offering a data availability layer to Ethereum rollups highlights the versatility of NEAR’s tech while also helping founders from across Web3 deliver great products that bring us closer to mainstream adoption of the Open Web,” said Polosukhin, when announcing NEAR DA at NEARCON ‘23.&nbsp;</p>
-
-
-
-<p>“NEAR’s L1 has been live with 100% uptime for more than three years, so it can offer true reliability to projects looking for secure DA while also being cost-effective,” Polosukhin added. “NEAR provides great solutions to developers no matter which stack they’re building on and now that includes the Ethereum modular blockchain landscape.”<br>Interested teams who want to work with NEAR DA are invited to fill out <a href="https://forms.gle/LWJoTpTiCbSheUL26">this form</a>, with information about your project and how you would like to integrate with NEAR DA.</p>
-<p>The post <a href="/blog/arbitrum-integrates-near-da-for-developers-building-ethereum-rollups/">Arbitrum Integrates NEAR DA for Developers Building Ethereum Rollups </a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21140</post-id>	</item>
 	</channel>
 </rss>
