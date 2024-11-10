@@ -15,7 +15,7 @@
 	<atom:link href="/blog/tag/user-owned-ai/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/user-owned-ai/</link>
 	<description></description>
-	<lastBuildDate>Thu, 12 Sep 2024 17:48:04 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Nov 2024 04:50:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,13 +24,98 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>User-Owned AI Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/user-owned-ai/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>Introducing NEAR Intents: A New Type of Transaction Between AI and the Real World</title>
+		<link>/blog/introducing-near-intents/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Sun, 10 Nov 2024 04:50:54 +0000</pubDate>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[User-Owned AI]]></category>
+		<category><![CDATA[Chain Abstraction]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[intents]]></category>
+		<category><![CDATA[NEAR Intents]]></category>
+		<guid isPermaLink="false">/?p=21570</guid>
+
+					<description><![CDATA[<p>Currently the Web3 DeFi experience is complex and siloed in different chains, with fragmented liquidity. Instead of transacting directly on …</p>
+<p>The post <a href="/blog/introducing-near-intents/">Introducing NEAR Intents: A New Type of Transaction Between AI and the Real World</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Currently the Web3 DeFi experience is complex and siloed in different chains, with fragmented liquidity. Instead of transacting directly on every chain, a new approach called “Intents” has been introduced to allow users to express what they want to happen and let other on-chain participants figure out how to execute it. But despite becoming a Web3 buzzword in 2024, so far every example of intents has been limited to very primitive cases.&nbsp;</p>
+
+
+
+<p>At the same time, the rise of AI agents across the entire Web has created a need for their interoperability. Agents need a negotiation and commitment framework that allows them to work together across a variety of systems under the hood. While some may see on-chain DeFi participants and AI agents as completely separate today, the NEAR ecosystem envisions an AI-first economy where AI agents and solvers are both responsible for executing intents and fulfilling the transaction commitment to users.&nbsp;</p>
+
+
+
+<p>Today, we are excited to introduce NEAR Intents as part of the core NEAR Protocol. NEAR Intents are a new type of transaction that allows multiple actors to commit to certain changes of their state. This allows the exchange of information, assets, physical goods, and services between AI agents, services, and end users. Intents represent a novel transaction framework for both Web2 and Web3, allowing the execution of off-chain actions and multichain transactions with unparalleled speed, security, ease of use, and reliability.</p>
+
+
+
+<p>As the blockchain for AI, NEAR Protocol is launching NEAR Intents to unlock a new era of interactions between AI and the real world, making AI agents and on-chain liquidity readily available to everyone. NEAR Intents are starting in beta today on <a href="http://near.org/intents">near.org/intents</a> and will fully launch in Q1 2025.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Defuse" width="500" height="375" src="https://www.youtube.com/embed/lJeWZO3NIwA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><br></p>
+
+
+
+<p>Leveraging NEAR Protocol’s chain abstraction stack and the intent solver network, NEAR Intents allow trading of any asset on any chain from a single account or by any agent, without the need for bridging or wrapping assets. Both AI agents and end users can take action with NEAR Intents across Web2 and Web3, unlocking a massive range of new functionalities and use cases with better usability than ever.&nbsp;</p>
+
+
+
+<p>In addition to unifying liquidity across all chains, NEAR Intents enable use cases above and beyond simple swaps, including on-chain functions natively for stablecoins across any chains, DeFi programmability for non-smart contract assets like Bitcoin and Dogecoin, collateralizing existing derivatives positions to borrow stablecoins on another chain, or even swapping/selling entire accounts. When you combine any intent type with the power of AI agents, net-new primitives like inter-agent trading, communication, and much more become possible, creating even more new and innovative DeFi opportunities.&nbsp;</p>
+
+
+
+<p>Some of the key features of NEAR Intents include:&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li>Decentralized Finance Infrastructure: NEAR Intents enable decentralized, cross-chain DeFi infrastructure for trading of various financial instruments. Designed to be open and permissionless, any developer can launch their own financial products.</li>
+
+
+
+<li>Multichain Abstraction: Leveraging NEAR Protocol’s chain abstraction technology, NEAR Intents seamlessly integrate multiple blockchain networks without relying on traditional bridges, reducing associated risks and costs, as well as wait times. This ensures that any app can add instant support for new networks and tokens.</li>
+
+
+
+<li>Intent-Based Architecture: Instead of a traditional AMM architecture that requires on-chain pools, NEAR Intents operate on an intent-based model with requests for quotes fulfilled by solvers. This allows for better liquidity access (DeFi, CeFi, and off-chain), resulting in better prices.</li>
+
+
+
+<li>AccountFi: Leveraging the concept of AccountFi where financial operations are conducted upon accounts rather than individual tokens, NEAR Intents allow for the trading, lending, and management of accounts possessing different assets, such as fungible tokens, NFTs, and non-transferable tokens like Soulbound Tokens (SBTs).</li>
+</ul>
+
+
+
+<p>The NEAR ecosystem believes that the next wave of DeFi will power the future AI economy. NEAR Intents are a major step towards realizing this vision, opening up amazing new use cases for DeFi and unlocking the true power of Chain Abstracted blockchain and AI combined.&nbsp;</p>
+
+
+
+<p>To learn more and get started, go to <a href="http://near.org/intents">near.org/intents</a>.&nbsp;</p>
+<p>The post <a href="/blog/introducing-near-intents/">Introducing NEAR Intents: A New Type of Transaction Between AI and the Real World</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21570</post-id>	</item>
+		<item>
 		<title>NEAR Foundation and Delphi Labs Partner on AI x Web3 Accelerator</title>
 		<link>/blog/near-foundation-and-delphi-labs-partner-on-ai-x-web3-accelerator/</link>
 		
