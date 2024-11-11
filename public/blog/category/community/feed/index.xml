@@ -15,7 +15,7 @@
 	<atom:link href="/blog/category/community/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/community/</link>
 	<description></description>
-	<lastBuildDate>Tue, 15 Oct 2024 15:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Nov 2024 05:04:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,137 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>Infinex Integrates NEAR Protocol Chain Signatures and NEAR Intents</title>
+		<link>/blog/infinex-integrates-near-protocol-chain-signatures-and-near-intents/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2024 05:04:04 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<guid isPermaLink="false">/?p=21579</guid>
+
+					<description><![CDATA[<p>NEAR Foundation is excited to share that Infinex, a decentralized exchange platform with seamless, multichain user experience, will begin integrating …</p>
+<p>The post <a href="/blog/infinex-integrates-near-protocol-chain-signatures-and-near-intents/">Infinex Integrates NEAR Protocol Chain Signatures and NEAR Intents</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>NEAR Foundation is excited to share that <a href="https://infinex.xyz/">Infinex</a>, a decentralized exchange platform with seamless, multichain user experience, will begin integrating NEAR Chain Signatures and NEAR Intents as a major step to bring Infinex closer to feature parity with centralized exchanges.&nbsp;</p>
+
+
+
+<p>Infinex, founded by Synthetix creator <a href="https://twitter.com/kaiynne">Kain Warwick</a>, aims to abstract away UX challenges and complexities at the core of DeFi. Whereas it was once impossible to enable DeFi compatibility for non-smart contract assets and to custody them securely on-chain, Infinex is making DeFi more seamless. Without integrating every chain, DeFi experiences remain fragmented.&nbsp;&nbsp;</p>
+
+
+
+<p>NEAR Chain Signatures enable users to sign transactions on third-party blockchains from a single account. By integrating with NEAR Chain Signatures, Infinex users can control and interact with non-smart contract chains like Bitcoin and Ripple from their existing accounts. In the coming months, users can trade these assets natively on the platform via NEAR Intents.</p>
+
+
+
+<p>“Infinex is a monolithic platform that will accelerate the extinction of centralized exchanges,” said Warwick. “To do this, we’re thrilled to partner with NEAR to connect legacy chains like Litecoin and XRP to DeFi.” Infinex CTO Jed Watson added, “This is a major unlock for us. Our smart contract architecture is key to how we combine groundbreaking UX with on-chain transparency and funds recovery. With NEAR, we can bring the same functionality to chains like Bitcoin, offering users genuine self-custody of native assets without compromise.”</p>
+
+
+
+<p>NEAR Foundation is proud to be the primary Chain Abstraction partner for Infinex and help support their mission to improve DeFi usability and accessibility. “I am excited to see Infinex tackle the important work of onboarding users into self-custody with a strong focus on user experience,” said Illia Polosukhin, co-founder of NEAR Protocol. “NEAR has been pushing this vision of chain abstraction and ease of use since the start in 2018, so it’s great to partner with a prolific builder like Kain and the team at Infinex to make this vision a reality for the next generation of users.”</p>
+
+
+
+<p>Follow <a href="https://x.com/NEARProtocol">NEAR Protocol on X</a> to stay up to date on the latest with Chain Signatures, Intents, and the future of DeFi on NEAR.</p>
+
+
+
+<p></p>
+<p>The post <a href="/blog/infinex-integrates-near-protocol-chain-signatures-and-near-intents/">Infinex Integrates NEAR Protocol Chain Signatures and NEAR Intents</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21579</post-id>	</item>
+		<item>
+		<title>All Ethereum Wallets, Including MetaMask, Now Usable on NEAR Mainnet</title>
+		<link>/blog/ethereum-near-mainnet/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2024 03:58:39 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developers]]></category>
+		<guid isPermaLink="false">/?p=21577</guid>
+
+					<description><![CDATA[<p>In a major step forward for the NEAR Protocol’s (NEAR) vision of Chain Abstraction—seamless interoperability across all blockchains—Ethereum users are …</p>
+<p>The post <a href="/blog/ethereum-near-mainnet/">All Ethereum Wallets, Including MetaMask, Now Usable on NEAR Mainnet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In a major step forward for the NEAR Protocol’s (NEAR) vision of Chain Abstraction—seamless interoperability across all blockchains—Ethereum users are now able to freely interact with NEAR applications using MetaMask, Phantom, or other ETH wallets. This NEAR Wallet Selector integration for Ethereum wallets was built by Aurora Labs.</p>
+
+
+
+<p>NEAR will now have direct exposure to the Ethereum community, further reducing the friction of users having to create NEAR wallets before interacting with NEAR/multichain apps. All Ethereum users—and this is particularly relevant to DeFi users—now have access to the benefits of Chain Signatures and Chain Abstraction apps, with no new wallets or assets needed. Developers and teams can directly embed the Ethereum wallet selector in their apps, allowing users to sign in using MetaMask or the ETH wallet of their choice.</p>
+
+
+
+<p>NEAR co-founder and CEO Illia Polosukhin comments: “Enabling all Ethereum wallets, including MetaMask, to sign in on NEAR apps closes another gap in achieving Chain Abstraction. ETH users are now able to explore experiences on NEAR and other chains without needing to switch wallets. This is a big step forward for simpler onboarding and defragmenting liquidity and access for DeFi users, bringing all of Web3 closer to achieving the Chain Abstraction vision.”</p>
+
+
+
+<p>Aurora Labs is the project behind Aurora, a network of Virtual Chains that combines NEAR’s scalability with powerful infrastructure for the easy deployment of preconfigured blockchains.</p>
+
+
+
+<p>“By integrating Ethereum wallets into NEAR’s ecosystem,” said Aurora Labs’ CEO Alex Shevchenko, “we streamline access and enhance the developer experience. Developers can now build apps that seamlessly serve both NEAR and Ethereum users, simplifying onboarding and expanding liquidity channels. This is a crucial step toward a unified Web3 where users and capital move freely across ecosystems.”</p>
+
+
+
+<p>A short list of NEAR partners implementing the Ethereum wallet integration includes:</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://testnet.thunderhood.com/home">Thunderhood</a></li>
+
+
+
+<li><a href="https://burrow.finance/">Burrow.finance</a></li>
+
+
+
+<li><a href="https://burrow.finance/">Linear Finance</a></li>
+
+
+
+<li><a href="https://munzen.io/">Munzen</a></li>
+
+
+
+<li><a href="https://wallet.mintbase.xyz/account/new">Bitte Wallet</a></li>
+
+
+
+<li><a href="https://paras.id/">Paras</a></li>
+
+
+
+<li><a href="https://www.ref.finance/">Ref Finance</a></li>
+
+
+
+<li><a href="https://senderwallet.io/">Sender</a></li>
+
+
+
+<li><a href="https://meteorwallet.app/">Meteor Wallet</a></li>
+</ul>
+
+
+
+<p>Head to <a href="http://welcome-to-near.org/">welcome-to-near.org</a> to sign in with your preferred Ethereum wallet and explore apps and experiences in the Chain Abstraction ecosystem. That includes unlocking the whole universe of Chain Abstracted DeFi experiences from your existing wallet: engage with NEAR DeFi apps like Ref and Burrow and participate in their incentivized pools.</p>
+
+
+
+<p></p>
+<p>The post <a href="/blog/ethereum-near-mainnet/">All Ethereum Wallets, Including MetaMask, Now Usable on NEAR Mainnet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21577</post-id>	</item>
+		<item>
 		<title>NEAR Foundation and Delphi Labs Partner to Launch New AI Accelerator</title>
 		<link>/blog/delphi-labs-ai-accelerator/</link>
 		
@@ -750,176 +881,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">21409</post-id>	</item>
-		<item>
-		<title>Introducing *NEAR Name Tokens &#8211; Multichain, Cross-Platform Digital Identities In Web3</title>
-		<link>/blog/introducing-near-name-tokens/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Wed, 29 May 2024 13:47:41 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">/?p=21393</guid>
-
-					<description><![CDATA[<p>Following the recently announced partnership between NEAR Foundation and&#160;D3, we’re excited to introduce *NEAR Name Tokens; a multichain, cross-platform digital …</p>
-<p>The post <a href="/blog/introducing-near-name-tokens/">Introducing *NEAR Name Tokens &#8211; Multichain, Cross-Platform Digital Identities In Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Following the recently announced <a href="/blog/near-protocol-partners-with-d3-to-apply-for-near-top-level-domain/">partnership between NEAR Foundation and&nbsp;D3</a>, we’re excited to introduce *NEAR Name Tokens; a multichain, cross-platform digital identity for web3 and beyond.</p>
-
-
-
-<p>NEAR Foundation is working with D3 to bridge the gap between traditional internet infrastructure and web3. *NEAR Name Tokens are an important step in developing the <a href="https://d3.inc/blog/educational/futureproof-your-digital-identity-how-d3-aims-to-revolutionize-your-online-persona/">futureproof, interoperable digital identities</a> that will be key to driving implementation of chain abstraction, and of developing web3 more broadly.</p>
-
-
-
-<p><strong>Complementing the NEAR Ecosystem with *NEAR Name Tokens</strong></p>
-
-
-
-<p>NEAR already offers a deeply integrated identity solution with named NEAR accounts. These NEAR accounts, however, are limited to use across the NEAR ecosystem.</p>
-
-
-
-<p>*NEAR Name Tokens will offer users a comprehensive digital identity solution across the wider web3 ecosystem, while keeping NEAR front and center.</p>
-
-
-
-<p>Users will be able to use these name tokens in a variety of ways, including:</p>
-
-
-
-<ul class="wp-block-list">
-<li>As a simplified wallet address across hundreds of different blockchain networks</li>
-
-
-
-<li>As an infrastructure identifier across hundreds of different blockchain networks</li>
-
-
-
-<li>As a cross-platform username across various different decentralized platforms, including DeFi, GameFi, SocialFi, SportFi and other related applications</li>
-
-
-
-<li>As Verifiable Credentials (VCs) to platforms and services that you interact with</li>
-
-
-
-<li>To gain access to unique benefits and rewards programs for participating in the D3 ecosystem</li>
-
-
-
-<li>As expressions of interest for the eventual .NEAR equivalent domain on the internet</li>
-</ul>
-
-
-
-<p><strong>Why *NEAR Instead of .NEAR</strong></p>
-
-
-
-<p>*NEAR Name Tokens feature a star, or asterisk (*), between the name and extension—such as <em>you*near</em>—instead of a period (.). In part, this is because NEAR accounts already use a .NEAR extension, and we want to avoid confusion for users.</p>
-
-
-
-<p>More importantly, however, we use *NEAR because Name Tokens are unique web3 identifiers, not real domains, and we want to avoid any confusion between these as well. For years, several naming systems across web3 have thrown around the word “domain” quite liberally, without offering any of the actual utility offered by real domains.</p>
-
-
-
-<p>Real domains are fully integrated with the Domain Name System, the distributed service that allows users to access websites and email infrastructure with ease. Billions of internet-capable devices—such as computers, tablets, mobile phones, Internet of Things devices, and more—support the DNS and real domains without the need for specialized software or plugins.</p>
-
-
-
-<p>Integrating web3 with DNS will be critical in bringing interoperable digital identities to web3. To that end, NEAR Foundation has partnered with D3 to apply for and obtain the .near top-level domain—like the “.org” in <em>near.org</em>—during the upcoming application period for new TLDs, the first in over a decade.</p>
-
-
-
-<p><strong>Exclusive Early Access Period to *NEAR Name Tokens for NEAR Account Holders</strong></p>
-
-
-
-<p>As part of our initial launch phase later this summer,, existing NEAR account holders will receive exclusive early access to their equivalent *NEAR Name Tokens. For instance, if you already have the <em>name.near</em> NEAR account registered prior to launch, you will receive exclusive access to register <em>name*near</em> for a period of 90 days before names are released for public availability.</p>
-
-
-
-<p>Similarly, should a NEAR account be available for any new *NEAR Name Token registrations, D3 will claim it on behalf of users to ensure a uniform experience across the NEAR ecosystem. Users can <a href="https://d3.app/near">sign up for early access</a>, and you’ll be  notified you prior to the official launch of *NEAR Name Tokens later this summer</p>
-
-
-
-<p></p>
-<p>The post <a href="/blog/introducing-near-name-tokens/">Introducing *NEAR Name Tokens &#8211; Multichain, Cross-Platform Digital Identities In Web3</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21393</post-id>	</item>
-		<item>
-		<title>NEAR Foundation Partners with NEAT Protocol to Accelerate the Growth of AI Applications with 1 million $NEAR Delegation</title>
-		<link>/blog/neat-protocol/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Tue, 28 May 2024 12:17:11 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<guid isPermaLink="false">/?p=21390</guid>
-
-					<description><![CDATA[<p>NEAR Foundation announces today that NEAT, a rollup protocol designed for scaling AI applications on NEAR, has received 1 million …</p>
-<p>The post <a href="/blog/neat-protocol/">NEAR Foundation Partners with NEAT Protocol to Accelerate the Growth of AI Applications with 1 million $NEAR Delegation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>NEAR Foundation announces today that NEAT, a rollup protocol designed for scaling AI applications on NEAR, has received 1 million $NEAR token staking delegation from NEAR Foundation. All NEAR token rewards from the delegation will be redistributed to $NEAT stakers, producing approximately 120-200% APY. This funding is part of NEAR Foundation&#8217;s efforts to support AI and blockchain projects on NEAR, and to promote use cases of AI integration with blockchain technology more broadly. NEAT, as the first rollup scaling protocol to receive official support from the NEAR Foundation, will utilize these funds to attract a wider user base to its ecosystem.</p>
-
-
-
-<p>NEAT is a rollup scaling solution built on the NEAR inscription standard, specifically designed to facilitate AI and machine-learning applications on NEAR. NEAT offers an innovative approach for rollups to be built on NEAR. With off-chain indexer nodes for execution and NEAR L1 as the data availability layer, NEAT eliminates the need for rollups to deploy smart contracts or run verification logic on the L1. This streamlined process drastically reduces transaction costs for rollups, making NEAT particularly well suited for computationally intensive applications such as AI and gaming. Additionally, NEAR Catalog, powered by NEAT, is currently developing an advanced indexer that aims to provide projects and applications in the NEAR ecosystem with cost-effective and flexible indexing and querying capabilities.</p>
-
-
-
-<p><strong>NEAT Token and Benefits</strong><br></p>
-
-
-
-<p>The $NEAT token exists in two forms, NRC-20 and NEP-141, with a total supply of 42 million tokens. $NEAT tokens offers the following benefits:</p>
-
-
-
-<p>1. Stakers of $NEAT-NEP141 will receive the staking rewards generated from the 1 million $NEAR tokens provided by the Foundation. A portion of these staking rewards will also be allocated to support the exploration of AI integration with NEAT.</p>
-
-
-
-<p>2. $NEAT-NEP141 stakers will receive a share of the fees generated from wrap/unwrap operations (currently set at 1% fee rate) and a portion of the fees from the NRC-20 marketplace.</p>
-
-
-
-<p>3. After the decentralized indexer is operational, a portion of the indexing fees will be distributed to $NEAT-NEP141 stakers.</p>
-
-
-
-<p>4. Holders of $NEAT-NRC20 tokens will be eligible to receive airdrops of newly minted NRC-20 tokens.</p>
-
-
-
-<p>5. $NEAT serves as a utility token within the NEAT ecosystem, enabling services/assets payments, DeFi integration, AI governance, and more.</p>
-
-
-
-<p><strong>The Road Ahead: Revolutionizing AI with Decentralized Indexing</strong></p>
-
-
-
-<p><strong><br></strong>NEAT is building the first fully customizable decentralized indexer network, which allows any project to easily store data on the NEAR blockchain, deploy custom indexing logic on a decentralized set of indexer nodes, and achieve verifiable execution through zero-knowledge proofs. This approach aims to address potential failure points and attack vectors associated with centralized indexers.</p>
-
-
-
-<p>One of the most exciting use cases for decentralized indexing is in the field of artificial intelligence. With NRC-20 and NEAT Indexers, it becomes possible to store AI data, parameters, algorithms, models, and outputs as on-chain inscriptions and integrate them with off-chain execution through zero-knowledge proofs. For instance, one can imagine creating fully open-source AI-powered games, where users participate in shaping the game&#8217;s narrative, and the history is permanently stored on-chain through inscriptions. AI agents&#8217; models, parameters, and decisions can be represented as inscribed NFTs, and their training and model parameters can be stored on-chain.</p>
-
-
-
-<p>This combination of blockchain transparency and off-chain computational efficiency allows AI to be truly accessible and open to everyone, contributing to the development of a genuinely open network.</p>
-<p>The post <a href="/blog/neat-protocol/">NEAR Foundation Partners with NEAT Protocol to Accelerate the Growth of AI Applications with 1 million $NEAR Delegation</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21390</post-id>	</item>
 	</channel>
 </rss>

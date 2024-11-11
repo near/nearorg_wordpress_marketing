@@ -15,7 +15,7 @@
 	<atom:link href="/blog/category/developers/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/category/developers/</link>
 	<description></description>
-	<lastBuildDate>Sun, 10 Nov 2024 04:50:55 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Nov 2024 16:42:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,93 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">234542837</site>	<item>
+		<title>All Ethereum Wallets, Including MetaMask, Now Usable on NEAR Mainnet</title>
+		<link>/blog/ethereum-near-mainnet/</link>
+		
+		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2024 03:58:39 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Developers]]></category>
+		<guid isPermaLink="false">/?p=21577</guid>
+
+					<description><![CDATA[<p>In a major step forward for the NEAR Protocol’s (NEAR) vision of Chain Abstraction—seamless interoperability across all blockchains—Ethereum users are …</p>
+<p>The post <a href="/blog/ethereum-near-mainnet/">All Ethereum Wallets, Including MetaMask, Now Usable on NEAR Mainnet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In a major step forward for the NEAR Protocol’s (NEAR) vision of Chain Abstraction—seamless interoperability across all blockchains—Ethereum users are now able to freely interact with NEAR applications using MetaMask, Phantom, or other ETH wallets. This NEAR Wallet Selector integration for Ethereum wallets was built by Aurora Labs.</p>
+
+
+
+<p>NEAR will now have direct exposure to the Ethereum community, further reducing the friction of users having to create NEAR wallets before interacting with NEAR/multichain apps. All Ethereum users—and this is particularly relevant to DeFi users—now have access to the benefits of Chain Signatures and Chain Abstraction apps, with no new wallets or assets needed. Developers and teams can directly embed the Ethereum wallet selector in their apps, allowing users to sign in using MetaMask or the ETH wallet of their choice.</p>
+
+
+
+<p>NEAR co-founder and CEO Illia Polosukhin comments: “Enabling all Ethereum wallets, including MetaMask, to sign in on NEAR apps closes another gap in achieving Chain Abstraction. ETH users are now able to explore experiences on NEAR and other chains without needing to switch wallets. This is a big step forward for simpler onboarding and defragmenting liquidity and access for DeFi users, bringing all of Web3 closer to achieving the Chain Abstraction vision.”</p>
+
+
+
+<p>Aurora Labs is the project behind Aurora, a network of Virtual Chains that combines NEAR’s scalability with powerful infrastructure for the easy deployment of preconfigured blockchains.</p>
+
+
+
+<p>“By integrating Ethereum wallets into NEAR’s ecosystem,” said Aurora Labs’ CEO Alex Shevchenko, “we streamline access and enhance the developer experience. Developers can now build apps that seamlessly serve both NEAR and Ethereum users, simplifying onboarding and expanding liquidity channels. This is a crucial step toward a unified Web3 where users and capital move freely across ecosystems.”</p>
+
+
+
+<p>A short list of NEAR partners implementing the Ethereum wallet integration includes:</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://testnet.thunderhood.com/home">Thunderhood</a></li>
+
+
+
+<li><a href="https://burrow.finance/">Burrow.finance</a></li>
+
+
+
+<li><a href="https://burrow.finance/">Linear Finance</a></li>
+
+
+
+<li><a href="https://munzen.io/">Munzen</a></li>
+
+
+
+<li><a href="https://wallet.mintbase.xyz/account/new">Bitte Wallet</a></li>
+
+
+
+<li><a href="https://paras.id/">Paras</a></li>
+
+
+
+<li><a href="https://www.ref.finance/">Ref Finance</a></li>
+
+
+
+<li><a href="https://senderwallet.io/">Sender</a></li>
+
+
+
+<li><a href="https://meteorwallet.app/">Meteor Wallet</a></li>
+</ul>
+
+
+
+<p>Head to <a href="http://welcome-to-near.org/">welcome-to-near.org</a> to sign in with your preferred Ethereum wallet and explore apps and experiences in the Chain Abstraction ecosystem. That includes unlocking the whole universe of Chain Abstracted DeFi experiences from your existing wallet: engage with NEAR DeFi apps like Ref and Burrow and participate in their incentivized pools.</p>
+
+
+
+<p></p>
+<p>The post <a href="/blog/ethereum-near-mainnet/">All Ethereum Wallets, Including MetaMask, Now Usable on NEAR Mainnet</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21577</post-id>	</item>
+		<item>
 		<title>Introducing NEAR Intents: A New Type of Transaction Between AI and the Real World</title>
 		<link>/blog/introducing-near-intents/</link>
 		
@@ -1134,249 +1221,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">21393</post-id>	</item>
-		<item>
-		<title>Unlocking Multichain Web3 with NEAR Chain Signatures</title>
-		<link>/blog/unlocking-multichain-web3-with-near-chain-signatures/</link>
-		
-		<dc:creator><![CDATA[NEAR Team]]></dc:creator>
-		<pubDate>Thu, 16 May 2024 13:59:56 +0000</pubDate>
-				<category><![CDATA[Developers]]></category>
-		<guid isPermaLink="false">/?p=21369</guid>
-
-					<description><![CDATA[<p>Written by: Matt Lockyer &#38; Proximity Labs TL;DR: Multichain Apps Before vs After Chain Signatures NEAR Chain Signatures introduces a …</p>
-<p>The post <a href="/blog/unlocking-multichain-web3-with-near-chain-signatures/">Unlocking Multichain Web3 with NEAR Chain Signatures</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Written by: Matt Lockyer &amp; Proximity Labs</p>
-
-
-
-<p></p>
-
-
-
-<p>TL;DR:</p>
-
-
-
-<ul class="wp-block-list">
-<li>Demystifies NEAR’s new protocol feature, Chain Signatures, both for developers and end users.</li>
-
-
-
-<li>Compares how multichain Web3 apps work, before and after Chain Signatures.</li>
-
-
-
-<li>Presents two multichain app examples in which Chain Signatures improves DevX and UX: a DAO and NFT minter.</li>
-
-
-
-<li>Describes how Chain Signatures can add a layer of smart contract functionality to non-smart contract chains through a Bitcoin Runes airdrop example.</li>
-</ul>
-
-
-
-<h2 class="wp-block-heading">Multichain Apps Before vs After Chain Signatures</h2>
-
-
-
-<p>NEAR Chain Signatures introduces a new approach to building multichain Web3 applications that provides a better experience for developers and users. Before, developers would write application layer smart contracts for each chain, possibly in different languages, requiring new smart contracts and audits every time. The re-implementation and re-deployment of application logic introduce several risks for users while switching networks and feature disparity among implementations creates poor user experience (UX). Additionally, users are often required to bridge assets or messages from chain to chain, introducing even more risk and even worse UX.</p>
-
-
-
-<p>Developing multichain Web3 applications before Chain Signatures:</p>
-
-
-
-<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1600" height="914" src="https://pages.near.org/wp-content/uploads/2024/05/image-2.png" alt="" class="wp-image-21375" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-2.png 1600w, https://pages.near.org/wp-content/uploads/2024/05/image-2-300x171.png 300w, https://pages.near.org/wp-content/uploads/2024/05/image-2-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-2-768x439.png 768w, https://pages.near.org/wp-content/uploads/2024/05/image-2-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
-
-
-
-<p>Without Chain Signatures</p>
-
-
-
-<p><em>For developers and users, each additional chain adds application, account, and contract complexity. In this model, bridges are necessary to migrate assets and perform transactions on a new chain. This forces both developers and users through several preparatory steps before they can experience apps on their chain of choice.</em></p>
-
-
-
-<p>Now, Chain Signatures alleviates the burden of maintaining different contracts, deployments, and audits for each chain, by allowing developers to move a majority of the application logic to a single NEAR smart contract. Developers can focus on the UX of their application, instead of maintaining several different contracts on multiple chains. Users also benefit from not bridging assets. Instead, they deposit assets from the chain they wish to use into a Chain Signatures account the application can use. Users interact with the application using a single NEAR account and maintain full custody of their assets, even though they reside on another chain. Chain Signatures enables any NEAR account or smart contract to control and sign for an infinite number of accounts on any chain that exists today and chains that are yet to be launched! This is a major breakthrough for multichain Web3 application development, security, and UX.</p>
-
-
-
-<p>Developing multichain Web3 applications with Chain Signatures:</p>
-
-
-
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1600" height="914" src="https://pages.near.org/wp-content/uploads/2024/05/image-4.png" alt="" class="wp-image-21377" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-4.png 1600w, https://pages.near.org/wp-content/uploads/2024/05/image-4-300x171.png 300w, https://pages.near.org/wp-content/uploads/2024/05/image-4-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-4-768x439.png 768w, https://pages.near.org/wp-content/uploads/2024/05/image-4-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
-
-
-
-<p>Using Chain Signatures</p>
-
-
-
-<p><em>Application logic is executed in NEAR smart contracts that produce signatures for accounts on any chain, executing transactions and moving assets. Shifting application logic upstream into a single layer of NEAR contracts reduces the developer’s burden of maintaining complex bespoke application smart contracts on each chain. Assets are still deployed as contracts on their respective chains, typically using standards and smart contract templates that are already audited, but application logic no longer needs to be.</em></p>
-
-
-
-<p>With Chain Signatures, application logic can be in one place, one language, and on one layer; and hence only requires one smart contract audit. This facilitates a better developer experience, and in turn, a better and more secure user experience.&nbsp;</p>
-
-
-
-<p>Let’s take a look at some examples of new and exciting applications that can be designed using Chain Signatures to better understand how this tech works.</p>
-
-
-
-<h2 class="wp-block-heading">Examples of Apps Unlocked by Chain Signatures</h2>
-
-
-
-<h3 class="wp-block-heading">Multichain DAO</h3>
-
-
-
-<p>In crypto, users often want to pool funds and have an on-chain process for accepting proposals from the community and distributing those funds transparently. A decentralized autonomous organization (DAO) is generally the chosen approach for communities in Web3 today. Since Ethereum is the most widely accepted chain for popular stablecoins such as USDC, it makes sense to pool DAO funds there. However, running all of the DAO application logic using Ethereum smart contracts and transactions quickly becomes slow and cost-prohibitive, leading to voter apathy and disengagement.&nbsp;</p>
-
-
-
-<p>Using Chain Signatures, one can develop a design that provides a more immediate and better user experience, while lowering fees significantly. In addition, there can be a single DAO application layer that accepts proposals and handles voting that distributes funds on multiple chains!</p>
-
-
-
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1600" height="914" src="https://pages.near.org/wp-content/uploads/2024/05/image-3.png" alt="" class="wp-image-21376" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-3.png 1600w, https://pages.near.org/wp-content/uploads/2024/05/image-3-300x171.png 300w, https://pages.near.org/wp-content/uploads/2024/05/image-3-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-3-768x439.png 768w, https://pages.near.org/wp-content/uploads/2024/05/image-3-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
-
-
-
-<p>A Chain Signatures-powered DAO (high-level)</p>
-
-
-
-<p><em>The DAO application logic is executed in a NEAR smart contract. Features such as membership, proposals, and voting are handled in the DAO contract. When a proposal is accepted, the DAO contract automatically calls the NEAR Chain Signatures contract to generate a signature for the derived address and account. This account exists on the chain where the DAO members originally pooled their funds. In the case of Ethereum, or any EVM chain, this can simply be an externally owned account (EOA) and does not require an additional smart contract to be deployed.</em></p>
-
-
-
-<h3 class="wp-block-heading">Multichain NFT Minter</h3>
-
-
-
-<p>Let’s imagine there’s a new NFT collection where the total supply is capped at 10,000, with one difference from the typical model: the collection will be minted across multiple chains. Without Chain Signatures, there are a few different ways to go about this.</p>
-
-
-
-<ol class="wp-block-list">
-<li>You have the primary sales logic and NFT logic deployed to each chain. This forces you to predetermine the amounts you will allow on each chain.
-<ol class="wp-block-list">
-<li>This creates UX issues for users, who are forced to use a particular chain.</li>
-
-
-
-<li>This also imposes limitations on how your collection is minted.</li>
-</ol>
-</li>
-
-
-
-<li>You have the primary sales logic on one chain and allow users to mint NFTs through a message-passing bridge to the chain of their choice.
-<ol class="wp-block-list">
-<li>Introduces UX issues; multiple transactions and wallets for users.</li>
-
-
-
-<li>Adds bridging risks to the application and for user error.</li>
-</ol>
-</li>
-
-
-
-<li>Primary sales logic and NFT mints are done on one chain and the NFTs are bridged after the fact.
-<ol class="wp-block-list">
-<li>This introduces the above UX challenges and bridging risks.</li>
-
-
-
-<li>Allowing bridging means less control over the supply of NFTs on any particular chain.</li>
-</ol>
-</li>
-</ol>
-
-
-
-<p>The first approach is too rigid. The second and third require a minimum of 2 transactions from the user with all the complexity and security risks of bridging assets. Depending on your preference, you may or may not want users bridging your NFTs after the primary sale and initial mint. Let&#8217;s assume you don&#8217;t.</p>
-
-
-
-<p>Let&#8217;s also assume you want a seamless sale experience, where the user chooses the chain of mint, and the NFT is minted to an existing wallet on an arbitrary chain. Ideally, all of this should occur in a single transaction for the user. Note, the price of gas can be rolled into the primary sale via an oracle.</p>
-
-
-
-<p>Here&#8217;s how this would work with Chain Signatures:</p>
-
-
-
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1600" height="914" src="https://pages.near.org/wp-content/uploads/2024/05/image-1.png" alt="" class="wp-image-21374" srcset="https://pages.near.org/wp-content/uploads/2024/05/image-1.png 1600w, https://pages.near.org/wp-content/uploads/2024/05/image-1-300x171.png 300w, https://pages.near.org/wp-content/uploads/2024/05/image-1-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-1-768x439.png 768w, https://pages.near.org/wp-content/uploads/2024/05/image-1-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
-
-
-
-<p>A Chain Signatures Multichain NFT Mint (high-level)</p>
-
-
-
-<p><em>The NFT Sale contract takes payment. This can be in NEAR, USDC, or any other token on NEAR. The NFT Sale contract calls the Chain Signatures contract with a transaction&nbsp; payload that mints an NFT on the destination chain selected by the user, and with an account as owner supplied by the user. A signature for the mint is generated, passed back to the user client, and then broadcasted to the selected chain. The NFT is minted on the selected chain’s NFT contract and ownership is given to the user’s account specified in the sale transaction. In a single transaction, an NFT is bought and minted on another chain.</em></p>
-
-
-
-<h3 class="wp-block-heading">Bitcoin Runes Airdrop</h3>
-
-
-
-<p><a href="https://cointelegraph.com/learn/bitcoin-runes">Bitcoin Runes</a> are a new fungible token protocol by Ordinals creator Casey Rodarmor. Improving on BRC-20, Runes aim to produce less clutter and improve the costs of issuing and trading fungible tokens on Bitcoin. One drawback to Bitcoin is restricted programmability, making something like a mass Runes airdrop difficult. With Chain Signatures, NEAR can function as a smart contract layer for Bitcoin through which a mass Bitcoin Runes airdrop could be executed.</p>
-
-
-
-<p>One can use a NEAR contract to maintain an “allow list” for the airdrop, utilizing a BTC light client contract. Assuming all the Runes are premined and residing in the Chain Signatures address derived from the NEAR Airdrop smart contract, the first step for the user is to fund this BTC address with the necessary BTC transaction fees to transfer the Runes to themselves. Once this is done, they can submit this transaction hash and their BTC address to the NEAR Airdrop contract, which will call the Chain Signatures contract with a transaction payload that will transfer the Runes.</p>
-
-
-
-<p>Here’s what this would look like:</p>
-
-
-
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1600" height="914" src="https://pages.near.org/wp-content/uploads/2024/05/image.png" alt="" class="wp-image-21373" srcset="https://pages.near.org/wp-content/uploads/2024/05/image.png 1600w, https://pages.near.org/wp-content/uploads/2024/05/image-300x171.png 300w, https://pages.near.org/wp-content/uploads/2024/05/image-1024x585.png 1024w, https://pages.near.org/wp-content/uploads/2024/05/image-768x439.png 768w, https://pages.near.org/wp-content/uploads/2024/05/image-1536x877.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
-
-
-
-<p>A Runes Airdrop using Chain Signatures (high-level)</p>
-
-
-
-<p><em>The user funds the BTC address with the fees needed to transfer Runes to their account (1). They submit the transaction hash and their BTC address to the NEAR Airdrop contract (2). The NEAR Airdrop contract checks the user’s BTC address against the allow list. Then the contract calls the BTC Light Client to verify the fees have been paid (3). Finally, the NEAR Airdrop contract can generate a transaction to transfer the Runes to the user’s destination address. A cross-contract call is made to the Chain Signatures contract to sign the transaction. The signature is returned to the client and broadcasted to the Bitcoin network where the Runes are transferred (4).</em></p>
-
-
-
-<h2 class="wp-block-heading">Summary</h2>
-
-
-
-<p>NEAR Chain Signatures introduces a new way to design multichain Web3 applications for a range of use cases, such as DAOs, NFT minting, and airdrops. Chain Signatures brings rich smart contract functionality to non-smart contract chains like BTC and XRP. Building with Chain Signatures provides a better experience for developers and users. Developers have to write less smart contract code, submit fewer audits, and maintain fewer smart contract deployments across multiple chains. Users don’t have to bridge assets or perform several transactions in order to use the chains they feel most comfortable with. All in all, Chain Signatures is a massive step forward for multichain Web3 applications and towards mainstream adoption for new and existing crypto users.</p>
-
-
-
-<p>NEAR Chain Signatures is live on testnet and will soon be available on mainnet. For further resources on Chain Signatures, see <a href="https://linktr.ee/chainsignatures">here</a>. To get support for building with Chain Signatures, for any of the examples above or another idea, reach us <a href="https://form.jotform.com/240777569453167">here</a>.</p>
-
-
-
-<p></p>
-
-
-
-<p><em>Disclosures: Proximity Labs holds $NEAR and other tokens or investments that may be associated with protocols or projects mentioned in this article.&nbsp; This article&#8217;s content does not constitute financial advice or a recommendation to buy, sell, or use any token or protocol. This article also contains forward-looking statements about third-party projects that the authors have no control over and, as such, actual future developments may be substantially different from the expectations described in the forward-looking statements for a number of reasons, including those that are not under the control of the authors. The content of this article reflects the opinions of its authors and is presented for informational purposes only. This is not and should not be construed to be investment advice.</em></p>
-<p>The post <a href="/blog/unlocking-multichain-web3-with-near-chain-signatures/">Unlocking Multichain Web3 with NEAR Chain Signatures</a> appeared first on <a href="/">NEAR Protocol</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">21369</post-id>	</item>
 	</channel>
 </rss>
