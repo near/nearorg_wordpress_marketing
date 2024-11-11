@@ -15,7 +15,7 @@
 	<atom:link href="/blog/tag/nightshade-2-0/feed/" rel="self" type="application/rss+xml" />
 	<link>/blog/tag/nightshade-2-0/</link>
 	<description></description>
-	<lastBuildDate>Wed, 04 Sep 2024 01:21:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Nov 2024 16:42:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,7 +24,7 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://pages.near.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
 	<title>Nightshade 2.0 Archives &#8211; NEAR Protocol</title>
 	<link>/blog/tag/nightshade-2-0/</link>
 	<width>32</width>
